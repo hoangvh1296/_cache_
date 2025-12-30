@@ -1,0 +1,38 @@
+[
+    {
+        "sentence": "[Toshie]::Hello there, Miss Yumiko. Here`s your lunch for today.",
+        "translation": "Toshie「Chào tiểu thư Yumiko. Cơm trưa của cô đây ạ.」"
+    },
+    {
+        "sentence": "[Toshie]::What are you saying? It looks wonderful on you, Miss.",
+        "translation": "Toshie「Cô nói gì vậy? Tiểu thư mặc rất đẹp mà.」"
+    },
+    {
+        "sentence": "[Toshie]::Miss...",
+        "translation": "Toshie「Tiểu thư...」"
+    },
+    {
+        "sentence": "[Toshie]::...Please don`t resent the master and missus. They wereoriginally very kind people, you know?",
+        "translation": "Toshie「...Xin đừng oán hận ông chủ và bà chủ. Ban đầu họ là những người rất tốt bụng đấy, cô biết không?」\n"
+    },
+    {
+        "sentence": "[Toshie]::When you become poor, the heart grows impoverished aswell. They`re too tense and busy to give you theattention you deserve, dear. Once the business recovers,I`m sure that will change.",
+        "translation": "Toshie「Khi người ta nghèo đi, lòng dạ cũng trở nên cằn cỗi theo. Họ quá căng thẳng và bận rộn nên không thể dành cho cô sự quan tâm xứng đáng. Một khi công việc kinh doanh phục hồi, tôi chắc chắn điều đó sẽ thay đổi thôi.」"
+    },
+    {
+        "sentence": "[Toshie]::You`re a very sweet girl, Miss Yumiko. I`m sure they`llrealize that someday. Until then, please try to make dowith your decrepit old neighbor.",
+        "translation": "Toshie「Cô là một cô nàng rất ngọt ngào, tiểu thư Yumiko. Tôi chắc chắn rồi họ sẽ nhận ra điều đó vào một ngày nào đó. Cho đến lúc đó, xin hãy cố gắng làm quen với người hàng xóm già nua lụ khụ này nhé.」"
+    },
+    {
+        "sentence": "[Toshie]::Miss Yumiko...",
+        "translation": "Toshie「tiểu thư Yumiko...」"
+    },
+    {
+        "sentence": "[Toshie]::Oh my, Miss Yumiko... What on earth happened to yourhair...?",
+        "translation": "Toshie「Ôi trời, tiểu thư Yumiko... Chuyện gì đã xảy ra với mái tóc của cô vậy...?」"
+    },
+    {
+        "sentence": "[Toshie]::You don`t have anything to apologize for, Miss... Youpoor thing...",
+        "translation": "Toshie「Tiểu thư không cần phải xin lỗi đâu... Cô bé tội nghiệp...」"
+    }
+]

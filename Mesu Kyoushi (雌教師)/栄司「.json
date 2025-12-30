@@ -1,0 +1,770 @@
+[
+    {
+        "sentence": "[栄司「]::むっ……？」",
+        "translation": "Eiji「Hửm...?」"
+    },
+    {
+        "sentence": "[栄司「]::何だ……高峰先生に絞られている不良がいると思ったら、お前か」",
+        "translation": "Eiji「Cái gì... Tao cứ tưởng có thằng khốn nào đang bị cô Takamine làm thịt, hóa ra là mày à.」"
+    },
+    {
+        "sentence": "[栄司「]::あまり高峰先生の手を煩わせるなよ。ただでさえお前は、この校舎の中に存在しているだけで害悪なんだから」",
+        "translation": "Eiji「Đừng có làm phiền cô Takamine nữa. Chỉ riêng việc mày tồn tại trong cái trường này thôi đã đủ là tai họa rồi.」"
+    },
+    {
+        "sentence": "[栄司「]::高峰先生も、この不良を相手にされるのはほどほどに。この男には何を言っても馬耳東風ですから」",
+        "translation": "Eiji「Cô Takamine, cô cũng đừng có mất công với thằng vô lại này nữa. Nói gì với thằng này cũng chỉ như nước đổ đầu vịt thôi.」"
+    },
+    {
+        "sentence": "[栄司「]::……？　どうしました、高峰先生。どこか具合でも……？」",
+        "translation": "Eiji「……? Sao thế, cô Takamine. Cô không khỏe ở đâu à……?」"
+    },
+    {
+        "sentence": "[栄司「]::そうですか。それならいいのですが、もしやこの愚鈍な不良がまき散らす禍々しい毒気にあてられて気分を害したのでは、などと思いまして」",
+        "translation": "Eiji「Vậy ạ? Nếu cô không sao thì tốt, tại tôi cứ nghĩ liệu cô có khó chịu trong người vì cái thứ độc khí chết tiệt mà tên du côn ngu ngốc kia phát tán hay không thôi.」"
+    },
+    {
+        "sentence": "[栄司「]::フンッ！　似たようなものだろう」",
+        "translation": "Eiji「Hừ! Chắc cũng xêm xêm nhau thôi.」"
+    },
+    {
+        "sentence": "[栄司「]::何だ。逃げるのか？」",
+        "translation": "Eiji「Sao thế? Định chuồn à?」\n"
+    },
+    {
+        "sentence": "[栄司「]::……むっ……？！」",
+        "translation": "Eiji「...Hả...?」"
+    },
+    {
+        "sentence": "[栄司「]::……な……っ……お前らっ……！？」",
+        "translation": "Eiji「...Sao... Sao mà... hai người lại ở đây!?」"
+    },
+    {
+        "sentence": "[栄司「]::……状況を説明してもらおう。ここにいる全員、私についてこい」",
+        "translation": "Eiji「……Tôi muốn nghe giải thích về tình hình. Tất cả những người có mặt ở đây, đi theo tôi.」"
+    },
+    {
+        "sentence": "[栄司「]::特に三沢、逃げるなよ！」",
+        "translation": "Eiji「Đặc biệt là Misawa, đừng có trốn đấy!」"
+    },
+    {
+        "sentence": "[栄司「]::それはこっちの台詞だぞ、拓也。お前の周囲に漂う空気を吸うだけで、気分が悪くなる」",
+        "translation": "Eiji「Đó là câu tôi muốn nói với cậu đấy, Takuya. Chỉ cần hít thở cái không khí cứ lảng vảng quanh cậu thôi là tôi đã thấy khó chịu rồi.」"
+    },
+    {
+        "sentence": "[栄司「]::フッ……」",
+        "translation": "Eiji「Phù...」"
+    },
+    {
+        "sentence": "[栄司「]::授業なんかさぼり放題で、まともに出てきているとは思わなかったが……こんな時間に、何をしているんだ？」",
+        "translation": "Eiji「Tôi cứ nghĩ cậu sẽ thoải mái bỏ học, không ngờ vẫn còn đi học tử tế... Nhưng giờ này thì cậu đang làm gì vậy?」"
+    },
+    {
+        "sentence": "[栄司「]::フッ……どうせ、また校内をうろちょろと徘徊して、いかがわしい事でもしていたんだろうがな」",
+        "translation": "Eiji「Phù... Dù sao thì, chắc là mày lại lảng vảng khắp trường rồi làm mấy chuyện mờ ám gì đó thôi chứ gì.」"
+    },
+    {
+        "sentence": "[栄司「]::何だと、おいっ？！」",
+        "translation": "Eiji「Cái gì cơ, hả?!」"
+    },
+    {
+        "sentence": "[栄司「]::おやおや、いつもなら青筋立てて掴みかかってくる不良学生が、今日は一体どんな風の吹き回しだ？　何か悪い物でも食べたのか？」",
+        "translation": "Eiji「Chà chà, thường ngày thì mày hay nổi gân xanh túm lấy tao lắm cơ mà, hôm nay lại có gió nào thổi mày đến vậy? Ăn phải thứ gì không ngon à?」"
+    },
+    {
+        "sentence": "[栄司「]::フン……そうして余裕のある振りをしていられるのも今だけだ。すぐに追い出してやるからな、楽しみにしてろ！」",
+        "translation": "Eiji「Hừm… Nhưng cái bộ dạng thảnh thơi đó của mày cũng chỉ được đến đây thôi. Tao sẽ cho mày biến khỏi đây ngay lập tức, cứ chờ xem!」"
+    },
+    {
+        "sentence": "[栄司「]::ああ、岸本君……！」",
+        "translation": "Eiji「À, Kishimoto-kun……!」"
+    },
+    {
+        "sentence": "[栄司「]::最近……っ…………」",
+        "translation": "Eiji「Gần đây… em…」"
+    },
+    {
+        "sentence": "[栄司「]::………………から…………さい」",
+        "translation": "Eiji「... Từ giờ... hãy...」"
+    },
+    {
+        "sentence": "[栄司「]::朝会には出ていただろうな？　あの場で話した通り、私は数ヶ月の間ここを離れなくてはならなくなった」",
+        "translation": "Eiji「Mày đã tham dự buổi họp sáng rồi nhỉ? Như tao đã nói ở đó, tao sẽ phải rời khỏi đây vài tháng tới.」"
+    },
+    {
+        "sentence": "[栄司「]::フンッ……もう、お前などに構っている暇は無い。お前をこの手で追い出してやれないのは残念だが、この際仕方ない……」",
+        "translation": "Eiji「Hừm... Tao không còn thời gian để bận tâm đến mày nữa. Thật tiếc vì không thể tự tay đuổi mày đi, nhưng giờ thì đành vậy thôi...」"
+    },
+    {
+        "sentence": "[栄司「]::いいか、私が戻ってくるまでの間に、自主的にここを去っておくように。それが出来ない場合は、その時こそ容赦しないからな」",
+        "translation": "Eiji「Nghe đây, trước khi tao quay lại, mày hãy tự động rời khỏi đây. Nếu mày không làm được, thì lần đó tao sẽ không nương tay đâu.」"
+    },
+    {
+        "sentence": "[栄司「]::貴様……なぜまだこの学園に居着いているんだ。これは、どうあっても私の言う事は聞けないという風に考えて良いのだな？」",
+        "translation": "Eiji「Mày... sao mày còn lảng vảng ở cái học viện này vậy? Điều này có nghĩa là, dù thế nào đi nữa, mày cũng không có ý định nghe lời tao nói, đúng chứ?」"
+    },
+    {
+        "sentence": "[栄司「]::なにっ……？！」",
+        "translation": "Eiji「Cái gì...?!」"
+    },
+    {
+        "sentence": "[栄司「]::そ、そうだが……」",
+        "translation": "Eiji「T-Tao... có vậy...」"
+    },
+    {
+        "sentence": "[栄司「]::貴様……何を言っているんだ？　それに、藤堂先生が私の婚約者だと……何を馬鹿な事を言うんだ！」",
+        "translation": "Eiji「Mày... đang nói cái quái gì vậy? Hơn nữa, cô Todou là hôn thê của tao... Mày đang nói cái chuyện ngu ngốc gì thế!」"
+    },
+    {
+        "sentence": "[栄司「]::クッ……貴様……一体どこまで……」",
+        "translation": "Eiji「Khụ... Mày... Rốt cuộc mày muốn đi tới đâu...」"
+    },
+    {
+        "sentence": "[栄司「]::貴様、いったい何を言っているんだ、さっきから何を言っている！！」",
+        "translation": "Eiji「Mày... Mày đang nói cái quái gì vậy hả, từ nãy đến giờ mày đang nói cái gì vậy hả!!」"
+    },
+    {
+        "sentence": "[栄司「]::お、おいっ！　ちょっと待て！！」",
+        "translation": "Eiji「Ơ, Này! Khoan đã!!」"
+    },
+    {
+        "sentence": "[栄司「]::おい、どこへ行くんだ！　答えろ、拓也！！」",
+        "translation": "Eiji「Này, mày đi đâu vậy hả! Trả lời tao đi, Takuya!!」"
+    },
+    {
+        "sentence": "[栄司「]::こ、ここは……」",
+        "translation": "Eiji「N, nơi này là...?」"
+    },
+    {
+        "sentence": "[栄司「]::しょ、職員室だと……？　ここでいったい何を……」",
+        "translation": "Eiji「Ph, phòng giáo viên...? Mày định làm gì ở đây vậy...?」"
+    },
+    {
+        "sentence": "[栄司「]::なっ……！」",
+        "translation": "Eiji「Hả...!」"
+    },
+    {
+        "sentence": "[栄司「]::み、美雪さん、その格好は……いったい……？」",
+        "translation": "Eiji「M-Miyuki-san, cái bộ dạng đó... rốt cuộc là...?」"
+    },
+    {
+        "sentence": "[栄司「]::こ、こんな所で、そんな格好をして……い、いったい何をしているんだ！？」",
+        "translation": "Eiji「Ơ, ơ, sao cô lại ăn mặc thế này, ở ngay chỗ này... Cô, cô đang làm gì vậy?!」"
+    },
+    {
+        "sentence": "[栄司「]::それに、コイツの話だと、もう一週間も欠勤を続けているそうじゃないか。体調が悪いという話だけど、それならどうしてこんな事を……！」",
+        "translation": "Eiji「Mà này, theo lời của tên này thì cô ta đã nghỉ làm một tuần rồi đúng không? Nghe nói là do không khỏe, nhưng nếu vậy thì sao lại làm cái chuyện này chứ...!」"
+    },
+    {
+        "sentence": "[栄司「]::な、なに……？！　ぐあああっ！！」",
+        "translation": "Eiji「C-Cái gì...?!! G-Gyaaaaah!!」"
+    },
+    {
+        "sentence": "[栄司「]::くっ……き、貴様っ……」",
+        "translation": "Eiji「Khụ... Ng-Ngươi...」"
+    },
+    {
+        "sentence": "[栄司「]::み、美雪さん、何を、何をしているんだ！？」",
+        "translation": "Eiji「M-Miyuki-san, cô đang làm, đang làm gì vậy?!」"
+    },
+    {
+        "sentence": "[栄司「]::そっ、そんなっ……なんという格好を……ぁあっ……！」",
+        "translation": "Eiji「K-Không thể nào... Cô đang mặc cái kiểu gì vậy... Aaaah...!」"
+    },
+    {
+        "sentence": "[栄司「]::っ……！」",
+        "translation": "Eiji「Ng-Ngươi...!」"
+    },
+    {
+        "sentence": "[栄司「]::そ、その……お腹は一体……！？」",
+        "translation": "Eiji「T-Thế còn... cái bụng đó là sao...!?」"
+    },
+    {
+        "sentence": "[栄司「]::ま、まさか……きっ……貴様、貴様のせいなのかっ……？！」",
+        "translation": "Eiji「Kh-không thể nào…… là… là tại mày sao...?！」"
+    },
+    {
+        "sentence": "[栄司「]::ご、ご主人様……だと？」",
+        "translation": "Eiji「Ch-Chủ nhân…… là sao cơ?」"
+    },
+    {
+        "sentence": "[栄司「]::ば、馬鹿なっ！　美雪さんが、こんな男にっ……そんなっ、バカな！！　嘘だ、これは何かの間違いだっ！！」",
+        "translation": "Eiji「C-Cái gì chứ! Miyuki-san lại ở bên thằng đàn ông như vậy... Không thể nào, thật ngu ngốc!! Nói dối, chắc chắn là có nhầm lẫn gì đó!!」"
+    },
+    {
+        "sentence": "[栄司「]::そ、そんなバカなっ…………」",
+        "translation": "Eiji「K-Không thể nào... Cái chuyện ngu ngốc này...」"
+    },
+    {
+        "sentence": "[栄司「]::っ……」",
+        "translation": "Eiji「…」"
+    },
+    {
+        "sentence": "[栄司「]::ぐぅうううぅ……貴様ぁっ……」",
+        "translation": "Eiji「Grrr... Ngươi...!!」"
+    },
+    {
+        "sentence": "[栄司「]::き、貴様ぁああっ！！　許さんぞっ！！！」",
+        "translation": "Eiji「M, mày...!! Tao không tha cho mày đâu!!!」"
+    },
+    {
+        "sentence": "[栄司「]::ぐわあああああああああああああっ！！　ああああっ、目がっ、目があああっ！！」",
+        "translation": "Eiji「QUAAAHHHHHHHH!!!! AAAAAAAH, mắt tao, mắt tao!!!」"
+    },
+    {
+        "sentence": "[栄司「]::き、貴様っ……やめろっ、それ以上、美雪さんに破廉恥な事をするな！」",
+        "translation": "Eiji「Mày... Dừng lại đi! Đừng có làm mấy chuyện đồi bại với Miyuki nữa!」"
+    },
+    {
+        "sentence": "[栄司「]::な、何をしているんだ、拓也！　やめろ、それ以上美雪さんに指一本触れるんじゃない！！」",
+        "translation": "Eiji「Cái... mày đang làm cái quái gì vậy, Takuya! Dừng lại đi, đừng có đụng vào Miyuki một ngón tay nào nữa!!」"
+    },
+    {
+        "sentence": "[栄司「]::やめろおぉぉ！！　貴様、美雪さんに何をしたんだ！！」",
+        "translation": "Eiji「Dừng lại đi!! Mày đã làm gì Miyuki!!」"
+    },
+    {
+        "sentence": "[栄司「]::……んっ……」",
+        "translation": "Eiji「……Ưm……」\n"
+    },
+    {
+        "sentence": "[栄司「]::はい、沢城学園……」",
+        "translation": "Eiji「Vâng, đây là Học viện Sawashiro...」\n"
+    },
+    {
+        "sentence": "[栄司「]::あぁ、葛西先生」",
+        "translation": "Eiji「À, cô Kasai.」"
+    },
+    {
+        "sentence": "[栄司「]::フン……教師の声を無視しようとした挙げ句、その態度か。まったく、貴様の素行はやはり目に余るな」",
+        "translation": "Eiji「Hừ... Dám làm lơ lời tao, lại còn cái thái độ đó nữa à? Đúng là, hạnh kiểm của mày quá sức chịu đựng rồi đấy.」\n"
+    },
+    {
+        "sentence": "[栄司「]::ククッ、貴様のようなゲス男相手には適切な対応だろう？」",
+        "translation": "Eiji「Khục khục, đối với loại cặn bã như mày thì đó là cách đối xử thích đáng rồi.」"
+    },
+    {
+        "sentence": "[栄司「]::まぁ、そんな事はどうでもいい。私とて、貴様に嫌味を言いたいが為に呼び止めた訳じゃないのだからな」",
+        "translation": "Eiji「Mà thôi, mấy chuyện đó không quan trọng. Tao gọi mày lại không phải để nói mấy lời khó nghe đâu.」\n"
+    },
+    {
+        "sentence": "[栄司「]::拓也。貴様には、このまま私と一緒に職員室に来てもらうぞ」",
+        "translation": "Eiji「Takuya. Tao muốn mày đi theo tao đến phòng giáo viên ngay lập tức.」"
+    },
+    {
+        "sentence": "[栄司「]::心配しなくてもいい。担任の藤堂先生にはちゃんと話を通してあるからな」",
+        "translation": "Eiji「Không cần lo lắng. Tao đã nói chuyện rõ ràng với thầy Toudo rồi.」"
+    },
+    {
+        "sentence": "[栄司「]::それに貴様の事だ。どうせ藤堂先生の話などロクに聞いていないだろう？　ならばホームルームに参加したところで無駄な事だ」",
+        "translation": "Eiji「Với lại còn mày nữa. Đằng nào mày cũng có nghe giảng đàng hoàng đâu, phí công tham gia buổi sinh hoạt lớp làm gì.」\n"
+    },
+    {
+        "sentence": "[栄司「]::まぁ、とにかくそういう訳だ。貴様は何も考えず私に付いてこればいい」",
+        "translation": "Eiji「Chà, tóm lại là thế đấy. Mày không cần nghĩ gì cả, cứ theo tao là được.」\n"
+    },
+    {
+        "sentence": "[栄司「]::ククッ、誰もいないな……」",
+        "translation": "Eiji「Khư khư, không có ai cả......」"
+    },
+    {
+        "sentence": "[栄司「]::さて、早速本題に入らせてもらうが……」",
+        "translation": "Eiji「Được rồi, tao vào thẳng vấn đề luôn đây......」\n"
+    },
+    {
+        "sentence": "[栄司「]::以前、ここで話した事は憶えているだろうな？」",
+        "translation": "Eiji「Mày còn nhớ chuyện tao đã nói ở đây trước đây chứ?」"
+    },
+    {
+        "sentence": "[栄司「]::フッ、ふざけた話か。貴様から見ればそうなのかもしれんな」",
+        "translation": "Eiji「Hừ, chuyện vớ vẩn à? Có lẽ từ phía mày thì là như vậy」\n"
+    },
+    {
+        "sentence": "[栄司「]::いや、その件について貴様と口論するつもりはない。もう既に決定した事を論じても仕方ないだろう」",
+        "translation": "Eiji「Không, tao không có ý định tranh cãi với mày về chuyện đó. Bàn về những chuyện đã quyết định rồi cũng vô ích thôi.」"
+    },
+    {
+        "sentence": "[栄司「]::この事は我が学園も、転校先の学校もとうに了承済みだ。もうじき貴様の籍はこの学園から抹消される」",
+        "translation": "Eiji「Chuyện này trường của tao và trường chuyển đến đều đã đồng ý rồi. Chẳng mấy chốc tên của mày sẽ bị xóa khỏi trường này thôi.」\n"
+    },
+    {
+        "sentence": "[栄司「]::分かるか？　終業式が終われば、貴様は晴れてクズ学校の学生に仲間入りだ。同時に、この学園に貴様の居場所は消えて無くなるという事さ」",
+        "translation": "Eiji「Hiểu không? Lễ bế giảng kết thúc, mày nghiễm nhiên trở thành học sinh của cái trường cùi bắp đó. Đồng thời, chỗ của mày ở ngôi trường này cũng sẽ biến mất không còn dấu vết.」"
+    },
+    {
+        "sentence": "[栄司「]::貴様に話を通す必要など無い。貴様の戸籍は未だ真田家にあるのだから、世帯主である父が認可すれば、転校を認めさせるなど訳無い事だ」",
+        "translation": "Eiji「Tao đéo cần phải thông báo với mày. Hộ khẩu của mày vẫn còn ở nhà Sanada, chỉ cần bố mày, người đứng tên hộ khẩu đồng ý, thì việc chuyển trường dễ như trở bàn tay thôi.」\n"
+    },
+    {
+        "sentence": "[栄司「]::貴様が自分から立ち去ろうとするのを待っていたが、放っておけばいつまでも居座りそうだったのでな。やむなく強権を発動させてもらった」",
+        "translation": "Eiji「Tao đã đợi mày tự giác rời đi, nhưng nếu cứ để yên thì chắc mày sẽ ở lì mãi mất. Bất đắc dĩ tao phải dùng đến biện pháp mạnh thôi.」\n"
+    },
+    {
+        "sentence": "[栄司「]::忌まわしく思っていた貴様の戸籍が、ここで役に立つとは思わなかった。まぁ、この件が片付いた後は貴様の名を真田家から抹消させてもらうがな」",
+        "translation": "Eiji「Tao không ngờ là cái hộ khẩu đáng nguyền rủa của mày lại có ích ở đây đấy. Mà thôi, sau khi xong chuyện này tao sẽ xóa tên mày khỏi nhà Sanada.」\n"
+    },
+    {
+        "sentence": "[栄司「]::クククッ、最後くらいはお前にも納得してもらいたかったんだがな。私と貴様の力の差というものを……」",
+        "translation": "Eiji「Khụ khụ khụ, tao cũng muốn ít nhất là đến cuối cùng mày cũng phải tâm phục khẩu phục, cho mày thấy rõ sự khác biệt về sức mạnh giữa tao và mày......」\n"
+    },
+    {
+        "sentence": "[栄司「]::それで、だ。話というのは学生寮の事についてなのだが……」",
+        "translation": "Eiji「Vậy đó. Chuyện tao muốn nói là về ký túc xá sinh viên......」\n"
+    },
+    {
+        "sentence": "[栄司「]::当然の事だが、沢城学園の生徒でなくなる貴様には部屋を出ていってもらう。終業式と同時に別の住人が入るから、早めに退去するように」",
+        "translation": "Eiji「Đương nhiên rồi, mày không còn là học sinh của học viện Sawashiro nữa nên phải dọn ra khỏi phòng thôi. Người khác sẽ vào ở cùng lúc với lễ bế giảng, nên liệu liệu mà dọn đi sớm đi.」"
+    },
+    {
+        "sentence": "[栄司「]::退寮の準備は進めておくよう言っておいたはずだが、貴様の事だから何も手を付けていないだろう？　急いで片付けるんだな」",
+        "translation": "Eiji「Tao đã bảo mày chuẩn bị sẵn sàng để trả phòng rồi mà, vì biết tính mày nên chắc mày chưa động tay vào cái gì đâu nhỉ? Nhanh chóng thu dọn đi.」\n"
+    },
+    {
+        "sentence": "[栄司「]::何なら学園を休んで片付けに終始しても構わんぞ？　お前はどうせ一週間もしない内に転校してしまう身なんだしなぁ？　ククククッ！」",
+        "translation": "Eiji「Nếu mày muốn thì có thể nghỉ học để dọn dẹp luôn cũng được đấy? Dù sao mày cũng chỉ ở đây chưa đến một tuần nữa là chuyển trường rồi mà, ha ha ha!」\n"
+    },
+    {
+        "sentence": "[栄司「]::えっ、裏通り……？　その辺りは確か……何でまた、そんな所に？」",
+        "translation": "Eiji「Hả, đường sau...? Chắc chắn là khu vực đó...? Sao cô lại đến chỗ đó vậy?」"
+    },
+    {
+        "sentence": "[栄司「]::えっ！？　み、美雪さ……藤堂先生がどうしたんです！？」",
+        "translation": "Eiji「Hả!? Mi, Miyuki... Cô giáo Toudo đã xảy ra chuyện gì vậy!?」\n"
+    },
+    {
+        "sentence": "[栄司「]::なっ……！？」",
+        "translation": "Eiji「Cái……!？」\n"
+    },
+    {
+        "sentence": "[栄司「]::そ、それで……相手の……相手の学生の顔は、分からなかったんですか？」",
+        "translation": "Eiji「Vậ-vậy thì... mặt của... mặt của học sinh kia, Cô không nhận ra sao?」"
+    },
+    {
+        "sentence": "[栄司「]::えっ！　三沢……あ、あいつがっ……！？」",
+        "translation": "Eiji「Hả!? Misawa... À, thằng nhóc đó...!?」\n"
+    },
+    {
+        "sentence": "[栄司「]::分かりました。そのホテルの名前を教えて下さい。すぐに向かいます。はい、場所は……ええっ……」",
+        "translation": "Eiji「Tôi hiểu rồi. Xin Cô cho Tôi biết tên của khách sạn đó. Tôi sẽ đến đó ngay. Vâng, địa điểm là... Ể...?」"
+    },
+    {
+        "sentence": "[栄司「]::くそっ……拓也のヤツ……どういうつもりだ！」",
+        "translation": "Eiji「Chết tiệt... Thằng Takuya đó... có ý gì đây!」\n"
+    },
+    {
+        "sentence": "[栄司「]::はぁはぁ……はぁはぁはぁ……はぁ……」",
+        "translation": "Eiji「Hộc... hộc... hộc... hộc... hộc...」\n"
+    },
+    {
+        "sentence": "[栄司「]::……ここだなっ」",
+        "translation": "Eiji「......Chỗ này rồi.」"
+    },
+    {
+        "sentence": "[栄司「]::……よしっ！」",
+        "translation": "Eiji「......Được rồi!」"
+    },
+    {
+        "sentence": "[栄司「]::か、葛西先生！？」",
+        "translation": "Eiji「K-Kasai-sensei!?」"
+    },
+    {
+        "sentence": "[栄司「]::……先生！　そ、その格好はいったい何ですか！？」",
+        "translation": "Eiji「......Sensei! T-Thật ra thì, bộ dạng đó của cô là sao vậy!?」"
+    },
+    {
+        "sentence": "[栄司「]::……ッ！？　みゆ……い、いや、藤堂先生と三沢は？　二人はどこにいるんです！？　うっ……ううっ……！？」",
+        "translation": "Eiji「……Hự!? Miyu… k-không, Todou-sensei và Misawa đâu rồi? Hai người họ đang ở đâu!? Hự… hự hự…!?」"
+    },
+    {
+        "sentence": "[栄司「]::……えっ？」",
+        "translation": "Eiji「……Hả?」"
+    },
+    {
+        "sentence": "[栄司「]::間違い？」",
+        "translation": "Eiji「Sai sót?」"
+    },
+    {
+        "sentence": "[栄司「]::なっ…！？　えっ、あの……な、何でそんな嘘を！？」",
+        "translation": "Eiji「Cái…!? Hả, cái đó… T-tại sao cô lại nói dối như vậy!?」"
+    },
+    {
+        "sentence": "[栄司「]::はっ？　ご、ご主人様？」",
+        "translation": "Eiji「Hả? C, chủ nhân?」"
+    },
+    {
+        "sentence": "[栄司「]::――えっ！」",
+        "translation": "Eiji「――Hả!?」"
+    },
+    {
+        "sentence": "[栄司「]::グギャアアアアアアアアッ！！」",
+        "translation": "Eiji「Gyaaaaaaa!!!」\n"
+    },
+    {
+        "sentence": "[栄司「]::うっ……うーーーん……」",
+        "translation": "Eiji「Ư… ư… ưm……」"
+    },
+    {
+        "sentence": "[栄司「]::……えっ！　あっ、こ、これは……！？」",
+        "translation": "Eiji「……Ể! Á, c, cái này là……!?」\n"
+    },
+    {
+        "sentence": "[栄司「]::お、おい、拓也……何をしているんだ……っ！？」",
+        "translation": "Eiji「Ô, ô, Takuya... mày đang làm cái gì vậy hả...?」"
+    },
+    {
+        "sentence": "[栄司「]::拓也……おいっ！　何をやってるんだって聞いて―――ああっ！」",
+        "translation": "Eiji「Takuya…… Thằng kia…! Tao hỏi mày đang làm cái quái gì thế hả―――áaa!」"
+    },
+    {
+        "sentence": "[栄司「]::くっ……！　ううっ……！？」",
+        "translation": "Eiji「Ư…! Ư…!?」\n"
+    },
+    {
+        "sentence": "[栄司「]::か、葛西先生……」",
+        "translation": "Eiji「K-Kasai-sensei……」\n"
+    },
+    {
+        "sentence": "[栄司「]::くっ……！」",
+        "translation": "Eiji「Khốn kiếp……！」"
+    },
+    {
+        "sentence": "[栄司「]::何をやっているんだ！　これはいったい何の真似だ！？」",
+        "translation": "Eiji「Mày đang làm cái quái gì thế hả!? Đây là cái trò khỉ gì thế này!?」"
+    },
+    {
+        "sentence": "[栄司「]::な、なにぃ……！？」",
+        "translation": "Eiji「C-Cái… cái gì……！？」"
+    },
+    {
+        "sentence": "[栄司「]::やめろ！　やめろ、やめろっ！」",
+        "translation": "Eiji「Dừng lại! Dừng lại, dừng lại đi!」"
+    },
+    {
+        "sentence": "[栄司「]::おい、拓也！　身動きの出来ない女性を痛めつけるなんて、お前のやってる事はただの暴行だぞ！」",
+        "translation": "Eiji「Này, Takuya! Hành hạ một người phụ nữ không thể cử động, việc mày đang làm chỉ là bạo hành thôi đấy!」"
+    },
+    {
+        "sentence": "[栄司「]::な、なに……！？」",
+        "translation": "Eiji「N, N... Cái... cái gì...!?\""
+    },
+    {
+        "sentence": "[栄司「]::なっ……そんなっ……！？」",
+        "translation": "Eiji「C, chuyện... chuyện gì thế...?」"
+    },
+    {
+        "sentence": "[栄司「]::おい、もうやめろっ！　打たれすぎて酷い事になってるじゃないか！」",
+        "translation": "Eiji「Ê, dừng lại đi! Bị đánh nhiều quá thành ra tệ hại rồi kìa!」"
+    },
+    {
+        "sentence": "[栄司「]::そ、それは……！？」",
+        "translation": "Eiji「C... Cái đó là......!?」"
+    },
+    {
+        "sentence": "[栄司「]::くっ……ううっ……！」",
+        "translation": "Eiji「Khốn... ư... ư...!」"
+    },
+    {
+        "sentence": "[栄司「]::もうよせ！　たくさんだっ！　私を騙して……こんな物を見せつけて一体何を考えてるんだ！！」",
+        "translation": "Eiji「Thôi đi! Đủ rồi! Mày lừa tao... cho tao xem cái thứ này rồi mày định làm cái gì hả!!」\n"
+    },
+    {
+        "sentence": "[栄司「]::お、おいっ！　もうたくさんだって言ってるだろう！」",
+        "translation": "Eiji「Đm, thôi đi! Tao bảo đủ rồi còn gì nữa!」\n"
+    },
+    {
+        "sentence": "[栄司「]::なっ…………！？」",
+        "translation": "Eiji「Hả............!?」\n"
+    },
+    {
+        "sentence": "[栄司「]::……っ？　そ、それはっ……！！」",
+        "translation": "Eiji「……っ? C, cái đó là……!!」"
+    },
+    {
+        "sentence": "[栄司「]::き、貴様、いい加減にしろ！　そんな物を使って何をする気だ！？」",
+        "translation": "Eiji「Mày, mày thôi ngay đi! Mày định làm gì với cái thứ đó hả!?」"
+    },
+    {
+        "sentence": "[栄司「]::よ、よせ！　やめろ、拓也……！？」",
+        "translation": "Eiji「Đ-Đừng mà! Dừng lại đi, Takuya…!?」\n"
+    },
+    {
+        "sentence": "[栄司「]::お、おいっ！　拓也……やめないかっ！」",
+        "translation": "Eiji「Ơ, ơ kìa! Takuya… Mày dừng lại đi!」\n"
+    },
+    {
+        "sentence": "[栄司「]::お、おいっ！　やめろっ！　やめないか、拓也！　いい加減にしろ！」",
+        "translation": "Eiji「Ờ, ới! Dừng lại! Đừng làm thế nữa, Takuya! Vừa vừa phải phải thôi!」\n"
+    },
+    {
+        "sentence": "[栄司「]::やめろ！　彼女を殺す気か！　おい、拓也！」",
+        "translation": "Eiji「Dừng lại! Mày định giết cô ấy hả! Này, Takuya!」\n"
+    },
+    {
+        "sentence": "[栄司「]::うっ……ううぅぅっ……！？」",
+        "translation": "Eiji「Ư… ư ư ư…!?」\n"
+    },
+    {
+        "sentence": "[栄司「]::……うっ！　ううっ、拓也……な、何なんだ、今のは！？」",
+        "translation": "Eiji「……Ư! Ư ư, Takuya… C-Cái gì vậy, vừa rồi là cái gì!?」"
+    },
+    {
+        "sentence": "[栄司「]::き、貴様……！　教師を手籠めにしただけでは飽きたらず、に、に、妊娠までさせたのか！？」",
+        "translation": "Eiji「Mày…! Không chỉ đơn thuần là cưỡng hiếp giáo viên, mà còn, còn, còn bắt cô ta mang thai nữa hả!?」\n"
+    },
+    {
+        "sentence": "[栄司「]::そ、そうじゃないかも知れないって……拓也、現におまえ……！」",
+        "translation": "Eiji「C-Có lẽ không phải vậy thì sao…… Takuya, thực tế thì mày……!」\n"
+    },
+    {
+        "sentence": "[栄司「]::ば、バカっ！　やめろ、拓也！　やめるんだ！」",
+        "translation": "Eiji「Đồ ngốc! Dừng lại, Takuya! Tao bảo mày dừng lại ngay đi!」\n"
+    },
+    {
+        "sentence": "[栄司「]::拓也……きっ、貴様というヤツは……！！」",
+        "translation": "Eiji「Takuya… khốn, thằng chó mày…!!」\n"
+    },
+    {
+        "sentence": "[栄司「]::……ハッ！　そ、そう言えば……」",
+        "translation": "Eiji「……Hả! À, tao nhớ ra rồi……」\n"
+    },
+    {
+        "sentence": "[栄司「]::拓也……貴様、どうして私の婚約者の事を知ってるんだ……！？」",
+        "translation": "Eiji「Takuya… Mày… Tại sao mày biết chuyện về vị hôn thê của tao…!?」"
+    },
+    {
+        "sentence": "[栄司「]::き、貴様……！？　まさか……美雪さんにも、葛西先生にしてるような事を……！？」",
+        "translation": "Eiji「K-khốn kiếp…!? Đừng nói là… mày cũng làm chuyện đó với Miyuki… giống như với Kasai sensei!?」"
+    },
+    {
+        "sentence": "[栄司「]::良い訳があるか、馬鹿野郎！」",
+        "translation": "Eiji「Tao đéo tin mày có lý do chính đáng đâu, thằng chó chết！」\n"
+    },
+    {
+        "sentence": "[栄司「]::……うっ！　うわわっ！？　何をするッ！」",
+        "translation": "Eiji「……Ư! Ư ư…!? Mày làm cái gì vậy hả!?」"
+    },
+    {
+        "sentence": "[栄司「]::ううっ！　ぐわあっ……！」",
+        "translation": "Eiji「Ư…! Guwaaa…!」\n"
+    },
+    {
+        "sentence": "[栄司「]::なっ……！！　貴様、そんな物を持ってきて何をするつもりだ！」",
+        "translation": "Eiji「Cái……!! Mày mang cái thứ đó đến đây định làm cái gì hả!」"
+    },
+    {
+        "sentence": "[栄司「]::うっ……！　ううっ……！」",
+        "translation": "Eiji「Ư…! Ư…!」\n"
+    },
+    {
+        "sentence": "[栄司「]::な、何を馬鹿な事を！　よせっ、やめろっ！」",
+        "translation": "Eiji「Này, mày làm cái trò ngu ngốc gì thế! Bỏ ra, thôi đi!」\n"
+    },
+    {
+        "sentence": "[栄司「]::か、葛西先生……！　やめろ……やめるんだ……！　うわわっ！」",
+        "translation": "Eiji「K、Kasai sensei…! Dừng lại… Dừng lại đi…! Uwaaaa!」\n"
+    },
+    {
+        "sentence": "[栄司「]::ぐっ！　ぐおおおおぉぉっ！！」",
+        "translation": "Eiji「Ư... Ư Ư Ư!!」\n"
+    },
+    {
+        "sentence": "[栄司「]::ぐぅぅっ、ぐわああぁっ……うぐっ……うぐぐっ……！？」",
+        "translation": "Eiji「Ư... ư á... ư... ư ư...!?」\n"
+    },
+    {
+        "sentence": "[栄司「]::あぐううっ……うわあっ、や、やめろっ……あぐううっ……！」",
+        "translation": "Eiji「Ư... ư... ư á... dừng... dừng lại đi... ư... ư...!」\n"
+    },
+    {
+        "sentence": "[栄司「]::ぎゃあああああっ！　やめろっ！　やめろおおおっ！　ああ、チンポが……チンポがああああああっ！」",
+        "translation": "Eiji「Gyaaaaaaa! Dừng lại! Dừng lại đi! Aaa, chim tao... chim tao... aaaaaaaa!」\n"
+    },
+    {
+        "sentence": "[栄司「]::ぐおおおっ！　あぁぁっ！　あああああっ！！」",
+        "translation": "Eiji「Gyaaaaaaa! Aaaaa! Aaaaaaaa!!」\n"
+    },
+    {
+        "sentence": "[栄司「]::ううっ……うっ、くはあっ……ああっ……」",
+        "translation": "Eiji「Ư…… Ư, khụ hụ…… Aaa……」"
+    },
+    {
+        "sentence": "[栄司「]::くっ……ううっ……うっ……！？」",
+        "translation": "Eiji「Ư…… Ư…… Ư……!?」\n"
+    },
+    {
+        "sentence": "[栄司「]::お、おい……やめろ……やめてくれ……も、もう……たくさんだ……ううっ……！」",
+        "translation": "Eiji「Đ-Đm…… bỏ ra…… bỏ tao ra…… Đ-Đủ rồi…… nhiều lắm rồi…… ư ư……！」"
+    },
+    {
+        "sentence": "[栄司「]::おぁああああああぁっ！！」",
+        "translation": "Eiji「Oaaaaaaa!」\n"
+    },
+    {
+        "sentence": "[栄司「]::うおおおっ！　おぉっ……と、止めてくれ……止めてくれえええっ！」",
+        "translation": "Eiji「Ư... ư ư...! Ư... dừng lại đi... dừng lại đi màaaaaaa!」\n"
+    },
+    {
+        "sentence": "[栄司「]::な、何だと……！？　あううっ……！　ど、どうしろっていうんだ！」",
+        "translation": "Eiji「N... Nani da to...!? Auuu...! Đ... Đau quá... phải làm sao đây!?」\n"
+    },
+    {
+        "sentence": "[栄司「]::ふ、ふざけるな！　図に乗りやがって、この犯罪者めっ！！」",
+        "translation": "Eiji「Đừng, đừng có giỡn mặt! Được nước làm tới hả thằng tội phạm kia!!」\n"
+    },
+    {
+        "sentence": "[栄司「]::ぐおおおおおおおっ！！」",
+        "translation": "Eiji「Guoooooooohhhhh!!」\n"
+    },
+    {
+        "sentence": "[栄司「]::くっ……ううっ、うっ……くはあっ……！？」",
+        "translation": "Eiji「Khụ... ư... ư... khụ hộc...!？」\n"
+    },
+    {
+        "sentence": "[栄司「]::ぅぅっ……っ……むぁぁっ……っ……ぉぉぉ……っ！」",
+        "translation": "Eiji「Ư... ư... m... á... á... ô... ô...」\n"
+    },
+    {
+        "sentence": "[栄司「]::あっ、あうっ……くはぁっ……ぁっ、ぁぁっ……うぐぅぅっ……」",
+        "translation": "Eiji「A... au... Kh... á... A... á... á... ư... gu...」\n"
+    },
+    {
+        "sentence": "[栄司「]::あうっ……あうっ……くはぁっ……っ……っ……ぅぅっ……」",
+        "translation": "Eiji「Á... au... Kh... á... á... á... ư... gu...」"
+    },
+    {
+        "sentence": "[栄司「]::ぎゃあああああああああっ！！」",
+        "translation": "Eiji「Áaaaaaaaaaaaaaa!!」\n"
+    },
+    {
+        "sentence": "[栄司「]::あ、熱い！　熱い、熱い！　ぎゃあああああっ！！」",
+        "translation": "Eiji「A, nóng! Nóng, nóng! Áaaaaaaaaaa!!」\n"
+    },
+    {
+        "sentence": "[栄司「]::拓也……き、貴様あああっ！」",
+        "translation": "Eiji「Takuya... Mày, màyyy!!」"
+    },
+    {
+        "sentence": "[栄司「]::くっ！　ううっ！」",
+        "translation": "Eiji「Khục... Ư... Ư!」\n"
+    },
+    {
+        "sentence": "[栄司「]::な、何だと……！？」",
+        "translation": "Eiji「Cái, cái gì cơ...?」"
+    },
+    {
+        "sentence": "[栄司「]::うっ、ううっ……！　あぁっ、き、さ……ま……！」",
+        "translation": "Eiji「Ư... ư...! A... tao... mày...!」\n"
+    },
+    {
+        "sentence": "[栄司「]::…………」",
+        "translation": "Eiji「…………」"
+    },
+    {
+        "sentence": "[栄司「]::お、おい！　拓也！！　そこで一体何をしているんだ！！」",
+        "translation": "Eiji「Này, này! Takuya!! Em đang làm cái quái gì ở đó vậy!!」\n"
+    },
+    {
+        "sentence": "[栄司「]::藤堂先生っ、何かあったんですか？！」",
+        "translation": "Eiji「Toudo-sensei, Cô có chuyện gì vậy?!」"
+    },
+    {
+        "sentence": "[栄司「]::まさか、またコイツが何かしでかして、先生に迷惑をかけているんですか？」",
+        "translation": "Eiji「Không lẽ, lại là thằng nhóc này gây ra chuyện gì, làm phiền Cô nữa sao?」"
+    },
+    {
+        "sentence": "[栄司「]::三者面談、ですか……」",
+        "translation": "Eiji「Gặp mặt ba bên, sao...?」"
+    },
+    {
+        "sentence": "[栄司「]::おい、藤堂先生に向かってそんな口の利き方はないだろうっ？！」",
+        "translation": "Eiji「Này, Tôi không cho phép Em ăn nói kiểu đó với Toudo-sensei!!」\n"
+    },
+    {
+        "sentence": "[栄司「]::それに、お前がどう思っているかは知らないが、法律上私はお前の義兄、という事になるんだ、関係ないなんて事はない」",
+        "translation": "Eiji「Thêm nữa, Anh không biết Em nghĩ gì, nhưng về mặt pháp luật, Anh là anh kế của Em đấy, không thể nói là không liên quan được.」"
+    },
+    {
+        "sentence": "[栄司「]::こんなデキの悪い人間を真田の家から出してしまった以上、私にはお前を監督する義務もあるしな……」",
+        "translation": "Eiji「Vì đã đuổi một đứa tệ hại như Em ra khỏi nhà Sanada, Anh có nghĩa vụ phải giám sát Em nữa...」"
+    },
+    {
+        "sentence": "[栄司「]::藤堂先生、三者面談には私が保護者として出席します。それでいいですか？」",
+        "translation": "Eiji「Toudo-sensei, Tôi sẽ tham dự buổi gặp mặt ba bên với tư cách là phụ huynh. Cô thấy thế có được không?」"
+    },
+    {
+        "sentence": "[栄司「]::権利？　いや、これは権利ではなく、義務だ。お前がいくら孤独を気取ろうが、遺憾だが真田家の人間だという事は、紛れもない事実だ」",
+        "translation": "Eiji「Quyền lợi ư? Không, đây không phải là quyền lợi, mà là nghĩa vụ. Dù Em có muốn tỏ ra cô độc đến đâu, thì đáng tiếc, việc Em là người nhà Sanada là một sự thật không thể chối cãi.」"
+    },
+    {
+        "sentence": "[栄司「]::予定ですか、ちょっと待って下さい……」",
+        "translation": "Eiji「Cô hỏi lịch trình của tôi à, xin chờ một chút…」\n"
+    },
+    {
+        "sentence": "[栄司「]::そうですね……放課後はちょっと都合が悪いので、昼休みにして頂けるのなら問題ありませんよ」",
+        "translation": "Eiji「À, Tôi e là sau giờ học Tôi hơi kẹt, nếu Cô dời sang giờ nghỉ trưa thì không vấn đề gì.」"
+    },
+    {
+        "sentence": "[栄司「]::フン、お前ごときに付き合っている時間はないんだがな。おい、あまり藤堂先生を困らせるような事はするなよ！」",
+        "translation": "Eiji「Hừ, tao còn chẳng có thời gian cho lũ như mày nữa là. Này, đừng có mà làm phiền Toudo-sensei đấy nhé!」\n"
+    },
+    {
+        "sentence": "[栄司「]::っ…………」",
+        "translation": "Eiji「Ư…」"
+    },
+    {
+        "sentence": "[栄司「]::それで、コイツの成績、普段の授業態度など、先生の目からご覧になって、いかがでしょうか？」",
+        "translation": "Eiji「Vậy thì, theo đánh giá của cô, thành tích của em ấy và thái độ trong giờ học thường ngày thế nào ạ?」\n"
+    },
+    {
+        "sentence": "[栄司「]::なるほど……それは、まったく日常的な学習をしていない、と解釈出来ますね」",
+        "translation": "Eiji「Ra vậy… Có thể hiểu là… em ấy hoàn toàn không học hành gì cả nhỉ.」"
+    },
+    {
+        "sentence": "[栄司「]::藤堂先生……？　どうかしましたか？」",
+        "translation": "Eiji「Toudo-sensei…? Cô sao vậy ạ?」"
+    },
+    {
+        "sentence": "[栄司「]::そう、ですか……ならいいのですが……」",
+        "translation": "Eiji「Vậy, à… Nếu vậy thì tốt…」"
+    },
+    {
+        "sentence": "[栄司「]::はい、あぁ、これは……」",
+        "translation": "Eiji「Vâng, à, cái này là…」"
+    },
+    {
+        "sentence": "[栄司「]::藤堂先生？」",
+        "translation": "Eiji「Toudo-sensei?」"
+    },
+    {
+        "sentence": "[栄司「]::うーん、頬が紅潮していますし……藤堂先生、熱があるんじゃないんですか？」",
+        "translation": "Eiji「Ưm, má cô ửng hồng rồi… Toudo-sensei, chẳng lẽ cô bị sốt sao?」"
+    },
+    {
+        "sentence": "[栄司「]::みゆ……藤堂先生っ、本当に大丈夫なんですか？！」",
+        "translation": "Eiji「Miyu… Toudo-sensei, cô thật sự không sao chứ?!」"
+    },
+    {
+        "sentence": "[栄司「]::と、藤堂先生……その……胸元が汗でびっしょりのようだ……どこか、調子の悪い所があるんじゃないんですか？！」",
+        "translation": "Eiji「T-Toudo-sensei… cái… ngực của cô ướt đẫm mồ hôi kìa… Có chỗ nào trong người cô không khỏe sao?!」"
+    },
+    {
+        "sentence": "[栄司「]::み、美雪さんっ……どうしたんだ、どこが悪いんだ？！」",
+        "translation": "Eiji「M-Miyuki-san… Có chuyện gì vậy, cô thấy khó chịu ở đâu sao?!」\n"
+    },
+    {
+        "sentence": "[栄司「]::と、藤堂先生……面談はまた後日にしましょう、どう見ても苦しそうだ……まずは保健室に行った方が……」",
+        "translation": "Eiji「A, Toudo-sensei… Chắc là để buổi nói chuyện riêng hôm khác vậy… Trông cô có vẻ khó chịu lắm… Trước hết nên đến phòng y tế thì hơn…」"
+    },
+    {
+        "sentence": "[栄司「]::藤堂先生、保健室までお送りしましょう、途中で倒れでもしたら大変だ」",
+        "translation": "Eiji「Toudo-sensei, để tôi đưa cô đến phòng y tế nhé, nếu cô ngã dọc đường thì nguy to đấy.」"
+    },
+    {
+        "sentence": "[栄司「]::フンッ……！　貴様のような、人間のクズと同じ部屋にいたせいで藤堂先生は気分を悪くなさったに違いないぞ！」",
+        "translation": "Eiji「Hừ…! Chắc chắn Toudo-sensei đã cảm thấy khó chịu vì phải ở chung phòng với thứ cặn bã như mày!」"
+    },
+    {
+        "sentence": "[栄司「]::いいか、お前の存在はそれだけで人を不快にさせるんだ！　その事をよく憶えておけ！！」",
+        "translation": "Eiji「Nghe rõ đây, sự tồn tại của mày thôi đã khiến người khác khó chịu rồi! Khắc cốt ghi tâm điều đó đi!!」"
+    }
+]

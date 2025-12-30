@@ -1,0 +1,46 @@
+[
+    {
+        "sentence": "[Nurse]::Yes. First of all, can I have your name and address here,please?",
+        "translation": "【Nurse】「Vâng. Trước hết, cho tôi xin tên và địa chỉ của em vào đây được không?」"
+    },
+    {
+        "sentence": "[Nurse]::Hold on, Sacchan!? Are you okay!?",
+        "translation": "【Nurse】「Chờ đã, Sacchan!? Em có sao không!?」"
+    },
+    {
+        "sentence": "[Nurse]::......",
+        "translation": "【Nurse】「......」"
+    },
+    {
+        "sentence": "[Nurse]::All right. But if it gets to be too much, call forsomeone right away, okay?",
+        "translation": "【Nurse】「Được rồi. Nhưng nếu em cảm thấy quá sức, hãy gọi người ngay lập tức nhé?」"
+    },
+    {
+        "sentence": "[Nurse]::Ah, hello there, Sakaki-san.",
+        "translation": "【Nurse】「À, chào em, Sakaki-san.」\n"
+    },
+    {
+        "sentence": "[Nurse]::Your mother seems to be feeling better today. She evencleaned her plate at lunch for once.",
+        "translation": "【Nurse】「Hôm nay mẹ em có vẻ khỏe hơn rồi. Thậm chí bà ấy còn ăn hết phần ăn trưa đấy.」"
+    },
+    {
+        "sentence": "[Nurse]::I`m sure it`s because you`re coming to see her every day,dear. Very sweet of you.",
+        "translation": "【Nurse】「Chắc chắn là vì em đến thăm bà ấy mỗi ngày đấy, em yêu ạ. Em thật chu đáo.」"
+    },
+    {
+        "sentence": "[Nurse]::Excuse me! No running in the hallways, please!",
+        "translation": "【Nurse】「Xin lỗi! Làm ơn đừng chạy ở hành lang!」"
+    },
+    {
+        "sentence": "[Nurse]::Y-Yes, I`m sure she was here...",
+        "translation": "【Nurse】「V-Vâng, tôi chắc chắn là bà ấy đã ở đây...」"
+    },
+    {
+        "sentence": "[Nurse]::Y-Yes...!",
+        "translation": "【Nurse】「V-Vâng...!」"
+    },
+    {
+        "sentence": "[Nurse]::It`s all right, Yumiko-san. It`s all right...!",
+        "translation": "【Nurse】「Ổn rồi, Yumiko-san. Ổn cả rồi...!」"
+    }
+]

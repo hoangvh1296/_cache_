@@ -1,0 +1,38 @@
+[
+  {
+    "sentence": "[Cat]::Meoow.",
+    "translation": "【Cat】「Meoow.」"
+  },
+  {
+    "sentence": "[Cat]::Meooow?",
+    "translation": "【Cat】「Meooow?」"
+  },
+  {
+    "sentence": "[Cat]::*Slurp* *Slurp* *Slurp *Slurp*",
+    "translation": "【Cat】「*Slurp* *Slurp* *Slurp *Slurp*」"
+  },
+  {
+    "sentence": "[Cat]::Meow.",
+    "translation": "【Cat】「Meow.」"
+  },
+  {
+    "sentence": "[Cat]::Meowww.",
+    "translation": "【Cat】「Meowww.」\n"
+  },
+  {
+    "sentence": "[Cat]::Mmmrm meowww!",
+    "translation": "【Cat】「Mmmrm meowww!」\n"
+  },
+  {
+    "sentence": "[Cat]::Meow!",
+    "translation": "【Cat】「Meow!」\n"
+  },
+  {
+    "sentence": "[Cat]::Meoww, Meowww.",
+    "translation": "【Cat】「Meoww, Meowww.」\n"
+  },
+  {
+    "sentence": "[Cat]::Mrrrooow.",
+    "translation": "【Cat】「Mrrrooow.」"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "sentence": "[部員「]::え、えっとですね……」",
+    "translation": "【[部員「]::】「Ơ... Ơ... Thưa cô...」"
+  },
+  {
+    "sentence": "[部員「]::新入生の指導、終わりましたから……」",
+    "translation": "【[部員「]::】「Em đã xong việc hướng dẫn các học sinh mới rồi ạ...」"
+  },
+  {
+    "sentence": "[部員「]::は、はい」",
+    "translation": "【[部員「]::】「Ơ... Ơ... Vâng ạ」"
+  },
+  {
+    "sentence": "[部員「]::はいっ」",
+    "translation": "【[部員「]::】「Vâng ạ」"
+  },
+  {
+    "sentence": "[部員「]::あ、あの、先生……もう一つ……」",
+    "translation": "【[部員「]::】「Ơ... Ơ... thưa cô... em còn một chuyện nữa ạ...」"
+  },
+  {
+    "sentence": "[部員「]::…………」",
+    "translation": "【[部員「]::】「......」"
+  },
+  {
+    "sentence": "[部員「]::あっ、い、いえ……えっと……」",
+    "translation": "【[部員「]::】「Ơ... Ơ... không... ừm...」"
+  },
+  {
+    "sentence": "[部員「]::……タイムのリストをまとめたんですけど」",
+    "translation": "【[部員「]::】「Em... em đã tập hợp danh sách thời gian lại rồi ạ.」"
+  },
+  {
+    "sentence": "[部員「]::はい。え……っと、これ、どうしたらいいですか？」",
+    "translation": "【[部員「]::】「Vâng ạ. Ưm... cái này... em nên làm thế nào ạ?」"
+  },
+  {
+    "sentence": "[部員「]::あっ、そうですね。じゃあ……」",
+    "translation": "【[部員「]::】「À, vâng. Vậy thì...」"
+  },
+  {
+    "sentence": "[部員「]::いえ……」",
+    "translation": "【[部員「]::】「Không ạ...」"
+  },
+  {
+    "sentence": "[部員「]::あっ……ち、違いますっ」",
+    "translation": "【[部員「]::】「Ơ... Ơ... không có ạ!」"
+  },
+  {
+    "sentence": "[部員「]::ほ、本当に……なんでもないですから……」",
+    "translation": "【[部員「]::】「Thật... thật mà... không có gì đâu ạ...」"
+  },
+  {
+    "sentence": "[部員「]::あっ……！」",
+    "translation": "【[部員「]::】「Ơ...！」"
+  },
+  {
+    "sentence": "[部員「]::ほんと、平気ですっ……じゃあ！」",
+    "translation": "【[部員「]::】「Thật sự... không sao đâu ạ... Vậy nhé!」"
+  },
+  {
+    "sentence": "[部員「]::はい、支倉先生」",
+    "translation": "【[部員「]::】「Vâng, thưa cô Shikura.」"
+  },
+  {
+    "sentence": "[部員「]::先生、終わりました」",
+    "translation": "【[部員「]::】「Cô ơi, em xong rồi ạ.」"
+  },
+  {
+    "sentence": "[部員「]::あの、先生」",
+    "translation": "【[部員「]::】「Ây, cô ơi.」"
+  },
+  {
+    "sentence": "[部員「]::……支倉先生？」",
+    "translation": "【[部員「]::】「... Shikura-sensei?」"
+  },
+  {
+    "sentence": "[部員「]::……え？」",
+    "translation": "【[部員「]::】「……Hả?」"
+  },
+  {
+    "sentence": "[部員「]::先生……どうかしました？」",
+    "translation": "【[部員「]::】「Cô ơi... có chuyện gì vậy ạ?」"
+  },
+  {
+    "sentence": "[部員「]::……そ、そうですか？」",
+    "translation": "【[部員「]::】「...Vậy ạ?」"
+  },
+  {
+    "sentence": "[部員「]::あ、はい。……えっと、タイム計りましたので」",
+    "translation": "【[部員「]::】「À, vâng ạ... Ừm, em đã đo thời gian cho cô rồi ạ.」"
+  },
+  {
+    "sentence": "[部員「]::えっと……先生、大丈夫ですか？」",
+    "translation": "【[部員「]::】「Ừm... Cô ơi, cô không sao chứ ạ?」"
+  },
+  {
+    "sentence": "[部員「]::いえ、どこか調子が悪そうですから……」",
+    "translation": "【[部員「]::】「Không ạ, có vẻ cô không được khỏe lắm...」"
+  },
+  {
+    "sentence": "[部員「]::そうですか？　でも、元気ないですよ」",
+    "translation": "【[部員「]::】「Vậy ạ? Nhưng trông cô không được khỏe lắm ạ.」"
+  },
+  {
+    "sentence": "[部員「]::あ、はい。何ですか？」",
+    "translation": "【[部員「]::】「A, vâng. Có chuyện gì ạ?」"
+  },
+  {
+    "sentence": "[部員「]::えっ……そうなんですか？」",
+    "translation": "【[部員「]::】「Ơ... Thật vậy ạ?」"
+  },
+  {
+    "sentence": "[部員「]::……ですよね。何だか調子悪いみたいですし」",
+    "translation": "【[部員「]::】「Đúng vậy ạ. Trông Cô có vẻ không được khỏe lắm nhỉ.」"
+  },
+  {
+    "sentence": "[部員「]::はい。ゆっくりお休みになってください」",
+    "translation": "【[部員「]::】「Vâng ạ. Cô cứ nghỉ ngơi thật tốt nhé.」"
+  }
+]

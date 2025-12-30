@@ -1,0 +1,3674 @@
+[
+    {
+        "sentence": "[美雪「]::あっ……」",
+        "translation": "Miyuki「A...」"
+    },
+    {
+        "sentence": "[美雪「]::今日は……部活が長引いてしまって……ちょうどここで後片付けをしていたところだったから……」",
+        "translation": "Miyuki「Hôm nay... sinh hoạt câu lạc bộ đã kéo dài quá... tôi đang dọn dẹp ở đây thì...」"
+    },
+    {
+        "sentence": "[美雪「]::別に……変わったものは……」",
+        "translation": "Miyuki「Không... cũng không có gì thay đổi cả...」"
+    },
+    {
+        "sentence": "[美雪「]::そんな事はありません……貴方からのメールが来るまでは、いつも通りにしていました……」",
+        "translation": "Miyuki「Không có chuyện đó đâu ạ... Cho đến khi nhận được mail của em, tôi vẫn bình thường...」"
+    },
+    {
+        "sentence": "[美雪「]::う、ううっ……」",
+        "translation": "Miyuki「Ư, ưừng……」"
+    },
+    {
+        "sentence": "[美雪「]::うっ……栄司さんの前でっ、あんな恥ずかしい事をさせられてっ……ううっ……もう、もうあの人に顔向け出来ませんっ……うぁあっ……」",
+        "translation": "Miyuki「Ư... Trước mặt Eiji-san mà lại bị bắt làm chuyện xấu hổ như thế... Ư ứ... Thôi, thôi xong rồi, mình không còn dám đối mặt với người đó nữa rồi... Uwaa...」"
+    },
+    {
+        "sentence": "[美雪「]::そ、そんなっ！　そうしないと写真を見せる、って……脅されて仕方なかったのよ！　あんなの、好きで選んだ訳じゃないわっ……！」",
+        "translation": "Miyuki「K-không thể nào! Cô... cô bị đe dọa là nếu không làm theo thì sẽ cho xem tấm ảnh đó... nên đành phải nghe lời thôi! Cô đâu có chọn làm chuyện đó vì thích đâu chứ...!」"
+    },
+    {
+        "sentence": "[美雪「]::あんな……目の前で……ううっ……くっ……きっと、栄司さんも気が付いたに違いないわっ……ううっ……」",
+        "translation": "Miyuki「Không... ngay trước mắt... ư ư... hức... Chắc chắn Eiji-san cũng đã nhận ra rồi... ư ư...」"
+    },
+    {
+        "sentence": "[美雪「]::重大な事……？」",
+        "translation": "Miyuki「Chuyện nghiêm trọng ư...?」"
+    },
+    {
+        "sentence": "[美雪「]::っ……ううっ……言わないでっ……うわぁあっ……」",
+        "translation": "Miyuki「Đ-đừng mà... Ư ứ... Xin em đừng nói nữa... Uwaaa...」"
+    },
+    {
+        "sentence": "[美雪「]::そ、そんなっ……イヤですっ……！」",
+        "translation": "Miyuki「K-không thể nào... Cô không muốn...！」"
+    },
+    {
+        "sentence": "[美雪「]::うっ……ううっ……わ、分かりました……くぅっ……んんっ……」",
+        "translation": "Miyuki「Ư... ư ư... v-vâng, cô hiểu rồi... khụ... ưm...」"
+    },
+    {
+        "sentence": "[美雪「]::あ、あの……準備室で着替えてきます……」",
+        "translation": "Miyuki「À, ờm... Cô ra phòng chuẩn bị thay đồ đây...」"
+    },
+    {
+        "sentence": "[美雪「]::これで……いいんですかッ……」",
+        "translation": "Miyuki「Như vầy... là được rồi chứ ạ...?」"
+    },
+    {
+        "sentence": "[美雪「]::…………」",
+        "translation": "Miyuki「...」"
+    },
+    {
+        "sentence": "[美雪「]::うぅっ……酷い、酷すぎますっ……」",
+        "translation": "Miyuki「Ư... Tệ thật... Tệ quá đi...」"
+    },
+    {
+        "sentence": "[美雪「]::そ、そんな事……考えた事もありませんっ！」",
+        "translation": "Miyuki「Đ-Đâu có chuyện đó... Cô chưa từng nghĩ đến chuyện đó đâu!」"
+    },
+    {
+        "sentence": "[美雪「]::栄司さんは……そんな事……しませんっ……うぅっ……くっ……」",
+        "translation": "Miyuki「Eiji sẽ không làm chuyện đó đâu……Hức……Ư……」"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ……いやあっ……」",
+        "translation": "Miyuki「Aaa... Ư... không...」"
+    },
+    {
+        "sentence": "[美雪「]::いやっ……冷たいっ……」",
+        "translation": "Miyuki「Ư... Không... Lạnh quá...」"
+    },
+    {
+        "sentence": "[美雪「]::いやぁっ……こんなはしたない格好っ……そんなに見ないでっ……」",
+        "translation": "Miyuki「Ư... Cô đang mặc cái bộ đồ lố lăng gì thế này... Đừng có nhìn nữa mà...」"
+    },
+    {
+        "sentence": "[美雪「]::あっ……そ、それをどうするつもりなの……」",
+        "translation": "Miyuki「A... C-cái đó... em định làm gì vậy...」"
+    },
+    {
+        "sentence": "[美雪「]::きゃああっ……なに、なにをしてるのっ……！」",
+        "translation": "Miyuki「Áááá... Em, em đang làm gì vậy...！」"
+    },
+    {
+        "sentence": "[美雪「]::いや、そんなの聞きたくありませんっ、やめてぇっ……お願いッ……」",
+        "translation": "Miyuki「Không, cô không muốn nghe những lời đó đâu! Dừng lại điiiii... cô xin em...」"
+    },
+    {
+        "sentence": "[美雪「]::んっ……くぅっ……ふぁあっ……あぁっ……っ……」",
+        "translation": "Miyuki「Ư... Kh... A... Á... Ư...」"
+    },
+    {
+        "sentence": "[美雪「]::ち、ちがいますっ……ヌルヌルしてっ……気持ち悪くてっ……んんっ……」",
+        "translation": "Miyuki「Đ-Đâu có phải... Nh-Nhớt quá... Ghê quá đi... Ư...」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁあっ……あぁっ……んんっ……あ、だめっ……お尻っ……お尻触らないでっ……ぁあっ……」",
+        "translation": "Miyuki「Ư... A... Ư... Ôi, không được... Mông... Đừng có sờ mông cô... A...」"
+    },
+    {
+        "sentence": "[美雪「]::ううっ、ヌルヌルしてっ……ぁあっ……くすぐったいっ……や、やめてぇ……ああっ……」",
+        "translation": "Miyuki「Ư... Nhớt quá... A... Nhột quá đi... K-Không, dừng lại đi mà... A...」"
+    },
+    {
+        "sentence": "[美雪「]::ち、違いますっ……そんな、私っ……はしたなく濡らしてなんかないっ……ふぁあっ……」",
+        "translation": "Miyuki「Đ-Đâu có... Đ-Đâu phải, cô... Cô không có dâm đãng đến mức ướt hết cả... Ư...」"
+    },
+    {
+        "sentence": "[美雪「]::ダメ、そんなところっ……舐めるなんてっ……いやぁあっ、だめっ、やめて、今すぐやめてぇえええっ……！」",
+        "translation": "Miyuki「Không được, chỗ đó thì... Sao em lại liếm... A... Không được, dừng lại đi, dừng lại ngay đi mà...」"
+    },
+    {
+        "sentence": "[美雪「]::はぁあっ……ああっ、だめっ……ああ、そんなところっ……舐めないでっ……うぁあっ、お、お願いだからっ……くぅんっ……」",
+        "translation": "Miyuki「Hà... A... K-Không được... A... Chỗ đó thì... Đừng có liếm... Ư... L-Làm ơn... Ư...」"
+    },
+    {
+        "sentence": "[美雪「]::そ、そんなところ、舐めるなんて……お、おかしいわっ……ふぁあぁっ……だめぇっ……もうやめてぇええっ！」",
+        "translation": "Miyuki「K-Không, chỗ đó mà, sao em lại liếm... Ô-Ôi, kỳ cục quá... Ư... K-Không được... Dừng lại đi mà...」"
+    },
+    {
+        "sentence": "[美雪「]::はぁっ…！　うっ、ううっ……あぁっ、ダメッ……あくうっ、むっ……はぁはぁ……あっ、むはぁっ……うっ、ううっ……ああっ……」",
+        "translation": "Miyuki「Hà... A...! Ư... Ư... A... Không được... Ư... Ư... Hà... Hà... A... Ư... Ư... A...!」"
+    },
+    {
+        "sentence": "[美雪「]::ふぅんっ……ぁあっ……ううっ、ああ、やめて……はぁはぁ……うううっ！」",
+        "translation": "Miyuki「Hừ... Ư... Ư... A, dừng lại đi... Hộc... Hộc... Ư...」"
+    },
+    {
+        "sentence": "[美雪「]::はぁあん……いや、だめぇ……そんなところっ……ぺろぺろ音を立てて舐めないでぇっ……うぁあっ……！」",
+        "translation": "Miyuki「Hà... A... K-Không, đừng mà... Chỗ đó thì... Đừng có liếm chụt chụt như thế... Ư...!」"
+    },
+    {
+        "sentence": "[美雪「]::あっ……やぁ……そんな事っ……言わないで、やめてぇっ……あぁっ！」",
+        "translation": "Miyuki「A... Ư... Đừng có nói thế mà... Dừng lại đi... A...!」"
+    },
+    {
+        "sentence": "[美雪「]::うぅっ……いやぁっ……舐められたところがっ……熱くなってるぅっ……いやぁっ……！　はぁん……っ！」",
+        "translation": "Miyuki「Ư... A... Chỗ bị liếm... Nóng quá... A...! Hà...!」"
+    },
+    {
+        "sentence": "[美雪「]::やあぁあっ……いや、そんなものっ……入れちゃだめぇっ……ぁあっ、いやあぁあっ……！」",
+        "translation": "Miyuki「A... A... Không, cái đó... Không được cho vào... A... Không... A...!」"
+    },
+    {
+        "sentence": "[美雪「]::はああぁあっ……入ってくるっ、ああっ冷たくて硬いっ……ぁああっ……！」",
+        "translation": "Miyuki「A... A... Vào rồi... A, lạnh quá, lại còn cứng nữa... A...!」"
+    },
+    {
+        "sentence": "[美雪「]::はうっ……ぁああっ、はああんっ……んんっ……ふぁああっ……だ、だめぇっ……中をっ、掻き回さないでっ……ふぅんっ……」",
+        "translation": "Miyuki「Ư... A... A... Ư... Ư... A... K-Không được... Đừng có ngoáy bên trong... Ư...」"
+    },
+    {
+        "sentence": "[美雪「]::うぁああっ、ダメ、掻き回さないでぇっ……あぁあっ……！」",
+        "translation": "Miyuki「Ư... A... Không được, đừng ngoáy nữa mà... A...!」"
+    },
+    {
+        "sentence": "[美雪「]::あ、ああぁっ…んっ……んぁあっ！　んぅっ、い、いやっ……！　ああぁんっ……いやぁっ……！」",
+        "translation": "Miyuki「A... A... Ư... Ư... A! Ư... K-Không... Dừng lại...! A... Ư... Không...!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁあっ、違うのっ……そんなのっ、だめぇえっ……！」",
+        "translation": "Miyuki「A... A... Không phải vậy... Cái đó... Không được mà...!」"
+    },
+    {
+        "sentence": "[美雪「]::ひっ……ぁああっ、ダメ、やめてぇっ！　抜いて、お願い、それっ、抜いてぇっ……！」",
+        "translation": "Miyuki「Hự... a... a...! Không được, dừng lại đi! Rút ra, xin em, cái đó, rút ra đi...!」"
+    },
+    {
+        "sentence": "[美雪「]::うぐっ……ううっ……い、痛いっ！　そ、そんな無理に押し込まないでっ……うはっぁああっ……！」",
+        "translation": "Miyuki「::Ư... Ư... Đau! Đừng, đừng có cố ép vào như vậy... Ưh-áaaaaaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::お願い、そこはっ……お尻は許してぇっ！　お願い、お尻なんてっ……ああっ、ダメぇっ……！」",
+        "translation": "Miyuki「Làm ơn, chỗ đó... hãy tha cho cô cái mông đi mà! Làm ơn, cái mông thì... aaaa, không được đâu...!」"
+    },
+    {
+        "sentence": "[美雪「]::なっ……何を言うのっ！　そんな、そんな事ありませんっ、バカな事言わないでっ……！」",
+        "translation": "Miyuki「Cái... Em đang nói cái gì vậy! Không, không có chuyện đó đâu, đừng có nói ngu ngốc như thế......!」"
+    },
+    {
+        "sentence": "[美雪「]::そ、そんな事、するはずないでしょう？！　お願いっ、もうやめて、いい加減にしてぇっ……！！」",
+        "translation": "Miyuki「::C-Cô không thể nào làm chuyện đó được?! Làm ơn, dừng lại đi, đủ rồi đấy......!!」"
+    },
+    {
+        "sentence": "[美雪「]::嘘、嘘よっ……！　そんな、私お尻で気持ち良くなんて、なってませんっ……！」",
+        "translation": "Miyuki「::Không, không phải đâu...! Không có chuyện đó, cô không hề cảm thấy khoái cảm bằng mông đâu...!」"
+    },
+    {
+        "sentence": "[美雪「]::違う、そんなの違いますっ……！　私、お尻なんか気持ち良くありませんっ……うぅっ……もうやめてぇっ……！」",
+        "translation": "Miyuki「::Không, không phải như vậy đâu...! Cô không hề cảm thấy khoái cảm ở mông đâu... Ư... Dừng lại đi...!」"
+    },
+    {
+        "sentence": "[美雪「]::いやああっ、やめて、やめてぇえええっ！　お願い、お尻のを抜いて、お願いっ……ぁああっ……！」",
+        "translation": "Miyuki「::Không... Aaaaa, dừng lại, dừng lại đi! Làm ơn, rút cái đó khỏi mông cô ra, làm ơn... Aaaaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁあああっ……！　ああっ、お尻がっ、お尻があぁああっ……ああっ、だめ、お尻壊れちゃう、捻られてちぎれちゃうぅうっ……！」",
+        "translation": "Miyuki「::Haaaaaaa...! Aaaa, mông của cô, mông của cô aaaaaa... Aaaa, không được, mông cô hỏng mất, bị vặn xoắn đến đứt ra mất thôi...!」"
+    },
+    {
+        "sentence": "[美雪「]::あひぃいいいっ……！　ふぁああっ……あああっ……」",
+        "translation": "Miyuki「Ư ư ư ư... Aaaa... Aaaaaaa...」"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ……何をっ……うぅっ……！？」",
+        "translation": "Miyuki「::Aaa... Em... Em làm cái gì vậy... Ư...!?」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁっ、んんっ、んっ……あ、やぁっ、ああっんんっ……！　あぁっ…入ってっ……くるぅ……っ……あぁあっ、ふぁっ、あぁああんっ！」",
+        "translation": "Miyuki「Ư... ưm... ư... A, ya... Aaa ư ư...! Aaa... Vào... vào sâu... Aaaa, ư, aaaaaaa!」"
+    },
+    {
+        "sentence": "[美雪「]::んぅっ、は、あぁっ！　んっ、うぅあっ！　くぁっ、ああっ……奥が…っ、ぅくっ、んんぅっ、お、お腹の奥までっ、ああっ……届いてる！」",
+        "translation": "Miyuki「Ư... ha... Aaa! Ư... uuu aaa! Khaa... Aaa... Sâu quá... Ư... ư ư... O... Đến tận sâu trong bụng... Aaa... Tới rồi!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ、はぁんっ、んぁっ、あぁんっ！　ぅああっ、だめぇっ……ああっ、奥まで突いちゃだめぇっ……！　ふぁっ、あああぁっ！」",
+        "translation": "Miyuki「::Aaa... Haa... Ư... Aaa! Ư aaa... Không được... Aaa, đừng đâm sâu quá... Không được mà... Aaa, aaaaa!」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁああっ……だめ、グリグリされたらっ……ふあぁあっ……だめ、こすれてる、オッパイもこすれちゃってるぅっ……はぁああんっ！」",
+        "translation": "Miyuki「Ư... Không được, nếu em cứ xoay xoay thế này... Ư... Không được, cọ xát rồi, cả ngực cô cũng bị cọ xát nữa... Haaa...」"
+    },
+    {
+        "sentence": "[美雪「]::はぁっ……うぅっ、んぅっ、ぅああっ……だ、だめえっ……もうやめてっ、許してぇっ……ゴリゴリしちゃだめぇっ……！」",
+        "translation": "Miyuki「Haa... Ư... ư... Ư aaa... K-Không được... Dừng lại đi mà... Xin em đấy... Đừng có chà xát nữa mà...!」"
+    },
+    {
+        "sentence": "[美雪「]::あんっ、ああっ……ダメなの、オッパイこすれてっ……切なくなっちゃうっ……うぅんっ……あぁあっ！」",
+        "translation": "Miyuki「Ư... Aaa... Không được mà, ngực cô đang bị cọ xát... Cô thấy khó chịu quá... Ư... Aaa!」"
+    },
+    {
+        "sentence": "[美雪「]::あぅぅっ……！　うぅっ、んっ、んぅぅっ……！　はぅっ……！　あぁ、あぁあっ！」",
+        "translation": "Miyuki「A... ư... Ư... ư... ư ư...! Haa...! A... Aaa!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁんっ」",
+        "translation": "Miyuki「Aaa...」"
+    },
+    {
+        "sentence": "[美雪「]::ぅあぁっ！　あぁっ、オッパイにっ、響くのぉっ……！　あぁっ……オッパイ揺れてっ……んんぅっ、っく、はぁっ、あぁぅっ…！」",
+        "translation": "Miyuki「Ư aaa! Aaa, nó thấm vào tận ngực cô... Aaa... Ngực cô rung rồi... Ư ư... Khụ, ha... Aaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::ああっ……くあぁぁっ…オッパイっ……ぁあっ……オッパイゆれちゃうっ……ぁあっ、ズンズンってっ…響いちゃうぅっ！」",
+        "translation": "Miyuki「Aaa... Kuaaa... Ngực cô... Aaa... Ngực cô rung hết cả lên rồi... Aaa, cứ thình thịch... Nó vọng cả vào ngực cô...!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……オッパイだめ、ああっ……だめえっ！　おかしくなっちゃう、オッパイで狂っちゃぅっ！」",
+        "translation": "Miyuki「Aaa... Ngực cô, không được mà, aaa... Không được! Cô sắp phát điên mất, cô sẽ phát cuồng vì ngực mất!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁああっ……だめぇっ、ああっオッパイ搾っちゃだめぇっ……くふうんっ……はぁあぁっ！」",
+        "translation": "Miyuki「Haaa... Không được... Aaa, đừng bóp ngực cô mà... Khư... Ư aaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::ああっ……！　だめ、それ以上はダメっ……ぁああっ……オッパイ変になっちゃう、気持ち良くって変になるうっ……！」",
+        "translation": "Miyuki「Aaa...! Không được, đừng có làm nữa... Aaa... Ngực cô lạ lắm, sướng quá nên nó cứ kỳ kỳ...！」"
+    },
+    {
+        "sentence": "[美雪「]::はああぁあん……ぁああっ、オッパイ切ないの、そんな風にされたらっ……お乳でちゃう、また噴いちゃうぅッ……！」",
+        "translation": "Miyuki「Haaa... Aaa, ngực cô khó chịu quá, em làm thế này thì... Sữa chảy mất, lại sắp phun trào rồi...!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁあっ……出ちゃう、オッパイからっびゅううって出ちゃうっ！」",
+        "translation": "Miyuki「Aaa... Ra mất, từ ngực cô... vút một cái là ra ngay!」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁっ……ああぁっ……！　やっ、だめっ…だめぇっ！　そんなっ、強く揉まないでっ！　ぅあぁっ、お乳搾っちゃだめぇっ！」",
+        "translation": "Miyuki「Hự... Aaa...! Không, đừng mà... Đừng mà! Đừng có... mạnh tay như thế! Ư aaa, đừng có vắt sữa cô mà!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああっ、ぁああっ……！　もうだめ、出ちゃう、オッパイからミルクでちゃう、出る、出るうぅうううっ！」",
+        "translation": "Miyuki「Aaa... Aaa...! Hết chịu nổi rồi, ra mất, sữa trào ra từ ngực cô, ra rồi, ra òa mất...!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁはぁああぁああっ……！」",
+        "translation": "Miyuki「A haa... Aaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::はあああぁんっ！　あぁっ！　んっ……ああぁっ、ひぁあぁっ！」",
+        "translation": "Miyuki「Haaa... Aaa! Ư... Aaa, hiaaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああっ、まだ出てるっ……ああっ、お乳まだ出てるっ……ふぁああっ……ああんっ……」",
+        "translation": "Miyuki「Aaa... Vẫn còn ra... Aaa, sữa vẫn còn chảy... Phaa... Aaa...」"
+    },
+    {
+        "sentence": "[美雪「]::はぁ、はぁあっ……ぁあっ……オッパイ、ヌルヌルになっちゃった……ぁあっ……」",
+        "translation": "Miyuki「Haa, haaa... Aaa... Aaa... Ngực cô, trơn tuột hết cả rồi... Aaa...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあんっ……ご、ごめんなさいっ……ああっ、オッパイ噴いて、ごめんなさいぃっ……」",
+        "translation": "Miyuki「A... A xin lỗi... Aaa, ngực cô phun mất rồi, xin lỗi em...!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……はぁぅっ……！　あぁあっ、あはぁぁっ！　ぅあぁっ、か、感じちゃうぅっ……あぁっ、いやぁっ！」",
+        "translation": "Miyuki「Aaa... Haa... Aaa! Aaa, a haaa! Ư aaa, c-cô cảm thấy... Aaa, đừng mà!」"
+    },
+    {
+        "sentence": "[美雪「]::んんっ、んっ、んぅっ！　ああぁっ、ふぁ、んぁあああぁっ！　ふぁっ…んんっ、あああぁっ！」",
+        "translation": "Miyuki「Ưm... Ưm... Ư... Aaa... Hự, ư aaa...! Hự... Ưm... Aaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::あっ、ああぁっ、あぅ、違うのっ！　あぁっ、あ、やぁっ……だめ、勝手にっ、勝手にぃっ……！　お尻が勝手にっ……動いちゃうっ！」",
+        "translation": "Miyuki「A... Aaa... Ư, không phải vậy! Aaa, a, yaa... Không được, tự tiện quá, tự tiện quá đi...! Mông cô tự... Tự động mất rồi!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああっ……違うっ、違うのぉっ……ああっ、お尻動いちゃうっ……ふぁああんっ！」",
+        "translation": "Miyuki「Aaa... Không phải, không phải vậy mà... Aaa, mông cô tự động mất rồi... Phaa...」"
+    },
+    {
+        "sentence": "[美雪「]::そんな事ないのっ……ぁあっ……気持ち良くないっ、気持ち良くなんかないのぉっ……ぁあっ……」",
+        "translation": "Miyuki「Không phải vậy đâu... Aaa... Không sướng đâu, không thể nào sướng được... Aaa...」"
+    },
+    {
+        "sentence": "[美雪「]::ひうぅっ！　はぁっ、あぁんっ！　あっ、ああぁっ、だっ、だめぇっ！　だめぇぇっ……！　ぅあっ、あはぁあっ！」",
+        "translation": "Miyuki「Ư... Haa, aaa! A, aaa, không, không được! Không được...! Ư a, a haaa!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……どうしてっ……ぁあっ……お尻が止まらないのっ……ぁああっ……とまらないのぉっ……」",
+        "translation": "Miyuki「Aaa... Tại sao chứ... Aaa... Mông cô không dừng lại được... Aaaa... Không dừng lại được...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ、だめ、お尻っ……お野菜抜けちゃうっ……うぁあっ……」",
+        "translation": "Miyuki「A... Không được, mông cô... Cây rau củ tuột ra mất rồi... Uwaa...」"
+    },
+    {
+        "sentence": "[美雪「]::だって……ぁあっ……抜けそうなのっ……ふぁああっ……」",
+        "translation": "Miyuki「Bởi vì... Aaa... Cô sắp ra mất rồi... Phaaa...」"
+    },
+    {
+        "sentence": "[美雪「]::そんなっ……残念そうな声なんてっ……ぁあっ、出してっ、ないのっ……ぁあっ……！」",
+        "translation": "Miyuki「Không phải... Cô đâu có... Đâu có thốt ra giọng điệu thất vọng như thế... Aaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁあぁんっ……ああっ、だめ、そんなに激しくしないでっ……ぁあっ……ふぁああっ……！」",
+        "translation": "Miyuki「Haaa... Aaa... Không được, đừng mạnh thế... Aaa... Phaaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……だめ、お尻がっ！　出ちゃう、出てきちゃうっ……！　ああぁっ、お尻っ、出ちゃうっ……！」",
+        "translation": "Miyuki「A... Không được, mông cô...! Sắp ra mất, sắp tuột ra mất rồi...! Aaa, mông cô... Sắp ra mất rồi...!」"
+    },
+    {
+        "sentence": "[美雪「]::ひぁあああっ！　ダメ、漏れちゃう、お尻ぃっ……ぁああああっ……！」",
+        "translation": "Miyuki「Aaaa... Không được, sắp trào ra mất rồi, mông cô... Aaaaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁあっ……そんなっ、出してないのっ……ふぁああっ……！」",
+        "translation": "Miyuki「Á á... Không thể nào... Cô vẫn chưa ra... Aaaah...!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁあっ……ぁあっ……んんっ……！」",
+        "translation": "Miyuki「Haaa... Aaa... Ư... Ưm...!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああっ……また、オチンチンっ……動き始めたっ、ああぁあんっ……お腹の中でオチンチン動いてるっ！」",
+        "translation": "Miyuki「Aaa... Lại nữa rồi, cái dương vật... lại bắt đầu ngọ nguậy... Aaa... Nó đang động đậy trong bụng cô kìa...!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああああっ、だめ、そんなにオマンコ突かれたらっ……あひっ、ひぃっ……ぁあっ、すり切れちゃう、オマンコとけちゃううっ……！」",
+        "translation": "Miyuki「Aaa... Không được, đừng thúc vào âm hộ cô mạnh như thế... Ah... Hức... Aaa... Nó rách mất, lồn cô tan chảy mất... !」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああっ、だめ、中に出しちゃだめぇっ……あぁぁあっ、オマンコの中はダメなのぉっ……ふあぁぁっ！」",
+        "translation": "Miyuki「Aaa... Không được, đừng bắn vào trong... Aaa... Bắn vào trong lồn là không được... Aaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::あはあぁっ……そんなのうそっ、私っ……あぁっ……イヤなのぉっ……はぁあんっ……！」",
+        "translation": "Miyuki「Ah... Ah... Đừng mà... Không phải... Cô... Ah... Không muốn đâu... Haa... !」"
+    },
+    {
+        "sentence": "[美雪「]::ああっ、本当にだめ、だめええっ！　赤ちゃん出来ちゃう、妊娠しちゃうッ……！　それ、だけはっ……あぁ、許してぇえっ！」",
+        "translation": "Miyuki「Aaa... Thật sự là không được mà, không được... ! Em bé sẽ đến mất, cô sẽ có thai mất... ! Chỉ điều đó là... Aaa, xin Em đấy... !」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああん、だってっ……ぁあっ……気持ち良くなっちゃう、擦れてっ……気持ちいいのぉっ……！」",
+        "translation": "Miyuki「Aaa... Nhưng mà... Aaa... Sướng quá đi mất, cọ xát... Thật là sướng quá đi mà...!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……オチンチン抜かなきゃっ、ああっ……中で出すのっ、ダメなのっ……ふぅんっ……」",
+        "translation": "Miyuki「Aaa... Phải rút cái dương vật ra... Aaa... Đừng bắn vào trong... Không được mà... Hừ...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……どうしてっ、どうして抜けないぉっ……あぁぁっ、オチンチン抜かなきゃダメなのにぃっ……ふぁああっ！」",
+        "translation": "Miyuki「Aaa... Tại sao... Tại sao không rút ra được... Aaa... Phải rút cái dương vật ra... Không được bắn vào trong mà... Aaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::いやっ、いやああっ……オチンチン中で出しちゃだめっ、だめええっ……はぁぁああっっ！」",
+        "translation": "Miyuki「Không... Không được... Đừng bắn vào trong dương vật... Không được đâu... Haaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::だ、だめなのにっ……あぁあっ、お腹の奥が熱くなってきちゃう、あぁ、だめぇ、キちゃう、あぁあっ……オマンコきちゃううう！」",
+        "translation": "Miyuki「K-Không được mà... Aaa... Sâu trong bụng Cô nóng quá... Aaa, không được... sắp ra rồi... Aaa... Cái lồn của Cô sắp ra mất...!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁぁあっ、速い、速くて深いのぉっ……おああっ……オチンチン深すぎるうぅうんっ……！」",
+        "translation": "Miyuki「Aaa... Nhanh quá, vừa nhanh vừa sâu... Aaa... Cái dương vật của Em sâu quá... !」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああっ、もうダメ、ふぁああぁっ！　あっ、あぁあっ！　んあぁっ！　あ、んっ、ああぁっ、んはぁっ！　あっ、ぅあぁあっ！」",
+        "translation": "Miyuki「Aaa... hết chịu nổi rồi... Aaa... ! Ah... Aaa... ! Ư... Aaa... ! A... Ư... Aaa... Haa... ! A... Ư... Aaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁぁっ！　くるっ、くるっ！　きちゃうっ！　いやああぁっ！　きちゃうよっ！　あぁああああっ！」",
+        "translation": "Miyuki「Aaa... ! Ra mất, ra mất... ! Sắp ra rồi... ! Không... ! Sắp ra mất... ! Aaaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁああああっ！　あぁあああっ！　あああああぁぁっ！！」",
+        "translation": "Miyuki「Haaaaa... ! Aaaaa... ! Aaaaaa... !!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああっ、熱い、熱い精子がぁあっ……あぁあっ、中でいっぱいっ……ふぁっ！？　あぁあぁあっ！　あふぁあぁああぁっ！！」",
+        "translation": "Miyuki「Aaa... Nóng quá, tinh dịch nóng quá... Aaa... Bắn đầy bên trong... Hự...!? Aaa... Aaa...!! Ư... Ư... Ư...!!」"
+    },
+    {
+        "sentence": "[美雪「]::あふっ……ぁあっ、ダメ、また、またキちゃう、オマンコイッちゃうううっ……！」",
+        "translation": "Miyuki「Ư... Aaa, không được, lại nữa rồi, lại sắp ra nữa rồi, cái lồn của Cô sắp bắn mất... !」"
+    },
+    {
+        "sentence": "[美雪「]::ひぃっ、ああぁあっ！？　あっ、あ、ぁあっ、ああぁっ、んんっ、はぁああっ！」",
+        "translation": "Miyuki「Hiii... Aaaa!? A... A... Aaa... Aaa... Ư... Haaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁああっ……ぁあっ……お腹の中っ……ドロドロでいっぱいっ……ああっ、お腹の中にこんなに出されちゃったっ……ぁあっ……」",
+        "translation": "Miyuki「Haaa... Aaa... Bên trong bụng Cô... Đầy dịch nhầy nhụa... Aaa... Bắn vào bụng Cô nhiều thế này... Aaa...」"
+    },
+    {
+        "sentence": "[美雪「]::はぁ、はぁっ……ぁあ……んんっ……」",
+        "translation": "Miyuki「Haa... Haa... Aaa... Ư...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁ……あぁっ…………ぁ……ぃゃ…………ぃやぁ……っ……」",
+        "translation": "Miyuki「A... Aaa... A... Không... Không...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ…………ごめん、なさいっ……栄司さんっ……ううっ……ごめんなさぃっ…………ううっ……」",
+        "translation": "Miyuki「A... Em xin lỗi... Eiji-san... Ư... Em xin lỗi mà... Ư...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁっ……」",
+        "translation": "Miyuki「A...」\n"
+    },
+    {
+        "sentence": "[美雪「]::っ……うっっ……」",
+        "translation": "Miyuki「Ưm... ưm...」"
+    },
+    {
+        "sentence": "[美雪「]::な、なんでもないのっ、別に、何でもないわっ……」",
+        "translation": "Miyuki「K-không có gì đâu ạ, thật sự, không có gì đâu...」"
+    },
+    {
+        "sentence": "[美雪「]::ち、ちがうのっ、本当になんでもないのっ……！」",
+        "translation": "Miyuki「K-không phải đâu ạ, thật sự không có gì đâu ạ...!」"
+    },
+    {
+        "sentence": "[美雪「]::…………っ……」",
+        "translation": "Miyuki「...... ưm......」"
+    },
+    {
+        "sentence": "[美雪「]::本当に、何でもないの……ただ、最近元気がないんじゃないかって……何かあったのかって心配されて……」",
+        "translation": "Miyuki「Thật sự không có gì đâu em... Chỉ là, thầy ấy lo lắng gần đây cô không được khỏe... rồi hỏi cô có chuyện gì không thôi mà...」"
+    },
+    {
+        "sentence": "[美雪「]::それで……何でもないから、心配しないで、と答えました……」",
+        "translation": "Miyuki「Vậy nên... Cô đã trả lời là không có gì, đừng lo lắng cho cô...」"
+    },
+    {
+        "sentence": "[美雪「]::はい……嘘じゃありません……」",
+        "translation": "Miyuki「Vâng... Cô không hề nói dối...」"
+    },
+    {
+        "sentence": "[美雪「]::わ、私はっ…………！」",
+        "translation": "Miyuki「K-không, cô...!」"
+    },
+    {
+        "sentence": "[美雪「]::そ、それはッ………そんな事は……」",
+        "translation": "Miyuki「K-không, cái đó... Không có chuyện đó đâu...」"
+    },
+    {
+        "sentence": "[美雪「]::平気なんかじゃないわっ！」",
+        "translation": "Miyuki「Cô... Cô không hề ổn chút nào!」"
+    },
+    {
+        "sentence": "[美雪「]::平気なはずないでしょう？！　そんなっ……平気なんかじゃ……うっ……うぅっ……うぁあっ…………」",
+        "translation": "Miyuki「Sao cô có thể ổn cho được chứ?! Không... Cô không hề ổn một chút nào cả... ư... ư... á...」"
+    },
+    {
+        "sentence": "[美雪「]::そんな、そんなのひどすぎるわっ……ぅっ……ううっ……どうしてそんな事を言えるのっ……！」",
+        "translation": "Miyuki「Không, không thể nào, chuyện đó quá đáng lắm rồi... ư... ư... Sao Em có thể nói ra những lời như vậy chứ...!」"
+    },
+    {
+        "sentence": "[美雪「]::えっ……」",
+        "translation": "Miyuki「Hả...?」"
+    },
+    {
+        "sentence": "[美雪「]::えっ……ど、どうしてっ……」",
+        "translation": "Miyuki「Hả...? Sao... sao lại là thầy...?」"
+    },
+    {
+        "sentence": "[美雪「]::それはっ……」",
+        "translation": "Miyuki「Cái đó thì...」"
+    },
+    {
+        "sentence": "[美雪「]::っ……実は…………」",
+        "translation": "Miyuki「Em... Thực ra thì...」"
+    },
+    {
+        "sentence": "[美雪「]::廊下で、偶然廊下で会って、さっきまでは……一緒でした……」",
+        "translation": "Miyuki「...Ở hành lang, chúng ta đã tình cờ gặp nhau ở hành lang, và cho đến vừa nãy... chúng ta vẫn còn... đi cùng nhau...」"
+    },
+    {
+        "sentence": "[美雪「]::そ、それは……廊下で偶然……」",
+        "translation": "Miyuki「Cái đó thì... là ngẫu nhiên ở hành lang...」"
+    },
+    {
+        "sentence": "[美雪「]::あの……栄司さんに呼ばれて……」",
+        "translation": "Miyuki「Đó là... Thầy ấy đã gọi cô...」"
+    },
+    {
+        "sentence": "[美雪「]::そんなっ……いきなりそんなのっ、不自然で余計に心配されます……」",
+        "translation": "Miyuki「Khoan đã... Sao lại đột ngột như vậy chứ... Như thế sẽ rất gượng ép và còn khiến mọi người lo lắng hơn nữa...」"
+    },
+    {
+        "sentence": "[美雪「]::そんな、無茶だわっ、そんな事出来ませんっ……」",
+        "translation": "Miyuki「Chuyện đó... thật vô lý! Cô không thể làm vậy...」"
+    },
+    {
+        "sentence": "[美雪「]::うぅっ……そんなっ……出来もしない事を、押しつけないでっ……」",
+        "translation": "Miyuki「Ưrrgh... Sao lại... Đừng ép cô làm những chuyện không thể mà...」"
+    },
+    {
+        "sentence": "[美雪「]::あっ……三沢君……た、ただの見回りをしていただけです…」",
+        "translation": "Miyuki「Á... Misawa-kun... T-Tôi chỉ đang đi tuần tra thôi ạ...」"
+    },
+    {
+        "sentence": "[美雪「]::それは……もう大体終わって、これから戻るところだから……」",
+        "translation": "Miyuki「Cái đó... gần như đã xong cả rồi, bây giờ cô đang trên đường trở về đây...」"
+    },
+    {
+        "sentence": "[美雪「]::っ…………」",
+        "translation": "Miyuki「...」"
+    },
+    {
+        "sentence": "[美雪「]::この前……言った事……？」",
+        "translation": "Miyuki「Cái chuyện... lần trước cô nói...」"
+    },
+    {
+        "sentence": "[美雪「]::は、はい……会わないように、しています……」",
+        "translation": "Miyuki「Vâng, vâng... Cô... cô đang cố gắng không gặp mặt...」"
+    },
+    {
+        "sentence": "[美雪「]::だって……会えば、自分が辛い思いをするから……」",
+        "translation": "Miyuki「Bởi vì... nếu gặp, bản thân cô sẽ lại đau khổ...」"
+    },
+    {
+        "sentence": "[美雪「]::あっ……ちょ、ちょっと……どこへ……！」",
+        "translation": "Miyuki「Á... Khoan, đi đâu vậy...?」"
+    },
+    {
+        "sentence": "[美雪「]::こ、ここは……」",
+        "translation": "Miyuki「Chỗ, chỗ này là...」"
+    },
+    {
+        "sentence": "[美雪「]::あのっ……さっきからご褒美ご褒美、って……何なの？　何をするの？」",
+        "translation": "Miyuki「Ưm... nãy giờ Em cứ nói 'thưởng', 'thưởng' mãi... Là cái gì vậy? Em định làm gì?」"
+    },
+    {
+        "sentence": "[美雪「]::ほ、奉仕って……一体何をすれば……」",
+        "translation": "Miyuki「Ph-phục vụ... cụ thể là phải làm gì đây ạ...?」"
+    },
+    {
+        "sentence": "[美雪「]::こ、これは…………これを、着なければいけないのっ……？」",
+        "translation": "Miyuki「Cái, cái này là... Cô, cô phải mặc nó sao...?」"
+    },
+    {
+        "sentence": "[美雪「]::わ、分かりました……でも、どこで……」",
+        "translation": "Miyuki「Đã, đã hiểu ạ... Nhưng, ở đâu...?」"
+    },
+    {
+        "sentence": "[美雪「]::っ……でもっ……」",
+        "translation": "Miyuki「Ư... Nhưng mà...」"
+    },
+    {
+        "sentence": "[美雪「]::あの……き、着替え終わりました……」",
+        "translation": "Miyuki「Um... Cô, cô thay đồ xong rồi...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……こんな格好っ……」",
+        "translation": "Miyuki「Á... Cái kiểu ăn mặc này...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ…………」",
+        "translation": "Miyuki「Á... ừm……」"
+    },
+    {
+        "sentence": "[美雪「]::やっぱり、こんなっ……こんな事っ……するんですねっ…………」",
+        "translation": "Miyuki「Cô... cô thật sự là... làm những chuyện như thế này sao...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……」",
+        "translation": "Miyuki「Á... ừm……」"
+    },
+    {
+        "sentence": "[美雪「]::いやっ……こんな恥ずかしい格好でっ……ぁあっ……はぁあんっ……んんっ……んくっ……」",
+        "translation": "Miyuki「Á... Cô, cô không muốn... mặc bộ dạng đáng xấu hổ thế này... Áaaa... Haaann... Nn... Nn...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……いやっ、お尻撫でないでっ……ふぅんっ……んんっ……」",
+        "translation": "Miyuki「Á... Đừng... đừng sờ mông của cô... Ưm... Ưm...」"
+    },
+    {
+        "sentence": "[美雪「]::ち、違うのっ……こんな間近で……ぁあっ……こ、こんな物を……」",
+        "translation": "Miyuki「K-không phải vậy đâu... Ở gần đến thế này... Áaaa... V-với thứ này...」"
+    },
+    {
+        "sentence": "[美雪「]::それに……奉仕って、何をすればいいのか……」",
+        "translation": "Miyuki「Mà còn nữa... phục vụ là, phải làm gì đây ạ...」"
+    },
+    {
+        "sentence": "[美雪「]::そんなっ……舐める、なんて……」",
+        "translation": "Miyuki「Không... Không thể nào... Liếm, sao...」"
+    },
+    {
+        "sentence": "[美雪「]::や、やめて……わ、分かりましたからっ……舐めますから……」",
+        "translation": "Miyuki「Khoan đã... Cô, cô hiểu rồi mà... Cô sẽ liếm mà...」"
+    },
+    {
+        "sentence": "[美雪「]::うぅ……んっ……るっ……ちるっ……」",
+        "translation": "Miyuki「Ưm... Ưm... Ôi... Ôi...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……大きくなった……」",
+        "translation": "Miyuki「Á... Em, em lớn rồi này...」"
+    },
+    {
+        "sentence": "[美雪「]::ち、ちがうのっ……そんな、そんなのじゃないわ……ただ、この前とちょっと違ったから……その……よく分からなくて……」",
+        "translation": "Miyuki「K-không phải vậy đâu... Không, không phải vậy... Chỉ là, lần trước nó hơi khác một chút... Ờm... Cô không hiểu lắm...」"
+    },
+    {
+        "sentence": "[美雪「]::はぁんっ……んむっ……んんっ……くぅっ……ん、んン……れるっ、ちるちろっ……ちゅぺろっ、れろぉぉっ……」",
+        "translation": "Miyuki「Áaa... Ừm... Ưm... Khụ... Ưm, ưm... Ây... Ây ya... Chua... Chua chà... Chua lè lè...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ、いやぁっ……」",
+        "translation": "Miyuki「Á... Không...」"
+    },
+    {
+        "sentence": "[美雪「]::だ、だめぇっ……スカートをもどして…………」",
+        "translation": "Miyuki「Kh-không được ạ... trả lại váy cho cô...」"
+    },
+    {
+        "sentence": "[美雪「]::は、はいっ………んむっ……ンッ、んん……クッ、ン……」",
+        "translation": "Miyuki「Vâng, vâng ạ………ưm………Ưm………Khụ, ưm……」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……んむっ……んちゅっ……ふんんっ……んんっ……」",
+        "translation": "Miyuki「Á... ưm... chụt chụt... ừm... ưm...」"
+    },
+    {
+        "sentence": "[美雪「]::ふぅンッ……んむ、んんっ……ちゅるっ、れろぉ……っ……」",
+        "translation": "Miyuki「Hừm... ưm, ưm... Chụt chụt, lè lè... ực...」"
+    },
+    {
+        "sentence": "[美雪「]::ん、むふぅっ……ちゅ、ぇろ、れろぉ……っ……んふぅ……るろ、チュ…くちゅ、ぺろぉ……っ！」",
+        "translation": "Miyuki「Ưm, aaaa... Chụt... lè lè... ực... Ưm... Ây... Chua... Chua chà, lè lè... ực!」"
+    },
+    {
+        "sentence": "[美雪「]::ひぁあっ……あぁっ……んんっ……」",
+        "translation": "Miyuki「Hức... Aaa... Ưm...」"
+    },
+    {
+        "sentence": "[美雪「]::んふぅっ…………んんっ……う、うぅ……んぷぅ……んぢゅ……ひあっ……ん……ぢゅぷぁ……」",
+        "translation": "Miyuki「Hức... Ưm... Ôi... Ưm... Aaa... Hức... Ưm... Sụt...」"
+    },
+    {
+        "sentence": "[美雪「]::ふぅんっ……んんっ……ちゅっ……ちゅる……んんっ……っうんっ……」",
+        "translation": "Miyuki「Hừm... Ưm... Chụt... Chụt... Ưm... Ừm...」"
+    },
+    {
+        "sentence": "[美雪「]::んっ、ふっうぅんっ……はぁっ……んんっ……ぴちゅ……ぁあっ……！」",
+        "translation": "Miyuki「Ưm, ừm... haaah... ngnh... chít... aaaaah...!」"
+    },
+    {
+        "sentence": "[美雪「]::うんんっ、ん、ふぅんんっ……っ！　ちゅ、れろ、ぇろぉ……ぴちゃ……じゅぶっ！」",
+        "translation": "Miyuki「Ưm... ngnh... fhuuuhnnh... ực! Chu, lẹlẹ, ẹlọòò... pẹc... phụt!」"
+    },
+    {
+        "sentence": "[美雪「]::ふむんんっ……んんっ、ンンッ、んむぅぅっ……」",
+        "translation": "Miyuki「Ưm... ưm... ngnh... ừm....」"
+    },
+    {
+        "sentence": "[美雪「]::んんんっ……ふんんっ……っむっ……ぴちゅっ……むちゅっ……んんっ……」",
+        "translation": "Miyuki「Ưm... ừm... ực... chít... ừm... ngnh...」"
+    },
+    {
+        "sentence": "[美雪「]::うぅんっ……はぁんっ……ぅくっ……んっ……ぺろ、れろ……ぅんんっ、ぺろ……」",
+        "translation": "Miyuki「Ưm... haaah... ực... ngnh... liếm, liếm... ưm, liếm...」"
+    },
+    {
+        "sentence": "[美雪「]::んむううっ……ふぁあっ……やッ……ぁあっ……！」",
+        "translation": "Miyuki「Ưm... haa... ư... aaaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……な、何をするのっ……ぁあっ……いやぁあっ……何をっ……はぁあん……」",
+        "translation": "Miyuki「Aaa... E-em đang làm gì vậy...? Aaa... Khôngg...! Em đang làm gì vậy...? Haaahh...!」"
+    },
+    {
+        "sentence": "[美雪「]::いやっ、そんな物、そこに入れないでぇっ……ぁあっ、いやぁあっ……！」",
+        "translation": "Miyuki「Không! Đừng có đưa thứ đó vào đó mà...! Aaa, khônggg...!」"
+    },
+    {
+        "sentence": "[美雪「]::今、何をしたのっ……ねぇ、何をしているのっ……おかしな事はやめて、お願いっ……」",
+        "translation": "Miyuki「Em vừa làm cái gì vậy...? Này, em đang làm gì vậy...? Xin em đừng có làm chuyện kỳ quái nữa mà...」"
+    },
+    {
+        "sentence": "[美雪「]::そ、それは……いったい、どういう事なの……？」",
+        "translation": "Miyuki「C-cái đó... là chuyện gì vậy...?」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあああっ……ぁあつ、何、なにをしてるのっ……はぁあんっ……んんっ……！」",
+        "translation": "Miyuki「Aaahh... Aaa, em... em đang làm gì vậy...? Haahnn... Nnnhh...!」"
+    },
+    {
+        "sentence": "[美雪「]::いやぁっ、やめて。何て事をするのっ……！　いやぁああっ……！！」",
+        "translation": "Miyuki「Aaa, đừng mà! Em đang làm gì vậy...? Aaaaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::いゃぁっ……ああっ………んん、お願い、やめてぇっ……ぁあっ……んふうっ……んんっ……！」",
+        "translation": "Miyuki「Aaaahh... Aaahh... Nnnhh, làm ơn, dừng lại đi... Aaaahh... Nnfuuhh... Nnnhh...!」"
+    },
+    {
+        "sentence": "[美雪「]::そ、そんな事ありませんっ……電話で感じてなんてっ……ぁあっ……いませんっ……！」",
+        "translation": "Miyuki「K-không có chuyện đó đâu... Cô không hề cảm nhận qua điện thoại... Aaa... Không có đâu...!」"
+    },
+    {
+        "sentence": "[美雪「]::酷い、そんなのっ……酷いっ……どうしてそこまでっ……酷い事が出来るのっ……いやぁあっ……！」",
+        "translation": "Miyuki「Tàn nhẫn quá, sao lại thế... Tàn nhẫn quá... Tại sao lại có thể... Làm chuyện tàn nhẫn đến mức này... Aaaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::貴方のせいでっ……ぁあっ……こんなになっちゃってるのにっ……ぁあっ……それをっ、そんな言い方っ……うっ……ふんんっ……！」",
+        "translation": "Miyuki「Tại vì Em... aahh... Cô đã trở nên như thế này rồi đấy... Aahh... mà Em lại... nói bằng giọng điệu đó... Uhh... Hmmnn...!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……ふぁあんっ……んっ……いやっ、もうやめてぇっ……！」",
+        "translation": "Miyuki「Aaahh... Faaahnn... Nnnhh... Không, dừng lại đi mà...!」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁあっ、やめて、いやぁああっ……んんっ、んぁああっ……はぁん……っ……ぁっ……！」",
+        "translation": "Miyuki「Faaa, đừng mà, không... aaaa... nnnn... nnaaa... haaann... aahh...!」"
+    },
+    {
+        "sentence": "[美雪「]::お願いっ……こんなの、やめてぇっ……うぅっ……ふぅんっ……！」",
+        "translation": "Miyuki「Làm ơn... đừng làm thế này nữa... Ư... Hmmm...!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁああんっ…んんっ、んぁああっ、いやぁ、いあああっ……んくっ……くうんんっ……！」",
+        "translation": "Miyuki「Haaann... Nnnhh, naaahhh, không, iiiaaahh... nkutt... kuunnnn...!」"
+    },
+    {
+        "sentence": "[美雪「]::そんなっ……すぐっ、やめてくれればっ……いいのにっ、ぁあっんん……はあうっ、んっ、ああっ……！」",
+        "translation": "Miyuki「Không... Nếu Em dừng lại ngay bây giờ thì... tốt biết mấy... Aaaah nnnh... Haa uuh, nnnh, aaaahh...!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……そんな事言われてもっ……あぁっ……電話が震えるとっ……ぁあっ、んはあぁっ……！」",
+        "translation": "Miyuki「Aaa... Dù Em có nói gì đi nữa... Aaa... Khi điện thoại rung lên... Aaa, Nnhhaaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::そ、そんなっ……！　そんなの、困りますっ……ぁあっ……だめぇっ……！」",
+        "translation": "Miyuki「K-không... như vậy... thật là khó xử lắm ạ... Aaa... không được mà...!」"
+    },
+    {
+        "sentence": "[美雪「]::わ、分かりましたっ……ふんっ……んんっ……」",
+        "translation": "Miyuki「V-Vâng, đã hiểu ạ... Hừm... Nnnn...」"
+    },
+    {
+        "sentence": "[美雪「]::はむっ……ぁん……んっ…れろっ……ぁ…ぺろっ…ちゅっ……んぁ……ちゅぷ……っん……ちゅぽっ…ふむぅぅ……」",
+        "translation": "Miyuki「Ham... aaan... nn... rero... aa... pero... chụtt... naaa... chụpp... nn... chụpoo... fumuuuu...」"
+    },
+    {
+        "sentence": "[美雪「]::んっ……ぴちゅっ……ちゅっ…んっ……ふぅ……ぁ…ぺろっ、れろっ……くちゅっ……んっ…はぁ……んちゅっ……あぁぁ……」",
+        "translation": "Miyuki「Nnnh... Pịuchu... Chụt... Nnnh... Phù... Aa... Liếm liếm... Lè lè... Kụchu... Nnnh... Haà... Nchụt... Aaaà...」"
+    },
+    {
+        "sentence": "[美雪「]::んふっ……あぁあっ……ふぅん……ぺろっ……ちゅっ、じゅぷっ……んっ……はぁ……れろっ……」",
+        "translation": "Miyuki「Nnfuh... Aaaahh... Fuunh... Liếm liếm... Chụt, chụpp... Nnnh... Haa... Lè lè...」"
+    },
+    {
+        "sentence": "[美雪「]::うむぅっ……ぐぽ、ぢゅっ、んぢゅっ……むんっ、ぢゅっ………ううんっ……っ」",
+        "translation": "Miyuki「Ưm... Guppo, chụt, njut... Mun, chụt... Uuunh...」"
+    },
+    {
+        "sentence": "[美雪「]::ふんんんんっ！　んんん、むぅうううんっ……！」",
+        "translation": "Miyuki「Hừmmmm! Ưm, ừmmmmmm...」"
+    },
+    {
+        "sentence": "[美雪「]::んっ……んんっ……はっ…れろっ……ぅん……ちゅぷっ……ぴちゅ……あ……はんん…っ……れろっ……」",
+        "translation": "Miyuki「Nnnh... Nnnnh... Ha... Rero... Uunh... Chup pu tt... Pichuu... A... Haan nh... Nnhh... Rero...」"
+    },
+    {
+        "sentence": "[美雪「]::ふぅんっ……んっ……むっ…んんっ……んっ…っ……っふっ…んっ……んんっ……！」",
+        "translation": "Miyuki「Hừm... Nnnh... Mừm... Nnnn... Nnnh... A... Fuh... Nnnh... Nnnn...!」"
+    },
+    {
+        "sentence": "[美雪「]::むんんっ……んふっ……うんっ………くちゅ、ぴちゅ、んぽっ、ぷちゅうぅ……ふむぅんんっ、んふ、ふぅぅっ……！」",
+        "translation": "Miyuki「Ưm... Hmph... Ưn... Kụchu, pịchu, npo, pụchuuu... Humuuunnn, hmph, fuuuu...」"
+    },
+    {
+        "sentence": "[美雪「]::っ、んっ……んぶっ、んっ、じゅっ、あふっ……むっ、ンッ、んんんっ……うんんっ……！」",
+        "translation": "Miyuki「Ư, ừm... ừm... ừm, chụt, ừm, ừm, ừm, ừm... ừm... ưm...」"
+    },
+    {
+        "sentence": "[美雪「]::ふんむっ！　むんっ、むんっ！　んむううぅぅぅぅっ！」",
+        "translation": "Miyuki「Phù phù! Mút mút! Ưm ùmmmmmmmmmm!」"
+    },
+    {
+        "sentence": "[美雪「]::んんんっ……んっ、うんんんっ……！」",
+        "translation": "Miyuki「Ưm... Ưm, ưm ưm...」"
+    },
+    {
+        "sentence": "[美雪「]::んむううんっ……んっ、んんっ……ふぅんんっ、んんっ……！」",
+        "translation": "Miyuki「Ưm ùmmm... Ưm, ưm... Phùnnn, ưm...」"
+    },
+    {
+        "sentence": "[美雪「]::くんっ……んんっ……んぐっ……！」",
+        "translation": "Miyuki「Ngún... Nnn... Ngụk...!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁっ……ふうぅんっ……ぅっ、うっ……ああっ…っ…ううっ……うっ」",
+        "translation": "Miyuki「Haa... Fuuun... Ư, ừm... Aaahh... Ưu, ừm...」"
+    },
+    {
+        "sentence": "[美雪「]::はぃっ……んんっ……ぁあっ……」",
+        "translation": "Miyuki「Hây... Ưm... Áaahh...」"
+    },
+    {
+        "sentence": "[美雪「]::っ……んんっ……はぁあっ……」",
+        "translation": "Miyuki「Ư... ưm... haa...」"
+    },
+    {
+        "sentence": "[美雪「]::あ、ありがとう、ございます……」",
+        "translation": "Miyuki「Ah, cảm ơn, người...」"
+    },
+    {
+        "sentence": "[美雪「]::え、ええっ……」",
+        "translation": "Miyuki「Ơ, ơ...?」"
+    },
+    {
+        "sentence": "[美雪「]::っ……うっ……ぅっ……」",
+        "translation": "Miyuki「Hức... ư... hức...」"
+    },
+    {
+        "sentence": "[美雪「]::実は……この間っ……天文部室の時に……私の電話からの着信があったのに、何度電話しても通じなかった事で、栄司さんが変に思っていて……」",
+        "translation": "Miyuki「Thật ra thì... hôm trước... lúc ở phòng câu lạc bộ thiên văn... có một cuộc gọi đến từ điện thoại của cô, nhưng Eiji gọi lại bao nhiêu lần cũng không được, nên anh ấy đang thấy có gì đó kỳ lạ...」"
+    },
+    {
+        "sentence": "[美雪「]::ついさっきも、色々と聞かれて……どうしていいか分からなくって、逃げてしまったのっ……うぅっ……きっとまた、疑われるわっ……！」",
+        "translation": "Miyuki「Vừa mới nãy, cô lại bị hỏi đủ thứ chuyện... Cô không biết phải làm sao nên đã chạy đi mất... Ư... Chắc chắn là cô lại bị nghi ngờ nữa rồi...!」"
+    },
+    {
+        "sentence": "[美雪「]::うぅっ……日が経つにつれてっ……どんどん、自分が栄司さんを裏切ってる事が苦しくなってっ……もう、限界なのっ……！」",
+        "translation": "Miyuki「Ư... ư... Càng ngày càng trôi qua... nỗi khổ vì đã phản bội Eiji lại càng dày vò cô... Cô không thể chịu đựng thêm được nữa rồi...!」"
+    },
+    {
+        "sentence": "[美雪「]::お願いっ、もうこんな事終わりにしましょう……これ以上、栄司さんをごまかし続けるなんて……嫌なの、私には無理だわっ……！」",
+        "translation": "Miyuki「Làm ơn đi, chúng ta hãy kết thúc chuyện này đi thôi... Cô không thể tiếp tục lừa dối Eiji-san nữa đâu... Cô không muốn thế, cô không chịu nổi nữa đâu...!」"
+    },
+    {
+        "sentence": "[美雪「]::そ、それはそうかも知れないけど……でもっ……うぅっ……こんな事を続けるのは、もうっ………」",
+        "translation": "Miyuki「T-thì... đúng là vậy... nhưng... ư... Tiếp tục thế này... Cô không thể... nữa rồi...」"
+    },
+    {
+        "sentence": "[美雪「]::えっ……？　そ、それはどういう……」",
+        "translation": "Miyuki「Ể...? Ý... ý em là sao...?」"
+    },
+    {
+        "sentence": "[美雪「]::こんなっ……こんな所でまた、着替えるんですかっ……」",
+        "translation": "Miyuki「C-cái này... Lại phải thay đồ ở một nơi như thế này sao...?」"
+    },
+    {
+        "sentence": "[美雪「]::わ、分かりました…………」",
+        "translation": "Miyuki「Vâng... cô hiểu rồi ạ...」"
+    },
+    {
+        "sentence": "[美雪「]::着替えました……」",
+        "translation": "Miyuki「Cô... cô đã thay xong rồi ạ...」"
+    },
+    {
+        "sentence": "[美雪「]::いゃっ……そんな目で見ないでぇ……」",
+        "translation": "Miyuki「Á... Đừng nhìn cô bằng ánh mắt đó...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……やめてっ、お願いだからっ……ああっ！」",
+        "translation": "Miyuki「Á... Đừng mà, làm ơn... Á!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……だめ、動けないっ……」",
+        "translation": "Miyuki「A... Không được, cô không cử động được...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……いやっ、お願い外してっ……痛いのっ……んんっ……！」",
+        "translation": "Miyuki「Á... không, làm ơn cởi cho cô... Đau lắm... ưm...!」"
+    },
+    {
+        "sentence": "[美雪「]::うぅっ……だめっ……見ないで、お尻見ないでぇっ……！」",
+        "translation": "Miyuki「Ư... Không được... Đừng nhìn, đừng nhìn mông cô mà...！」"
+    },
+    {
+        "sentence": "[美雪「]::やぁあっ、見ないでぇっ……お願い、お願いよぉっ……！」",
+        "translation": "Miyuki「Á... đừng nhìn mà... Cô xin em, xin em đó...！」"
+    },
+    {
+        "sentence": "[美雪「]::そ、そんな恥ずかしい事っ、言わないで……お願い、お尻を見ないで、もうやめてっ……！」",
+        "translation": "Miyuki「K-Không, đừng có nói những chuyện xấu hổ như vậy... Cô xin em, đừng có nhìn mông cô, dừng lại đi mà...！」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ、だめ、そっちもダメぇっ……はぁあっ……ひゃうんっ……！」",
+        "translation": "Miyuki「A...ư... Không được, cả chỗ đó cũng không được... Hộc... hộc... Hyaaa...ư...！」"
+    },
+    {
+        "sentence": "[美雪「]::ち、ちがうわっ、それは、ただ触られて反応してるだけっ……んんっ……はぁあんっ……！」",
+        "translation": "Miyuki「K-Không phải! Đó chỉ là phản ứng khi bị chạm vào thôi... Ưm... Haaang...！」"
+    },
+    {
+        "sentence": "[美雪「]::や、やめてぇっ、オッパイ揉んじゃダメ、ダメなのぉっ……！」",
+        "translation": "Miyuki「K-Không, dừng lại đi mà, đừng có bóp ngực cô, không được, thật sự không được mà...！」"
+    },
+    {
+        "sentence": "[美雪「]::そんなっ……酷いっ……はぁあんっ……！」",
+        "translation": "Miyuki「Không thể nào... Tệ quá... Haa... ư...！」"
+    },
+    {
+        "sentence": "[美雪「]::はぅんっ……んんぅ……酷いっ……そんな言い方っ……もう、やめてぇっ……」",
+        "translation": "Miyuki「Haa...ư... Ưm... Tệ quá... Sao em lại nói như vậy... Thôi... Dừng lại đi mà...」"
+    },
+    {
+        "sentence": "[美雪「]::はぁあんっ……んっ……ぁあっ、あぁあっ……！」",
+        "translation": "Miyuki「Haaa...ư... Ư... Aaa... Aaaa...！」"
+    },
+    {
+        "sentence": "[美雪「]::ぁはあんっ……そんな事っ……はぁあんっ……ダメ、ダメぇえっ……」",
+        "translation": "Miyuki「Haa... ưm... Chuyện đó... Haa... Không, không được đâu mà...」"
+    },
+    {
+        "sentence": "[美雪「]::んんっ……うぅっ……！」",
+        "translation": "Miyuki「Ưm... ư...！」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……ダメぇっ、ふぁああん、んんっ……やめてぇっ……」",
+        "translation": "Miyuki「Á... Không... Haaa...ưm... Dừng lại đi mà...」"
+    },
+    {
+        "sentence": "[美雪「]::そんな、そんな事言われても嬉しくありませんっ…………うぅっ……」",
+        "translation": "Miyuki「Thật... thật sự không thể vui nổi khi nghe những lời đó đâu... ư...」"
+    },
+    {
+        "sentence": "[美雪「]::きゃふん……！　ぁあっ……お願いっ、もうっ……はぁあんっ……！」",
+        "translation": "Miyuki「Kyafun...! Á... làm ơn đi mà, đủ rồi... Haaan...!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁっんんっ……そ、そこ、そんなにしたらダメ、ダメェッ……」",
+        "translation": "Miyuki「Haaan... Ch-chỗ đó, đừng có làm vậy, không được đâu mà...」"
+    },
+    {
+        "sentence": "[美雪「]::あああああぁっ！　あン、ダメええええええっ！！」",
+        "translation": "Miyuki「Aaaaaaa! Ư ư, không được mà...!!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ、い、いやあっ……い、痛いの、乳首が痛いのぉっ……！！」",
+        "translation": "Miyuki「Aaa... k-không... Đau... Đau quá, đầu nhũ của cô đau quá...!!」"
+    },
+    {
+        "sentence": "[美雪「]::お願い、痛いのっ！　これ、外してっ、お願いっ……！」",
+        "translation": "Miyuki「Làm ơn đi mà, đau quá! Cái này, tháo ra đi, làm ơn...」"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ！　い、痛いのっ！　あン、んん、うぅんっ……」",
+        "translation": "Miyuki「A... Đau! A... ư, ưm, ư...」"
+    },
+    {
+        "sentence": "[美雪「]::はぁんっ、ダメ、とって、それっ、あふっ……お願い、外してぇっ……！」",
+        "translation": "Miyuki「Haa... Không được... bỏ ra... cái đó... aah... Ưm... làm ơn, tháo ra đi...！」"
+    },
+    {
+        "sentence": "[美雪「]::ああっ、それ以上はダメェ、はぁあんっ……乳首ちぎれちゃう、ぁあっ……！」",
+        "translation": "Miyuki「A... không được hơn nữa... haa... ngực... đầu vú rách mất, a...！」"
+    },
+    {
+        "sentence": "[美雪「]::あぁん……はぁっ……」",
+        "translation": "Miyuki「A... ha...」"
+    },
+    {
+        "sentence": "[美雪「]::はぁあんっ……いやぁあ、そっちはっ……！」",
+        "translation": "Miyuki「Ư... Không... Không được chỗ đó...！」"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ……だめっ、入れちゃだめっ、くふぅんっ……！」",
+        "translation": "Miyuki「A... Không... Đừng mà, đừng cho vào... ư...！」"
+    },
+    {
+        "sentence": "[美雪「]::はぁん……だめ、そっちまで虐めないでっ……ぁあっ、やめてぇっ……！」",
+        "translation": "Miyuki「Ư... Không được, đừng hành hạ cô cả chỗ đó nữa... A... Dừng lại...!」"
+    },
+    {
+        "sentence": "[美雪「]::あンッ……あぁっ！　あうっ、ダメ……アソコがっ！　うぅン……や、いやぁあっ……！」",
+        "translation": "Miyuki「Ư... A... Ư... Không... Chỗ đó... Ư... Không, không...！」"
+    },
+    {
+        "sentence": "[美雪「]::くぅんっ！　はあっ……はうっ！　むぐぅぅっ！？　はぁ……はぁぁあっ……！」",
+        "translation": "Miyuki「Ư... Hộc... ư... Mmm...!? Hộc... hộc...！」"
+    },
+    {
+        "sentence": "[美雪「]::お願いっ、ぁあっ……だめ、そんな奥までっ！　あぁぁっ……入れないで、抜いてぇっ、お願いっ……！」",
+        "translation": "Miyuki「Làm ơn đi, aaaa... Không được, đừng có sâu đến thế! Aaaaa... Đừng cho vào nữa, rút ra đi, làm ơn đi...!」"
+    },
+    {
+        "sentence": "[美雪「]::ひぁああっ……！　あっ、ああっ……ダメ、ああんっ……！！」",
+        "translation": "Miyuki「Haaah...! Ah, aahh... Không, aannh...!」"
+    },
+    {
+        "sentence": "[美雪「]::くうっ！　はあっ……はうっ！　うあぁっ！？　はぁ……はぁん！」",
+        "translation": "Miyuki「 Ư... Hộc... ư... Aaaahh!? Hộc... hộc...！」"
+    },
+    {
+        "sentence": "[美雪「]::ぅああぁっ、ダメ、そこっ……ビリビリするの、ダメぇ……！」",
+        "translation": "Miyuki「Ư... Đau... Không, chỗ đó... Đừng có làm nó tê tê như vậy nữa, không cho đâu...!」"
+    },
+    {
+        "sentence": "[美雪「]::ふあぁああぁあっ！　あぁんっ、あぁあぁあぁっ！！」",
+        "translation": "Miyuki「Fuuuaaaah! Aanh, aaaahhh!!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁ、オッパイ震えちゃうっ、いやぁ……ダメ、感じちゃう、はぁああんっ！」",
+        "translation": "Miyuki「Aaa, ngực tôi rung hết cả lên rồi, kh... không được, tôi sắp cảm thấy rồi, haaaannn!」"
+    },
+    {
+        "sentence": "[美雪「]::ひぃんっ……ダメッ、ダメぇっ……感じちゃうの、あぁあっ……ダメ、お乳出ちゃうっ、ミルク噴いちゃうっ……あぁんっ……！」",
+        "translation": "Miyuki「Hiiinn... Không, không được mà... Cô sắp cảm thấy rồi, aahh... Không, sữa sẽ chảy ra mất, sữa sẽ phun ra mất... Aannh...!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁんっ、オッパイ気持ちいいっ！　あ、アソコも変なのっ、お腹の中から熱くなって、あぁっ、はぁあんっ……！」",
+        "translation": "Miyuki「Aaaah, ngực mình thật là dễ chịu! À, chỗ đó cũng lạ nữa, từ trong bụng nóng ran lên, aah, haaann...！」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ、だめ、出るぅ、出ちゃうッ！　オッパイイク、イッちゃうぅ！」",
+        "translation": "Miyuki「Aaah, không, sắp ra rồi, sắp ra rồi! Sữa sẽ chảy, chảy mất rồi!」"
+    },
+    {
+        "sentence": "[美雪「]::ああっ！　出ちゃう！　もうダメッ！　もうダメッ！　ああっ！　あああっ！　あああああああっ！！」",
+        "translation": "Miyuki「Aaaah! Sắp ra rồi! Không thể chịu được nữa rồi! Không thể chịu được nữa rồi! Aaaah! Aaaahh! Aaaaaaaaaah!!」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁあああっ！　出ちゃったあっ！　出ちゃったあっ！　あああああああああっ！」",
+        "translation": "Miyuki「Faaaaah! Ra rồi! Ra rồi! Aaaaaaaaaah!!」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁあああああっ！　ああっ、ゃああああああっ！！」",
+        "translation": "Miyuki「Faaaaah! Ra rồi! Aaaah, ra rồi!!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ、まだ出てるぅぅっ！　オッパイ出てる、止まらないのぉ……あぁん、出ちゃってるううぅぅっ！」",
+        "translation": "Miyuki「Aaaah, vẫn còn chảy nữa! Sữa vẫn đang chảy, không dừng lại được... Aaaahn, ra mất thôi...！」"
+    },
+    {
+        "sentence": "[美雪「]::いいっ！　あン、ふぁああい、あああああっ……！」",
+        "translation": "Miyuki「Thích quá! Ư, faaaai, aaaaaaaah……！」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁあっ……はぁあっ……んんっ……」",
+        "translation": "Miyuki「Haaa... Haaa... Ưm...」"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ……オッパイだけじゃなくて、アソコからもっ……はぁんっ……何か出ちゃった……んんっ……」",
+        "translation": "Miyuki「Aaaah... Không chỉ có ngực, mà cả chỗ đó nữa... Haaan... Cái gì đó vừa ra rồi... Ưm...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……はぁあっ…………」",
+        "translation": "Miyuki「Aaaah... Haaa...」"
+    },
+    {
+        "sentence": "[美雪「]::あぁん……そんなっ……奴隷体質だなんて、そんなぁっ……」",
+        "translation": "Miyuki「Aa... Không... Nô lệ thể chất gì chứ, không thể nào...」"
+    },
+    {
+        "sentence": "[美雪「]::でもっ……ぁあっ……気持ち良くなっちゃった、お乳とアソコがいっぱい気持ち良くなっちゃったぁっ……」",
+        "translation": "Miyuki「Nhưng mà... Aaa... Sướng quá... ngực và chỗ đó của cô sướng quá trời...」"
+    },
+    {
+        "sentence": "[美雪「]::あぁあっ……プレゼント……？」",
+        "translation": "Miyuki「Aaa... Quà tặng...?」"
+    },
+    {
+        "sentence": "[美雪「]::はぁああんっ……！　あぁああっ！！」",
+        "translation": "Miyuki「Haaaaan...! Aaaa!!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ、オチンチン入ってきちゃったっ、すっごく硬い、硬いの入ってきたぁっ……！」",
+        "translation": "Miyuki「Aaa... Dương vật của em đã chui vào rồi... cứng quá, thứ cứng đó đã vào trong rồi...！」"
+    },
+    {
+        "sentence": "[美雪「]::あンッ……あぁっ！　あうっ……はぁあぁっ……！」",
+        "translation": "Miyuki「Ưn... Aaa! A-a... Haaah...!」"
+    },
+    {
+        "sentence": "[美雪「]::んくぅっ、あぁ、激しいっ……あぁっ、そ、そんなに激しくしないでぇっ……くぅうんん！」",
+        "translation": "Miyuki「Ưn... Aaa, mạnh quá... Aaa, đừng... đừng có mạnh như vậy mà... Ưn ừn!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ！　ダメ、奧を突かないでっ……！　ぁあん、感じすぎちゃう、だめぇええっ……！」",
+        "translation": "Miyuki「Aaa! Đừng... đừng có đâm sâu vào trong...! Aaaan, cô/tôi thấy quá kích thích rồi, không được đâuuu...!」"
+    },
+    {
+        "sentence": "[美雪「]::ああンッ、いやあっ……そこはダメッ、ダメなのっ……！　ぁあっ、やめてっ、っ、やめ、て……んぁあああっ！」",
+        "translation": "Miyuki「Aaah, không, không...! Chỗ đó không được! Không được đâu...! Aaah, dừng lại đi, dừng lại đi... Nnngaaah!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……何っ、何がっ……ぁあっ……いやあっ、人がいるっ……！」",
+        "translation": "Miyuki「A... Cái gì... Chuyện gì vậy...? A... Không... Có người...!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああっ、ダメっ、こんなところにいたらっ……ダメよ、見られちゃうっ……！」",
+        "translation": "Miyuki「Aaah, không được, nếu cứ ở chỗ này... Không được, sẽ bị thấy mất...!」"
+    },
+    {
+        "sentence": "[美雪「]::ええっ……！？」",
+        "translation": "Miyuki「Hả...!?」"
+    },
+    {
+        "sentence": "[美雪「]::ぁっ……あれは……」",
+        "translation": "Miyuki「A... Kia là...」"
+    },
+    {
+        "sentence": "[美雪「]::そ、そんなっ……あれ、は……栄司さん……？」",
+        "translation": "Miyuki「K-Không thể nào... Cái đó... là... Eiji-san...?」"
+    },
+    {
+        "sentence": "[美雪「]::あ、あれは…………」",
+        "translation": "Miyuki「A, kia là...」"
+    },
+    {
+        "sentence": "[美雪「]::そんなっ……いえ、栄司さんがそんな事はっ……」",
+        "translation": "Miyuki「Không thể nào... Không, Eiji không thể nào làm chuyện đó...」"
+    },
+    {
+        "sentence": "[美雪「]::っ……！？」",
+        "translation": "Miyuki「Ư...!?」"
+    },
+    {
+        "sentence": "[美雪「]::そんなっ……どうしてっ……！？」",
+        "translation": "Miyuki「Không thể nào... Tại sao...!?」"
+    },
+    {
+        "sentence": "[美雪「]::栄司さんがあんな事っ……どうしてっ……！」",
+        "translation": "Miyuki「Không... Eiji lại làm chuyện đó... Tại sao chứ...!」"
+    },
+    {
+        "sentence": "[美雪「]::う、うそっ……こ、こんなの嘘よっ……きっと何かお話ししているだけっ……！」",
+        "translation": "Miyuki「Không... Không thể nào... Chuyện này là giả dối...! Chắc hẳn họ chỉ đang nói chuyện gì đó thôi...!」"
+    },
+    {
+        "sentence": "[美雪「]::っっ…………！？」",
+        "translation": "Miyuki「Ư...!?」"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ……！？」",
+        "translation": "Miyuki「Á...!」"
+    },
+    {
+        "sentence": "[美雪「]::そんなっ……どうして……どうしてぇっ……！」",
+        "translation": "Miyuki「Không... Sao lại thế này... Sao lại có thể chứee...！」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁあああっ……ぁあっ、いやぁっ……だめ、だめぇっ……！」",
+        "translation": "Miyuki「Faaaahh... Aah, không... Không được, không được màaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ、だめっ……ぁああっ、やぁああっ……！」",
+        "translation": "Miyuki「Aaah, không... Aaaah, không chịuuu...!」"
+    },
+    {
+        "sentence": "[美雪「]::そ、そんなっ、私はっ……ああっ……はぁあんっ……んん、んぁあっ……！」",
+        "translation": "Miyuki「Không, không thể nào! Cô đâu có... Aahh... Haaahh... ưm, ưaaahh...!」"
+    },
+    {
+        "sentence": "[美雪「]::栄司、さんが……私を……裏切っていた……？」",
+        "translation": "Miyuki「Eiji, anh ấy... đã phản bội cô sao...?」"
+    },
+    {
+        "sentence": "[美雪「]::他の……女……？」",
+        "translation": "Miyuki「...Một người... phụ nữ khác...?」"
+    },
+    {
+        "sentence": "[美雪「]::あっ、あぁ、はぁん……オチンチンがっ、アソコに、オマンコの奧に来てるっ……！」",
+        "translation": "Miyuki「Ah, ah, haaaan... Dương vật... ở đó, sâu trong âm đạo của cô...！」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……奥まで来てるっ、オマンコの奥までっ……ぁあっ！　オチンチンッ、奥まで来ちゃってるぅっ！」",
+        "translation": "Miyuki「Áh... nó đã vào sâu bên trong, sâu bên trong âm đạo của cô... Áh! Dương vật, nó đã vào sâu bên trong rồi!」"
+    },
+    {
+        "sentence": "[美雪「]::ああっ、オチンチン、あぁん……オチンチンいいっ、、栄司さんのじゃないのにっ……感じちゃう、マンコがいっぱい感じちゃうのぉっ！」",
+        "translation": "Miyuki「Ah, dương vật, ahhh... Dương vật tuyệt quá... Đây không phải là của Eiji mà... Cô thấy rồi, âm đạo của cô đang cảm nhận thật nhiều!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁあっ、ぁあっ……んぁああっ、いいのっ、オマンコ気持ちいいっ、あぁっ！」",
+        "translation": "Miyuki「Áh... ah... Nn... ah... Không sao đâu... Âm đạo của cô đang sướng quá, áh!」"
+    },
+    {
+        "sentence": "[美雪「]::あはぁあん、もっと、もっとオマンコ気持ち良くしてぇっ……！　お願いっ、もっと突いて、ぁあっ！」",
+        "translation": "Miyuki「Ahhh, hơn nữa, làm cho âm đạo của cô sướng hơn nữa đi...! Làm ơn, đâm mạnh hơn nữa, áah!」"
+    },
+    {
+        "sentence": "[美雪「]::ひん！　ひぁあっ！　ぁあっ、だめ、もっと、もっと突いてっ！　オチンチン、もっと突いてぇっ！　子宮まで突いて、捏ね回してぇ！」",
+        "translation": "Miyuki「Hức! Hiaah! Áah, không... hơn nữa, đâm mạnh hơn nữa đi! Dượng vật, đâm mạnh hơn nữa đi! Đâm tới tận tử cung, nhào nặn nó đi!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁ、だめっ、オッパイ潰れちゃう！　オッパイ、グリグリって潰れて、オッパイがまた気持ち良くなっちゃうぅ！」",
+        "translation": "Miyuki「Aah, không được, ngực cô sắp bị ép nát rồi! Ngực, bị ép đến sướng rồi, ngực lại thấy dễ chịu nữa rồi ư!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ、だめぇっ……金網でオッパイ搾られてっ、ふぁああっ……！　またミルク出ちゃう、ビュビュッて飛んじゃうよぉ……！」",
+        "translation": "Miyuki「Áah, không được... Ngực của cô bị ép vào hàng rào, faah...! Sữa lại chảy ra rồi, nó sẽ bắn tung tóe mất...!»"
+    },
+    {
+        "sentence": "[美雪「]::ふぁあん、オッパイいいのっ、ああっ……また気持ち良くなっちゃう、オッパイアクメでミルク噴きながらイッちゃうう！」",
+        "translation": "Miyuki「Faahn, ngực thật sướng, áah... Cô lại thấy dễ chịu rồi sao, cô sẽ đạt cực khoái với ngực rồi sữa sẽ phun ra mất thôi!»"
+    },
+    {
+        "sentence": "[美雪「]::はぁ、あぁっ、出る、出るっ……！　もうダメっ、ミルク噴いてイッちゃう、オッパイイクの、イッちゃうのおっ！」",
+        "translation": "Miyuki「Haa, aah, ra rồi, ra rồi...！Không chịu được nữa rồi, sữa phun ra và cô lên mất, ngực lên mất, lên mất thôi！」"
+    },
+    {
+        "sentence": "[美雪「]::あああっ！　ああ、出ちゃってる、またオッパイが！　オッパイ噴いちゃってるうぅ！　あぁあああああああああっ！！」",
+        "translation": "Miyuki「Aaa! Aaa, ra mất rồi, lại là ngực cô! Ngực phun ra mất rồi! Aaaaaaaaaaa!!」"
+    },
+    {
+        "sentence": "[美雪「]::ああ、出る、オッパイ出るっ！　ああっ！　ああっ！　あああああああっ！」",
+        "translation": "Miyuki「Áah, ra rồi, ngực ra rồi! Áah! Áah! Aaaaaaaaaaaah!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……はぁっ……んんっ……ぁあっ、またオッパイでイッちゃった……ぁあっん……」",
+        "translation": "Miyuki「Aaa... haa... nnn... Aaa, cô lại lên vì ngực rồi... Aaaan...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁはぁああんっ……！　ぁあっ……だめ、今イッたばっかりなのにっ……はぁあっ……そんなの激しくされたら、ぁあっ……！」",
+        "translation": "Miyuki「Aah haaaann...！Aaa... không được, cô mới vừa lên xong mà... Haaah... nếu em làm mạnh như vậy, aaaah...！」"
+    },
+    {
+        "sentence": "[美雪「]::だめ、おかしくなっちゃうっ、また飛んじゃうのぉっ……！」",
+        "translation": "Miyuki「Không được, cô sắp phát điên mất, lại sắp bay mất thôi...！」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……オチンチンっ、イッちゃうのっ……？　ぁあっ……オチンチン爆発させて、お願いっ……ぁあぁっ……！」",
+        "translation": "Miyuki「Aaa... dương vật... em sắp lên rồi sao...? Aaa... làm cho dương vật của em bùng nổ đi, làm ơn đi... Aaah...！」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ、オマンコ、擦れてるっ……ゴリゴリって、擦られてるうっ……！　ああっ、オマンコいいっ、気持ちいいのぉっ……！」",
+        "translation": "Miyuki「Aaah... âm hộ của cô... cọ xát rồi... bị cọ xát mạnh như vậy...!! Aaaah, âm hộ của cô thích lắm, dễ chịu quá đi...!!」"
+    },
+    {
+        "sentence": "[美雪「]::んんっ……ぁあっ、オッパイイッたばっかりなのに、オマンコもイッちゃう、ぁああっ、イク、イッちゃううう！」",
+        "translation": "Miyuki「Ưm... Aaaah, cô vừa lên xong với cặp núi đôi, thế mà âm hộ cũng sắp lên rồi, aaaaah, lên, sắp lên rồi ưuuu!」"
+    },
+    {
+        "sentence": "[美雪「]::きゃあああああっ！　ああっ、ぁあぁぁあああっーーーーッ！！」",
+        "translation": "Miyuki「Kyaaaaaaah! Aaaah, aaahh aaaaaahーーーーッ!!」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁああっ……ぁあっ、はぁあああんっ……あああっ！！」",
+        "translation": "Miyuki「Haaah... Aaaah, haaaanghh... Aaaah!!」"
+    },
+    {
+        "sentence": "[美雪「]::……んはぁ、っ、あ、熱い……お腹が熱いっ……！　ああぁああっ……！！」",
+        "translation": "Miyuki「...Haaa... ưm... a, nóng quá... Bụng cô nóng quá đi...!! Aaaahhh...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……すごいっ、いっぱい出てる……すごい匂いのチンチン精液で、身体中汚されちゃうっ……はぁぁっ……！」",
+        "translation": "Miyuki「Aaa... ghê quá... ra nhiều quá... bị tinh dịch dương vật mùi kinh khủng làm dơ hết cả người cô rồi... haaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……はぁっ…………んんっ……」",
+        "translation": "Miyuki「Aaa... haa... ưm...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……もう、オチンチン大きくなってるっ……ビクビクって、脈打ってるっ……！」",
+        "translation": "Miyuki「Aaa... trời ơi, dương vật của Em lại to lên nữa rồi... nó giật giật, đập thình thịch kìa...!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……はぁんっ……！」",
+        "translation": "Miyuki「Aaa... haa...!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあぁっ……また、入ってきたぁっ……！」",
+        "translation": "Miyuki「Aaa... lại vào nữa rồi...!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁあっ！　ああ、太い、オチンチン太いのっ、太くて熱くてっ……あぁぁっ……オマンコ焼けちゃうぅっ……！」",
+        "translation": "Miyuki「Haaa... Ôi, to quá, dương vật của Em to quá... vừa to vừa nóng... Aaaa... lồn Cô cháy mất thôi...!」"
+    },
+    {
+        "sentence": "[美雪「]::ああっ、やああっ……ダメェッ……オチンポ、でっかいオチンポっ、ズブズブきてる！　いいっ、オチンポすごいいいぃっ！」",
+        "translation": "Miyuki「Aaa... yaaa... Không được... dương vật, dương vật to quá, đang đâm vào sâu bên trong! Thích quá, dương vật của Em tuyệt vời quá đi...!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ、落ちちゃうっ、ぁああんッ！　オマンコ突かれて、落ちちゃうぅっ……！！」",
+        "translation": "Miyuki「Aaa... sắp ra rồi, aaaa! Bị dương vật của Em đâm vào lồn, Cô sắp ra rồi...!!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁあぁぁっ……ぁあん、くふぅっ、はぁん……！！」",
+        "translation": "Miyuki「Aaaa... aaaa... ưm... haaa...!!」"
+    },
+    {
+        "sentence": "[美雪「]::もっと、もっとモミモミしてぇっ！　オッパイギュってして、お乳噴かせてぇっ……！」",
+        "translation": "Miyuki「Cô muốn nữa, muốn Em xoa bóp nữa đi! Bóp chặt ngực Cô vào, làm sữa phun ra đi...!」"
+    },
+    {
+        "sentence": "[美雪「]::あはぁんっ……いいの！　また出ちゃいそうっ、エッチなお乳がピュピュッて出ちゃいそうっ……あぁあっ！」",
+        "translation": "Miyuki「A haaa... Thích quá! Lại sắp ra mất, sữa dâm đãng của Cô lại sắp phun ra mất rồi... Aaaa!」"
+    },
+    {
+        "sentence": "[美雪「]::はんっ、オマンコも変なのッ！　ジリジリ熱くなって、さっきみたいにお汁が飛んじゃうぅっ！」",
+        "translation": "Miyuki「Hừm, cái lồn của Cô cũng thật kỳ lạ! Nó cứ nóng ran lên, và sắp phun nước ra như lúc nãy nữa mất thôi!」"
+    },
+    {
+        "sentence": "[美雪「]::ひぃんんっ！　すごい、オッパイもオマンコも感じ過ぎちゃうっ！　あぁん、もっと、もっとぉ！」",
+        "translation": "Miyuki「Hừừn! Thật là, ngực và lồn của Cô đều cảm nhận quá rõ mất rồi! Aaa, thêm nữa, thêm nữa đi!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……手でコネコネされて乳首感じちゃうっ！　はぁあん、子宮も、お願い、もっとオチンチンで突いてぇっ……！」",
+        "translation": "Miyuki「A... a... Bị bàn tay nhào nặn mà đầu vú Cô đã thấy kích thích quá! Haaa, tử cung cũng vậy, làm ơn đi, hãy dùng chim đâm thêm nữa đi...!」"
+    },
+    {
+        "sentence": "[美雪「]::ああああっ！　すごいっ！　すごいのぉっ！　ああぁっ、またオッパイもオマンコもイッちゃうのぉっ……！」",
+        "translation": "Miyuki「Aaaa! Thật là! Thật là tuyệt vời quá! Aaa, lại nữa, cả ngực và lồn của Cô đều sắp lên đỉnh mất rồi...!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ、イクゥッ！　イクの、イッちゃうのぉ！　オッパイとオマンコッ、一緒にイクのっ、はぁあっ、イッちゃうううぅっ！」",
+        "translation": "Miyuki「A... a... Sắp ra rồi! Sắp ra mất, sắp lên đỉnh mất thôi! Ngực và lồn, cùng lên đỉnh luôn, haaaa, lên đỉnh mất rồiaaaa!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁああん、いいのっ、突いて！　オマンコズボズボ突いてぇ！　ああ、イク！　イクイクイクイクッ！　あああああああああっ！！」",
+        "translation": "Miyuki「Haaa, được lắm, đâm đi! Đâm thủng lồn Cô đi! A, ra rồi! Ra ra ra ra ra! Aaaaaaaaaa!」"
+    },
+    {
+        "sentence": "[美雪「]::はひぃぃっ！　ぁあぁあああぁああっ……！！」",
+        "translation": "Miyuki「Híiiii! A a a a a a a a...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……だめぇっ！　飛んじゃう、おかしくなっちゃうううっ…！」",
+        "translation": "Miyuki「A... a... Không được! Sắp bay mất, Cô sắp phát điên mất thôi...!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁっ……はぁ、はぁんっ……んんっ……あぁっ……！」",
+        "translation": "Miyuki「Haa... haa, haan... ưn... aaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁあっ……気持ちいいっ、貴方のオチンチン、最高なのっ！　感じちゃうっ、気持ち良くなりすぎておかしくなっちゃうっ……！」",
+        "translation": "Miyuki「Haa... thật sướng, cặc của Em, thật tuyệt vời! Cô cảm nhận hết rồi, sướng đến mức Cô sắp phát điên mất rồi...!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁん、はい、オチンチンがいいのっ！　貴方のオチンチンが好きっ、大好きっ……はぁああん！」",
+        "translation": "Miyuki「Haa, phải, Cô thích cặc! Cô thích cặc của Em, thích lắm... haaa!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁん、んんっ……ぁあ、また、またオチンチンズボズボ来てるっ……ぁあっ……！」",
+        "translation": "Miyuki「Haa... ư ư... aaa, lại, lại cái cặc cứ thúc thúc vào Cô... aaaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::はいっ……ぁあっ、ご主人っ、ご主人様ぁ……！」",
+        "translation": "Miyuki「Vâng... Aaah, Chủ nhân, Chủ nhân của emmm...!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁあんっ……い、いいっ……アンッ……マンコじんじん疼いちゃう……ぁあっ、すてきっ、っ、ああっ、はぁあんっ……！」",
+        "translation": "Miyuki「Haaann... Ư, ừm... Ang... Âm hộ của em đau râm ran... Aaah, tuyệt vời quá, ư... Aaah, haannn...!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁ、いい……いっ、いいいっ、くふぅぅんんっっ！」",
+        "translation": "Miyuki「Aaah, ừm... ư, ừừm, kufuunnn!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ、嬉しいっ、子宮にオチンチンの汁、出してくれるのっ……？　ぁあっ、ちょうだい、いっぱい出して、オチンチンミルク子宮に注いでぇ！」",
+        "translation": "Miyuki「Aaah, em vui quá, Chủ nhân sẽ xuất tinh dịch vào tử cung của em ư...? Aaah, cho em đi, cho em thật nhiều, hãy đổ sữa cặc vào tử cung của emmmm!」"
+    },
+    {
+        "sentence": "[美雪「]::そんなのいやぁっ、オマンコの奧に欲しいの、精液欲しいのぉっ……！　お願い、ちゃんと言うからっ、オチンポ汁中に出してぇ！」",
+        "translation": "Miyuki「Em không muốn thế đâu! Em muốn được bắn vào sâu trong âm đạo của mình, em muốn tinh dịch của Chủ nhân...! Xin Người, em sẽ nói cho đúng mà, hãy bắn thứ nước cặc đó vào trong cho emmmm!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁ、お願いです、ご主人様ぁっ……わ、私のエッチなオマンコの奧にっ、ご主人様の熱いっ……んふぅっ……オチンチンミルクを下さいっ……！」",
+        "translation": "Miyuki「Aa... xin Người, Chủ nhân ơi... Ư... sâu trong cái lồn dâm đãng của em, hãy cho em... ứ hừ... sữa nóng hổi từ cặc của Chủ nhân đi mà...!」"
+    },
+    {
+        "sentence": "[美雪「]::濡れ濡れのっ、はしたないオマンコの奥まで、元気な赤ちゃん汁をドピュドピュってっ、いっぱい……いっぱい出して下さいっ……！」",
+        "translation": "Miyuki「Ướt sũng rồi đây, xin hãy xuất thật nhiều... thật nhiều nước giống đầy sức sống của Chủ nhân vào sâu tận bên trong âm hộ đê tiện của emmmmm...!」"
+    },
+    {
+        "sentence": "[美雪「]::あはんっ、う、うれしい、ご主人様のオチンチン汁、ほしい！　く、ください……ぬるぬるした熱い精液、マンコの中に、いっぱい出してぇ！」",
+        "translation": "Miyuki「Ư... ưa... em sướng quá, em muốn nước cặc của Chủ nhân! Xin... xin hãy cho em... xuất thật nhiều tinh dịch nóng hổi nhờn nhợn vào trong lồn em đi!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁあんっ……ドロドロのザーメンがぁ、オマンコの奥までにいっぱい来たあっ！　あひいいいいいいっ！！」",
+        "translation": "Miyuki「Aaaaaaah... Từng dòng tinh dịch đặc sệt, tràn hết vào sâu bên trong \"cô bé\" của em rồi! Ahiiiiiiiiiii!!」"
+    },
+    {
+        "sentence": "[美雪「]::はぅん、ご主人様のオチンチン……ビクビクって跳ねてるっ……わたしのお腹の中、ご主人様の精液でいっぱいになってるっ……ぁああっ」",
+        "translation": "Miyuki「Ưm... dương vật của Chủ nhân... giật giật liên hồi... Bên trong bụng em, tinh dịch của Chủ nhân đã đầy ắp rồi... Aaa...」"
+    },
+    {
+        "sentence": "[美雪「]::あぁああっ……はぁあっ……んんっ……」",
+        "translation": "Miyuki「Aaa... haa... ưm...」"
+    },
+    {
+        "sentence": "[美雪「]::はぁあっ…………っ……んんっ……」",
+        "translation": "Miyuki「Haa... ưm... ư...」"
+    },
+    {
+        "sentence": "[美雪「]::あはぁあん………うぅん、んんっ…………」",
+        "translation": "Miyuki「A... haaa... ư... ưm...」"
+    },
+    {
+        "sentence": "[美雪「]::はぃっ……ご主人さまぁっ……」",
+        "translation": "Miyuki「Vâng... thưa Chủ nhân...」"
+    },
+    {
+        "sentence": "[美雪「]::はぁいっ…………ご主人様…………」",
+        "translation": "Miyuki「Vâng... thưa Chủ nhân...」"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ……ご主人様……」",
+        "translation": "Miyuki「Á... Chủ nhân...」"
+    },
+    {
+        "sentence": "[美雪「]::あの……その……待ちきれなかったので……」",
+        "translation": "Miyuki「Âm... ừm... Em không đợi nổi nữa...」"
+    },
+    {
+        "sentence": "[美雪「]::は、はい……」",
+        "translation": "Miyuki「Vâng... Vâng...」"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ…………」",
+        "translation": "Miyuki「Á...」"
+    },
+    {
+        "sentence": "[美雪「]::あの……ご主人様……今日は、何を……」",
+        "translation": "Miyuki「Âm... Chủ nhân... Hôm nay, ngài muốn...」"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ……冷たいですっ……エプロンからはみ出したオッパイがテーブルにふれて、冷たいんですっ……」",
+        "translation": "Miyuki「Á... Lạnh quá... Vòng một của em bị tràn ra khỏi tạp dề chạm vào bàn, nó lạnh quá...」"
+    },
+    {
+        "sentence": "[美雪「]::それに……お尻が、お尻が全部見えちゃってますっ……ぁあっ……はずかしいっ……！」",
+        "translation": "Miyuki「Hơn nữa... mông của em, mông của em lộ ra hết rồi... Á á... Xấu hổ quá...!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁぁ、ダメです、そんなっ……ジロジロ見ないで下さいっ……！」",
+        "translation": "Miyuki「Áaa, không được, đừng có... Đừng nhìn chằm chằm vào em như vậy...！」"
+    },
+    {
+        "sentence": "[美雪「]::お尻とアソコをこんな風に突きだして、見られてると思うとっ……奥からドロドロって溢れてきちゃうっ……！」",
+        "translation": "Miyuki「Cứ ưỡn mông và chỗ đó ra thế này, nghĩ đến việc bị nhìn ngó thế này... em lại thấy dịch nhầy cứ rỉ ra từ bên trong...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……お尻が熱く火照っちゃうっ……」",
+        "translation": "Miyuki「Á... Mông của em nóng bừng lên rồi...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああっ……シロップかかってるぅっ……シロップでお尻がヌルヌルになっちゃってるっ……」",
+        "translation": "Miyuki「Áaaaaa... Bị dính siro rồi... Mông của em trơn tuột vì siro rồi này...」"
+    },
+    {
+        "sentence": "[美雪「]::あぁあっ……お尻、ピクピクしちゃうっ……ご主人様にお尻見られて、ジンジンしちゃいますっ……」",
+        "translation": "Miyuki「Á... Mông của em cứ giật giật... Bị Chủ nhân nhìn thấy mông thế này, em thấy rạo rực cả lên...」"
+    },
+    {
+        "sentence": "[美雪「]::お尻のお肉も、割れ目もっ……はぁあんっ……全部見られちゃってるのぉっ……」",
+        "translation": "Miyuki「Thịt mông, cả khe mông nữa... Haaann... Tất cả đều bị nhìn thấy hết rồi ạ...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……垂れてきたシロップが……垂れるのっ……ああっ……指でなぞられてるみたいっ……」",
+        "translation": "Miyuki「Áaa... Si-siro đang chảy xuống... Nó đang chảy này... Áaa... Cứ như có ngón tay đang vuốt ve em vậy...」"
+    },
+    {
+        "sentence": "[美雪「]::はぁあっ……だめ、背中がぞくぞくしちゃいますっ……ぁあっ……！」",
+        "translation": "Miyuki「Haaah... Không được, lưng em cứ run lên hết cả rồi... Áaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::ああっ……だめ、ドロドロかけるだけじゃなくてっ……はぁんっ……かけるだけじゃダメなのぉっ……！」",
+        "translation": "Miyuki「Áaaa... Không được, không chỉ đổ thứ sền sệt lên thế này thôi đâu... Haaan... Chỉ đổ lên thôi là không đủ đâu ạ...!」"
+    },
+    {
+        "sentence": "[美雪「]::はあぁっ……お、お尻っ……お尻を触って欲しいんですっ……お尻を、ご主人様の手でぎゅうってして欲しいんですっ……！」",
+        "translation": "Miyuki「Haaa... Ôi, mông của em... Em muốn được chạm vào mông... Em muốn Chủ nhân dùng tay mà bóp chặt lấy mông em...！」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁあっ……あぁっ……んんっ……お尻っ……お尻に指が食い込んでるっ……ふぁあっ……」",
+        "translation": "Miyuki「Haaa... Áaa... Ưm... Mông của em... Ngón tay đang đâm sâu vào mông em... Haaa...」"
+    },
+    {
+        "sentence": "[美雪「]::ふぅあああっ……！　ぁあっ、ヌルヌルしてっ……ぁあっ……くすぐったいっ……はぁあっ……ああっ……」",
+        "translation": "Miyuki「Fuaaa...! Aaa, trơn quá... Aaa... Nhột quá đi... Haaa... Aaa...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ、だめぇっ……指がっ、お尻の穴に触ってるっ……ぁあっ、お尻の穴がヒクヒクしちゃうっ……！」",
+        "translation": "Miyuki「Aaa, không được... Ngón tay... chạm vào lỗ đít của em rồi... Aaa, lỗ đít của em giật giật mất thôi...！」"
+    },
+    {
+        "sentence": "[美雪「]::そ、そんなにお尻捏ねられたらっ……ぁあっ……お尻も、オマンコもっ……引っ張られてるっ……！」",
+        "translation": "Miyuki「K-Không, nếu Chủ nhân cứ nhào nặn mông em như thế thì... Aaa... Cả mông và cả lồn của em... đều bị kéo căng ra mất...！」"
+    },
+    {
+        "sentence": "[美雪「]::あぁぁっ……お尻の肉に引っ張られててっ……ぁあっ……！　ウズウズしちゃうっ……くふぅんっ……」",
+        "translation": "Miyuki「Aaa... Thịt mông em bị kéo căng ra... Aaa...! Ngứa ngáy quá... Khufuu...」"
+    },
+    {
+        "sentence": "[美雪「]::オマンコの奥が、だんだん熱くなってきちゃってるのぉっ……ぁあっ……ふぁあっ……」",
+        "translation": "Miyuki「Sâu bên trong lồn của em, dần dần nóng lên rồi... Aaa... Fuaaa...」"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ……ダメぇ、いきなり舐められたらっ……ふぁぁっ……腰から力が抜けちゃうっ……！」",
+        "translation": "Miyuki「Ah... Không... Đừng có liếm bất ngờ như thế chứ... Fuaaa... Em mất hết cả sức ở eo mất...！」"
+    },
+    {
+        "sentence": "[美雪「]::あっ、あぁっ……ザラザラの舌がっ……ぁあっ、クリトリスに当たってるっ、ふぁああっ……！」",
+        "translation": "Miyuki「Ah, aaa... Cái lưỡi ráp ráp đó... Aaa, đang chạm vào âm vật của em... Fuaaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁあっ……ああっ、だめっ……ああ、そんな風に激しく舐められたらっ……ぁあっ、お、お願いだからっ……くぅんっ……」",
+        "translation": "Miyuki「Haaa... Aaa, không được... Aaa, nếu Chủ nhân liếm mạnh như vậy thì... Aaa, e-em xin Chủ nhân đấy... Kuun...」"
+    },
+    {
+        "sentence": "[美雪「]::だ、ダメェっ……そんな風に、舌でオマンコ広げないでぇっ……ぁあっ、奥まで舌が来ちゃってるぅっ……！」",
+        "translation": "Miyuki「K-Không được... Đừng có dùng lưỡi mà banh lồn em ra như thế chứ... Aaa, lưỡi của Chủ nhân vào sâu quá rồi...！」"
+    },
+    {
+        "sentence": "[美雪「]::はあぁあん、もう、もうダメぇっ……ふぁあっ……力が抜けちゃう、オマンコ舐められるとぉっ……立ってられないのぉっ……」",
+        "translation": "Miyuki「Haaa... Haa, không... Em không chịu được nữa rồi... Fuaaa... Em hết cả sức rồi, bị liếm lồn thì... em không đứng vững được nữa mất...」"
+    },
+    {
+        "sentence": "[美雪「]::そ、それは……ぁあっ……だめ、オマンコの奥からっ、エッチなお汁が溢れてきちゃってるのぉっ……ふぁあっ……」",
+        "translation": "Miyuki「C-Cái đó là... Aaa... K-Không được, từ sâu bên trong lồn em, dâm thủy đang trào ra mất rồi... Fuaaa...」"
+    },
+    {
+        "sentence": "[美雪「]::ご主人様の舌で舐められて、オマンコからヨダレが垂れちゃってるんですっ……ぁぁっ……」",
+        "translation": "Miyuki「Bị lưỡi của Chủ nhân liếm, dâm thủy từ lồn em chảy ra mất rồi... Aaa...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ、だめぇっ……ご主人様の舌が、ぁあっ……また入ってくるぅっ……！」",
+        "translation": "Miyuki「Aaa, không... Lưỡi của Chủ nhân, aaa... lại tiến vào nữa rồi...！」"
+    },
+    {
+        "sentence": "[美雪「]::そ、そんなの嘘っ、そんなっ……ぁあっ……オマンコそんな事してないのぉっ……！」",
+        "translation": "Miyuki「K-Không, không phải đâu, không phải thế đâu... Aaa... L-Lồn của em không có làm chuyện đó mà...！」"
+    },
+    {
+        "sentence": "[美雪「]::ち、違いますっ……ちがうけどぉっ……ぁあっ……ふぁああっ……！」",
+        "translation": "Miyuki「K-Không phải... Không phải vậy đâu... Aaa... Fuaaa...！」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあああっ、だめぇっ、大きくなっちゃったクリトリス、そんな風に舌で突かれたらッ……ぁあっ……！」",
+        "translation": "Miyuki「Aaa, không... Cái hột le to ra rồi, nếu Chủ nhân cứ dùng lưỡi mà đâm vào như thế thì... Aaa...！」"
+    },
+    {
+        "sentence": "[美雪「]::だ、だめぇっ……勃起クリトリス、はぁあぁんっ……！　そんな風に強く舐められたらぁあっ……うんんっ……」",
+        "translation": "Miyuki「K-Không... Hột le cương cứng của em... haaa...！Nếu bị Chủ nhân liếm mạnh như vậy thì... Aaa... Ưm...」"
+    },
+    {
+        "sentence": "[美雪「]::はぁっ…！　うっ、ううっ……あぁっ、ダメッ……クリトリスだめぇっ……はぁ……あっ、むはぁっ……うっ、ううっ……ああっ……」",
+        "translation": "Miyuki「Haa...! Ư... Ư... Aaa, không được... Hột le... đừng mà... Haa... A... Muaa... Ư... Ư... Aaa...」"
+    },
+    {
+        "sentence": "[美雪「]::ふぅんっ……ぁあっ……ううっ、ああ、やめて……オマンコのヨダレがぁどんどん湧いちゃうっ……はぁ……んんっ！」",
+        "translation": "Miyuki「Hừm... Aaa... Ư... Ah, đừng mà... Dâm thủy từ lồn em cứ tuôn ra mãi... Haa... Ưm...!」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁああっ……はぁあっ……んんっ…………」",
+        "translation": "Miyuki「Fuaaa... Haaa... Ưm...」"
+    },
+    {
+        "sentence": "[美雪「]::じゅ、準備って……？　ご主人様のオチンポ、入れてもらえるんですかっ……」",
+        "translation": "Miyuki「C-Chuẩn bị... là sao ạ...? Em... em được cho dương vật của Chủ nhân vào trong người sao...?」"
+    },
+    {
+        "sentence": "[美雪「]::あぁあっ……そ、それはぁあっ……！」",
+        "translation": "Miyuki「Aaa... C-Cái đó... aaaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::やぁあっ、だめぇっ！　そ、そんなの入れられたらぁっ……！！」",
+        "translation": "Miyuki「Kyaaa, không được! Nếu... nếu mà cho cái đó vào thì...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ダメ、ダメですっ、それダメェッ！　早く、早くぬいてぇええっ！！」",
+        "translation": "Miyuki「K-Không, không được mà! Cái đó không được đâu! Nhanh lên, nhanh rút ra đi mà!!!」"
+    },
+    {
+        "sentence": "[美雪「]::お願いです、それはイヤぁあっ！　オマンコからすぐ出してぇっ！！」",
+        "translation": "Miyuki「Làm ơn mà, em không muốn cái đó đâu! Rút ra khỏi âm hộ của em ngay đi!!!」"
+    },
+    {
+        "sentence": "[美雪「]::だ、だって……！　それは……ぁあっ……」",
+        "translation": "Miyuki「K-Không phải... tại... Tại vì... Aaa...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああぁっ！　だめぇっ、山芋っ、奥まで入っちゃってるぅっ……！」",
+        "translation": "Miyuki「Aaaa! Không được... Khoai mỡ... Vào sâu quá rồi...!!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁあっ……こんなの入れられちゃったらぁっ……ダメェ、オマンコおかしくなっちゃうぅっ……」",
+        "translation": "Miyuki「Aaa... Nếu cứ để cái thứ này vào thế này... Không được... âm hộ của em hỏng mất...!!!」"
+    },
+    {
+        "sentence": "[美雪「]::うぐっ……ううっ……お腹の奥まで、太いのが入ってるぅうっ……」",
+        "translation": "Miyuki「Ư... ư... Cái vật to lớn đó đã vào tận sâu trong bụng em rồi...」"
+    },
+    {
+        "sentence": "[美雪「]::うぁあああっ……山芋っ……痒くなっちゃうのぉっ……！　だから、だから出してぇっ！！」",
+        "translation": "Miyuki「Uaaaa... Khoai mỡ... Em bị ngứa mất...!! Vì vậy, vì vậy nên rút ra đi mà!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああっ……いやぁああっ……オマンコ痒くなっちゃうぅううっ……いや、やめてぇえっ……！」",
+        "translation": "Miyuki「Aaa... Ưaa... Âm hộ của em ngứa quá đi mất... Ư, dừng lại đi mà...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁっぐううっ……あぁぁっ……オマンコ広がってる、太い山芋でオマンコの穴が広がってるのぉおっ……！」",
+        "translation": "Miyuki「Ư... ư... Aaa... âm hộ của em đang giãn ra, cái lỗ âm hộ đang giãn ra bởi củ khoai mỡ to đùng này...!!」"
+    },
+    {
+        "sentence": "[美雪「]::お、お願いですっ、これ以上はもうっ……ぁあっ、オマンコおかしくなっちゃうううっ……！」",
+        "translation": "Miyuki「Làm ơn... Em xin anh, đừng nữa mà... Aaa... âm hộ của em hỏng mất...!!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああっ、痒い、痒いのぉっ！　オマンコ痒いぃいっ……！　ぁはぁあああっ……！」",
+        "translation": "Miyuki「Aaa, ngứa quá, ngứa quá đi...!! Âm hộ em ngứa quá...!! Ahaa...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぐぅうううっ……うぅっ……お願い、もう、もうダメ、限界ですっ……うっ……ううぅんっ……！」",
+        "translation": "Miyuki「Ư... ư... Xin... xin anh, em... em không chịu được nữa rồi, đến giới hạn rồi... ư... ư ư...!!」"
+    },
+    {
+        "sentence": "[美雪「]::うはぁあっ……だめぇ、オマンコの奥まで山芋のヌルヌルでっ……か、痒くなっちゃってる、うぅうっ……」",
+        "translation": "Miyuki「Uhaa... Không... sâu bên trong âm hộ của em toàn là chất nhờn của khoai mỡ... ng... ngứa quá rồi, ư ư...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁぁあっ……だめぇ、もう、ぁああっ……だめ、こんなのダメぇっ！」",
+        "translation": "Miyuki「Aaa... Không... Thôi mà, aaa... không, cái này không được đâu...!!」"
+    },
+    {
+        "sentence": "[美雪「]::はうっ……ぁああっ、はああんっ……痒いの、オマンコ痒いっ……ふぁああっ……だ、だめぇっ……ふぅんっ……」",
+        "translation": "Miyuki「Ư... aaa... haaa... Ngứa quá, âm hộ em ngứa quá... Phaa... K... Không được... Hừ...」"
+    },
+    {
+        "sentence": "[美雪「]::うぁああっ、ダメ、それ以上奥まで入れないで、山芋いれないでぇええっ……あぁあっ……！」",
+        "translation": "Miyuki「Uaa... Không... Đừng, đừng đưa nó vào sâu hơn nữa, đừng nhét khoai mỡ vào... aaa...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぐぁあああっ……だめぇ、子宮まで届いちゃう、子宮まで痒くなっちゃうぅうううっ……！」",
+        "translation": "Miyuki「Gyaaa... Không... Nó chạm tới tử cung của em rồi, tử cung của em ngứa quá...!!!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁっ、はああぁぁ……！　お願いですっ、これ以上はもうっ……！　ぁああぁあっ……！！」",
+        "translation": "Miyuki「Haa... haaaa...!! Em xin anh, đừng... đừng làm nữa mà...!! Aaaa...!!」"
+    },
+    {
+        "sentence": "[美雪「]::いやぁあっ、お願い、抜いてっ、抜いてっ……狂っちゃう前に、抜いてぇえええっ！！」",
+        "translation": "Miyuki「Không... Ư... xin anh, rút ra đi, rút ra đi... trước khi em phát điên mất, rút ra đi mà...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁああっ……ダメ、本当にダメなのっ……ぐぅうっ……うぐっ……くはぁああぁあああっ……！」",
+        "translation": "Miyuki「Phaa... Không... Thật sự là không được mà... gừ... ư... kuhyaaaaaaa...!!」"
+    },
+    {
+        "sentence": "[美雪「]::あ、ああぁっ…んっ……んぁあっ！　んぅっ、か、痒い、オマンコかゆいいっ……！　ああぁんっ……いやぁっ……！」",
+        "translation": "Miyuki「A... Aaa... Ư... Ư... Aaa... Ư... Ng... Ngứa quá, âm hộ em ngứa quá...!! Aaa... Không...!!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁあっ、痒いの、お願い、もうっ……ぁあっ……だめぇえっ……！」",
+        "translation": "Miyuki「Aaa... ngứa quá, em xin ngài, thôi mà... aaa... không...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ひっ……そんなっ、そんなのっ……ぁああっ、ダメなのぉ、マン汁でびしょびしょにしても痒いのぉおおっ……！」",
+        "translation": "Miyuki「Hức... Không... Không thể nào... Aaa... Không được mà, dù nước lồn có ướt đẫm hết cả rồi em vẫn ngứa quá...!!!」"
+    },
+    {
+        "sentence": "[美雪「]::うぐっ……ううっ……か、痒いぃいいいっ！　うはっぁああっ……！」",
+        "translation": "Miyuki「Ư... ư... Ng... Ngứa quá...!!! Ưhaa...!!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあぁあっ……もうダメっ、おかしくなっちゃう、オマンコおかしくなっちゃうっ……！」",
+        "translation": "Miyuki「Aaa... Không... không chịu được nữa rồi, em sắp phát điên mất, cái lồn của em sắp phát điên mất...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ふはぁああっ……！　トロロマンコ、もうダメェっ！」",
+        "translation": "Miyuki「Fuhaa...!! Cái lồn khoai mỡ này, em chịu hết nổi rồi...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ひぃああああああああっーー！」",
+        "translation": "Miyuki「Hyaaaaaaa...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ふひぃっ！　ひぃいいいっ！！　かゆい、かゆいいぃいっ！！　オマンコかゆいのぉおっ！！」",
+        "translation": "Miyuki「Fuhyiii! Hyaaaaaaa!! Ngứa quá, ngứa quá đi...!! Cái lồn em ngứa quá...!!」"
+    },
+    {
+        "sentence": "[美雪「]::あひっ、はひいいいいいっ……！　オマンコかゆくてっ、おかしくなっちゃううううっ……！」",
+        "translation": "Miyuki「Ah, hahiiiiiii...! Cái lồn em ngứa quá, em sắp phát điên lên mất...!!!」"
+    },
+    {
+        "sentence": "[美雪「]::オマンコの奥までぇっ、とろろでヌルヌルなのぉっ！　はぁああぁああぁぁっーー！　くぁああぁあっ！」",
+        "translation": "Miyuki「Sâu bên trong cái lồn của em... toàn là khoai mỡ, trơn tuồn tuột...!! Haaaaaaa...!! Khyaaaaa...!!」"
+    },
+    {
+        "sentence": "[美雪「]::お願い、お願いぃいいっ！　オマンコの中、かゆい、かゆいところ、掻いてぇえええっ！」",
+        "translation": "Miyuki「Làm ơn, làm ơn đi mà...!! Bên trong cái lồn em, ngứa quá, ngứa chỗ đó, gãi cho em đi...!!」"
+    },
+    {
+        "sentence": "[美雪「]::熱いオチンポ入れて、カリでオマンコゴシゴシ掻いてぇえっ……ぁああっ、もう、もうダメなの、痒すぎてオマンコ壊れちゃうのぉおおっ！」",
+        "translation": "Miyuki「Đút cái cặc nóng hổi vào, dùng khấc mà chà xát cái lồn em đi... Aaa... Em, em không chịu được nữa rồi, ngứa quá cái lồn em nát mất thôi...!!!」"
+    },
+    {
+        "sentence": "[美雪「]::オマンコ痒くて、おかしくなっちゃう、ぁああぁああっ、もうダメェ、だめえええ！　山芋マンコで狂っちゃうううっ……！」",
+        "translation": "Miyuki「Cái lồn em ngứa quá, em sắp phát điên mất, aaaa... Em không chịu nổi nữa rồi, không được...!! Cái lồn khoai mỡ này làm em phát điên mất...!!!」"
+    },
+    {
+        "sentence": "[美雪「]::あひいいっ！　もうダメ、とろろマンコでイッちゃうのぉ！　あはぁああぁぁっ………！」",
+        "translation": "Miyuki「Ahiiii! Hết... hết chịu nổi rồi, cái lồn khoai mỡ này sắp bắn rồi... Ahhaaaaaa...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁぁああぁぁっ、狂う、オマンコくるっちゃうう、ぁあぁ、ダメ、痒すぎてイッちゃう、トロロマンコイッちゃううううう！」",
+        "translation": "Miyuki「Aaa... Em sắp phát điên mất, cái lồn em sắp hỏng mất thôi, aaaa, không được, ngứa quá em bắn mất, cái lồn khoai mỡ này sắp bắn mất thôi...!!!」"
+    },
+    {
+        "sentence": "[美雪「]::あひぃいいいっ……！　ひぃいいっ……はあぁあああああっ……！！」",
+        "translation": "Miyuki「Ahiiiii...! Hyaaaa...! Haaaaaaa...!!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁぁあっ……はぁっ……ぁあっ……」",
+        "translation": "Miyuki「Haaaaa... Haa... Aaa...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああっ……オマンコのなかっ……チンポでゴシゴシしてぇえっ……はぁっ……はぁあんっ……」",
+        "translation": "Miyuki「Aaa... Bên trong cái lồn em... muốn ngài dùng cặc chà xát mạnh vào... Haa... Haa...」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁあっ、入ってきた、熱くて硬いチンポ入ってきたぁっ！　ああっんんっ……！　あぁあっ、ふぁっ、あぁああんっ！」",
+        "translation": "Miyuki「Fuaa, vào rồi, cái cặc vừa nóng vừa cứng đã vào rồi... Aaa... Ưm... Aaa, fua, aaaa!」"
+    },
+    {
+        "sentence": "[美雪「]::んぅっ、は、あぁっ！　んっ、うぅあっ！　くぁっ、ああっ……もっと、ゴシゴシしてぇえっ！　痒いオマンコ、チンポで掻きむしって！！」",
+        "translation": "Miyuki「Ư... ha, a...! Ư... uaaa! Kua, aaaa... nữa đi, chà mạnh hơn nữa đi ngài! Cái lồn em ngứa quá, cào xé nó bằng cặc đi!!」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁああぁあっ……オマンコ熱いのっ、痒くて熱くなってるのぉおおっ……！」",
+        "translation": "Miyuki「Fuaaa... Cái lồn em nóng quá, ngứa mà còn nóng bừng lên nữa...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああっ、掻いて、ぼりぼり掻いてぇえっ！　オマンコの肉、硬いチンポで掻いてぇええっ！」",
+        "translation": "Miyuki「Aaa, cào đi, cào mạnh hơn nữa đi ngài! Thịt lồn em, cào nó bằng cái cặc cứng của ngài đi!!」"
+    },
+    {
+        "sentence": "[美雪「]::だ、だってぇっ……オマンコの中、いっぱい痒くてっ……ぁああっ、チンポ擦りつけて掻かないとっ……おかしくなっちゃうぅん！」",
+        "translation": "Miyuki「T、tại vì... bên trong cái lồn em, nó ngứa quá trời... Aaa... Nếu không lấy cặc chà xát vào mà gãi... em chịu hết nổi mất...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああっ、もっと、もっと掻いて、チンポで掻きむしってぇえっ！　オマンコすり切れちゃうくらい、掻いてほしいのぉっ……！」",
+        "translation": "Miyuki「Aaa, nữa đi, cào nữa đi ngài, cào xé bằng cặc đi ngài! Em muốn ngài cào đến mức cái lồn em rách bươm ra ấy...!!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ、はぁんっ、んぁっ、あぁんっ！　チンポ、もっと、もっと奥まで来てぇえっ……！　ふぁっ、あああぁっ！」",
+        "translation": "Miyuki「Aaa, haa, ưm, aaa! Cặc, vào sâu hơn nữa đi ngài...!! Fua, aaaa!」"
+    },
+    {
+        "sentence": "[美雪「]::オマンコ奥まで痒いのっ、だからっ……もっと奥までチンポでグリグリして欲しいのぉっ……！」",
+        "translation": "Miyuki「Cái lồn em ngứa tận bên trong ấy, nên là... em muốn ngài dùng cặc ngoáy mạnh hơn nữa vào sâu bên trong...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああぁあっ……痒くてっ、熱くてぇえっ……ぁあっ、もう、もうこんなのっ……ダメェっ……！」",
+        "translation": "Miyuki「Aaaa... Ngứa quá... nóng quá đi... Aaa, thôi, cái này... hết chịu nổi rồi...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ、ダメ、折れちゃだめ！　もっと、もっと痒いオマンコゴシゴシしなきゃだめぇっ……！」",
+        "translation": "Miyuki「Aaa, không được, gãy mất thì không được! Phải chà xát cái lồn ngứa ngáy của em mạnh hơn nữa, nếu không thì không được...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあぁっ、痒い、痒くて気持ちいいっ！！　山芋マンコ、気持ちいいのぉっ……！」",
+        "translation": "Miyuki「Aaa, ngứa quá, ngứa mà sướng quá đi!! Cái lồn củ từ này, sướng quá đi...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぶっといチンポが刺さったトロロマンコ、おかしくなっちゃうくらい気持ちいいんん……っ！」",
+        "translation": "Miyuki「Cái lồn củ từ bị cái cặc to tướng đâm vào, sướng đến phát điên mất thôi... Ư...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁああっ……熱くてジンジンしちゃう、オマンコ痒くて、熱くてぇえっ……あぁあっ……ふぁあぁぁっ……！」",
+        "translation": "Miyuki「Fuaaa... Nóng quá, tê hết cả người... cái lồn em ngứa quá, nóng quá đi... Aaa... fuaaaaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁっ……うぅっ、んぅっ、ぅああっ……もっと、もっとぉおおっ……もっとゴリゴリしてぇっ……！」",
+        "translation": "Miyuki「Haa... ư... ưm... uaaa... nữa đi, nữa đi ngài...!! Mạnh bạo hơn nữa đi ngài...!!」"
+    },
+    {
+        "sentence": "[美雪「]::んんっ……ぁあっ、オマンコ、もっと、もっとぉ！　もっと突いて、もっとゴリゴリしてぇえっ！！」",
+        "translation": "Miyuki「Ưm... a... cái lồn em, nữa đi, nữa đi ngài! Thọc mạnh hơn nữa đi, mạnh bạo hơn nữa đi ngài!!」"
+    },
+    {
+        "sentence": "[美雪「]::もっと強くっ、オマンコゴリゴリしないとっ、痒くてくるっちゃううぅうんっ……！」",
+        "translation": "Miyuki「Mạnh hơn nữa đi ngài, không chà xát cái lồn em mạnh bạo hơn nữa thì ngứa quá em phát điên mất... ư ư...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあぁっ……オマンコ熱い、熱いよぉっ……！　ぁあっ……うぁぁあぁっ、熱い、熱いぃいっ……」",
+        "translation": "Miyuki「Aaa... cái lồn em nóng quá, nóng quá đi...!! Aaa... uaaaa... nóng quá, nóng quá đi...!!」"
+    },
+    {
+        "sentence": "[美雪「]::熱いマンコ、もっとっ、もっとズボズボしてぇえっ！　ぁあっ！　痒いの全部、削っちゃってぇえっ！！」",
+        "translation": "Miyuki「Cái lồn em nóng quá, nữa đi ngài, mạnh hơn nữa đi ngài! Aaa! Cạo hết chỗ ngứa ngáy này đi ngài!!」"
+    },
+    {
+        "sentence": "[美雪「]::あんっ、ああっ……身体が熱いのぉ、オマンコだけじゃなくてっ、身体も熱くなっちゃうのぉおっ！」",
+        "translation": "Miyuki「Ư... a... cả người em nóng quá... không chỉ cái lồn thôi đâu, mà cả người em cũng nóng ran hết cả rồi...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああっ、だ、だってっ……オマンコが熱くて、オッパイこすれてっ……乳首勃っちゃううっ……！」",
+        "translation": "Miyuki「Aaa, tại... tại vì... cái lồn em nó nóng quá, ngực em cọ xát... làm đầu vú em cương lên mất...!!」"
+    },
+    {
+        "sentence": "[美雪「]::オマンコがジンジンするのが、オッパイにもうつっちゃったのぉっ……はぁあっ……オッパイもビクビクしちゃうぅっ……！」",
+        "translation": "Miyuki「Cái lồn em tê rần, lan hết cả lên ngực rồi... haa... ngực em cũng giật giật theo luôn...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ、オマンコ突かれてオッパイブルブルしたらぁあっ……オッパイも気持ちいいのぉっ！」",
+        "translation": "Miyuki「Aaa, cái lồn em bị đâm vào, làm ngực em rung lên... a... ngực em cũng sướng nữa...!!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁぁんっ……もっと、もっとしてぇっ、オチンポもっとビクビクさせてえっ！　オマンコの中、ガリガリ擦ってぇっ！」",
+        "translation": "Miyuki「Haaa... nữa đi ngài, nữa đi... làm cái dương vật của ngài giật giật mạnh hơn nữa đi ngài! Chà xát mạnh vào bên trong cái lồn em đi ngài!」"
+    },
+    {
+        "sentence": "[美雪「]::オマンコ突いて、オッパイも揺らしてぇ！」",
+        "translation": "Miyuki「Đâm vào cái lồn em đi, làm ngực em rung lên nữa đi ngài!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁんっ！　ぁあっ、オッパイでちゃったぁあっ！　乳首が勃起してるオッパイが出ちゃったぁ！」",
+        "translation": "Miyuki「Ư... a... ngực em lộ hết cả ra rồi...!! Ngực em lộ hết cả ra, đầu vú thì cương cứng hết cả lên rồi...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぅあぁっ！　あぁっ、オッパイ響くぅっ……！　あぁっ……オマンコ突かれるとオッパイも揺れちゃうっ……んんぅっ！」",
+        "translation": "Miyuki「Ư... aaa! Aaa, ngực em nó vang lên...!! Aaa... mỗi lần cái lồn em bị đâm vào là ngực em cũng rung lên theo... ư... ư...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ああっ……あぁぁんっ……っ……ぁあっ……オッパイ揺れるのぉっ……ぁあっ、ズンズンってっ……響いちゃうぅっ！」",
+        "translation": "Miyuki「Aaa... aaaa... ư... aaaa... ngực em nó rung kìa... aaaa, cứ đập thình thịch... rồi lại vang lên...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ダメです、オマンコまだ痒いのぉっ……！　まだ痒いまんまで、全然治まらないのぉっ……」",
+        "translation": "Miyuki「Không được rồi, cái lồn em vẫn còn ngứa lắm...!! Vẫn còn ngứa lắm, chẳng thấy dịu đi gì cả...!!」"
+    },
+    {
+        "sentence": "[美雪「]::でもっ、オッパイも気持ちいいの、オマンコズボズボされながら揺れるオッパイ、気持ちいいっ……！」",
+        "translation": "Miyuki「Nhưng mà, ngực em cũng sướng nữa, cái ngực cứ rung lên khi cái lồn em bị đâm vào, sướng thật...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……オッパイだめ、ああっ……だめえっ！　おかしくなっちゃう、オッパイ気持ち良くて狂っちゃぅっ！」",
+        "translation": "Miyuki「Aaa... đừng mà ngài, aaa... đừng mà!! Em sắp hỏng mất, ngực em sướng quá em phát điên mất...!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああっ、ダメェッ、チンポ逃げちゃだめぇっ！！」",
+        "translation": "Miyuki「Aaa, không được, đừng để chim ngài tuột ra ngoài!!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁあん、ダメ、抜くのだめぇっ……！　オマンコまだ痒いのぉっ！　痒いの、もっとチンポで掻いてぇええっ！」",
+        "translation": "Miyuki「Haaa, không được, đừng rút ra mà ngài...!! Cái lồn em vẫn còn ngứa lắm...!! Ngứa quá, hãy dùng chim ngài gãi cho em đi mà!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ！　そんなにっオッパイ強く握っちゃっ……ぁあっ、ダメぇっ！」",
+        "translation": "Miyuki「Aaa! Đừng có bóp ngực em mạnh như thế... aaa, không được mà ngài!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ……オッパイ搾られてるぅっ……くふうんっ……はぁあぁんっ！」",
+        "translation": "Miyuki「Aaa... ngực em bị bóp rồi... khưưn... haaa!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ、オマンコ痒くてっ、オッパイも痛くてぇっ！　あぁだめッ、おかしくなっちゃうっ……！」",
+        "translation": "Miyuki「Aaa, lồn em ngứa quá, ngực cũng đau nữa! Aaa, không được, em sắp phát điên mất...!!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁあん……ぁああっ、オッパイ出ちゃう、そんな風に握られたらっ……お乳出ちゃう、噴いちゃうぅッ……！」",
+        "translation": "Miyuki「Aaa... aaaa, sữa em chảy ra mất, nếu ngài cứ bóp như thế... sữa chảy ra mất, bắn cả ra mất thôi...!」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁっ……ああぁっ……！　ぁあぁっ！　強く揉まれて、ミルク出ちゃうっ！　ぅあぁっ、ミルク搾っちゃだめぇっ！」",
+        "translation": "Miyuki「Haa... Aaa...! Aaa! Bị nhào nặn mạnh quá, sữa chảy ra mất! Ưaa, đừng vắt sữa em mà ngài...!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ、出ちゃう、勃起乳首からミルク出ちゃうぅっ……！　ふぁあっ、オマンコゴリゴリしながらオッパイミルクでちゃうぅうっ……！」",
+        "translation": "Miyuki「Aaa, ra mất, sữa chảy ra từ đầu vú cương cứng của em mất... ! Haaa, vừa cọ xát lồn, vừa ra sữa từ ngực mất thôi...!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁっ……ぁあっ、オマンコ痒くてっ、おかしくなりそうなのに！　母乳が出ちゃうのぉッ……！」",
+        "translation": "Miyuki「Haa... Aaa, lồn em ngứa quá, em sắp phát điên lên mất! Sữa mẹ lại chảy ra nữa rồi...!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああっ、ぁああっ……！　もうだめ、出ちゃう、オッパイミルク出ちゃう、オッパイアクメでイクのぉ、出るうぅうううっ！」",
+        "translation": "Miyuki「Aaa... aaa...! Không được rồi, ra mất, sữa ngực em chảy ra mất, lên đỉnh ngực mà ra mất thôi, ra mất...!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁああぁはぁああぁああんっ……！」",
+        "translation": "Miyuki「Haaaa... haaaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::はあああぁんっ！　あぁっ！　んっ……ああぁっ、ひぁあぁっ！　ミルク、勃起乳首からミルク出てるぅっ……！」",
+        "translation": "Miyuki「Haaaa...! Aaa! Ư... aaa, hiaaa! Sữa, sữa chảy ra từ đầu vú cương cứng của em...!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……いっぱい出てるっ……ミルクオッパイからっ……ふぁああっ……」",
+        "translation": "Miyuki「Aaa... Ra nhiều quá... từ ngực sữa của em... haaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁああんっ……オッパイヌルヌルになっちゃったぁっ……」",
+        "translation": "Miyuki「Haaa... Ngực em nhớp nháp sữa hết cả rồi...」"
+    },
+    {
+        "sentence": "[美雪「]::それはっ……だって、オマンコ痒くてもっオッパイ搾られたらイッちゃうのぉっ……！」",
+        "translation": "Miyuki「Thì... thì là... tại vì, dù lồn em có ngứa, chỉ cần ngài vắt sữa là em lại ra mất thôi mà...!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ、それならっ……痒いチンポ、もっとオマンコに擦りつけてっ！」",
+        "translation": "Miyuki「Aaa, vậy thì... cái chim đang ngứa của ngài, chà mạnh vào lồn em nữa đi!」"
+    },
+    {
+        "sentence": "[美雪「]::マ、マンコのお肉でチンポゴシゴシしてっ、痒いのを擦り合うのぉっ……！」",
+        "translation": "Miyuki「Ư... Ư ư, dùng thịt lồn chà chim của ngài đi, chà xát chỗ ngứa ngáy ấy đi...!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁ、はぁあっ……もっと、もっとご主人様のチンポでッ、痒いマンコゴシゴシしてぇっ……！」",
+        "translation": "Miyuki「Haa, haaa... Thêm nữa, thêm nữa đi ngài... dùng chim của ngài chà xát cái lồn ngứa ngáy của em đi...!」"
+    },
+    {
+        "sentence": "[美雪「]::痒いオマンコ、熱いチンポで鎮めてほしいのぉっ……ふぁあっ……！」",
+        "translation": "Miyuki「Cái lồn ngứa ngáy này, em muốn được ngài xoa dịu bằng cái chim nóng hổi của ngài... haaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::ご、ご主人様のオチンポっ……いつもより熱くてっ……ぁあっ……なんかっ、膨らんでるぅっ……」",
+        "translation": "Miyuki「C、cái chim của ngài... nóng hơn bình thường... Aaa... hình như, nó đang phồng lên thì phải...!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ……かぶれチンポ熱いっ、ヌルヌルで熱くてっ……ぁあっ……ダメ、オマンコおかしくなっちゃう！」",
+        "translation": "Miyuki「Aaa... Cái chim bị dị ứng của ngài nóng quá, vừa trơn vừa nóng... Aaa... Không được, lồn em sắp hỏng mất!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁあっ……ぁあっ……はぁぅっ……！　あふぁっ、あはぁぁっ！　か、痒いのぉっ……マンコ、ふぁああっ……！」",
+        "translation": "Miyuki「Haaa... Aaa... Haaa... Aaa... A phù, a haaaa! Ngứa quá đi... cái lồn của em, haaaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::ああぁっ、ふぁ、んぁあああぁっ！　ふぁっ……ぁあっ、痒いオマンコっ、もっとんんっ、あああぁっ！」",
+        "translation": "Miyuki「Aaa... haa, ư ớ ớ ớ... Haa... Aaa, cái lồn ngứa quá, thêm nữa đi... ư ư... Aaaa!」"
+    },
+    {
+        "sentence": "[美雪「]::ああっ……凄い、チンポズボズボすごいのぉっ……！　痒いオマンコッ、チンポでゴリゴリされて気持ちいいっ！」",
+        "translation": "Miyuki「Aaa... Tuyệt quá, chim của ngài thụt ra thụt vào mạnh quá... Cái lồn ngứa ngáy này, được ngài dùng chim chà xát thích quá...!」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁああっ……お尻が動いちゃうっ、マンコゴリゴリされて腰が動いちゃうのぉっ……！」",
+        "translation": "Miyuki「Haaa... Cái mông em nó cứ nhúc nhích ấy, lồn bị chà xát mạnh quá làm eo em cũng nhũn cả ra...!」"
+    },
+    {
+        "sentence": "[美雪「]::あっ、ああぁっ、あぅ、痒いのぉ！　あぁっ、あ、やぁっ……だめ、お尻が動いちゃう！　お尻が勝手にっ……動いちゃうっ！」",
+        "translation": "Miyuki「Aaa, aaaa, ư ư, ngứa quá đi! Aaa, a, yaaa... Không được, cái mông em nó cứ động đậy ấy! Mông em tự động... động đậy mất!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああっ……もっと、オマンコもっと擦ってぇっ……！　はぁあぁっ……ふぁああんっ！」",
+        "translation": "Miyuki「Aaa... Mạnh nữa đi, chà xát cái lồn em mạnh nữa đi...! Haaa... Fuaaa!」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁあっ……ぁあぁっ、かぶれマンコ気持ちいいのぉっ……！　トロロマンコ、もうおかしくなっちゃうううっ！」",
+        "translation": "Miyuki「Haaa... Aaa, cái lồn bị dị ứng này sướng quá đi... Cái lồn dính đầy khoai mài, em sắp phát điên mất thôi...!」"
+    },
+    {
+        "sentence": "[美雪「]::も、もっとぉっ……もっとオマンコの中、ちゃんとチンポでズボズボしてぇえっ！　まだ足りないのぉっ！」",
+        "translation": "Miyuki「Nữa đi ngài... Cho sâu hơn nữa đi... Thọc chim vào trong lồn em mạnh hơn nữa đi! Vẫn chưa đủ mà...!」"
+    },
+    {
+        "sentence": "[美雪「]::ひうぅっ！　そ、そんなのっ……私のマンコはぁ、悪くないのぉっ……はぁっ、あぁんっ！」",
+        "translation": "Miyuki「Hii... Đ, đâu có... Cái lồn của em... không có lỗi mà... haa... Aaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::ご主人様がっ……ぁあ、あんなの入れるからぁっ……あひあぁあっ……！」",
+        "translation": "Miyuki「Ngài chủ nhân... Aaa, tại ngài cho cái thứ đó vào mà... ahi aaaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ、だめ、オマンコ痒くて、気持ち良くてっ……ぁあっ、もう灼けちゃうっ……うはあぁあっ……！」",
+        "translation": "Miyuki「Aaa, không được, lồn em ngứa quá, sướng quá đi... Aaa, nó rát hết cả lên rồi... Uhaaaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁああっ……もっと、もっと擦ってぇ！　トロロ芋で腫れたオマンコっ、もっとチンチンで掻きむしってぇえっ！」",
+        "translation": "Miyuki「Fuaaa... Mạnh nữa đi, chà mạnh nữa đi! Cái lồn sưng vù vì khoai mài này, cào cấu nó bằng chim đi ngài!」"
+    },
+    {
+        "sentence": "[美雪「]::まだ、まだ足りないのぉっ！　もっと、もっとオマンコ掻いて、チンポでボリボリ掻いてぇえええっ！」",
+        "translation": "Miyuki「Vẫn, vẫn chưa đủ mà! Chà xát lồn em nữa đi ngài, dùng chim chà xát mạnh vào đi ngài!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ、ダメっ、ご主人様ぁあっ……チンポまた熱くなってきたぁあっ……！」",
+        "translation": "Miyuki「Aaa, không được, ngài chủ nhân... Chim của ngài lại nóng lên nữa rồi... Aaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁあぁんっ……ああっ、痒い、痒いぃいいっ……！　はぁあっ……もうっ、痒くておかしくなっちゃううう！」",
+        "translation": "Miyuki「Haaa... Aaa, ngứa quá, ngứa quá đi... Haaa... Thôi mà, ngứa quá em phát điên mất thôi!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁあっ、だからっ……マンコ肉とマン汁でトロロチンポ洗うのっ、一生懸命マンコで痒いの取ってあげますぅっ……！」",
+        "translation": "Miyuki「Aaa, nên là... em sẽ dùng thịt lồn và nước lồn để rửa cái chim khoai mài của ngài, em sẽ cố gắng hết sức để giúp ngài hết ngứa bằng cái lồn của em...」"
+    },
+    {
+        "sentence": "[美雪「]::はぁあっ……ぁあっ……んんっ……ふぁぁぁあっ……！　あぁっ、腰が止まらないのっ、ふぁあぁあぁっ！」",
+        "translation": "Miyuki「Haaa... Aaa... Hnn... Fuaaaa...! Aaa, eo em không dừng lại được, fuaaaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああっ……また、オチンポいいっ……太いオチンポっ……腫れて熱くなったオチンポ、お腹の中で動いてるっ！」",
+        "translation": "Miyuki「Aaa... Lại nữa, chim của ngài thật tuyệt... Chim to của ngài... Cái chim sưng tấy nóng hổi, đang di chuyển bên trong bụng em kìa...!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁああんっ、オマンコ破れちゃう、痒いオマンコこんなに突かれたら破れちゃう……ぁあっ、すり切れちゃうっ……！」",
+        "translation": "Miyuki「Haaa... Lồn em rách mất thôi, cái lồn ngứa ngáy này mà bị đâm mạnh thế này thì rách mất... Aaa, xước hết cả rồi...!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁああっ、かけて、ザーメンかけてぇ！　身体にっ、熱いザーメンっ、いっぱいかけてぇっ！」",
+        "translation": "Miyuki「Haaa, bắn đi, bắn tinh trùng đi! Bắn thật nhiều tinh trùng nóng hổi lên người em đi!」"
+    },
+    {
+        "sentence": "[美雪「]::トロロで熱くなったチンポからっ、びゅうっていっぱい出して、オチンポ破裂させてぇえっ！」",
+        "translation": "Miyuki「Từ cái chim khoai mài nóng hổi vì khoai mài, bắn thật nhiều phụt ra đi ngài, làm cái chim của ngài nổ tung luôn điiiiii!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁあっ……ひああっ！　オチンポまた膨らんできたぁあっ！　オチンポでオマンコきついのぉっ……！」",
+        "translation": "Miyuki「Haaa... Hiaaa! Chim của ngài lại phồng lên nữa rồi! Chim của ngài làm lồn em chặt quá đi...！」"
+    },
+    {
+        "sentence": "[美雪「]::あはあぁっ……早く欲しいの、熱いザーメンッ！　熱くなった身体にかけてぇえっ！」",
+        "translation": "Miyuki「Ahaaa... Em muốn nhanh lên, tinh trùng nóng hổi! Bắn lên cơ thể nóng bừng của em điiiiii!」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁあっ……ぁあっ、何かくるっ……オマンコの奥から熱いのがキちゃうっ……！」",
+        "translation": "Miyuki「Fuaaa... Aaa, cái gì đó đang đến... Cái nóng hổi đang trào ra từ sâu bên trong lồn em...!」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁあぁぁっ！　なんか出ちゃう、はぁあっ！　漏れちゃう、ぁああっ！」",
+        "translation": "Miyuki「Fuaaaa! Cái gì đó sắp ra rồi, haaa! Sắp chảy mất, aaaa!」"
+    },
+    {
+        "sentence": "[美雪「]::ダメ、オマンコイク、イッちゃうううっ、お漏らししながらイクぅうっ！」",
+        "translation": "Miyuki「Không được, lồn em bắn, em bắn mất... vừa tè vừa bắn mất thôi!」"
+    },
+    {
+        "sentence": "[美雪「]::ひぁああぁあああっーー！」",
+        "translation": "Miyuki「Hyaaaaaaaahhh---!」"
+    },
+    {
+        "sentence": "[美雪「]::あはぁあんっ……オマンコから噴いちゃった、潮噴いちゃったぁあっ……ブシュって噴いちゃったのぉっ……！」",
+        "translation": "Miyuki「Ahaaan... Bắn ra từ lồn em rồi, em bắn ra rồi aaaa... Bắn phụt ra rồi...！」"
+    },
+    {
+        "sentence": "[美雪「]::ひん…はっ…あ、あぁっ、やぁ……オマンコ気持ち良すぎてっ……漏らしちゃったぁ……っや、ぁぅ、はっ…んんっ！」",
+        "translation": "Miyuki「Hin... ha... a, aaaa... yaaa... Lồn em sướng quá... em bắn cả ra rồi... ư... au... ha... ưmm...!」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁあぁあっ……オマンコ気持ちいいっ……ふぁああぁあっ……！」",
+        "translation": "Miyuki「Fuaaa... Lồn em sướng quá... Fuaaaa...!」"
+    },
+    {
+        "sentence": "[美雪「]::あはぁあっ……またチンポズボズボしてるぅっ……ぁああっ、だめえぇっ……あぁああっ、オマンコまた気持ち良くなっちゃうッ……！」",
+        "translation": "Miyuki「Ahaa... Lại đâm chọc chim vào lồn em nữa rồi... Aaa, không được... Aaa, lồn em lại sướng lên mất...!」"
+    },
+    {
+        "sentence": "[美雪「]::ふあぁぁあっ……オマンコの奥までッ、オチンポまた届いてるぅッ……！」",
+        "translation": "Miyuki「Fuaaaa... Chim ngài lại đâm sâu tận bên trong lồn em rồi...!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁ、ふあぁ……はぁあっ！　さっきイッたばっかりのオマンコ、またイッちゃう、イッちゃううう……！」",
+        "translation": "Miyuki「Aaa, fuaaa... haa! Lồn em vừa bắn xong, lại bắn nữa, em bắn nữa mất...！」"
+    },
+    {
+        "sentence": "[美雪「]::ひぁあっ、あぁっ！　あっ！　子宮に当たってるっ！　オチンポが奥に当たってるっ……やはぁっ、アッハァァッ！！」",
+        "translation": "Miyuki「Hyaa, aaaa! A! Trúng tử cung em rồi! Chim ngài đâm sâu vào trong quá... Yahaa, ahhaaa!!」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁあぁあっ……もうダメェ、イク、イッちゃううっ……！　トロロのヌルヌルとカチカチチンポでイッちゃうう！」",
+        "translation": "Miyuki「Fuaaa... Không chịu được nữa rồi, em bắn, em bắn mất...！ Với cái chất nhờn của khoai môn và con chim cứng ngắc này, em bắn mất thôi!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ、もうダメぇっ……！　イクっ、イッちゃううっ……！　いぃっ、いっ！　いひぁあっ！！」",
+        "translation": "Miyuki「Aaa, em không chịu được nữa rồi... Em bắn, em bắn mất...！Iii, em bắn! Ihyaa!!」"
+    },
+    {
+        "sentence": "[美雪「]::くひぃああああっ！　ふあ、あっ、ぁあああっ！　ふああああああぁぁんっ！！」",
+        "translation": "Miyuki「Kuii aaaaa! Fua, a, aaaaa! Fuaaaaaaaann!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああっ、ザーメンかかってる、熱いザーメンいっぱいかかってるぅっ……！」",
+        "translation": "Miyuki「Aaa, dính đầy tinh dịch rồi, tinh dịch nóng hổi bắn đầy người em...！」"
+    },
+    {
+        "sentence": "[美雪「]::熱い、熱いっ……臭いザーメンっ、身体にいっぱいっ……ふぁぁあっ……あぁあぁあっ！　あふぁあぁああぁっ！！」",
+        "translation": "Miyuki「Nóng quá, nóng quá... Tinh dịch thối hoắc, bắn đầy người em... Fuaaa... Aaa aa! Afuaaaaaaa!!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁあっ……ああぁあっ……あっ、あ、ぁあっ、ああぁっ、んんっ、はぁああっ！」",
+        "translation": "Miyuki「Haaa... Aaa... A, a, a... Aaa, ư ư, haaa!」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁああっ……ぁあっ……ザーメンッ……お腹に……いっぱいっ……ああっ……はあぁあっ……」",
+        "translation": "Miyuki「Phuaaa... aah... Tinh dịch... Trong bụng em... đầy quá... Aah... haaa...」"
+    },
+    {
+        "sentence": "[美雪「]::はぁ……ぁっ……ぁあ……んっ…………」",
+        "translation": "Miyuki「Haa... a... a... ưm...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁ……はぁっ…………ぁ……ぁっ…………っ……」",
+        "translation": "Miyuki「A... ha... a... a...」"
+    },
+    {
+        "sentence": "[美雪「]::あぁん、今日も可愛がって頂けるんですか、ご主人様ぁっ……」",
+        "translation": "Miyuki「Ān, hôm nay Ngài cũng sẽ yêu thương em sao, Chủ nhân ạ...」"
+    },
+    {
+        "sentence": "[美雪「]::ま、毎日、ですかっ……あぁあっ、嬉しいっ……！」",
+        "translation": "Miyuki「M-mỗi ngày ạ...? Aaaah, em vui quá...!」"
+    },
+    {
+        "sentence": "[美雪「]::これは……何のお薬ですか？」",
+        "translation": "Miyuki「Đây... là thuốc gì vậy ạ?」"
+    },
+    {
+        "sentence": "[美雪「]::兆候……？」",
+        "translation": "Miyuki「Dấu hiệu... ạ?」"
+    },
+    {
+        "sentence": "[美雪「]::お帰りなさい、栄司さん……出張、お疲れ様でした」",
+        "translation": "Miyuki「Chào mừng anh về nhà, Eiji... Chuyến công tác vất vả rồi ạ.」"
+    },
+    {
+        "sentence": "[美雪「]::あ、あのっ……」",
+        "translation": "Miyuki「Ơ, ơ này...」"
+    },
+    {
+        "sentence": "[美雪「]::あっ、はい……」",
+        "translation": "Miyuki「À, vâng...」"
+    },
+    {
+        "sentence": "[美雪「]::うふふふっ。ちゃんと見ていて下さいね……」",
+        "translation": "Miyuki「Ưfu-fu-fu. Anh nhớ nhìn cho kỹ vào nhé...」"
+    },
+    {
+        "sentence": "[美雪「]::はい、このお腹の子は……ご主人様に種付けしていただいた子なんです……」",
+        "translation": "Miyuki「Vâng, đứa bé trong bụng này… là do Chủ nhân đã gieo giống cho em…」"
+    },
+    {
+        "sentence": "[美雪「]::私のイヤらしいマンコの奧まで、たくましいオチンチンを突き刺されて、子宮の中にたくさん精液を注いでもらって受精したんです……」",
+        "translation": "Miyuki「Em đã bị cái dương vật vạm vỡ đâm sâu vào tận bên trong cái lồn dâm đãng của em, rồi được rót đầy tinh dịch vào tử cung và thụ thai…」"
+    },
+    {
+        "sentence": "[美雪「]::はいっ……ご主人様にはいっぱい可愛がって頂きましたし……オマンコにもいっぱい、赤ちゃん汁を頂きました……」",
+        "translation": "Miyuki「Vâng... Em đã được chủ nhân cưng chiều rất nhiều... và cả cái lồn này cũng đã nhận được rất nhiều... tinh dịch trẻ con nữa...」"
+    },
+    {
+        "sentence": "[美雪「]::あぁん……ぁあっ、オッパイ、出ちゃったぁっ……」",
+        "translation": "Miyuki「Aaahh... Aah, ngực... chảy ra rồi ạ...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあんっ……んふぅっ……」",
+        "translation": "Miyuki「Ah... nnn...」"
+    },
+    {
+        "sentence": "[美雪「]::はぁあんっ……ぁあっ、ダメぇっ……乳首、そんな風に弾かないでぇ……電気、走っちゃうっ……ふぁああんっ……」",
+        "translation": "Miyuki「Aaaah... Aaaah, đừng mà... Chủ nhân đừng có búng nhũ hoa của em như thế... Điện giật cả người mất... Faahhh...」"
+    },
+    {
+        "sentence": "[美雪「]::はぁああんっ……んんっ、ダメぇっ……乳首ッ……ああっ、硬くなっちゃうっ……ふぁああんっ……！」",
+        "translation": "Miyuki「Haaahhh... Nnn, đừng mà... Nhũ hoa... Aaaah, nó cứng lại rồi này... Faaahhh...」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁああんっ、ああっ……オッパイ、そんなに強く握らないでぇっ……はあぁあんっ……！」",
+        "translation": "Miyuki「Faaahn... Aahh... Chủ nhân... đừng có bóp ngực em mạnh như vậy... Haaahn...!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ………は、はいっ……ふぁあっ……！」",
+        "translation": "Miyuki「Aaah... Vâng... Faaah...!」"
+    },
+    {
+        "sentence": "[美雪「]::ご、ご主人様の指がっ、私の……オッパイに埋まって、ウネウネ動いてるのっ、私の妊娠オッパイ、あぁん、グニグニ揉まれちゃってるっ……！」",
+        "translation": "Miyuki「Ng-ngón tay của Chủ nhân đang... lún sâu vào ngực em... quằn quại chuyển động đó ạ... Ngực mang thai của em, aahh, đang bị nhào nắn dụi dụi...！」"
+    },
+    {
+        "sentence": "[美雪「]::あぁんっ、それ好きなの、乳首に指引っかかって、クリクリされるの感じちゃうッ！　大好きぃ、はぁん、オッパイクリクリされるの、いいのぉっ！」",
+        "translation": "Miyuki「Aaaahn, em thích lắm, Chủ nhân dùng ngón tay móc vào nhũ hoa của em, rồi xoay xoay khiến em cảm thấy sung sướng quá! Em thích lắm, haan, cứ xoay xoay nhũ hoa của em như vậy đi, thích lắm đóoo!」"
+    },
+    {
+        "sentence": "[美雪「]::あれ……まだ来ていないのかしら……」",
+        "translation": "Miyuki「ủa... Chẳng lẽ Anh ấy còn chưa tới sao...?」\n"
+    },
+    {
+        "sentence": "[美雪「]::きゃっ！！」",
+        "translation": "Miyuki「Á!!」\n"
+    },
+    {
+        "sentence": "[美雪「]::三沢君……どうして、あなたがここに……？」",
+        "translation": "Miyuki「Misawa-kun... Sao em lại ở đây...?」\n"
+    },
+    {
+        "sentence": "[美雪「]::えっ……ええっ……？　私は……三沢君からの手紙なんて……」",
+        "translation": "Miyuki「Hả... Hả...? Cô... Cô không hề nhận được lá thư nào từ Misawa-kun cả...」"
+    },
+    {
+        "sentence": "[美雪「]::ど、どうして……」",
+        "translation": "Miyuki「Sao... sao lại thế này...?」"
+    },
+    {
+        "sentence": "[美雪「]::も、もしかして……これは……あなたが……私の机の上に置いたの……？」",
+        "translation": "Miyuki「C、 có lẽ nào... đây là... em đã để nó trên bàn của cô...?」\n"
+    },
+    {
+        "sentence": "[美雪「]::ど、どうして……どうして、こんな事をするの？　用があるのなら、そう言ってくれればいいのに……冗談にしては質が悪いわ……」",
+        "translation": "Miyuki「S、 sao... Sao em lại làm chuyện này...? Nếu em có việc gì thì cứ nói với cô là được mà... Đùa kiểu này ác lắm đấy...」\n"
+    },
+    {
+        "sentence": "[美雪「]::は、話って……一体、何なの？　どうして、こんな場所じゃないといけないの？」",
+        "translation": "Miyuki「Cái, cái \"nói chuyện\" mà em nói... rốt cuộc là chuyện gì vậy? Tại sao lại phải ở một nơi như thế này chứ?」"
+    },
+    {
+        "sentence": "[美雪「]::栄司さんの……立場……？」",
+        "translation": "Miyuki「Vị thế của anh ấy...？」"
+    },
+    {
+        "sentence": "[美雪「]::えっ……？　何を、って……」",
+        "translation": "Miyuki「Hả...? Em, em nói gì cơ...?」"
+    },
+    {
+        "sentence": "[美雪「]::一体、どうしたの……？　栄司さん……お兄さんとの間に、何かあったの？」",
+        "translation": "Miyuki「Rốt cuộc là đã xảy ra chuyện gì vậy...? Eiji... giữa em và anh trai đã xảy ra chuyện gì sao?」\n"
+    },
+    {
+        "sentence": "[美雪「]::追い出すって……どうして、真田先生がそんな事を……？」",
+        "translation": "Miyuki「Đuổi... đuổi đi... Tại sao thầy Sanada lại làm chuyện đó...?」\n"
+    },
+    {
+        "sentence": "[美雪「]::……どうして、そんな話を私に？」",
+        "translation": "Miyuki「......Tại sao em lại kể với cô những chuyện đó?」\n"
+    },
+    {
+        "sentence": "[美雪「]::そ、それは……急に、そんな話を聞かされても……栄司さんがそんなに酷い人だなんて、信じられないわ……」",
+        "translation": "Miyuki「Chuyện đó... đột nhiên nghe em nói những điều này, cô thật sự không thể tin được thầy Eiji lại là một người tồi tệ đến vậy...」"
+    },
+    {
+        "sentence": "[美雪「]::ど、どうしてそれを……！」",
+        "translation": "Miyuki「Sao, sao em lại biết chuyện đó...！」"
+    },
+    {
+        "sentence": "[美雪「]::えっ……ちょ、ちょっと……何をしているの？」",
+        "translation": "Miyuki「Eh... ơ, khoan đã... Em đang làm gì vậy?」\n"
+    },
+    {
+        "sentence": "[美雪「]::そ、それは……どういう事、なの……」",
+        "translation": "Miyuki「Vậy, vậy là... chuyện này là sao...?」"
+    },
+    {
+        "sentence": "[美雪「]::三沢君……ちょっと……な、何を……」",
+        "translation": "Miyuki「Misawa-kun...chờ, chờ một chút... Em, em đang làm gì vậy...?」\n"
+    },
+    {
+        "sentence": "[美雪「]::い、いやっ……！」",
+        "translation": "Miyuki「K-Không...！」\n"
+    },
+    {
+        "sentence": "[美雪「]::い、いやあぁっ……やめて、放してっ……！」",
+        "translation": "Miyuki「K-Không, không mà... Dừng lại đi, buông cô ra...！」"
+    },
+    {
+        "sentence": "[美雪「]::お願いっ、やめてっ……こんな事をしても、何にもならないわっ……！」",
+        "translation": "Miyuki「Xin cô, xin em dừng lại đi… Dù em có làm vậy thì cũng chẳng được gì đâu…！」\n"
+    },
+    {
+        "sentence": "[美雪「]::いやぁああっ！　やめて、お願い、変な事しないでっ！！」",
+        "translation": "Miyuki「Á…! Dừng lại đi, xin em, đừng làm chuyện kỳ quái gì hết…!!」\n"
+    },
+    {
+        "sentence": "[美雪「]::ダメっ！　お、お願いだから……こんな事、もう……やめてぇっ……！」",
+        "translation": "Miyuki「Không…! Ơ, xin em… xin em đừng làm chuyện này nữa…!」\n"
+    },
+    {
+        "sentence": "[美雪「]::お願いっ、落ち着いてっ！　言う事を聞いてっ……」",
+        "translation": "Miyuki「Xin Em đó, bình tĩnh lại đi…! Hãy nghe lời Cô đi…」\n"
+    },
+    {
+        "sentence": "[美雪「]::な、何を……」",
+        "translation": "Miyuki「N, cái gì…」\n"
+    },
+    {
+        "sentence": "[美雪「]::んんっ…………！」",
+        "translation": "Miyuki「Ưm…!」"
+    },
+    {
+        "sentence": "[美雪「]::ん、んんっ……！」",
+        "translation": "Miyuki「Ư, ưm…!」\n"
+    },
+    {
+        "sentence": "[美雪「]::うぅんんっ……ふんんっ……んんっ……」",
+        "translation": "Miyuki「Ư…ưm…hừ…ưm…」"
+    },
+    {
+        "sentence": "[美雪「]::んんっ！！　んんっ、ふんんっ……！！」",
+        "translation": "Miyuki「Ư…!! Ư…hư…!!」"
+    },
+    {
+        "sentence": "[美雪「]::ううっ……んんぅっ……むぅうう……」",
+        "translation": "Miyuki「Ư… ư… ư…」"
+    },
+    {
+        "sentence": "[美雪「]::ふんん！　んむっ、ううんんっ！！」",
+        "translation": "Miyuki「Hừ… ưm…ư…!!」\n"
+    },
+    {
+        "sentence": "[美雪「]::ううっ、い、いやっ……くふううっ……んっ、んっ、ああっ……」",
+        "translation": "Miyuki「Ư… không, đừng mà…ư…ư…ư…ư…」\n"
+    },
+    {
+        "sentence": "[美雪「]::酷いっ……こんなのっ……酷いわっ……ぐすっ……は、初めてだったのにっ……こんなのって……ううっ……」",
+        "translation": "Miyuki「Khủng khiếp quá… chuyện này… khủng khiếp quá… hức hức… vậy mà, đây là lần đầu của Cô… chuyện này… ư…」\n"
+    },
+    {
+        "sentence": "[美雪「]::きゃああああああっ！！」",
+        "translation": "Miyuki「Áaaaaaa!!」\n"
+    },
+    {
+        "sentence": "[美雪「]::やめて、お願いやめてぇっ……こんな事、いけないわっ、もう。やめてぇっ……お願いっ……！」",
+        "translation": "Miyuki「Dừng lại đi, Cô xin Em đấy… đừng mà… Chuyện này, không được đâu… đừng mà… Cô xin Em…!」\n"
+    },
+    {
+        "sentence": "[美雪「]::だめ、下着なんか見ないでっ……やめてっ、見ないでっ……服を元に戻してっ……！」",
+        "translation": "Miyuki「Không, đừng có nhìn đồ lót của Cô… Dừng lại đi, đừng nhìn mà… trả quần áo lại cho Cô…!」"
+    },
+    {
+        "sentence": "[美雪「]::いやぁっ……お願い、もう、やめてぇ……お願い、もう許してっ……んぅっ……」",
+        "translation": "Miyuki「Ư… Ư xin Em… xin Em đấy, đừng mà… xin Em… xin Em tha cho Cô đi mà… ư…」\n"
+    },
+    {
+        "sentence": "[美雪「]::い、いや、いやあっ！　いやあああっ……！！」",
+        "translation": "Miyuki「K-Không, không mà! Không…!」"
+    },
+    {
+        "sentence": "[美雪「]::うっ……ううっ……見ないで……お願いだからっ……」",
+        "translation": "Miyuki「Ư… ư ư… Em đừng nhìn Cô… Làm ơn đi mà…」"
+    },
+    {
+        "sentence": "[美雪「]::そんなのっ……見ないでっ……お願い、お願いだからぁっ……！！」",
+        "translation": "Miyuki「Đừng có nhìn mà… làm ơn, làm ơn mà…!!」"
+    },
+    {
+        "sentence": "[美雪「]::いや、やめて、そんな事しないでっ、これ以上はもうっ……お願い、お願いよぉっ……」",
+        "translation": "Miyuki「Không, dừng lại đi, đừng làm mấy chuyện đó mà! Cô không thể chịu đựng thêm nữa đâu... Làm ơn, làm ơn đi mà...」"
+    },
+    {
+        "sentence": "[美雪「]::ううっ……いやぁあっ……もういやぁっ……うぅっ……んんっ……」",
+        "translation": "Miyuki「Ư… ư… Không… Ư… Đừng mà… Cô không muốn đâu… Ư… Ưm…」\n"
+    },
+    {
+        "sentence": "[美雪「]::ううっ……ああぁあっ……ひっく、ひっく……うぁあぁあんっ……えぐっ、えぐっ！　も、もういやあっ！」",
+        "translation": "Miyuki「Ư… ư… A… a… hic… hic… Ư… á… a… ư… ư…! Hức… hức! Không, Cô không muốn nữa!」\n"
+    },
+    {
+        "sentence": "[美雪「]::ううっ……！　ひ、酷い！　こんな事って……あんまりよっ……　くっ、えぐっ……えぐっ、えぐっ……うわあぁあああっ！！」",
+        "translation": "Miyuki「Ư…! Tệ… tệ quá! Chuyện thế này… thật quá đáng… Hức… ứ… ứ… ư… oa… a… a…!」\n"
+    },
+    {
+        "sentence": "[美雪「]::うぅっ……すんっ……ふんんっ……ぐすっ……うんんっ……えぐっ、えぐっ……ううっ、すん……ひっく」",
+        "translation": "Miyuki「Ư… hức… hừ… hức… ư… hức, hức… ư… hức… hic」"
+    },
+    {
+        "sentence": "[美雪「]::んぁあっ……ぁあッ……いやぁっ……」",
+        "translation": "Miyuki「Ư… á… a… không…」"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ……お願いッ……もう、やめてぇっ……あっ……はんっ……」",
+        "translation": "Miyuki「A… Ư… xin Em… xin Em đấy… Thôi, dừng lại đi… A… ưm…」"
+    },
+    {
+        "sentence": "[美雪「]::いやぁあっ！　いっ、い、いやあっ！　だめ、そこだけはだめえっ！　許して、やめてぇえっ……いやあああっ！！」",
+        "translation": "Miyuki「Không… á… a… Không! Chỗ đó thì không được! Xin Em, dừng lại đi… không…!」\n"
+    },
+    {
+        "sentence": "[美雪「]::あうっ！　い、痛いっ……！！」",
+        "translation": "Miyuki「Á… Ư… Đau…!!」\n"
+    },
+    {
+        "sentence": "[美雪「]::やぁあああっ！　そこはだめっ、そこだけは許して、お願い、お願いぃいっ！　だめ、本当にだめなのぉっ！！」",
+        "translation": "Miyuki「Á á á! Chỗ đó không được, xin em đừng, xin em tha cho cô, làm ơn, làm ơn đi mà! Không được, thật sự không được đâu!!」\n"
+    },
+    {
+        "sentence": "[美雪「]::あふっ……ぁあっ……だめっ……指を、指をどけてっ……そんな所っ……触らないでぇっ……！」",
+        "translation": "Miyuki「A... á... đừng mà... bỏ ngón tay ra, bỏ ngón tay ra đi... chỗ đó... đừng chạm vào mà...!」"
+    },
+    {
+        "sentence": "[美雪「]::お願いだからっ……もう、やめてぇっ　……これ以上はっ……ぁあんっ……ゆ、ゆるしてぇえっ……はあぁっ……！」",
+        "translation": "Miyuki「Xin em đấy... xin em, dừng lại đi mà... đừng có làm nữa... ư... xin, xin em tha cho cô... haaa...!」\n"
+    },
+    {
+        "sentence": "[美雪「]::うぅっ……お願い、お願いっ……手をどけてっ……そこは触らないでっ……やめてぇええっ……うぁあっ……あぅうっ……」",
+        "translation": "Miyuki「Ư... xin em, xin em đấy... bỏ tay ra... đừng chạm vào chỗ đó... dừng lại đi mà... ư... á... ư...」\n"
+    },
+    {
+        "sentence": "[美雪「]::嘘っ、うそぉ……いやぁ、そんなはずないっ、そんなの嘘よっ……お願いっ……もう、本当にやめてぇっ……」",
+        "translation": "Miyuki「Không... không thể nào... không phải thế chứ... chuyện đó là bịa đặt... xin em đấy... thôi mà, thật sự đừng mà...」"
+    },
+    {
+        "sentence": "[美雪「]::嘘よっ、絶対嘘っ……そんなはずないっ……ぁあっ……イヤなのっ……私っ……いやぁああっ……！」",
+        "translation": "Miyuki「Dối trá! Tuyệt đối là dối trá... Làm gì có chuyện đó!... Áh!... Cô không muốn!... Chính cô... Khônggg!」"
+    },
+    {
+        "sentence": "[美雪「]::……ひいっ！」",
+        "translation": "Miyuki「……Hiii!」\n"
+    },
+    {
+        "sentence": "[美雪「]::……いやっ！　ああ、いやっ……やめて、お願いっ……！　やめて……やめてよ、ええっ……！？」",
+        "translation": "Miyuki「……Không…! Ah, không… xin em, đừng mà…! Đừng… đừng mà, á…!?」\n"
+    },
+    {
+        "sentence": "[美雪「]::いやぁあっ、やぁぁあああああああああっ！！」",
+        "translation": "Miyuki「Khônggg! Ahhhh, khônggggggggggg!!」\n"
+    },
+    {
+        "sentence": "[美雪「]::お願いッ……それだけは許して、ああっ……それだけはっ……お願いぃっ……！」",
+        "translation": "Miyuki「Xin em… xin em tha cho cô chuyện này, ah… chỉ chuyện này thôi… xin em…!」\n"
+    },
+    {
+        "sentence": "[美雪「]::違うのっ……そんなんじゃないのっ……ぁあっ……こんな事……結婚前にするはっ……ああっ……ダメなのっ……うあぁあっ……！！」",
+        "translation": "Miyuki「Không phải đâu… không phải vậy đâu… ah… chuyện này… không nên làm trước khi kết hôn… ah… không được… ưaaah…!!」"
+    },
+    {
+        "sentence": "[美雪「]::そんなっ……違うっ、こんなの違うのっ……でもっ……これはダメぇっ……！」",
+        "translation": "Miyuki「Không… không phải vậy… không phải thế này… nhưng… chuyện này là không được…!」"
+    },
+    {
+        "sentence": "[美雪「]::そんなっ……違いますっ、違うのっ……ああっ……お願い、落ち着いてっ……お願いだから、ぁあっ……言う事を聞いてッ……！」",
+        "translation": "Miyuki「Không phải… Không phải thế đâu, không phải vậy mà… Áaa… Làm ơn, em bình tĩnh lại đi… Cô cầu xin em đó, á… Em, nghe lời cô nói đi chứ!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……助けてっ……いやあああっ……誰か助けてぇええ……っ！！」",
+        "translation": "Miyuki「Áaa… Cứu… Cứu tôi với… Không… Áaaa… Ai đó cứu tôi với…!!」\n"
+    },
+    {
+        "sentence": "[美雪「]::ぁああっ……お願いっ……こんなのっ、こんなのひどすぎるわっ……ぁああっ……うぐっ……うぁああっ……」",
+        "translation": "Miyuki「Áaa… Xin em… Cô xin em… Cái này… Cái này quá đáng lắm… Áaa… Ư… Áaaa…」\n"
+    },
+    {
+        "sentence": "[美雪「]::いやぁあああああっ！　やめてっ、やめてぇええっ！　いやあああっ！！」",
+        "translation": "Miyuki「Không… Á á á á… Dừng lại đi, dừng lại đi mà… Không… Á á á!!」\n"
+    },
+    {
+        "sentence": "[美雪「]::ぁあああああっ……いやっ、いやぁああっ……だめえええええっ……！！」",
+        "translation": "Miyuki「Aaaaaaa... Không... Không mà... Ư... Ư... Đừng màaaaaaa...!!」\n"
+    },
+    {
+        "sentence": "[美雪「]::ひっ……ぐぅっ……ううっ……はあぁあっ……うっ、ううっ……あぁあっ……！！」",
+        "translation": "Miyuki「Hức... ư... ư... haaa... ư, ư... aaaa...!!」\n"
+    },
+    {
+        "sentence": "[美雪「]::ううっ……ああっ……いやぁっ……ぁあっ……んんっ……こんな、こんな事って……ぁっ、ああっ……！」",
+        "translation": "Miyuki「Ư... A... Ư... A... Không... A... Ư... Chuyện này... chuyện này... A... A...!」\n"
+    },
+    {
+        "sentence": "[美雪「]::あぐっ……ううっ、うぐっ……ごめんなさい、栄司さんごめんなさいっ……うっ……むっ、くうっ……んっ！！」",
+        "translation": "Miyuki「Ách... ư ư... ư ư... Em xin lỗi, Eiji-san, em xin lỗi... Ư... m... khụ... ư!!」\n"
+    },
+    {
+        "sentence": "[美雪「]::ううっ……も、もうやめてぇっ……やめてっ……うっ、うっ……ひくうっ、うっ、うっ……ごめんなさいぃっ……！」",
+        "translation": "Miyuki「Ư... xin em... xin em đừng mà... đừng mà... ư, ư... hức hức, ư, ư... Cô xin lỗi mà...!」\n"
+    },
+    {
+        "sentence": "[美雪「]::ひぅっ！　ぁああっ……あああっ！　い、いやあっ！　ダメぇッ！　動かないで……お願いッ！　い、痛いッ……痛いいいいっ！！」",
+        "translation": "Miyuki「Ưm! Á... á... Khô... không! Không được! Đừng nhúc nhích! Cầu xin em đó! Đau... đau quá! Đau quáaaaaa đi mất!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……助けてっ……うぐッ……栄司さんっ……栄司さぁああんっ……あぁっ……お願いっ……ううっ……助けてぇっ……！！」",
+        "translation": "Miyuki「A... Cứu em... Ư... Eiji-san... Eiji-saaaan... A... Xin anh... Ư ư... Cứu em với...!!」\n"
+    },
+    {
+        "sentence": "[美雪「]::こんなのっ……こんなのあんまりよっ……ぁああっ……っく……ひいンっ……ううっ……あぁあっ……え、栄司さんっ……」",
+        "translation": "Miyuki「Cái này... Cái này quá đáng lắm rồi... Aaa... Hức... Hức... Ư ư... Aaa... Ơ, Eiji-san...」\n"
+    },
+    {
+        "sentence": "[美雪「]::ぐっ、うぐっ、い、痛いっ、痛いのおっ……ぁあっ、助けて……栄司さん助けて……栄司さんっんんっ……ひっく、ひっく……」",
+        "translation": "Miyuki「Ư... ư... Đau, đau quá... Đau quá đi... A... Cứu em... Eiji-san, cứu em... Eiji-san... Hức... Hức...」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……酷いっ……こんな酷い事がっ……ううっ……あぁああああっ……あぁあっ……うぐっ……」",
+        "translation": "Miyuki「A... Đau quá... Chuyện... Chuyện kinh khủng gì thế này... Ư ư... Aaaaa... A... Ư...」"
+    },
+    {
+        "sentence": "[美雪「]::くあぁっ！　くっ……うっ……あ…ぐぅ……く……ん…ぐぅぅうっ！」",
+        "translation": "Miyuki「Ư... Ư... Ư... A... Ư... Ư... Ư...」\n"
+    },
+    {
+        "sentence": "[美雪「]::んんっ……んっ……ふぅん……あっ……いっ、やぁ……んっ……くっ…うぐっ……ン……っ……」",
+        "translation": "Miyuki「Ưm... Ưm... Ư... A... Ư... Ư... Ư...」"
+    },
+    {
+        "sentence": "[美雪「]::はあぁあぁっ！　うぐっ……いやっ……もうっ…いやあぁぁっ！　あぁああっ……！！」",
+        "translation": "Miyuki「A... A... Ư... Không... Không... Không... Aaaaa!... Aaaa!...!!」"
+    },
+    {
+        "sentence": "[美雪「]::うううぅ……あっ…ぐっ、ううぅ……お願いっ……抜いてぇっ……あぅ……早く、抜いてぇ……お願いぃいっ……！」",
+        "translation": "Miyuki「Ư... A... Ư... Xin em đấy... Rút ra đi...! Ư... Nhanh lên, rút ra đi...! Làm ơn đi mà...!」"
+    },
+    {
+        "sentence": "[美雪「]::うぅぅ……違うっ……違うわっ……くぅんっ……んっ…ううぅう……違う……んっ……ぁああっ……」",
+        "translation": "Miyuki「Ư... Không... Không phải mà... Không phải đâu... Khư... Ư... Ư... Không... Ư... Aaaa...」\n"
+    },
+    {
+        "sentence": "[美雪「]::あぁあっ……もうやめてっ……聞きたくないっ、そんな酷い事ッ……聞きたくないぃっ……！！」",
+        "translation": "Miyuki「A... A... Xin em đấy... Dừng lại đi...! Cô không muốn nghe đâu, những chuyện tồi tệ như vậy...! Cô không muốn nghe đâu...!」\n"
+    },
+    {
+        "sentence": "[美雪「]::どうして……どうして、こんな目に逢わなくちゃならないのっ……ううっ……あぁっ……どうしてぇえっ……！！」",
+        "translation": "Miyuki「Tại sao... Tại sao cô phải chịu đựng chuyện này chứ... Ư... A... Tại sao chứ...!」\n"
+    },
+    {
+        "sentence": "[美雪「]::だめっ、それだけは絶対にだめぇえええええっ！！」",
+        "translation": "Miyuki「Không, chỉ điều đó là tuyệt đối không được!!!!!」\n"
+    },
+    {
+        "sentence": "[美雪「]::やだやだっ、やめてぇええええっ……！！　お願いっ、それだけは堪忍して、お願い、お願いだからぁあッ……！！」",
+        "translation": "Miyuki「Không... Không mà...! Dừng lại đi...! Xin em đấy, xin em tha cho chuyện đó thôi, xin em, em xin em mà...!」"
+    },
+    {
+        "sentence": "[美雪「]::いやぁあっ！　いやっ、いやぁああっ！　ダメっ、精液出さないでっ！　やだ、やめてぇ　いやっ！　ひいっ！　いやああっ！！」",
+        "translation": "Miyuki「Khôngg! Không, khônggg! Không được, em đừng bắn tinh dịch ra! Không, dừng lại đi mà! Không! Hức! Khôngg!!」"
+    },
+    {
+        "sentence": "[美雪「]::やめてぇええっ！　ホントにっ、出さないでぇッ！　中に出さないでっ、やめて……やめてぇっ！　いやあっ！　いやあああっ！！」",
+        "translation": "Miyuki「Dừng lại đi mà! Thật đó, đừng bắn ra! Đừng bắn vào trong, dừng lại đi… dừng lại đi mà! Không! Khônggggg!!」\n"
+    },
+    {
+        "sentence": "[美雪「]::いやあっ！　いやあっ！　中はだめぇっ！　お願いっ、抜いてぇっ！　抜いて、抜いてッ！　ああっ、お願いよぉお……だめえええっ！」",
+        "translation": "Miyuki「Khônggg! Khônggg! Em đừng bắn vào trong! Cô xin em, rút ra đi...! Rút ra đi, rút ra đi mà! A... cô xin em mà...! Khônggg được mà...!」"
+    },
+    {
+        "sentence": "[美雪「]::ああ、やめてぇええっ！！　あぁあっ、いやああああああああっ！！」",
+        "translation": "Miyuki「Aaa, dừng lại đi mà!!! Aaa, khôngggggggg!!」\n"
+    },
+    {
+        "sentence": "[美雪「]::ゃああああっ！　いや、あああっ！　ああああああああああっ！！」",
+        "translation": "Miyuki「Kyaaaaa! Không, aaaa! Aaaaaaaaaaaaaaa!」\n"
+    },
+    {
+        "sentence": "[美雪「]::ああっ、あああっ……！　いやぁっ……ううっ……ぁぐぅううっ……あ、入ってくる……お腹に……お腹に……ああっ……あっ！？」",
+        "translation": "Miyuki「A... a...! Không... không...! Ư... ư...! Ah... vào rồi... vào bụng cô... vào bụng cô... a...! A!?」\n"
+    },
+    {
+        "sentence": "[美雪「]::お腹の中にっ……ひぃっ……まだ精液出てるっ……うぁああっ……」",
+        "translation": "Miyuki「Trong bụng cô……Hức……vẫn còn tinh dịch đang chảy ra……ư... ư……」"
+    },
+    {
+        "sentence": "[美雪「]::うぅうっ……いやぁあああっ……」",
+        "translation": "Miyuki「Ư... ư... khôngggggggg...」\n"
+    },
+    {
+        "sentence": "[美雪「]::うぁあっ……あぁっ……っ……うぐっ……っ……うううっ……」",
+        "translation": "Miyuki「ư... a... ư... ư... ư...」"
+    },
+    {
+        "sentence": "[美雪「]::うぅぅ……ぐすっ……うっ…うっ……うあぁぁ……あ…あぁ……」",
+        "translation": "Miyuki「Ư... hức... ư... ư... áaaaa... a... á...」"
+    },
+    {
+        "sentence": "[美雪「]::あぐっ……ううっ……えぐっ……うううっ……うわあああんっ……」",
+        "translation": "Miyuki「Ư... hức... ư... ư... ưaaaaaa...」\n"
+    },
+    {
+        "sentence": "[美雪「]::……ぅっ……ぅっ…………ぐすっ……ぅぅっ……っ……」",
+        "translation": "Miyuki「……ぅっ……ぅっ…………ぐすっ……ぅぅっ……っ……」"
+    },
+    {
+        "sentence": "[美雪「]::うっ…う、うぅっ……あぅ……あっ…あううぅぅぅううぅっ……っ……！！」",
+        "translation": "Miyuki「Ư... ư, ư... á... á... ư...」\n"
+    },
+    {
+        "sentence": "[美雪「]::きゃっ……！」",
+        "translation": "Miyuki「Á...！」"
+    },
+    {
+        "sentence": "[美雪「]::はっ……！」",
+        "translation": "Miyuki「Hả...！」\n"
+    },
+    {
+        "sentence": "[美雪「]::わ、わたしに……な、なにか……用なの……」",
+        "translation": "Miyuki「C-cô... e-em có c-chuyện gì... c-cần c-cô sao...?"
+    },
+    {
+        "sentence": "[美雪「]::うぅっ……」",
+        "translation": "Miyuki「Ư...」"
+    },
+    {
+        "sentence": "[美雪「]::あんな事……誰にも言える訳ないでしょう……っ？！」",
+        "translation": "Miyuki「Chuyện như vậy... Cô không thể nói với ai được... phải không ạ...?！」\n"
+    },
+    {
+        "sentence": "[美雪「]::いやっ…やめて、言わないでっ……あぁあっ……」",
+        "translation": "Miyuki「K-không… xin em… đừng nói mà… aaaa…」"
+    },
+    {
+        "sentence": "[美雪「]::ううっ……どうして……どうしてこんな事をっ……酷い、酷すぎるわっ……」",
+        "translation": "Miyuki「Ư... Tại sao... Tại sao lại làm chuyện này với cô... Tàn nhẫn quá, quá tàn nhẫn...」\n"
+    },
+    {
+        "sentence": "[美雪「]::そんなっ……理不尽だわっ……あんまりよっ……うぅっ……」",
+        "translation": "Miyuki「Không thể nào... Thật là vô lý... Quá đáng lắm rồi... Ư...」"
+    },
+    {
+        "sentence": "[美雪「]::どうして……そこまで栄司さんを憎まなくてはいけないのっ……？」",
+        "translation": "Miyuki「Tại sao… lại phải căm ghét Eiji đến mức đó…?」"
+    },
+    {
+        "sentence": "[美雪「]::だって………血は繋がっていなくても、お兄さんでしょ……家族なのに、兄弟なのに……そんなに憎むなんて……悲しいわっ……」",
+        "translation": "Miyuki「Nhưng mà... dù không cùng huyết thống, anh ấy vẫn là anh trai của em mà... Là gia đình, là anh em với nhau... mà em lại căm ghét đến mức đó... Cô đau lòng quá...」"
+    },
+    {
+        "sentence": "[美雪「]::栄司さんは……素晴らしい方よ？　それなのに……どうしてそんなに……」",
+        "translation": "Miyuki「Eiji là một người tuyệt vời mà...? Vậy mà... tại sao em lại...」"
+    },
+    {
+        "sentence": "[美雪「]::そんなっ……私は何もおかしい事なんて言ってないわっ……」",
+        "translation": "Miyuki「Đâu có... Cô có nói gì kỳ lạ đâu...」"
+    },
+    {
+        "sentence": "[美雪「]::っ……！」",
+        "translation": "Miyuki「っ……！」\n"
+    },
+    {
+        "sentence": "[美雪「]::うぅっ……こんな所でっ……そんな事っ……」",
+        "translation": "Miyuki「Ư... ở những chỗ như thế này... những chuyện như thế...」\n"
+    },
+    {
+        "sentence": "[美雪「]::そんなっ……そんな事ありませんっ……！」",
+        "translation": "Miyuki「Không... Không có chuyện đó đâu ạ...！」"
+    },
+    {
+        "sentence": "[美雪「]::っっ……！」",
+        "translation": "Miyuki「っっ……！」\n"
+    },
+    {
+        "sentence": "[美雪「]::だ、誰……？」",
+        "translation": "Miyuki「Ai… ai vậy…?」"
+    },
+    {
+        "sentence": "[美雪「]::ひッ……！」",
+        "translation": "Miyuki「Hức…!」\n"
+    },
+    {
+        "sentence": "[美雪「]::わ、私に何か……用があるの……？」",
+        "translation": "Miyuki「V… Vậy, em tìm cô… có việc gì sao…?」"
+    },
+    {
+        "sentence": "[美雪「]::わ、私は、貴方の所有物なんかじゃないわっ……！」",
+        "translation": "Miyuki「Kh-không, cô không phải là vật sở hữu của em…!」\n"
+    },
+    {
+        "sentence": "[美雪「]::そんなっ……それは貴方が一方的にそうしただけでっ……！」",
+        "translation": "Miyuki「Không…! Đó chỉ là do em đơn phương làm vậy thôi…!」\n"
+    },
+    {
+        "sentence": "[美雪「]::そ、それは……」",
+        "translation": "Miyuki「C… chuyện đó thì…」"
+    },
+    {
+        "sentence": "[美雪「]::貴方は……まだ、あんな事を……するつもりなの……？」",
+        "translation": "Miyuki「Em…… vẫn còn định…… làm cái chuyện đó sao……?」\n"
+    },
+    {
+        "sentence": "[美雪「]::そ、そんなっ……またあんな事をする気だなんてっ……」",
+        "translation": "Miyuki「Kh… Không thể nào… Em lại định làm cái chuyện đó nữa sao…?」\n"
+    },
+    {
+        "sentence": "[美雪「]::お願いっ、もうこんな事はやめて……今、やめてくれれば、私もこのまま今までの事は胸にしまっておくから……」",
+        "translation": "Miyuki「Xin em, xin em đừng làm vậy nữa… Nếu em dừng lại ngay bây giờ, cô sẽ giữ kín mọi chuyện đã qua trong lòng…」"
+    },
+    {
+        "sentence": "[美雪「]::い、いやっ……！　おかしな事を言わないでっ！！」",
+        "translation": "Miyuki「K… Không…! Xin em đừng nói những điều kỳ quái như vậy!!」\n"
+    },
+    {
+        "sentence": "[美雪「]::貴方って人は……どこまで人を辱めれば気が済むのっ！？」",
+        "translation": "Miyuki「Em muốn làm nhục cô đến mức nào nữa thì mới vừa lòng hả!?」\n"
+    },
+    {
+        "sentence": "[美雪「]::いくら栄司さんの弟だからって……私にもっ……ぁ、あぁっ……」",
+        "translation": "Miyuki「Dù em là em trai của Eiji đi nữa…… Với cô mà…… ぁ,あぁっ……」"
+    },
+    {
+        "sentence": "[美雪「]::な、なんでもないのっ……！」",
+        "translation": "Miyuki「K… Không…! Không có gì đâu…!」"
+    },
+    {
+        "sentence": "[美雪「]::はあぁっ……」",
+        "translation": "Miyuki「Haaah......」\n"
+    },
+    {
+        "sentence": "[美雪「]::っ……？」",
+        "translation": "Miyuki「……？」\n"
+    },
+    {
+        "sentence": "[美雪「]::あっ…………」",
+        "translation": "Miyuki「Á...」"
+    },
+    {
+        "sentence": "[美雪「]::い、いやぁあっ……こないで、こっちにこないでっ……お願いっ、こっちにこないでぇ……」",
+        "translation": "Miyuki「K-không... đừng mà... đừng lại gần đây... xin cô đấy, đừng lại gần đây mà...」"
+    },
+    {
+        "sentence": "[美雪「]::ほ、他の先生方は、お帰りになった方もいらっしゃるし、部活を見に出払ってる方もいるわ……」",
+        "translation": "Miyuki「C-cô nghĩ là, những giáo viên khác, có người đã về rồi, có người lại ra ngoài xem hoạt động câu lạc bộ...」"
+    },
+    {
+        "sentence": "[美雪「]::ま、まさか……また、あ、あの時みたいな事……するつもりなの……？」",
+        "translation": "Miyuki「K-không lẽ nào... lại, lại định làm cái chuyện như lúc đó...?」"
+    },
+    {
+        "sentence": "[美雪「]::確かめ……たい事？」",
+        "translation": "Miyuki「Cô... muốn xác nhận chuyện gì sao...?」"
+    },
+    {
+        "sentence": "[美雪「]::や、やああっ！　な、何をっ……！　ああっ、やめてぇ、いやぁっ！　だめ、ひ、人を呼ぶわよっ！！」",
+        "translation": "Miyuki「A-aá! E-em đang làm gì vậy...?! Aaa, dừng lại đi, không được! Không, c-cô sẽ gọi người đấy ra đó!!」"
+    },
+    {
+        "sentence": "[美雪「]::はぅっ……ぁあっ……いやぁっ……やめてっ、やめなさいっ……こんな所でっ……ぁああっ！」",
+        "translation": "Miyuki「Hức... Aaa... Không... Dừng lại đi, dừng lại đi mà... Ở cái chỗ này... Aaa!」\n"
+    },
+    {
+        "sentence": "[美雪「]::はぁんっ……いやっ、やめてっ……手を放してぇっ……んんっ……はぅっ……お願いっ、やめてえっ……！」",
+        "translation": "Miyuki「Hơnn~... Không! Dừng lại đi!... Thả tay Cô ra!... Ưm... Hức... Làm ơn, dừng lại đi mà!」"
+    },
+    {
+        "sentence": "[美雪「]::そ、そんな事っ……くふぅっ……ぁあっ……ないっ……ぁあんっ……！」",
+        "translation": "Miyuki「K-không, không có chuyện đó... Khư... Aaa... Không... Ah... Ah!」"
+    },
+    {
+        "sentence": "[美雪「]::そこは……栄司さんの机……そ、そこでいったい、何をする気なのっ……？」",
+        "translation": "Miyuki「Đó là... bàn của Eiji-san... C-chúng ta sẽ làm gì ở đó vậy...?!」"
+    },
+    {
+        "sentence": "[美雪「]::い、いやよっ……そんな、いやっ、行きたくないわっ……！」",
+        "translation": "Miyuki「K-không, Cô không muốn... Đừng mà, Cô không muốn đến đó đâu...!」"
+    },
+    {
+        "sentence": "[美雪「]::うぅっ……そんなっ……事っ……やめてっ……」",
+        "translation": "Miyuki「Ư... ư... Đ-đừng mà... Chuyện đó... Dừng lại đi...」"
+    },
+    {
+        "sentence": "[美雪「]::い、いやぁあっ……ちょ、ちょっとっ、何をするのっ……きゃああっ！　や、やめてぇっ！」",
+        "translation": "Miyuki「K-không... Ư... Ư... Đ-đừng mà... Chậm... Chậm lại... Em... Em đang làm cái gì vậy... Ư... A...! Đ-đừng mà...!」\n"
+    },
+    {
+        "sentence": "[美雪「]::あぁあっ……だめ、だめえぇっ……！」",
+        "translation": "Miyuki「A... A... Không... Không được mà...!」"
+    },
+    {
+        "sentence": "[美雪「]::っ…………！」",
+        "translation": "Miyuki「っ…………！」\n"
+    },
+    {
+        "sentence": "[美雪「]::く、口って……何を……？」",
+        "translation": "Miyuki「K... Cái miệng... là sao...?」"
+    },
+    {
+        "sentence": "[美雪「]::な、舐めるってっ！　そ、そんな……不潔な事っ……出来ないわっ……無理よ、そんな事、出来る訳ないじゃないっ！！」",
+        "translation": "Miyuki「N... Ngậm... ngậm cái đó ư...! Kh... Không thể nào... Bẩn thỉu như vậy... Cô... Cô không làm được đâu...! Không... Không thể nào, làm sao Cô có thể làm chuyện đó chứ!!」"
+    },
+    {
+        "sentence": "[美雪「]::それに……ここは栄司さんの机じゃないっ……うぅ、ここでなんて、そんなイヤらしい事、出来ないっ……」",
+        "translation": "Miyuki「Hơn nữa... Đây không phải là bàn của Eiji-san sao... Ư... Ở đây thì, Cô không thể làm chuyện dơ bẩn đó được...」"
+    },
+    {
+        "sentence": "[美雪「]::う、うぅっ……ううっ……い、ぃやぁっ……」",
+        "translation": "Miyuki「ư, ư ư... ư ư... k, khô...ông...」"
+    },
+    {
+        "sentence": "[美雪「]::んんぅ……ちゅぅ……ちゅぱ……ん……んむっ……んっ……んん……ちゅっ……れろ……れろ……」",
+        "translation": "Miyuki「ưm... chụt... chụt chụt... ư... ưm... ư... ư ư... chụt... liếm... liếm...」"
+    },
+    {
+        "sentence": "[美雪「]::んっ……んん……ううっ……！　えぅ……ん……ちぱ……チュ……む、ふあぁっ……ちゅっ……れろ……れろっ……」",
+        "translation": "Miyuki「ư... ư ư... ư ư...! E... ư... chụt chụt... chụt... ư, ho...oa... chụt... liếm... liếm...」\n"
+    },
+    {
+        "sentence": "[美雪「]::そ、そんな事言われてもっ……だって、こんな事っ……おかしいわっ、性器を舐めるなんてっ……うぅっ……異常だわっ……！」",
+        "translation": "Miyuki「Đ, đừng có nói với Cô những điều như vậy chứ… Tại vì, chuyện này… thật kỳ quái… việc liếm cơ quan sinh dục… ư… thật là bệnh hoạn…!」"
+    },
+    {
+        "sentence": "[美雪「]::だって……こんな事っ……ううっ……んむぁ、あぁ、ぢゅっ……こんなのっ、出来ないっ……ううっ……！！」",
+        "translation": "Miyuki「Nhưng mà… chuyện này… ư ư… ưm oa, a… chụt… chuyện này… Cô không làm được… ư ư…!!」"
+    },
+    {
+        "sentence": "[美雪「]::ひうッ…………ぁあっ……いやっ、そんなにされたらっ……ああっ……痛い、痛いのッ……はぅっ……！」",
+        "translation": "Miyuki「Hức... a... ư... đừng mà... làm vậy nữa thì... a... đau, đau quá... hức...!」\n"
+    },
+    {
+        "sentence": "[美雪「]::あぁああっ……はぁん……んんっくっ……はぁっ……だめ、だめぇええ……そんなところ、弄らないでっ……はぁあんっ……！」",
+        "translation": "Miyuki「Aaa... ah... hức... ư ư... A... Không, đừng mà... đừng có chạm vào chỗ đó... ha... ah...!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……だめ、やめてぇっ……それ以上、酷い事しないでっ……ぁあっ、はぅんっ……」",
+        "translation": "Miyuki「A…Ư… đừng mà, xin Em đấy… Đừng làm chuyện kinh khủng hơn nữa… A…ưm…」"
+    },
+    {
+        "sentence": "[美雪「]::ひんっ……んっあぁ……っ、あぁ、い、いやあっ……やめ、て……くうぅぅっ、むんっ、んっんっ……んっ、んっ、んっ……」",
+        "translation": "Miyuki「ư… ư… a… a… không, đừng mà… đừng… ư… ư… ư… ư… ư… ư…」"
+    },
+    {
+        "sentence": "[美雪「]::ちゅばっ、んんっ……いやっ……むぐっ……んんっ……いやぁあっ……んむッ……！」",
+        "translation": "Miyuki「Chụt, ưm… không… m… ưm… ưm… không… ưm…!」"
+    },
+    {
+        "sentence": "[美雪「]::んはっ……んぐっ……んむっ、むううっ……ちゅっ…んむっ……ううっ、ぷはぁっ……！　ぁあっ……い、いやぁっ……！！」",
+        "translation": "Miyuki「ư…ư… ưm, ư ư… chụt… ưm… ư… ư… phù…! A… a… không, đừng mà…!!」"
+    },
+    {
+        "sentence": "[美雪「]::むぐぅっ……ふぐっ……ちゅぷっ、んんっ、うんんっ！！　ふんんっ、んうっ……ぐぅっ……ふぅん、ふんうっ……！」",
+        "translation": "Miyuki「Ưm… ưm… chụt chụt… ưm… ưm… ưm!! Ưm… ưm… Ực… Ưm… ưm…!」"
+    },
+    {
+        "sentence": "[美雪「]::ふぐぅっ……んんっ……んむ、むうううっ……んんっ、ふんんっ……！」",
+        "translation": "Miyuki「Phù… ưm… ưm… ưm… ư ưm… ưm… ưm… ưm… ưm…！」"
+    },
+    {
+        "sentence": "[美雪「]::ふぅんっ……んんっ、ん、むはぁっ……はあんっ……んんっ、うぐっ……んはあっ……ああっ、ああっ、だめぇっ……！」",
+        "translation": "Miyuki「Ư…ư…ư…ư…ư…ư…ư…ư…ư…ư…ưm……Ư…ư…ư…ư…ư……ư ư…ư…ư…ư…ư! Ư… ư… không… không được……!」\n"
+    },
+    {
+        "sentence": "[美雪「]::んはあぁっ……お願い、胸はやめて、お願いっ、オッパイいじめないでっ……お願い、やめてぇっ……！」",
+        "translation": "Miyuki「Ư…ư… xin Em đấy, đừng có nghịch ngực Cô nữa, xin Em đấy, đừng hành hạ ngực Cô mà… xin Em, đừng mà…！」"
+    },
+    {
+        "sentence": "[美雪「]::うぅんっ……だめ、ああっ……あっ……ひんっ……んん、んぁあっ……！」",
+        "translation": "Miyuki「Ư…ư… không được, a…a… ư…ư…ư…a…！」"
+    },
+    {
+        "sentence": "[美雪「]::そんなっ……こんな事っ……普段しないからっ……ぁあっ……分からないっ……ぁあっ……！」",
+        "translation": "Miyuki「K-Không… chuyện này… bình thường Cô không có làm vậy đâu…ư…ư… Cô không biết…ư…ư…！」\n"
+    },
+    {
+        "sentence": "[美雪「]::はぁあっ……うぅっ、くっ……ぁああっ、だめ、オッパイぴくぴくしちゃうっ、なんかきちゃうぅっ……あぁあっ…！」",
+        "translation": "Miyuki「Hức… ư… ư… khục… a… không được, ngực Cô nhức nhối hết cả lên rồi, sắp ra mất… a…!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああっ、だめえっ、やめてっ！　なんか変なの、ああっ……オッパイの奥が熱いのっ、いやぁっ、なんかきてる、乳首がっ、ぁっ、はぁああん！」",
+        "translation": "Miyuki「A…a… đừng mà… dừng lại đi…! Sao mà lạ quá, a…a… sâu bên trong ngực Cô nóng quá, không chịu đâu… hình như sắp ra rồi, **núm vú** Cô… a… hức…ư…ư…!」"
+    },
+    {
+        "sentence": "[美雪「]::胸の奥がジンジンして、はぅっ……ああっ、乳首がコリコリして切なくてっ……くふぅっ……ああっ、何これ、だめ、自分でも分からないのっ！」",
+        "translation": "Miyuki「Sâu trong ngực Cô cứ nhức nhối, ư…a… a… núm vú Cô thì cứ cứng hết cả lên, lại còn đau nữa chứ… khục… a… cái gì thế này, không được, Cô cũng không biết nữa…!」"
+    },
+    {
+        "sentence": "[美雪「]::ああっ……もうだめ、あぁあっ……いやっ、だめなのっ、こんなのっ、あぁあっ……イヤぁあっ！」",
+        "translation": "Miyuki「A…a… không được… nữa rồi, a…a… không muốn… không được mà… cái này… a…a… không muốn…!」"
+    },
+    {
+        "sentence": "[美雪「]::きゃぁああっ！！　やぁあ、いやぁああああっ！！」",
+        "translation": "Miyuki「Kyaaa!! Ah… Ư… Ư…!!」\n"
+    },
+    {
+        "sentence": "[美雪「]::ぁああっ、ああっ、だめっ……はぅっ……あ、あぁっ……！」",
+        "translation": "Miyuki「A…a… a… không… không được… ư… ư… a… a…!」"
+    },
+    {
+        "sentence": "[美雪「]::だめっ……あぅっ……オッパイ、やけちゃう、きもちよくって、ああっ……だめぇ、こんなのッ……あぁあっ……！」",
+        "translation": "Miyuki「Không… Ư… Ư… Ngực Cô, như muốn cháy lên, sướng quá, a…a… không được… cái này… a…a…!」"
+    },
+    {
+        "sentence": "[美雪「]::い、いやっ…！？　何で、どうして……！？　何なのこれっ……どうして……どうして私の胸から……お乳が出てるの！？」",
+        "translation": "Miyuki「K、không…!? Sao, tại sao…!? Cái gì thế này… Tại sao… Tại sao từ ngực cô… lại chảy sữa ra thế này!?」\n"
+    },
+    {
+        "sentence": "[美雪「]::ああっ……いやぁああっ、お乳出ちゃったっ……どうしてっ、あぁああっ……！」",
+        "translation": "Miyuki「A...ư...ư...sữa chảy ra rồi...tại sao...a...ư...ư...!」"
+    },
+    {
+        "sentence": "[美雪「]::そんなっ……ああっ……いやっ、いやああっ！！」",
+        "translation": "Miyuki「K-không……a……ư……không, khônggg！！」\n"
+    },
+    {
+        "sentence": "[美雪「]::ぅっ……ううっ……どうして、どうしてこんな事にっ……ぁあっ……もういやぁっ……ぅぐっ……！」",
+        "translation": "Miyuki「Ư… ư… Tại sao, tại sao lại thành ra thế này… A… không muốn mà… ưg…!」"
+    },
+    {
+        "sentence": "[美雪「]::んぐっ！？　んんっ、んふぅううッ……！　んんっ、ぷはっ……はぁあっ……ん、んんっ……む、んぶっ……！」",
+        "translation": "Miyuki「Ưng!? Ư...ư, ư...hự...ư...ư...! Ư...ư, phù...hà...a...ư...ư...ư...m, ư...bựt...!」"
+    },
+    {
+        "sentence": "[美雪「]::ふむあぁぁっ！　あぅっ、はああんっ……！　んぅっ、ちゅぷ……れるぅ、んっ、んんんぅぅっ！」",
+        "translation": "Miyuki「Hừm… a… a…! A… ư, ha… a…! Ư… chụt… m…mềm…ư, ư… ư…!」"
+    },
+    {
+        "sentence": "[美雪「]::んぅっ、ちゅくっ、ちゅぱっ……！　あむっ……うんっ、ふむぅっ、んんっ、あっ、はぁぁーんっ……！」",
+        "translation": "Miyuki「Ư...ưm, chụt chụt, chóp chép...! M... mút...! Ư...hừm...ưm, ư ư...a...ha a a...!」"
+    },
+    {
+        "sentence": "[美雪「]::あふっ……ん、ちゅぱ、ちゅぱっ……はんっ、んむっ、あぁむっ……ぢゅぅ……んむっ……んんっ！」",
+        "translation": "Miyuki「A...ư...ư...ư...chụt, chụt...! Hức...ư ư...a...ư...ư...! Chụt...ư ư...! Ư ư...!」"
+    },
+    {
+        "sentence": "[美雪「]::んっ、んんっ！？」",
+        "translation": "Miyuki「Ư...ư...ư!?」"
+    },
+    {
+        "sentence": "[美雪「]::んっ、ん……んむっ、はぁっ！　ああっ……んんっ……んむッ！　ちゅぷッ……はんッ……！」",
+        "translation": "Miyuki「Ư...ư...ư...ư...ưm, ha...! A...a...! Ư ư...ư...! Chụt...! Hức...!」"
+    },
+    {
+        "sentence": "[美雪「]::むぐぅっ！　んんっ、んんんっ！！　うんんっ、んむっ……！」",
+        "translation": "Miyuki「Ưm...ư ư!...Ư...ư ư ư!! Ư ư...ư ư...!」\n"
+    },
+    {
+        "sentence": "[美雪「]::んむっ、んんっ！　むぶううぅっ……！！」",
+        "translation": "Miyuki「Ưm...ư ư!...Ư...ư ư ư!!」"
+    },
+    {
+        "sentence": "[美雪「]::きゃぁああああぁぁぁっ！！　うはあああぁああぁっ！？」",
+        "translation": "Miyuki「Kyaaaaaaaaaaaaaaah!! Uhaaaaaaaah!!？」\n"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ……い、いやあっ……ああっ、っ、いやぁああっ……ぁっ……」",
+        "translation": "Miyuki「A...ư...không...a...ư...không...a...」"
+    },
+    {
+        "sentence": "[美雪「]::ああっ……いやぁっ……ううっ……うっ、うっ……はぁっ……あぁっ……」",
+        "translation": "Miyuki「A... Ư... Không... Ư... Ư... Ư... Hộc... A...」"
+    },
+    {
+        "sentence": "[美雪「]::うっ……ひどいっ……うぅっ……ぐすっ……ぁあっ……！」",
+        "translation": "Miyuki「Ư...tệ quá...ư...hức...a...！」"
+    },
+    {
+        "sentence": "[美雪「]::ううっ……ぐすっ……うぁっ……ああっ……んんっ……うっ……」",
+        "translation": "Miyuki「Ư...hức...oa...a...ư...ư...」"
+    },
+    {
+        "sentence": "[美雪「]::あはっ……んくっ……うっ、ううっ……ぐすっ……くっ……ううっ……っ……うっ、うっ……うぅっ……」",
+        "translation": "Miyuki「A... Hức... Ư... Ư... Ư... Hức... Ư... Ư... Ư...」"
+    },
+    {
+        "sentence": "[美雪「]::だって……ううっ……母乳がっ、母乳があっ……ううっ……」",
+        "translation": "Miyuki「Tại... tại... sữa... sữa của cô... ư...ư...」"
+    },
+    {
+        "sentence": "[美雪「]::うあああっ、ああっ……あうっ、ううっ……！」",
+        "translation": "Miyuki「Ư...a...a...!」\n"
+    },
+    {
+        "sentence": "[美雪「]::そ、それは……本当なのっ……に、妊娠じゃないのっ……？」",
+        "translation": "Miyuki「V...vậy là... chuyện đó... là thật sao...? K...không phải cô... có thai...?」\n"
+    },
+    {
+        "sentence": "[美雪「]::うっ、ううっ……ぁあっ……ぐすっ……ぅうくっ……」",
+        "translation": "Miyuki「Ư... ư... ả... a... hức... ư... ư...」\n"
+    },
+    {
+        "sentence": "[美雪「]::くっ……ううっ……っ……うっ、うっ……うぅっ……」",
+        "translation": "Miyuki「Kh... ư... ư... ư... ư... ư...」\n"
+    },
+    {
+        "sentence": "[美雪「]::う、ううっ……いや、恥ずかしいから……そんなに見ないで……」",
+        "translation": "Miyuki「Ư, ư ư… Không, ngại lắm… Đừng có nhìn cô như vậy…」"
+    },
+    {
+        "sentence": "[美雪「]::そ、それは……こ、こんな格好で歩いている所を、人に見られたら……何て言われるか……」",
+        "translation": "Miyuki「Đ-đây là… nếu bị người ta thấy lúc cô đang đi lại trong bộ dạng thế này… họ sẽ nói gì đây…」"
+    },
+    {
+        "sentence": "[美雪「]::それに、こんな短いスカート……し、下着が見えそうだから速く歩けなくて……胸もきつくて……」",
+        "translation": "Miyuki「Còn nữa, cái váy ngắn thế này… khiến cô không thể đi nhanh vì sợ bị thấy đồ lót… và ngực cũng chật nữa…」"
+    },
+    {
+        "sentence": "[美雪「]::ど、奴隷……！」",
+        "translation": "Miyuki「N-nô lệ……！」"
+    },
+    {
+        "sentence": "[美雪「]::いい加減にして！　私は、奴隷になんかなったつもりはないわっ！」",
+        "translation": "Miyuki「Đủ rồi đấy! Cô không có ý định trở thành nô lệ của em đâu!」\n"
+    },
+    {
+        "sentence": "[美雪「]::もう、もうこんなの我慢出来ないわっ！　こんな扱いをされて、これ以上貴方に従う気はありませんっ！！」",
+        "translation": "Miyuki「Đủ… đủ rồi, cô không thể chịu đựng được nữa! Bị đối xử như thế này, cô không muốn nghe theo em thêm nữa!!」\n"
+    },
+    {
+        "sentence": "[美雪「]::うっ……」",
+        "translation": "Miyuki「...」"
+    },
+    {
+        "sentence": "[美雪「]::い、いやぁっ……それ以上言わないでっ！」",
+        "translation": "Miyuki「...Không... Đừng nói nữa mà!」"
+    },
+    {
+        "sentence": "[美雪「]::くっ……うぅっ……」",
+        "translation": "Miyuki「... Ư...」"
+    },
+    {
+        "sentence": "[美雪「]::ああっ……！　う、うぅっ……！」",
+        "translation": "Miyuki「A... Ah...! Ư... Ư...」"
+    },
+    {
+        "sentence": "[美雪「]::酷いっ……貴方は卑怯よっ……どうして……どうして、こんな酷い事が出来るのっ……！？」",
+        "translation": "Miyuki「Tàn nhẫn quá... Em thật hèn hạ... Tại sao... Tại sao em có thể làm chuyện tàn nhẫn như vậy chứ...!？」"
+    },
+    {
+        "sentence": "[美雪「]::いやっ……ぁあっ、やめてっ……お願いっ……もうやめてぇっ……」",
+        "translation": "Miyuki「Không… á, đừng mà… Làm ơn… Dừng lại đi mà…」"
+    },
+    {
+        "sentence": "[美雪「]::いや、縛るなんてっ……やめてっ……！」",
+        "translation": "Miyuki「Không… không phải là trói… đừng mà…！」"
+    },
+    {
+        "sentence": "[美雪「]::そ、そんなっ……あ、あぁっ……いったい……や、やめてぇっ……」",
+        "translation": "Miyuki「S-Sao lại... A-Àh... Rốt cuộc là... D-Dừng lại đi mà...」"
+    },
+    {
+        "sentence": "[美雪「]::うぅっ……お願いっ……やめてっ、もうこんな事……お願いっ……」",
+        "translation": "Miyuki「Ư… xin em… đừng mà… xin em, đừng làm chuyện này nữa… xin em…」\n"
+    },
+    {
+        "sentence": "[美雪「]::イヤ、やめてっ、変なところ見ないでっ……お願いっ……！」",
+        "translation": "Miyuki「Không, đừng mà, đừng có nhìn vào những chỗ kỳ lạ… xin em…！」\n"
+    },
+    {
+        "sentence": "[美雪「]::ううっ……いやぁっ……」",
+        "translation": "Miyuki「Ư ư… đừng mà…」\n"
+    },
+    {
+        "sentence": "[美雪「]::用意、したものって……そんなの、分かりませんっ……」",
+        "translation": "Miyuki「Thứ… thứ mà em chuẩn bị là… Cô… cô không biết gì hết…」"
+    },
+    {
+        "sentence": "[美雪「]::視聴覚室が……ヒント……？」",
+        "translation": "Miyuki「Phòng nghe nhìn… là gợi ý… ạ?」"
+    },
+    {
+        "sentence": "[美雪「]::まさか、さ、撮影って……！？」",
+        "translation": "Miyuki「K-Không lẽ, c-cô… quay phim…!?」"
+    },
+    {
+        "sentence": "[美雪「]::そんなっ、撮影なんて嘘でしょ、お願いっ、ああっ、やめてっ、撮らないでっ……！」",
+        "translation": "Miyuki「Không… Không thể nào, việc quay phim chỉ là nói dối thôi đúng không, xin em đấy, á… Ư… Dừng lại đi, đừng quay…!」"
+    },
+    {
+        "sentence": "[美雪「]::いやぁああああっ、お願い、やめてっ！　見ないでっ、撮らないでぇええっ！！」",
+        "translation": "Miyuki「Không… á á á… Xin em, dừng lại đi! Đừng nhìn, đừng quay…!」\n"
+    },
+    {
+        "sentence": "[美雪「]::いや、そんな事、言わないでぇっ……お願いだから、もうやめて、見ないでっ、いやぁああっ！」",
+        "translation": "Miyuki「Không! Em đừng nói những lời như vậy... Em làm ơn dừng lại đi, đừng nhìn nữa, không... á á á!」"
+    },
+    {
+        "sentence": "[美雪「]::ち、違う、違いますっ、そんな訳ないでしょうっ？　お願いだからっ……！　もう、やめてぇっ！！」",
+        "translation": "Miyuki「Kh-không, không phải vậy! Làm sao có chuyện đó được chứ?! Làm ơn đi…! Dừng lại đi mà!!」"
+    },
+    {
+        "sentence": "[美雪「]::うっ、う……いやぁあっ……」",
+        "translation": "Miyuki「Ư, ư... Không... á á á...」"
+    },
+    {
+        "sentence": "[美雪「]::ううっ……もうっ……見ないでっ、お願いだからぁッ……」",
+        "translation": "Miyuki「Ư… Ư… Làm ơn… Xin em đừng nhìn nữa mà…」"
+    },
+    {
+        "sentence": "[美雪「]::きゃああああっ、やめて、触らないでぇっ、お願いっ……手をよけてっ、お尻触らないでぇっ……！」",
+        "translation": "Miyuki「Á á á á, dừng lại đi, đừng chạm vào cô mà, xin em… Bỏ tay ra đi, đừng sờ mông cô…!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁあっ、だめ、だめぇええッ……お願い、触らないで、下着に手を入れないでぇっ……！！」",
+        "translation": "Miyuki「A… A… Không, không mà… Xin em, đừng chạm vào cô, đừng luồn tay vào trong quần lót của cô…!!」"
+    },
+    {
+        "sentence": "[美雪「]::そんなっ、そんなの嘘ですっ、誘ってなんかいない、触られるのイヤなのぉっ……！」",
+        "translation": "Miyuki「Không… Không phải đâu, không phải như vậy đâu… Cô không có dụ dỗ em, cô không thích bị chạm vào…!」\n"
+    },
+    {
+        "sentence": "[美雪「]::やあああっ、やめてっ、そんなところ、触らないでっ　お願いっ、手を、手をどけてぇっ！！」",
+        "translation": "Miyuki「Aaa… Ư… Dừng lại đi… Chỗ đó… Đừng có chạm vào mà… Xin em… Bỏ tay ra… Bỏ tay ra đi…!!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁあっ……いやぁっ、ああっ……んんっ……だめ、触っちゃだめっ……ぁあっ……！」",
+        "translation": "Miyuki「Haa… Ư… Không… Aaa… Ư… Không được, đừng chạm vào… Aaa…!」\n"
+    },
+    {
+        "sentence": "[美雪「]::ふぁあああっ……ぁあっ、そこは許して、お願いっ、いじめないでぇ、ああぁっ、だめっ……はぁあんっ……！」",
+        "translation": "Miyuki「Ư… Ư… Đừng mà… Xin em… Đừng có hành hạ cô… Ư… Ư… Không được… Haa… Ư…!」\n"
+    },
+    {
+        "sentence": "[美雪「]::ち、違うのっ、ぁああっ……そこダメ、いやぁっ……ぁあっ、やめてっ……はぁぁんっ……うんんっ……んぁあっ！」",
+        "translation": "Miyuki「K-không phải vậy, ư… Ư… Chỗ đó không được, ư… Ư… Dừng lại đi… Ư… Ư… Haa… Ư… Ư… Ư…!」\n"
+    },
+    {
+        "sentence": "[美雪「]::そ、そんなっ、こと……ああっ、ないっ……あぁあっ、嘘、感じてなんかっ……あぁぁっ！　んうっ……っ……」",
+        "translation": "Miyuki「K-không, không có chuyện đó… Ư… Không… Aaa… Em nói dối, cô không cảm thấy gì cả… Aaa…! Ư… Ư…」"
+    },
+    {
+        "sentence": "[美雪「]::ああぁああっ……だめぇ、いやぁああああっ！」",
+        "translation": "Miyuki「Aaa… Ư ư… Không… Ư aaa…!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……もうイヤッ……お願いっ、こんな事やめてっ……うぅっ……お願い、見ないで、そんなところ見ないでえぇえっ！」",
+        "translation": "Miyuki「Á... không... đừng... làm ơn, dừng lại đi... ư... làm ơn, đừng nhìn, đừng nhìn chỗ đó màeeeee!」"
+    },
+    {
+        "sentence": "[美雪「]::ちがう、違うのぉっ……お願い、言わないでっ……うぅぅ……ぁあっ、いや、もう触らないでぇっ……はぁあっ……あぁあっ！」",
+        "translation": "Miyuki「K-không phải, không phải vậy mà… xin em, xin em đừng nói nữa… ư ư… a… không, đừng chạm vào cô nữa… haa… a…!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……だめぇっ、もう、はぁあっ……っ……んんっ……ぁあっ、いやぁあっ……」",
+        "translation": "Miyuki「A… Ư… Không… Ư… Ư… A… Không…!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ、見ないでっ……お願い、こんなのっ……ぁあっ、見ちゃいやぁあっ……ううんっ……ふぅんんっ……」",
+        "translation": "Miyuki「A... đừng mà… xin em, đừng nhìn… xin em, đừng mà… a... đừng nhìn… ư… ưm…」"
+    },
+    {
+        "sentence": "[美雪「]::だめ、だめぇえっ！　お願いっ、やめてぇっ！」",
+        "translation": "Miyuki「K-không, không mà… xin em, xin em dừng lại đi…!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁあっ、だめぇえっ！　お願い、戻して、服を戻してぇっ！　胸を見ないで、お願いだからぁっ！」",
+        "translation": "Miyuki「A a… không mà… xin em, trả lại cho cô, trả lại quần áo cho cô đi…! Đừng nhìn ngực cô, xin em đó…!」"
+    },
+    {
+        "sentence": "[美雪「]::ダメ、ダメぇっ！　もう見ないで、もういいでしょう？！　お願い、これ以上酷い事……しないでぇっ！」",
+        "translation": "Miyuki「Đừng mà, đừng mà! Xin em, xin em đừng nhìn nữa, đủ rồi có được không?! Xin em, đừng làm chuyện kinh khủng hơn nữa… đừng mà!」"
+    },
+    {
+        "sentence": "[美雪「]::お願いっ、こんなの撮らないでっ……ううっ……それだけは許してぇっ……うぁあっ……いやぁああっ！」",
+        "translation": "Miyuki「Xin em, đừng quay cái này mà… ư ư… Xin em, chỉ chuyện đó thôi thì xin em hãy tha cho cô… Uaaaa… Không…!」"
+    },
+    {
+        "sentence": "[美雪「]::あっ……あふっ……んんっ……はぁあっ……いやぁっ……だめっ、こんなのっ……はぁあん！　ああ、だめぇっ！」",
+        "translation": "Miyuki「Á… á… ưm… ha… ư… đừng mà… cái này thì… ha… a… Đừng mà…!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁっ……だめ、だめえええっ！　今はイヤ、やめてぇっ……お願い、あぁあああっ！！」",
+        "translation": "Miyuki「Ah… Không… Không mà…! Bây giờ thì không… Dừng lại đi… Xin em… A… A…!」\n"
+    },
+    {
+        "sentence": "[美雪「]::ひぁああああっ！　あぁあっ、だめえ、お乳搾っちゃだめぇっ……ああっ、乳首からオッパイ出ちゃってるうんんっ……！」",
+        "translation": "Miyuki「Hyaaaaa! Ah… Ư… không được, đừng vắt sữa cô… A… núm vú chảy cả sữa ra rồi… ư…!」"
+    },
+    {
+        "sentence": "[美雪「]::ふぅんっ……ぁああっ、ダメぇ、オッパイしぼっちゃだめぇ……ぁああっ……はぁぁんっ……うんんっ……ぁああっ……」",
+        "translation": "Miyuki「Ư… ư… Đừng mà… a… Đừng bóp ngực cô… ư… a…」"
+    },
+    {
+        "sentence": "[美雪「]::はあんっ……ダメぇっ、もうだめぇっ……ああっ、オッパイだめぇッ……オッパイいじめちゃっ……あっ、あぁっ……はぅんっ……！」",
+        "translation": "Miyuki「Ha… ư… Không… Không được mà… A… ngực… đừng mà… Đừng trêu ngực cô nữa… a… a… ư…!」\n"
+    },
+    {
+        "sentence": "[美雪「]::ふぅん……あぁっ……だめぇっ……ふぁあっ……っ……ん、んぅっ……」",
+        "translation": "Miyuki「Ư… a… Không… ư…」"
+    },
+    {
+        "sentence": "[美雪「]::はぁあっ……あぅん、んんっ……ぁあっ……え、ええっ？！」",
+        "translation": "Miyuki「Haa… a… ư… ư… a… a… Cái, cái gì?!」"
+    },
+    {
+        "sentence": "[美雪「]::いやっ、栄司さんだけにはっ……ぁあっ……こんな恥ずかしいところを見られたくないのっ、お願い……それだけは許してぇっ……！」",
+        "translation": "Miyuki「Không… xin em, đừng cho anh ấy… ư… a… xin em đừng để anh ấy thấy… thấy cái bộ dạng đáng xấu hổ này của cô… xin em… xin em đừng mà…!」"
+    },
+    {
+        "sentence": "[美雪「]::ねえ、お願い、お願いだから……そんな事、やめて、許してぇ……ぁあっ……っ……うぅん……」",
+        "translation": "Miyuki「Nè, xin em, xin em mà… xin em đừng làm vậy, xin em tha cho cô… a… ư…」"
+    },
+    {
+        "sentence": "[美雪「]::ま、満足って……どうすれば……？」",
+        "translation": "Miyuki「Vậy… thỏa mãn… là phải làm thế nào…?」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……そんなっ……いやぁあっ……！」",
+        "translation": "Miyuki「Ư… a… Không… Đừng mà…!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁあぁん……だめぇっ……」",
+        "translation": "Miyuki「A… a… không…」\n"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……だめぇっ、撮っちゃだめぇっ……いやぁああん……」",
+        "translation": "Miyuki「A… Không… Đừng chụp mà… Ư… ư…」"
+    },
+    {
+        "sentence": "[美雪「]::あぁああああああぁんっ！」",
+        "translation": "Miyuki「A… a… a… a…」\n"
+    },
+    {
+        "sentence": "[美雪「]::うぁあっ……んんっ……ぁあっ、いやぁあっ……んううっ……っ……はぁあっ……」",
+        "translation": "Miyuki「Ư… a… ư… ư… a… không… ư… ư… hộc… hộc…」"
+    },
+    {
+        "sentence": "[美雪「]::くうっ、うっ、ううっ！　はあっ……ううぅんッ……ああっ、お腹が苦しいのっ……ぁあっ……！！」",
+        "translation": "Miyuki「Ư… ư… ư…! Hộc… hộc… ư… ư…! A… bụng cô khó chịu quá… a…!」"
+    },
+    {
+        "sentence": "[美雪「]::くうぅっ……はぁっ、くっ……ぁあっ……ダメっ……お腹の中がっ………ぁあ、だめ、動かない、でぇっ……うぐっ……」",
+        "translation": "Miyuki「Ư… hộc… hộc… ư… a… không… bụng cô… a… không, đừng động đậy… ư…」"
+    },
+    {
+        "sentence": "[美雪「]::そんな、ことっ……言われても……ぁあっ……ぐうっ……」",
+        "translation": "Miyuki「Khô… không phải chứ… dù em có nói thế… a… ư…」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……はっ、はぁあっ……んんっ……くぅうんっ……」",
+        "translation": "Miyuki「A… ha… hộc, ha… ư… ư…」"
+    },
+    {
+        "sentence": "[美雪「]::はぁああんっ！　ああっ、だめっ、オッパイだめぇっ……ぁあっ！」",
+        "translation": "Miyuki「Ư…ư… không được, ngực… không được mà… ư…!」"
+    },
+    {
+        "sentence": "[美雪「]::ち、違うのっ、ぁあっ、だめえっ……ふぅんっ……ん、んあぁあっ……！」",
+        "translation": "Miyuki「K-không phải vậy… ư… không được… ư… ư… ư…!」"
+    },
+    {
+        "sentence": "[美雪「]::ふぅんっ……気持ち良くなんかっ……ぁあっ……でも、オッパイ熱くなっちゃうっ、ぁああんっ……ふぁあっ……」",
+        "translation": "Miyuki「Ưm… không… không thoải mái gì cả… ư… nhưng mà, ngực cô nóng lên rồi… ư…ư… phù…」"
+    },
+    {
+        "sentence": "[美雪「]::ふあぁああん、ああっ、イヤっ……オッパイ、オッパイだめぇっ……それ以上オッパイっ……あぁあっ……！」",
+        "translation": "Miyuki「Ư…ư… không… không được… a… ngực… ngực không được mà… đừng xoa ngực nữa… a…!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ、熱いのっ……！　オッパイの奥から、ジンジン熱くてっ！　はぁあっ、ああぁあん！」",
+        "translation": "Miyuki「Ư…ư… nóng quá…! Từ sâu bên trong bầu ngực, nóng ran lên…! Hức… a…ư…!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁあっ、だめぇっ……！　オッパイきちゃう、ぁあっ、また出ちゃうううっ！」",
+        "translation": "Miyuki「A… a… không…! Ngực cô… sắp ra rồi, a… lại sắp ra nữa rồi…!」\n"
+    },
+    {
+        "sentence": "[美雪「]::ひゃぁああっ……ああぁあっ！　あはああああんっ！！」",
+        "translation": "Miyuki「Hyaaa… a… a! A ha ha…!」\n"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……はぁっ……はぁっ……ぁあっ…………」",
+        "translation": "Miyuki「A… a… hức… hức… hức… a… a…」"
+    },
+    {
+        "sentence": "[美雪「]::ふぅんっ……ぁあっ……はぁあんっ…………」",
+        "translation": "Miyuki「Hừ…ư… a… hức…」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁあっ……ぁあんっ……だって……ぁあっ、オッパイ揉まれるとっ……オッパイだめぇ……うぅんっ……ぁあっ……」",
+        "translation": "Miyuki「Ha…ưm… tại… a… xoa **ngực**… **ngực** không được… ưm… a…」"
+    },
+    {
+        "sentence": "[美雪「]::ぁぁっ……違うの、違うぅっ……ぁあ、やめてぇっ……ふんんっ……んぁああっ……」",
+        "translation": "Miyuki「A… Không phải… không phải mà… A… dừng lại đi… hức… ư… a…」"
+    },
+    {
+        "sentence": "[美雪「]::あぁあっ……そんなに激しくされたらっ……ああっ、また出ちゃう、お乳出ちゃうっ……！　オッパイミルク出ちゃううっ！！」",
+        "translation": "Miyuki「A… a… Đừng mạnh bạo như vậy… a… lại ra mất, sữa… sữa ra mất…! Sữa… sữa chảy ra mất…!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああっ！　はぁああん！！」",
+        "translation": "Miyuki「A… a… Hức…ư…!!」"
+    },
+    {
+        "sentence": "[美雪「]::はぁああん、出てる、オッパイ出てるうっ……ああんっ……！」",
+        "translation": "Miyuki「Hức…ư… ra rồi, ngực cô ra rồi…ư…ư…!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあぅっ、だめぇ、オッパイもう、ダメぇええっ！　ぁああっ……ダメ、おかしくなっちゃうぅっ！」",
+        "translation": "Miyuki「Ah…ư… Không được… **ngực** cô… không được mà… ah… không được, cô sắp hỏng mất…!」\n"
+    },
+    {
+        "sentence": "[美雪「]::はぅううっ……ぁあっ、違う、違うのぉっ……！　感じてなんかないの、気持ち良くなんかっ、ああぁっ！」",
+        "translation": "Miyuki「Hức… ư… không… không phải mà…! Cô… cô không cảm thấy gì hết, không… không hề thấy thoải mái… a… a…!」"
+    },
+    {
+        "sentence": "[美雪「]::う、うそっ……違うのっ、そんなの違うっ……私っ、感じてなんてっ……あぁっ、はぅんっ！　んんっ、あはぁあぁっ！」",
+        "translation": "Miyuki「Kh… Không… Đâu phải… Không phải thế mà… Cô… cô không cảm thấy gì hết… A… hức…ư…! Ư… ư… a…a…!」"
+    },
+    {
+        "sentence": "[美雪「]::ダメっ、感じてなんかないのぉっ……ぁあっ、だめえっ、抜いて、ペニス抜いてぇっ……ぁあっ、はぁああんっ！」",
+        "translation": "Miyuki「Không…ư… Không cảm thấy gì hết… A…a… Không được, lấy ra, lấy dương vật ra… A…a… Ư…ư…!」"
+    },
+    {
+        "sentence": "[美雪「]::きゃうっ……！　ぁああっ、だめ、だめぇえっ……ああっオッパイ捏ね捏ねしながら、ペニス動かさないでぇっ……！」",
+        "translation": "Miyuki「K…ư…! A…a… Không được, không được mà… A…a… Đừng vừa nhào nặn **ngực** cô vừa di chuyển **dương vật**…!」"
+    },
+    {
+        "sentence": "[美雪「]::あっ、ああっ、はぁあっ…うぅっ……や、やだっ……やめてっ、オッパイこんなに潰れちゃったら、壊れちゃうっ……！」",
+        "translation": "Miyuki「A…a… Ư…ư… Không… Không được… Dừng lại đi… Ngực cô bị ép như thế này, sẽ hỏng mất…!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ、もうやめてっ、やめてぇっ！　お願い、ああっ、ダメっ、おかしくなっちゃうっ……」",
+        "translation": "Miyuki「A…a… Dừng lại đi… Xin em, a…a… Không được… Sắp hỏng mất…」"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ、またっ……またオッパイがっ……あ、あぁっ、んぁあっ！」",
+        "translation": "Miyuki「A…a… Lại nữa… Lại **ngực**… A…a… Ư…ư…!」"
+    },
+    {
+        "sentence": "[美雪「]::あっ、んっんんっ、あぁっ、やっ、いやっ……オッパイの先っぽっ、弄っちゃダメぇっ……！　ふぁっ…ああっ、はぁんっ！」",
+        "translation": "Miyuki「A…ư… ư…a… A… Đừng mà…ư… Đừng… Đầu **ngực** cô… Đừng nghịch…! Ư…a… A… Ư…ư…!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁああっ……！　身体がっ…ぁあっ、からだが変っ、ぁあっ……いやぁ、これっ、何？　これ、何なのぉっ！？　あ、んっ、ふぁああっ！」",
+        "translation": "Miyuki「A…a…! Người cô… A…a… Người cô lạ quá, a…a… Không… Cái gì thế này? Cái gì thế này…!? A… Ư… Ư…a…!」"
+    },
+    {
+        "sentence": "[美雪「]::ぅああっ、あっ、そんな、そんなの分かんないっ……んんっ、ぅうっ……知らないのぉっ……！　あぁあっ　ふぁああぁっ！」",
+        "translation": "Miyuki「Ư…a… A… Không biết… Cô không biết gì hết… Ư…ư… Cô không biết gì hết…! A…a… Ư…a…!」\n"
+    },
+    {
+        "sentence": "[美雪「]::あっあっ、んぁあっ、やぁあっ！　なにこれ、あぁあっ……お腹がっ、お腹の奥が熱いっ……！　何か来るっ、来るのっ！　来ちゃうのぉぉっ！！」",
+        "translation": "Miyuki「A…a… Ư…a… A…a…! Cái gì thế này, a…a…! Bụng cô… sâu trong bụng nóng quá…! Cái gì đó đang đến… đang đến…! Sắp ra mất thôi…!!」"
+    },
+    {
+        "sentence": "[美雪「]::んぅっ、あっ、ああっ！　ダメぇ、た、助けてっ……変になっちゃうっ……！　ふぁあっ！　もう変になっちゃうぅっ！　あはぁああっ！！」",
+        "translation": "Miyuki「Ư… Em… A…a…! Không được… Cứu cô với… Cô sắp lạ mất…! Ư…a…! Cô sắp lạ mất thôi…! A…ha…a…!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあぁんっ！？　い、やっ、いやっ！　ああぁああぁっ！！」",
+        "translation": "Miyuki「A…a…!? Ư… Không… Không! A…a…!!」"
+    },
+    {
+        "sentence": "[美雪「]::ぅああっ……！　あぁっ、やだぁっ…あ、ああぁっ！　おかしくなっちゃうっ……！　あ、あぁっ……！」",
+        "translation": "Miyuki「Ư…a…! A…a… ghét quá… A… a… Cô sắp hư mất…! A… a…!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ……頭の中っ、真っ白に…っ…なっちゃうのぉっ……！　あぁあっ…ああっ、んぁああっ！」",
+        "translation": "Miyuki「A…a… Đầu óc cô… trống rỗng… mất…! A…a… A…a… Ư…a…!」"
+    },
+    {
+        "sentence": "[美雪「]::ふぁあぁっ……ぁあっ……うふううっ……」",
+        "translation": "Miyuki「Ư…a… A…a… Ư…ư…」"
+    },
+    {
+        "sentence": "[美雪「]::ぅっ…うぅぅっ！　ああぁっ、そんなっ、そんなのだめっ……！　中に出すのはっ、許してぇっ！」",
+        "translation": "Miyuki「Ư… ư… ư…! A…a… Không, đừng mà… Đừng mà…! Bắn vào trong… Xin em… xin em đừng mà!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁあっ、いやぁっ……ダメなのっ、中に出しちゃだめぇ……ぁああっ……出しちゃイヤぁあッ……」",
+        "translation": "Miyuki「A…a… Không… Ư…ư… Không được mà… Không được bắn vào trong… A…a… Không muốn… Không muốn bắn vào trong mà…」"
+    },
+    {
+        "sentence": "[美雪「]::あぁ、お願い……そんなのいや…あぁ、ダメッ……あっ…あん、ん、あうっ、っ……ひゃんっ…あぁ、だ、め……！」",
+        "translation": "Miyuki「A… xin em… Đừng mà… Đừng mà… A… Không…ư…a… Ư… Ư… Hức… A… Đừng… mà…!」"
+    },
+    {
+        "sentence": "[美雪「]::ひん…はっ…あ、あぁっ、やぁ……激しく出入り…してっ……くっ…んっ、うっ…っや、ぁぅ、はっ…んんっ！」",
+        "translation": "Miyuki「Ư… hộc… a… a…Ư… ư… mạnh quá… vào sâu quá… ư… ư… ư… a… ư… hộc… ư…ư!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁん…っ！　あ、だめっ、だめぇっ！　そんなっ……あっ……激しくしないでっ、やっ…やめて、あっ、あぁああん……！」",
+        "translation": "Miyuki「A… Ư…ư…! A, không… đừng… đừng mà…! Không được… A… Đừng mạnh bạo như vậy… Ư… Xin… xin đừng mà… A… A…ư…ư…!」\n"
+    },
+    {
+        "sentence": "[美雪「]::ぅあああっ！　あっ、ああぁぁあぁあああっ！！」",
+        "translation": "Miyuki「Ư…a…a…! A… A…ư…ư…a…a…!」"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ……いやっ…いやぁっ……お腹の中にっ、熱いのがドロドロっ……入ってきてるぅ……っ……」",
+        "translation": "Miyuki「A…a… Không… Ư…ư… Khônggg… Bên trong bụng cô… Cái gì đó nóng bỏng đang chảy vào… ư… ư…」"
+    },
+    {
+        "sentence": "[美雪「]::うぅっ……中に……出ちゃった……ううっ……中は……だめなのに…くっ……ううっ……っ……あぁっ……お腹っ、焼けちゃうっ……」",
+        "translation": "Miyuki「Ư… bên trong… ra mất rồi… ư… bên trong… không được mà… ư… ư… ư… a… bụng… cháy mất thôi…」"
+    },
+    {
+        "sentence": "[美雪「]::あぁっ……いやっ…いやぁっ……熱いっ……熱いよぉっ……」",
+        "translation": "Miyuki「A… Không… Ư…ư… Khônggg… Nóng quá… Nóng quá… Bên trong bụng cô… Nóng quá…」"
+    },
+    {
+        "sentence": "[美雪「]::言ったのにっ……出しちゃだめって…言ったのにぃ……ぅあぁっ……酷い……酷いっ……！」",
+        "translation": "Miyuki「Cô đã bảo rồi mà… bảo là không được bắn ra… Cô đã bảo rồi mà… ư…a… Đồ tồi… Đồ tồi…!」"
+    },
+    {
+        "sentence": "[美雪「]::あ……ぅ…………ぅぁぁ…………っ」",
+        "translation": "Miyuki「A…ư…ư…a…」"
+    },
+    {
+        "sentence": "[美雪「]::ぁっ……ぁあっ……い、いやっ……ぁああっ……なんて事をっ……ううっ……」",
+        "translation": "Miyuki「A…a…a… Không… không… a…a… Sao lại thế này… ư…ư…」"
+    },
+    {
+        "sentence": "[美雪「]::うっ……ぐすっ……っ……うぁあっ……」",
+        "translation": "Miyuki「Ư… hức… hức… á…」"
+    },
+    {
+        "sentence": "[美雪「]::な、何か用なの……？」",
+        "translation": "Miyuki「...Em, em có việc gì sao...?」\n"
+    },
+    {
+        "sentence": "[美雪「]::た、ただの見回りよ……ま、窓の施錠を、チェックしていたの……」",
+        "translation": "Miyuki「Chỉ, chỉ là đi tuần tra thôi mà... À, thì, Cô đang kiểm tra... chốt cửa sổ ấy mà...」"
+    },
+    {
+        "sentence": "[美雪「]::あ、あの……そうよ、一人なの……い、いつも誰かと一緒、という訳ではないから……」",
+        "translation": "Miyuki「À, ừm... đúng vậy, Cô chỉ có một mình thôi... K-không phải lúc nào Cô cũng ở cùng với ai đó đâu...」"
+    },
+    {
+        "sentence": "[美雪「]::あのっ……三沢君っ……！」",
+        "translation": "Miyuki「À... ừm... Tamisawa-kun...!」"
+    },
+    {
+        "sentence": "[美雪「]::あ、あの……実は、近々……三者面談があるんだけど……」",
+        "translation": "Miyuki「À, ừm... Thật ra, sắp tới... có buổi gặp mặt ba bên...」"
+    },
+    {
+        "sentence": "[美雪「]::この間のホームルームで話をしたんだけど……三沢君、あの……その、ぐっすり寝てたみたいだったから……」",
+        "translation": "Miyuki「Cô đã nói chuyện này trong buổi sinh hoạt lớp hôm trước rồi nhưng... Misawa-kun, em có vẻ... ờm... đã ngủ rất say thì phải...」"
+    },
+    {
+        "sentence": "[美雪「]::あ、あんまり気持ち良さそうに寝てたから、起こしたらかわいそうかな、って思って、それで……」",
+        "translation": "Miyuki「À, tại Cô thấy Em ngủ ngon quá, Cô nghĩ đánh thức Em dậy thì tội nghiệp, nên là...」\n"
+    },
+    {
+        "sentence": "[美雪「]::そ、それは……あの事は、これとは関係ないわ……」",
+        "translation": "Miyuki「K-Không phải vậy đâu... Chuyện đó không liên quan gì đến chuyện này cả...」"
+    },
+    {
+        "sentence": "[美雪「]::でも、真田の家の人は……？　栄司さん……お義兄さんに、お義父さんも……いるでしょう？」",
+        "translation": "→ Miyuki「Nhưng mà, người nhà Sanada thì sao...? Anh Eiji... Anh kế của Em, rồi cả bác trai nữa... Chẳng phải cũng có ở đó sao?」\n"
+    },
+    {
+        "sentence": "[美雪「]::あの……栄司さんなら……いつも貴方の事を気遣ってくれているし、それに……お義父さんも健在なんでしょう……？」",
+        "translation": "Miyuki「À ừm... nếu là Anh Eiji thì... Thầy ấy luôn quan tâm đến Em, với lại... bác trai cũng vẫn còn khỏe mạnh đó thôi...?」"
+    },
+    {
+        "sentence": "[美雪「]::でも……栄司さんは、いつも貴方の事を心配しているわ……」",
+        "translation": "Miyuki「Nhưng mà... Thầy Eiji, Thầy ấy luôn lo lắng cho Em mà...」\n"
+    },
+    {
+        "sentence": "[美雪「]::お願い、待って！　まだ話は終わってないわ！」",
+        "translation": "→ Miyuki「xin em, đợi đã! Câu chuyện vẫn chưa kết thúc mà!」"
+    },
+    {
+        "sentence": "[美雪「]::お願いだから、話を聞いてほしいの……貴方の人生にとって、大事な問題なのっ……」",
+        "translation": "Miyuki「xin em, làm ơn hãy nghe Cô nói đã... Đây là một vấn đề rất quan trọng đối với cuộc đời của Em đó...」\n"
+    },
+    {
+        "sentence": "[美雪「]::い、痛いっ……！」",
+        "translation": "Miyuki「Đau… Đau quá…!」\n"
+    },
+    {
+        "sentence": "[美雪「]::いやっ、ぁあっ……放してっ、こんなのっ……やめてっ……くぅっ……」",
+        "translation": "Miyuki「Không… Ah… Bỏ… bỏ Cô ra… Cái… cái thứ này… Dừng… dừng lại đi… Ư…」"
+    },
+    {
+        "sentence": "[美雪「]::あっ……三沢君……」",
+        "translation": "Miyuki「Á... Misawa-kun...」\n"
+    },
+    {
+        "sentence": "[美雪「]::あっ、あのねっ……この間は話が途中になってしまった、三者面談の事なんだけど……」",
+        "translation": "Miyuki「À, ờ… chuyện hôm nọ còn dang dở, chuyện về buổi gặp mặt ba bên ấy…」"
+    },
+    {
+        "sentence": "[美雪「]::その後、どうするか考えてもらえたかしら……」",
+        "translation": "Miyuki「Sau đó, cô có thể xin em nghĩ về chuyện đó chưa……?」"
+    },
+    {
+        "sentence": "[美雪「]::だって……これは、放っておける話じゃないでしょう？」",
+        "translation": "Miyuki「Nhưng mà... chuyện này, sao có thể làm ngơ được chứ?」\n"
+    },
+    {
+        "sentence": "[美雪「]::貴方の人生なのよ？　もっと真剣に考えないとダメよっ！　それに、悪いんだけど……調べさせてもらったら……あの……その……」",
+        "translation": "Miyuki「Đó là cuộc đời của em mà? Em phải suy nghĩ nghiêm túc hơn chứ! Với lại, em đừng giận cô nha…… cô lỡ điều tra rồi…… thì là…… cái đó……」\n"
+    },
+    {
+        "sentence": "[美雪「]::あのね、戸籍上は……貴方は間違いなく真田家の次男、なのよ……。家族がいないなんて、それは自分で思いこんでるだけだわ……」",
+        "translation": "Miyuki「À… thì là, về mặt pháp lý… Em chắc chắn là con trai thứ của nhà Sanada… Cái chuyện em không có gia đình, chỉ là em tự mình nghĩ vậy thôi……」"
+    },
+    {
+        "sentence": "[美雪「]::そ、そんなっ……」",
+        "translation": "Miyuki「K… Không thể nào……」\n"
+    },
+    {
+        "sentence": "[美雪「]::あ、あのっ……そういう訳ではなくてっ……」",
+        "translation": "Miyuki「Ơ... ơ... không phải là như thế đâu...」"
+    },
+    {
+        "sentence": "[美雪「]::ちょっと三者面談の事で、三沢君と少しお話ししてただけですから、大丈夫ですよ」",
+        "translation": "Miyuki「Chỉ là Tôi đang trao đổi với Misawa-kun một chút về chuyện gặp mặt ba bên thôi, Thầy đừng lo lắng」"
+    },
+    {
+        "sentence": "[美雪「]::はい……三沢君が、両親はいないし、三者面談なんか必要ないなんて言って、話を聞いてくれないんです……」",
+        "translation": "Miyuki「Dạ... Tại Misawa-kun nói là Em ấy không có ba mẹ, nên không cần cái kiểu gặp mặt ba bên đó, nên Em ấy không chịu nghe lời Tôi...」"
+    },
+    {
+        "sentence": "[美雪「]::えっ……！？」",
+        "translation": "Miyuki「Hả……!?」\n"
+    },
+    {
+        "sentence": "[美雪「]::えっ、ええっ……？！」",
+        "translation": "Miyuki「Hả, hả……?!」\n"
+    },
+    {
+        "sentence": "[美雪「]::じゃあ、こういう事は早い方がいいかと思いますので……出来るだけ早くしたいと思うのですけど……真田先生、ご予定はいかがですか？」",
+        "translation": "Miyuki「Vậy thì, Tôi nghĩ chuyện này nên làm càng sớm càng tốt… Tôi muốn làm càng sớm càng tốt… Thầy Sanada, Thầy có rảnh không ạ?」"
+    },
+    {
+        "sentence": "[美雪「]::じゃあ、三沢君もお昼休みでいいかしら？」",
+        "translation": "Miyuki「Vậy thì, giờ nghỉ trưa của Thầy Misawa cũng được chứ ạ?」"
+    },
+    {
+        "sentence": "[美雪「]::あぁ、良かった！　それじゃ、二人ともお昼休みに、進路指導室に来てくださいね！」",
+        "translation": "Miyuki「À, mừng quá! Vậy thì, cả hai hãy đến phòng hướng dẫn nghề vào giờ nghỉ trưa nhé!」"
+    },
+    {
+        "sentence": "[美雪「]::それでは、今日の授業はここまでにします。次は教科書の２５３ページからになりますから、この章は最後まで通読しておいて下さいね」",
+        "translation": "Miyuki「Được rồi, buổi học hôm nay chúng ta sẽ kết thúc tại đây. Lần tới chúng ta sẽ bắt đầu từ trang 253 của sách giáo khoa, nên các em nhớ đọc kỹ toàn bộ chương này cho cô nhé.」"
+    },
+    {
+        "sentence": "[美雪「]::三沢君、三者面談の話、忘れてないわよね？」",
+        "translation": "Miyuki「Misawa-kun, buổi nói chuyện ba bên, em chưa quên đâu nhỉ?」"
+    },
+    {
+        "sentence": "[美雪「]::そ、そうだったの……？」",
+        "translation": "Miyuki「Vậy… vậy ra là vậy sao…?」"
+    },
+    {
+        "sentence": "[美雪「]::分かったわ、じゃあ、このまままっすぐ行きましょう」",
+        "translation": "Miyuki「Được rồi, vậy thì, chúng ta cứ đi thẳng thế này nhé.」"
+    },
+    {
+        "sentence": "[美雪「]::ちょ、ちょっと待って……！」",
+        "translation": "Miyuki「Chờ, chờ một chút đã…!」\n"
+    },
+    {
+        "sentence": "[美雪「]::真田先生も待っているし、早く進路指導室に行かないと……」",
+        "translation": "Miyuki「Thầy Sanada cũng đang đợi cô nữa, cô phải nhanh chóng đến phòng hướng nghiệp thôi...」"
+    },
+    {
+        "sentence": "[美雪「]::こんなところで……どうしたの……？」",
+        "translation": "Miyuki「Ở... ở đây sao...? Em... em làm gì vậy...?」"
+    },
+    {
+        "sentence": "[美雪「]::早く行かないと、栄司さん……真田先生が怪しんで探しにくるかも知れないわ……」",
+        "translation": "Miyuki「Phải nhanh lên thôi, Eiji-san... không thì thầy Sanada nghi ngờ rồi đi tìm thì nguy...」"
+    },
+    {
+        "sentence": "[美雪「]::それは一体……何に使う物なの？」",
+        "translation": "Miyuki「Cái đó... dùng để làm gì vậy...?」"
+    },
+    {
+        "sentence": "[美雪「]::いやっ、やめてっ……こんなっ……あぁっ、ダメよ、これから面談があるのにっ……！」",
+        "translation": "Miyuki「Không… dừng lại đi… như vầy thì… A… Không được, cô còn có cuộc gặp mặt nữa…!」\n"
+    },
+    {
+        "sentence": "[美雪「]::いやぁっ！　な、何をしたのっ……？！」",
+        "translation": "Miyuki「Á... Á... Em vừa làm cái gì vậy...?」\n"
+    },
+    {
+        "sentence": "[美雪「]::ひぁぁあっ……ぁあっ、何これ、何なのっ……、ぁあっ……」",
+        "translation": "Miyuki「Ah... Ah... Cái gì... Cái gì thế này...? Ah...」"
+    },
+    {
+        "sentence": "[美雪「]::いやっ、こんなの……お願い、取って、これ……出してぇっ……ああぁっ……！」",
+        "translation": "Miyuki「Ư... Ư... Cái này... Xin em, lấy ra... Cái này... Lấy ra đi mà... Ah... Ah...!」"
+    },
+    {
+        "sentence": "[美雪「]::そ、そんなことっ……だめよ、こんなの無理よっ……お願い、変な事はやめてぇっ……！」",
+        "translation": "Miyuki「K-Không… Không được, cái này không được đâu… xin em, đừng làm chuyện kỳ quái nữa mà…!」\n"
+    },
+    {
+        "sentence": "[美雪「]::お願いっ……こんなの、無理よ、お願いだから許してっ……ぁあっ……くっ……くぅんっ……」",
+        "translation": "Miyuki「xin em…… Cái này, không được đâu, xin em xin hãy tha cho cô…… Ah... Kuh... Kuh...」"
+    },
+    {
+        "sentence": "[美雪「]::イヤァッ、やめてっ……お願いだから、それだけはやめてっ……！」",
+        "translation": "Miyuki「Không, dừng lại đi mà… xin em, xin em đừng làm thế…!」"
+    },
+    {
+        "sentence": "[美雪「]::うぅっ……一体、いつまで、こんな事を続けるのっ……」",
+        "translation": "Miyuki「Ư… Đến bao giờ… chuyện này mới kết thúc đây…」"
+    },
+    {
+        "sentence": "[美雪「]::そ、そんなっ……うぅっ……」",
+        "translation": "Miyuki「K-Không… ư…」"
+    },
+    {
+        "sentence": "[美雪「]::うぅっ……わ、分かったわ……従います、だから……栄司さんには今までの事は秘密にしておいて……お願いっ……」",
+        "translation": "Miyuki「Ư… cô… cô hiểu rồi… cô sẽ nghe theo, nên… nên xin em hãy giữ bí mật chuyện này với Eiji… xin em…」\n"
+    },
+    {
+        "sentence": "[美雪「]::それでは、面談を始めます……」",
+        "translation": "Miyuki「Vậy thì, tôi bắt đầu buổi trao đổi… nhé.」"
+    },
+    {
+        "sentence": "[美雪「]::そ、そうですね……授業中は大変静かですし……っ……決して悪くはないかと思います……」",
+        "translation": "Miyuki「Vâng, đúng là như vậy… Trong giờ học thì rất yên tĩnh… Ư… Tôi nghĩ… không tệ chút nào…」"
+    },
+    {
+        "sentence": "[美雪「]::っ……次にっ、教科ごとの成績についてですが…………」",
+        "translation": "Miyuki「Ư… Tiếp theo… về thành tích từng môn của em ấy thì…」"
+    },
+    {
+        "sentence": "[美雪「]::……特に、暗記を必要とする問題などは、あ、あまり得意ではないようですが、読解力は優れたものがあると思い、ますっ……」",
+        "translation": "Miyuki「…Đặc biệt là những câu hỏi cần ghi nhớ thì, ừm, hình như em ấy không, không giỏi lắm, nhưng khả năng đọc hiểu lại rất xuất sắc, tôi nghĩ vậy… ưm…」"
+    },
+    {
+        "sentence": "[美雪「]::そ、そうですね……予習、復習などをっ……習慣づけると、学力はまだまだ、っ……伸びる素地があると思いますっ……」",
+        "translation": "Miyuki「Vâng, đúng vậy… Nếu tạo thói quen… chuẩn bị bài và ôn tập… thì học lực của em ấy vẫn còn… có cơ sở để phát triển…」"
+    },
+    {
+        "sentence": "[美雪「]::……そ、その点に関しては、んんぅっ……！」",
+        "translation": "Miyuki「…về, về điểm đó thì, ư… ư…!」"
+    },
+    {
+        "sentence": "[美雪「]::な、なんでもないんですっ、大丈夫です……ちょっと、寒気がしただけですっ」",
+        "translation": "Miyuki「K-không, không có gì đâu ạ… Tôi ổn… Chỉ là, tôi hơi ớn lạnh một chút thôi ạ…」"
+    },
+    {
+        "sentence": "[美雪「]::はぃ、大丈夫です。そ、それで……次はこちらのプリントを見て頂きたいんですけども……」",
+        "translation": "Miyuki「Vâng, tôi ổn ạ. V-vậy thì… tiếp theo, tôi muốn thầy xem qua bản in này…」"
+    },
+    {
+        "sentence": "[美雪「]::くぅうっ……んんっ……！」",
+        "translation": "Miyuki「Ư… ư…!」"
+    },
+    {
+        "sentence": "[美雪「]::す、すみません……本当に何でもないんですっ、ごめんなさいッ……」",
+        "translation": "Miyuki「X-xin lỗi thầy… Thật sự không có gì đâu ạ, tôi xin lỗi thầy…!」"
+    },
+    {
+        "sentence": "[美雪「]::いえっ、本当に大丈夫です。ご心配かけて、ごめんなさいっ……」",
+        "translation": "Miyuki「K-không… Thật sự không sao đâu ạ. Tôi xin lỗi vì đã làm thầy lo lắng…!」"
+    },
+    {
+        "sentence": "[美雪「]::きひゃあああっ……！」",
+        "translation": "Miyuki「K-khyaaa…!」"
+    },
+    {
+        "sentence": "[美雪「]::ぁうっ……はい、だ、大丈夫、大丈夫ですからぁあっ……っ……くぅっ……」",
+        "translation": "Miyuki「ư… vâng, khô-không sao, không sao đâu ạ… ư…」\n"
+    },
+    {
+        "sentence": "[美雪「]::あっ……うぅっ……大丈夫、ですっ……気に、しないでっ……ぁあっ……下さいっ……」",
+        "translation": "Miyuki「a… ư… Không sao đâu ạ… Kh-không cần để ý đâu… a… xin thầy…」"
+    },
+    {
+        "sentence": "[美雪「]::ひぃあああああああああぁっ！」",
+        "translation": "Miyuki「Hyaaaaaaaaaaaaaaaa!」\n"
+    },
+    {
+        "sentence": "[美雪「]::はぁあっ……ぁあっ……はぁっ……」",
+        "translation": "Miyuki「Haaaa… haaaa… haaaa…」\n"
+    },
+    {
+        "sentence": "[美雪「]::は、はいっ……で、でも……」",
+        "translation": "Miyuki「V-Vâng… nhưng…」"
+    },
+    {
+        "sentence": "[美雪「]::では、今日は申し訳ありませんが……後日改めて……」",
+        "translation": "Miyuki「Vậy thì, hôm nay tôi xin lỗi… để hôm khác tôi sẽ…」"
+    },
+    {
+        "sentence": "[美雪「]::す、すみませんっ……もう、一人で大丈夫ですからっ……失礼しますっ……」",
+        "translation": "Miyuki「X-Xin lỗi thầy… tôi… tôi ổn rồi… tôi xin phép…」\n"
+    }
+]

@@ -1,0 +1,4526 @@
+[
+    {
+        "sentence": "[律子「]::んっ…………」",
+        "translation": "Ritsuko「Ưm...」"
+    },
+    {
+        "sentence": "[律子「]::……よしっと」",
+        "translation": "Ritsuko「...Xong rồi.」"
+    },
+    {
+        "sentence": "[律子「]::はぁ……ふぅ……」",
+        "translation": "Ritsuko「Haa... Fuee...」"
+    },
+    {
+        "sentence": "[律子「]::んんーーー……」",
+        "translation": "Ritsuko「Ưm...」"
+    },
+    {
+        "sentence": "[律子「]::ふぅー……」",
+        "translation": "Ritsuko「Phù...」"
+    },
+    {
+        "sentence": "[律子「]::……なに？」",
+        "translation": "Ritsuko「...Gì vậy?」"
+    },
+    {
+        "sentence": "[律子「]::ええ」",
+        "translation": "Ritsuko「Vâng」"
+    },
+    {
+        "sentence": "[律子「]::そう……分かったわ」",
+        "translation": "Ritsuko「Vậy... Tớ hiểu rồi.」"
+    },
+    {
+        "sentence": "[律子「]::じゃあ、今日の練習はこれで終わりね」",
+        "translation": "Ritsuko「Vậy, buổi tập hôm nay kết thúc tại đây nhé.」"
+    },
+    {
+        "sentence": "[律子「]::新入生の子は、そっちで引き上げさせてちょうだい」",
+        "translation": "Ritsuko「Em cứ sắp xếp cho đám học sinh mới bên kia đi.」"
+    },
+    {
+        "sentence": "[律子「]::よろしく頼んだわよ」",
+        "translation": "Ritsuko「Tôi giao mọi việc lại cho em nhé.」"
+    },
+    {
+        "sentence": "[律子「]::ふう……」",
+        "translation": "Ritsuko「Phù...」"
+    },
+    {
+        "sentence": "[律子「]::え？」",
+        "translation": "Ritsuko「Hả?」"
+    },
+    {
+        "sentence": "[律子「]::どうかしたの？」",
+        "translation": "Ritsuko「Em sao vậy?」"
+    },
+    {
+        "sentence": "[律子「]::ああ、その事ね」",
+        "translation": "Ritsuko「À, là chuyện đó à.」"
+    },
+    {
+        "sentence": "[律子「]::そうね。悪いけど、職員室の私の机に置いといてもらえる？　私は後で、備品のチェックもしないといけないから」",
+        "translation": "Ritsuko「Ừm nhỉ. Phiền em để lại trên bàn của tôi ở phòng giáo viên nhé? Tôi còn phải kiểm tra đồ dùng văn phòng nữa nên sẽ lấy sau.」"
+    },
+    {
+        "sentence": "[律子「]::それと、シャワーも浴びないといけないしね」",
+        "translation": "Ritsuko「À, em cũng phải đi tắm nữa chứ.」"
+    },
+    {
+        "sentence": "[律子「]::……ん？　急にどうしたの？」",
+        "translation": "Ritsuko「...Hả? Sao em lại đột nhiên thế?」"
+    },
+    {
+        "sentence": "[律子「]::お腹でも痛いのかしら？」",
+        "translation": "Ritsuko「Em bị đau bụng à?」"
+    },
+    {
+        "sentence": "[律子「]::そう？　でも、お腹を押さえて……顔も真っ赤になってるわよ」",
+        "translation": "Ritsuko「Thật sao? Nhưng em lại đang ôm bụng... mặt cũng đỏ bừng lên rồi kìa.」"
+    },
+    {
+        "sentence": "[律子「]::そうは見えないわよ」",
+        "translation": "Ritsuko「Nhìn em không giống vậy đâu.」"
+    },
+    {
+        "sentence": "[律子「]::んー……熱はないみたいだけど……」",
+        "translation": "Ritsuko「Ừm…… Hình như em không bị sốt.」"
+    },
+    {
+        "sentence": "[律子「]::あ……ちょっとっ！」",
+        "translation": "Ritsuko「Ơ... Khoan đã!」"
+    },
+    {
+        "sentence": "[律子「]::変な子ね……いったい、どうしたって言うのかしら？」",
+        "translation": "Ritsuko「Thật là một đứa trẻ kỳ lạ... Chẳng biết vì sao lại ra nông nỗi này nữa.」"
+    },
+    {
+        "sentence": "[律子「]::『ああ？』じゃないでしょっ！」",
+        "translation": "Ritsuko「Không phải 'Hả?' là được rồi!」"
+    },
+    {
+        "sentence": "[律子「]::扉を蹴ったりしたらダメでしょ」",
+        "translation": "Ritsuko「Đá cửa như vậy là không được đâu!」"
+    },
+    {
+        "sentence": "[律子「]::どうしたの？　そんなにイライラして……らしくないじゃないの」",
+        "translation": "Ritsuko「Sao vậy em? Sao lại bực bội thế... Không giống em chút nào.」"
+    },
+    {
+        "sentence": "[律子「]::本当に？　じゃあ、どうして扉を蹴ったりしたの？」",
+        "translation": "Ritsuko「Thật sao? Vậy tại sao em lại đá cửa?」"
+    },
+    {
+        "sentence": "[律子「]::あら、そうだったの」",
+        "translation": "Ritsuko「Ồ, vậy à?」"
+    },
+    {
+        "sentence": "[律子「]::でも……だからって、物に八つ当たりするのはよくないわ」",
+        "translation": "Ritsuko「Nhưng mà... dù vậy thì trút giận lên đồ vật cũng không tốt đâu em.」"
+    },
+    {
+        "sentence": "[律子「]::男の子なんだから、イライラして周りに当たるのはみっともないわよ」",
+        "translation": "Ritsuko「Con trai mà cứ bực bội rồi trút giận lên đồ vật là không ra dáng đâu em.」"
+    },
+    {
+        "sentence": "[律子「]::まっ、大した事じゃなさそうだから、先生、安心したけどね」",
+        "translation": "Ritsuko「Nhưng mà, có vẻ không phải chuyện gì lớn nên tôi, à mà là cô, cũng yên tâm rồi đây này.」"
+    },
+    {
+        "sentence": "[律子「]::ええ。なんだか最近、焦ってるようにも見えたし……もしかして、悩み事でもあるのかと思ったから」",
+        "translation": "Ritsuko「Ừm. Gần đây em trông có vẻ hơi sốt ruột, nên tôi đã nghĩ có lẽ em đang có chuyện gì đó phiền lòng nên tôi mới hỏi vậy thôi.」"
+    },
+    {
+        "sentence": "[律子「]::ええ、そんなところね」",
+        "translation": "Ritsuko「Ừm, đại loại là vậy đó em.」"
+    },
+    {
+        "sentence": "[律子「]::最近は色々と気になる事もあるし……手が空いた時は、校内を見回るようにしてるのよ」",
+        "translation": "Ritsuko「Dạo gần đây có nhiều chuyện làm tôi để tâm lắm... lúc nào rảnh tôi cũng đi một vòng quanh trường để xem xét cả đó em.」"
+    },
+    {
+        "sentence": "[律子「]::……例のバスケ部の女子の件よ」",
+        "translation": "Ritsuko「... Là chuyện của mấy cô gái câu lạc bộ bóng rổ đó em.」"
+    },
+    {
+        "sentence": "[律子「]::知らないかしら？　あの子、結局、写真部には入部しなかったのよ」",
+        "translation": "Ritsuko「Em có biết không? Cuối cùng thì con bé đó đã không tham gia câu lạc bộ nhiếp ảnh đâu em.」"
+    },
+    {
+        "sentence": "[律子「]::写真部の何人かが、喫煙で停学処分になったのは知っているでしょ？」",
+        "translation": "Ritsuko「Chuyện mấy người trong câu lạc bộ nhiếp ảnh bị đình chỉ học vì hút thuốc, chắc em biết rồi chứ?」"
+    },
+    {
+        "sentence": "[律子「]::その日がちょうど、バスケ部の子が転部するって、葛西先生の所に行った翌日……」",
+        "translation": "Ritsuko「Hôm đó, vừa hay là ngày hôm sau khi con bé đội bóng rổ đến chỗ thầy Kasai để xin chuyển khỏi câu lạc bộ...」"
+    },
+    {
+        "sentence": "[律子「]::つまり、その問題が職員会議で取り上げられた当日ね」",
+        "translation": "Ritsuko「Ý tôi là, đúng cái ngày mà vấn đề đó được đem ra thảo luận trong cuộc họp hội đồng giáo viên ấy.」"
+    },
+    {
+        "sentence": "[律子「]::ん……う、うん……やっぱり、本当の事は当事者に聞くしかないんだけど……」",
+        "translation": "Ritsuko「Ừm... ừ... Quả nhiên, chuyện này, có lẽ tôi chỉ có thể hỏi trực tiếp những người trong cuộc thôi em à...」"
+    },
+    {
+        "sentence": "[律子「]::あの子も、あの日以来、ずっと学園を休んだままだから……」",
+        "translation": "Ritsuko「Con bé đó, kể từ ngày hôm đó đến giờ, vẫn luôn nghỉ học ở trường em ạ...」"
+    },
+    {
+        "sentence": "[律子「]::ええ、そうみたいね」",
+        "translation": "Ritsuko「Ừ, có vẻ là vậy em ạ.」"
+    },
+    {
+        "sentence": "[律子「]::それは……ええ、そうなんだけど……」",
+        "translation": "Ritsuko「Cái đó thì... ừ, đúng là vậy, nhưng mà...」"
+    },
+    {
+        "sentence": "[律子「]::う……ん。まあ、自然に考えればそうかもね」",
+        "translation": "Ritsuko「Ừm... ừm. Nếu suy nghĩ một cách tự nhiên thì có lẽ là vậy em nhỉ.」"
+    },
+    {
+        "sentence": "[律子「]::とにかく、何か分かったら教えてくれない？」",
+        "translation": "Ritsuko「Nói chung là, nếu em phát hiện ra điều gì thì phải báo cho tôi biết đấy nhé?」"
+    },
+    {
+        "sentence": "[律子「]::それと、私は真田先生を……あなたのお義兄さんを疑ってるんじゃないから。そこのところは誤解しないでね」",
+        "translation": "Ritsuko「Với lại, tôi không hề nghi ngờ thầy Sanada... anh rể của em đâu đấy. Chỗ này em đừng hiểu lầm nhé.」"
+    },
+    {
+        "sentence": "[律子「]::よかった。それじゃあね」",
+        "translation": "Ritsuko「Vậy thì tốt rồi. Vậy nhé em.」"
+    },
+    {
+        "sentence": "[律子「]::あ…………」",
+        "translation": "Ritsuko「A...」"
+    },
+    {
+        "sentence": "[律子「]::よかった。思ったより早く帰ってきたわね」",
+        "translation": "Ritsuko「Tốt quá. Em về sớm hơn tôi tưởng đấy.」"
+    },
+    {
+        "sentence": "[律子「]::どこに行ってたのかしら？」",
+        "translation": "Ritsuko「Em đã đi đâu vậy?」"
+    },
+    {
+        "sentence": "[律子「]::ええ。だって、あそこはあなたの教室でしょ？　だから、あなたが戻るのを待っていただけ。何かおかしい？」",
+        "translation": "Ritsuko「Ừm. Bởi vì, nơi đó là lớp học của em mà phải không? Nên tôi chỉ đợi em quay về thôi. Có gì đó không ổn sao?」"
+    },
+    {
+        "sentence": "[律子「]::机に鞄が残ってたからね」",
+        "translation": "Ritsuko「Vì tôi thấy cặp của em vẫn còn để trên bàn.」"
+    },
+    {
+        "sentence": "[律子「]::…………」",
+        "translation": "Ritsuko「……」"
+    },
+    {
+        "sentence": "[律子「]::そうね……でも、あまり大事にはしたくなかったから……」",
+        "translation": "Ritsuko「Ừm... Nhưng mà, tôi không muốn chuyện này trở nên quá nghiêm trọng...」"
+    },
+    {
+        "sentence": "[律子「]::ねえ……今日の下校時間が過ぎたら、ちょっと職員室まで来てくれる？」",
+        "translation": "Ritsuko「Này... Tan học hôm nay xong, em có thể đến phòng giáo viên một lát được không?」"
+    },
+    {
+        "sentence": "[律子「]::聞こえたでしょ？　下校時間になったら、職員室の私の所に来てちょうだい」",
+        "translation": "Ritsuko「Em nghe thấy rồi đúng không? Tan học rồi thì đến phòng giáo viên tìm tôi nhé.」"
+    },
+    {
+        "sentence": "[律子「]::別に構わないでしょ。あなた、いつも遅くまで残ってるみたいだし」",
+        "translation": "Ritsuko「Em đâu có phiền đâu, đúng không nào? Trông em lúc nào cũng có vẻ ở lại muộn mà.」"
+    },
+    {
+        "sentence": "[律子「]::そんな遅くまで、何をしてるのかは知らないけど……」",
+        "translation": "Ritsuko「Tôi không biết em đang làm gì mà ở lại muộn thế này...」"
+    },
+    {
+        "sentence": "[律子「]::まあ、そういう事だから、職員室に来なさいよ」",
+        "translation": "Ritsuko「Thôi nào, vì chuyện là như vậy nên em hãy đến phòng giáo viên đi.」"
+    },
+    {
+        "sentence": "[律子「]::都合でも悪いの？」",
+        "translation": "Ritsuko「Em bận việc gì đó sao?」"
+    },
+    {
+        "sentence": "[律子「]::大丈夫なのね。じゃあ、詳しい話は後でするから」",
+        "translation": "Ritsuko「Em ổn rồi, đúng không? Vậy thì, chi tiết câu chuyện chúng ta sẽ nói sau nhé.」"
+    },
+    {
+        "sentence": "[律子「]::職員室で待ってるからね」",
+        "translation": "Ritsuko「Tôi sẽ đợi em ở phòng giáo viên nhé.」"
+    },
+    {
+        "sentence": "[律子「]::ああ、来てくれたのね……」",
+        "translation": "Ritsuko「À, em đã đến rồi sao……」"
+    },
+    {
+        "sentence": "[律子「]::……前に話したバスケ部の話、覚えてる？」",
+        "translation": "Ritsuko「……Em còn nhớ chuyện về câu lạc bộ bóng rổ mà tôi đã nói với em trước đó không?」"
+    },
+    {
+        "sentence": "[律子「]::そうでしょうね」",
+        "translation": "Ritsuko「Em nói vậy cũng đúng thôi.」"
+    },
+    {
+        "sentence": "[律子「]::自分が関わった話なんですもの。忘れるはずがないわよね」",
+        "translation": "Ritsuko「Em là người đã tham gia vào câu chuyện này mà. Sao em lại có thể quên được chứ.」"
+    },
+    {
+        "sentence": "[律子「]::どうして知っているのか、って顔をしてるわね」",
+        "translation": "Ritsuko「Em có cái vẻ mặt như đang tự hỏi sao tôi lại biết được vậy nhỉ.」"
+    },
+    {
+        "sentence": "[律子「]::いいわ。教えてあげる」",
+        "translation": "Ritsuko「Được rồi. Cô sẽ nói cho em biết.」"
+    },
+    {
+        "sentence": "[律子「]::最初に……事件の実行犯とでも言うのかしら？」",
+        "translation": "Ritsuko「Đầu tiên... phải nói em là thủ phạm gây ra vụ đó sao?」"
+    },
+    {
+        "sentence": "[律子「]::写真部の男子達……彼らが停学になった理由は、喫煙なんかじゃなかったわ」",
+        "translation": "Ritsuko「Các cậu con trai của câu lạc bộ nhiếp ảnh… lý do họ bị đình chỉ học không phải vì hút thuốc đâu em.」"
+    },
+    {
+        "sentence": "[律子「]::真田先生を疑った訳じゃないけど、私はどうしても納得がいかなかったの……だから、直接彼らに会って話を聞いたのよ」",
+        "translation": "Ritsuko「Cô không nghi ngờ gì thầy Sanada cả, nhưng cô vẫn luôn cảm thấy không thể nào chấp nhận được…… thế nên, cô đã trực tiếp đi gặp họ để nghe câu chuyện từ chính họ đấy.」"
+    },
+    {
+        "sentence": "[律子「]::だって今回の事件はどう考えても、腑に落ちない点が多過ぎたのよ」",
+        "translation": "Ritsuko「Bởi vì, dù có suy nghĩ thế nào đi nữa thì vụ án lần này vẫn còn quá nhiều điểm khiến cô không thể nào chấp nhận được.」"
+    },
+    {
+        "sentence": "[律子「]::それで彼らに話を聞いたら……何て言ったと思う？」",
+        "translation": "Ritsuko「Sau đó cô đã đi nói chuyện với họ… em đoán xem họ đã nói gì?」"
+    },
+    {
+        "sentence": "[律子「]::……聞いて驚いたわ」",
+        "translation": "Ritsuko「...Cô đã rất ngạc nhiên khi nghe chuyện đó.」"
+    },
+    {
+        "sentence": "[律子「]::あなた、バスケ部の女の子の弱みを握って……それをネタにして、写真部の男子に暴行するよう言ったんですって？」",
+        "translation": "Ritsuko「Cô nghe nói em đã nắm được điểm yếu của mấy cô gái đội bóng rổ… rồi lợi dụng điều đó để sai mấy cậu con trai của câu lạc bộ nhiếp ảnh đi hành hung họ ư?」"
+    },
+    {
+        "sentence": "[律子「]::なに？　何か言いたい事でもあるの？」",
+        "translation": "Ritsuko「Gì vậy? Em có chuyện gì muốn nói sao?」"
+    },
+    {
+        "sentence": "[律子「]::他にも色々と聞いたわよ。あなた、一部の男子の間では、かなり有名らしいわね」",
+        "translation": "Ritsuko「Cô còn nghe nhiều chuyện khác nữa. Nghe nói em khá nổi tiếng trong giới một vài cậu con trai đấy.」"
+    },
+    {
+        "sentence": "[律子「]::ええ。女子の色んな情報を仕入れて、それに値段をつけて売ってるそうじゃない」",
+        "translation": "Ritsuko「Ừm. Cô nghe nói em chuyên đi moi đủ thứ thông tin về các bạn nữ rồi bán chúng lấy tiền chứ gì?」"
+    },
+    {
+        "sentence": "[律子「]::なに、その顔は？　自分が売られたと思って、腹を立ててるの？」",
+        "translation": "Ritsuko「Sao lại có cái vẻ mặt đó? Em đang tức giận vì nghĩ mình bị bán đi sao?」"
+    },
+    {
+        "sentence": "[律子「]::あなた、自分の立場が分かってる？　自分のした事が分かってるのっ！？」",
+        "translation": "Ritsuko「Em có biết vị trí của mình không? Em có biết mình đã làm gì không hả?!」"
+    },
+    {
+        "sentence": "[律子「]::はあ……その様子だと、少しは反省しているようね」",
+        "translation": "Ritsuko「Haa... Nhìn bộ dạng của em, có vẻ như em cũng hối hận đôi chút rồi nhỉ.」"
+    },
+    {
+        "sentence": "[律子「]::ねえ、少しは考えてみなさいよ……」",
+        "translation": "Ritsuko「Này, em thử suy nghĩ một chút đi xem nào...」"
+    },
+    {
+        "sentence": "[律子「]::この学園にはあなたのお義兄さん、真田先生だって勤めていらっしゃるのよ？」",
+        "translation": "Ritsuko「Nghe nói trường này còn có anh trai của em, thầy Sanada, cũng đang làm việc nữa đấy nhỉ?」"
+    },
+    {
+        "sentence": "[律子「]::義弟のあなたがそんな問題を起こしたら、真田先生にどれだけの迷惑がかかるか、分からないはずがないでしょう？」",
+        "translation": "Ritsuko「Em là em trai của thầy ấy vậy mà lại gây ra chuyện như thế này, lẽ nào em không biết sẽ làm phiền thầy Sanada đến mức nào sao?」"
+    },
+    {
+        "sentence": "[律子「]::もしも、あなたが退学にでもなれば、真田先生はきっと責任を取って、お辞めになってしまうわ……」",
+        "translation": "Ritsuko「Nếu em bị đuổi học, Thầy Sanada chắc chắn sẽ phải chịu trách nhiệm và từ chức mất thôi…」"
+    },
+    {
+        "sentence": "[律子「]::仮にそうならなくとも、学生や他の先生達は、あなたのせいで、真田先生の人格すら疑ってしまうかも知れないのよ」",
+        "translation": "Ritsuko「Dù cho không phải như vậy đi chăng nữa, thì các học sinh và giáo viên khác cũng có thể sẽ nghi ngờ cả nhân cách của thầy Sanada chỉ vì lỗi lầm của em đấy.」"
+    },
+    {
+        "sentence": "[律子「]::ねえ、聞いてるの？　なんとか言いなさいよ」",
+        "translation": "Ritsuko「Này, em có nghe không? Nói gì đi chứ.」"
+    },
+    {
+        "sentence": "[律子「]::……あなたは、本当はそんな人間じゃないはずよ」",
+        "translation": "Ritsuko「...Em, thật ra không phải là người như vậy đâu.」"
+    },
+    {
+        "sentence": "[律子「]::血は繋がってなくても、真田先生という立派なお義兄さんと、ずっと一緒に暮らしてきたんでしょう？」",
+        "translation": "Ritsuko「Dù không cùng máu mủ, nhưng chẳng phải em đã luôn sống cùng thầy Sanada, một người anh kế rất đáng ngưỡng mộ đó sao?」"
+    },
+    {
+        "sentence": "[律子「]::今回の件だってそう。真田先生は決して、学園の不祥事が発覚するのを恐れて、事件を揉み消そうとしたんじゃないわ」",
+        "translation": "Ritsuko「Chuyện lần này cũng vậy thôi. Thầy Sanada tuyệt đối không phải vì sợ chuyện không hay của học viện bị bại lộ mà cố gắng che đậy vụ việc đâu.」"
+    },
+    {
+        "sentence": "[律子「]::被害にあったの子の気持ちを……いえ、問題を起こした写真部の子達の将来まで考えて、事件をはっきりと公表しなかったんだわ」",
+        "translation": "Ritsuko「Cảm xúc của đứa trẻ bị hại... à không, thầy ấy đã suy nghĩ đến cả tương lai của các em trong câu lạc bộ nhiếp ảnh đã gây ra vấn đề, nên mới không công khai vụ việc một cách rõ ràng.」"
+    },
+    {
+        "sentence": "[律子「]::自分は好き勝手な事をして、それでいいのかも知れないけど、その事で家族に迷惑をかけてはいけないわ」",
+        "translation": "Ritsuko「Có thể em nghĩ cứ làm những gì mình thích là được, nhưng em không được vì thế mà gây phiền phức cho gia đình đâu."
+    },
+    {
+        "sentence": "[律子「]::一応、今回の件は、まだ誰にも話していないわ……」",
+        "translation": "Ritsuko「Dù sao thì, chuyện lần này, cô vẫn chưa nói với ai cả…」"
+    },
+    {
+        "sentence": "[律子「]::簡単に信用する訳にはいかないけど、あなたが正直に全部話して……今後、一切、こんな事はしないって誓うのなら……」",
+        "translation": "Ritsuko「Dù cô chưa thể hoàn toàn tin em, nhưng nếu em có thể thành thật nói hết mọi chuyện ra, và thề rằng sẽ không bao giờ làm những chuyện như vậy nữa trong tương lai...」"
+    },
+    {
+        "sentence": "[律子「]::真田先生という立派なお手本が身近にいるんだし……」",
+        "translation": "Ritsuko「Vì có thầy Sanada, một tấm gương sáng ngời, ở ngay bên cạnh em đây mà...」"
+    },
+    {
+        "sentence": "[律子「]::えっ……なっ！？」",
+        "translation": "Ritsuko「Ơ... Gì chứ!?」"
+    },
+    {
+        "sentence": "[律子「]::な、なにを！？」",
+        "translation": "Ritsuko「C-Cái gì chứ!?」"
+    },
+    {
+        "sentence": "[律子「]::あ、あなた……いったい……や、やめてっ！！」",
+        "translation": "Ritsuko「A, em…… Rốt cuộc thì…… K-Không, dừng lại đi!!」"
+    },
+    {
+        "sentence": "[律子「]::こらっ、やめなさいっ！　ほ、本当に怒るわよっ！」",
+        "translation": "Ritsuko「Này, dừng lại ngay cho cô! Cô, cô mà giận thật đó!」"
+    },
+    {
+        "sentence": "[律子「]::馬鹿な事はやめなさいっ！　自分が何をしているか、分かっているのっ……？！」",
+        "translation": "Ritsuko「Đừng có làm chuyện ngu ngốc nữa! Em có biết mình đang làm cái gì không hả……?!」"
+    },
+    {
+        "sentence": "[律子「]::な、何の事？　あなた、何を言ってるの？」",
+        "translation": "Ritsuko「C-Chuyện gì cơ? Em... em đang nói cái gì vậy?」"
+    },
+    {
+        "sentence": "[律子「]::くぅっ……！　あっ、うぅっ……い、痛いっ！！」",
+        "translation": "Ritsuko「Ư... ư...！ A... ư... Đ-Đau quá!!」"
+    },
+    {
+        "sentence": "[律子「]::い、やぁっ！　い、痛いわっ……あうっ、クッ！　そ、そんなに強く……ンッ！　ンンッ！！」",
+        "translation": "Ritsuko「Ư, á...! Đ-Đau quá...! Ách, khựt! Đ-Đừng có mạnh tay như vậy...! Ưm! Ưm ưm!!」"
+    },
+    {
+        "sentence": "[律子「]::あゥッ、うっ！　いや……はなしてっ！　は、はなしなさいっ……やめてってっ、言ってるでしょッ……クゥッ！」",
+        "translation": "Ritsuko「A... Ư...！ K-Không…… Bỏ cô ra! B, bỏ cô ra đi…… Đã bảo dừng lại rồi mà…… Khư...！」"
+    },
+    {
+        "sentence": "[律子「]::ひっ、ぐぅ、うっ！　あ、あなた……いったい……ど、どうしちゃったって……いうの……？」",
+        "translation": "Ritsuko「Hức, ư... ư...！ A, em... rốt cuộc... em bị làm sao vậy……?」"
+    },
+    {
+        "sentence": "[律子「]::きゃあっ！？　ちょ、ちょっと！　本当にやめなさいってば……！」",
+        "translation": "Ritsuko「Á! Chờ, chờ một chút! Cô bảo em dừng lại thật đấy……!」"
+    },
+    {
+        "sentence": "[律子「]::いぃ、痛いわっ！　や、やめてっ……いっ、たぁいっ！」",
+        "translation": "Ritsuko「Ư... Đau quá! Bỏ, bỏ ra đi…… Đ, đau quá!」"
+    },
+    {
+        "sentence": "[律子「]::馬鹿っ、やめなさいっ！　早く服を……あぁッ！」",
+        "translation": "Ritsuko「Đồ ngốc, dừng lại ngay! Mau mặc đồ lại... Aaa!」"
+    },
+    {
+        "sentence": "[律子「]::クッ……ち、違うっ……そ、そうじゃなくて……あぐっ！　ぐぅ……痛いっ！　痛いってばっ……！　やめなさいっ、やめてぇっ……！！」",
+        "translation": "Ritsuko「Khự…… K-Không phải…… K-Không phải như vậy…… Ư! Ư... Đau quá! Đau thật mà……! Dừng lại đi, dừng lại đi mà……!!」"
+    },
+    {
+        "sentence": "[律子「]::やめなさい……やめてぇっ……本当に、も、もう……」",
+        "translation": "Ritsuko「Dừng lại đi…… Dừng lại đi mà…… Thật sự là, t-tôi……」"
+    },
+    {
+        "sentence": "[律子「]::これ以上、まだ罪を重ねるつもりなの？　こんな事をすれば、あなた……本当に退学になってしまうわ……」",
+        "translation": "Ritsuko「Em còn định tội lỗi chồng chất đến bao giờ nữa sao? Nếu làm thế này, em…… sẽ thực sự bị đuổi học đó……」"
+    },
+    {
+        "sentence": "[律子「]::ううぅっ……あぁっ、いやぁああああああっ！！」",
+        "translation": "Ritsuko「Ư... Ư... Aaa, không~~~~~~!!」"
+    },
+    {
+        "sentence": "[律子「]::ひっ、ひぃぃ……」",
+        "translation": "Ritsuko「Hức, hiii……」"
+    },
+    {
+        "sentence": "[律子「]::あぅっ、うっ、くっ！　ううっ！　あううっ！！」",
+        "translation": "Ritsuko「Ư... Ư... Khự! Ư... Ư... Aaaa!!」"
+    },
+    {
+        "sentence": "[律子「]::い、いやっ……あぅっ！　ああぅぅうっ！　ら、乱暴に……だめっ！　アッ！　あっ……そんな、ンッ！　揉ま、ないでッ……！」",
+        "translation": "Ritsuko「K-Không... Ư... Aaa ư ư ư... Thô bạo quá... Không được! A! A... K-Không thể nào, ư... Đừng, đừng bóp nữa...！」"
+    },
+    {
+        "sentence": "[律子「]::う、ううう……お、お願いっ……もうだめっ！　あ、う、ぐっ！　ほ、本当にやめて……やめてよぉぉ……」",
+        "translation": "Ritsuko「Ư, ư ư ư... Ơ, xin em... Hết nổi rồi! A, ư, ư... Hức! H, thật sự xin em đó... Xin em mà...」"
+    },
+    {
+        "sentence": "[律子「]::くっ、う……えっ……？」",
+        "translation": "Ritsuko「Khự, ư…… hả……？」"
+    },
+    {
+        "sentence": "[律子「]::えっ……あぅ、ひぃあっ！」",
+        "translation": "Ritsuko「Hả…… ư, hiiii ah!」"
+    },
+    {
+        "sentence": "[律子「]::ふっ、あ……クッ！　そんな……わ、私は感じてなんか……」",
+        "translation": "Ritsuko「Hư, a... Ư! K-Không thể nào... Cô, Cô không hề cảm thấy gì hết...」"
+    },
+    {
+        "sentence": "[律子「]::ち、違うわ……そんな事、私、絶対にそんな……」",
+        "translation": "Ritsuko「K-Không phải... Em đừng nói những chuyện như vậy... Cô, tuyệt đối không có chuyện đó...」"
+    },
+    {
+        "sentence": "[律子「]::ひぐっ！　くぅっ、くううっ！　あぅぅぅっ……！！」",
+        "translation": "Ritsuko「Hức! Ư... Ưm! Aaaa...!!」"
+    },
+    {
+        "sentence": "[律子「]::違うって……い、言ってるのに……はぅ、うっ……さ、触られたら……誰だって、か、硬くなるわよっ……」",
+        "translation": "Ritsuko「Không phải mà... T-Tôi đã bảo rồi... Hức, ư... Nếu, nếu bị em chạm vào... Thì ai, ai mà không cứng lên chứ...」\n"
+    },
+    {
+        "sentence": "[律子「]::うぐっ……あううっ！　だ、だめ……乳首、だめっ……くっ！」",
+        "translation": "Ritsuko「Ưg... Auuu! K-Không được... Đầu vú, không được... Khụ!」"
+    },
+    {
+        "sentence": "[律子「]::あっ、あァッ！　そんなに……いっ、アッ！　いじられ、たらっ……はっ、うっ！　くううううっ……！！」",
+        "translation": "Ritsuko「Á, Áaaa! Mạnh như vậy... Ư, Áaaa! Bị trêu chọc... thì... Hức, ư! Ưuuuuu...!!」"
+    },
+    {
+        "sentence": "[律子「]::くうっ……んンンンーーッ！！」",
+        "translation": "Ritsuko「Ưm... Ưmmmmm!!」"
+    },
+    {
+        "sentence": "[律子「]::あふっ、あっ！　あぁ、あっあんっ！」",
+        "translation": "Ritsuko「A... Áa! Aaa, aaaaah!」"
+    },
+    {
+        "sentence": "[律子「]::えっ、あっ……あ……」",
+        "translation": "Ritsuko「Ể, ớ... Á...」"
+    },
+    {
+        "sentence": "[律子「]::……な、何でもないわ」",
+        "translation": "Ritsuko「...C-Không có gì đâu.」"
+    },
+    {
+        "sentence": "[律子「]::ふざけるのもいい加減になさいっ！　すぐに手をよけて、先生を放しなさいっ！！」",
+        "translation": "Ritsuko「Đủ rồi đấy! Đừng có đùa nữa! Mau bỏ tay ra, và thả Cô ra ngay!!」"
+    },
+    {
+        "sentence": "[律子「]::えっ……ま、待ってっ……！」",
+        "translation": "Ritsuko「Ể... Đ-Đợi đã...!」"
+    },
+    {
+        "sentence": "[律子「]::やあっ……だ、だめェェッ……！」",
+        "translation": "Ritsuko「A... K-Không được mà!」"
+    },
+    {
+        "sentence": "[律子「]::や、やめなさいっ、触らないでっ！」",
+        "translation": "Ritsuko「K-Không được! Đừng có đụng vào tôi!」"
+    },
+    {
+        "sentence": "[律子「]::ひぃ、あっ……ああっ、あっ……！」",
+        "translation": "Ritsuko「Híc, ớ... Áaaa, ớ...!」"
+    },
+    {
+        "sentence": "[律子「]::ひいぃ、いい……やだ、だっ、め……あっ、うっ！　お、お尻……撫でないでっ……ひっ、いっ！　触らないでっ……」",
+        "translation": "Ritsuko「Híc, ừm... Không, không được mà... Á, ứ! M-Mông... Đừng có sờ mà... Híc, á! Đừng có đụng vào tôi!」"
+    },
+    {
+        "sentence": "[律子「]::そ、そんな訳ないでしょうっ！　馬鹿な事言わないでっ！！」",
+        "translation": "Ritsuko「K-Không thể nào! Đừng có nói mấy chuyện điên rồ như vậy!!」"
+    },
+    {
+        "sentence": "[律子「]::な、なに……何をするつもりなのっ？」",
+        "translation": "Ritsuko「G-Gì... Cô... Em... Em tính làm gì vậy!?」"
+    },
+    {
+        "sentence": "[律子「]::きゃあぁぁっ！？」",
+        "translation": "Ritsuko「Kyaaaaaaa!?」"
+    },
+    {
+        "sentence": "[律子「]::い、痛いっ……な、何をするのっ！？」",
+        "translation": "Ritsuko「Đ-Đau quá... E-Em đang làm gì vậy!?」"
+    },
+    {
+        "sentence": "[律子「]::な、なっ……！？」",
+        "translation": "Ritsuko「K-Kh-Không thể nào...!」"
+    },
+    {
+        "sentence": "[律子「]::あぁっ、ひぃいっ！！」",
+        "translation": "Ritsuko「Á... Á á á!!」"
+    },
+    {
+        "sentence": "[律子「]::く、うぅ、ううぅぅ……」",
+        "translation": "Ritsuko「Ư... ư... ư ư ư...」"
+    },
+    {
+        "sentence": "[律子「]::う、うし……クッ……クゥッ！」",
+        "translation": "Ritsuko「Ư... ư ư... Khốn... Khốn kiếp!」"
+    },
+    {
+        "sentence": "[律子「]::アッ……！？」",
+        "translation": "Ritsuko「Á...!?」"
+    },
+    {
+        "sentence": "[律子「]::ヒィッ！　ヒィアッ！　あっ、ああああーーっ！」",
+        "translation": "Ritsuko「Hí... Hịa... Á... Aaaaaaa...!」"
+    },
+    {
+        "sentence": "[律子「]::つ、冷たい……ヒッ！　あっ、ひっ！　いいいっ！！」",
+        "translation": "Ritsuko「L...Lạnh quá... Híc! Á... híc! Không... không chịu được!!」"
+    },
+    {
+        "sentence": "[律子「]::や、めてっ！　あっ、ウッ！　そ、そんな変な事っ……アッ！　ううっ！　くっううううっ！！」",
+        "translation": "Ritsuko「K-Không... dừng lại đi! Á... Ư... Đ-Đừng... đừng làm chuyện kỳ quặc đó... Á! Ư... Ư ư ư ư!!」"
+    },
+    {
+        "sentence": "[律子「]::くぅ、ふあっ！　ハァッ、フウッ！　いやっ……お、お尻いやっ！　やめてっ！　やめてっ！　やめてェェッ！」",
+        "translation": "Ritsuko「Ư ứ... haaa! Haaa, phù! Không... đau, đau mông quá! Dừng lại đi! Dừng lại! Dừng lại điiii!」"
+    },
+    {
+        "sentence": "[律子「]::ん、ンンッ、やあっ！　ぬ、抜いてッ……ククッ！　あうっ、ふう……そんなもの、いれ、ないっ、でッ……！」",
+        "translation": "Ritsuko「Ưm, ư ư! Ya! Lấy ra... khục khục! A... phù... Cái thứ đó, đừng, đừng cho vào... nữa!」"
+    },
+    {
+        "sentence": "[律子「]::ひぃああああっ！？」",
+        "translation": "Ritsuko「Á á á á!?」"
+    },
+    {
+        "sentence": "[律子「]::んっ、んぅっ……アアッ！　いやっ、あぐ……くっ、ふぅっ……！」",
+        "translation": "Ritsuko「Ư... ư ư... Aaaa! Không... ư... khục... phù...」"
+    },
+    {
+        "sentence": "[律子「]::ふぅうっ、おう、ううっ！　お、お尻の穴ッ、やっ、あっ！　ま、混ぜないでっ……んぁっ、はうあっ……」",
+        "translation": "Ritsuko「Hự... ư... ư ư! Ô, lỗ hậu môn... Ư... a! K-không, đừng ngoáy... ư... haaa...」"
+    },
+    {
+        "sentence": "[律子「]::いやっ、あぉ、あっ！　いっ、やぁぁぁぁっ！！」",
+        "translation": "Ritsuko「Không... a... á! Ư... á á á á!!」"
+    },
+    {
+        "sentence": "[律子「]::ンッ……ふぅぅ……あ、あぅん……ンッ、ああん……」",
+        "translation": "Ritsuko「Ư... phù... a, ư ư... Ư, a a...」"
+    },
+    {
+        "sentence": "[律子「]::えっ……え、ええっ！？」",
+        "translation": "Ritsuko「Hả... h, hả hả!?」"
+    },
+    {
+        "sentence": "[律子「]::そんな……か、感じてなんかいないわっ！　私、感じてないっ！　感じてなんかいないってば！」",
+        "translation": "Ritsuko「Không... Cô, Cô không có cảm thấy gì hết! Tôi, Tôi không có cảm thấy gì cả! Tôi nói là không có cảm thấy gì mà!」"
+    },
+    {
+        "sentence": "[律子「]::……！　何を言ってるのっ、そ、そんな……だめっ、それだけはっ！！」",
+        "translation": "Ritsuko「...!! Em đang nói cái gì vậy! K-không, không thể nào... Không được! Cái đó thì không thể!!」"
+    },
+    {
+        "sentence": "[律子「]::い、いやっ！　やあっ！　やめてぇぇーーーっ……！！」",
+        "translation": "Ritsuko「Kh-không! Ya! Dừng lại đi màaaa...!!」"
+    },
+    {
+        "sentence": "[律子「]::んぁっ、あひっ！　ひぃぐっ……う、んううううっ！！」",
+        "translation": "Ritsuko「Ư... ực! Á... ực... Ư... ứ ư ư ư!!」"
+    },
+    {
+        "sentence": "[律子「]::うぐぅ……や、めて……はう、う……ゆる、して……」",
+        "translation": "Ritsuko「Ư... đừng... làm thế... ha... ư... tha... thứ cho...」"
+    },
+    {
+        "sentence": "[律子「]::あぐぅ……あ、ああ……そんなぁ……はあ……」",
+        "translation": "Ritsuko「Ư... a... Đừng... đừng mà... Hức...」"
+    },
+    {
+        "sentence": "[律子「]::ぁあっ……こんな事っ……だめ、やめなさいっ……うぅっ……」",
+        "translation": "Ritsuko「Á... chuyện này... Không được, dừng lại đi... ư...」"
+    },
+    {
+        "sentence": "[律子「]::う、うそっ……そんな事ないっ……ぁあっ……いやぁああっ……」",
+        "translation": "Ritsuko「Kh-không, không thể nào... Chuyện đó không có thật! ...Á... Khônggggg!!!」"
+    },
+    {
+        "sentence": "[律子「]::あぁっ、はああっ！　あっあああああああーーーーーっ！！」",
+        "translation": "Ritsuko「Á... Hức! Aaaaaaaaーーーーー!!」"
+    },
+    {
+        "sentence": "[律子「]::あふ、ああっ、やあ……は、入るっ、入ってくるっ……！　ふ、太い……硬いのが、中に入ってくるぅぅ……」",
+        "translation": "Ritsuko「Á... à... Ya... Vào rồi... nó đang vào...!! L-lớn quá... thứ cứng rắn đó đang xâm nhập vào trong...uu...」"
+    },
+    {
+        "sentence": "[律子「]::いやあ、ああ……お願いぃ、ぬ、抜いてぇ……う、うぅぅ……」",
+        "translation": "Ritsuko「Á... à... làm ơn đi... rút... rút ra đi... ư... ưuu...」"
+    },
+    {
+        "sentence": "[律子「]::そ、そんなぁ……あぁぁ……わ、私……こんなっ……が、学生に……犯されてる……なんてっ……」",
+        "translation": "Ritsuko「K-không thể nào... Aaaaa... T-tôi... lại... bị một thằng học sinh... cưỡng bức... thế này...」"
+    },
+    {
+        "sentence": "[律子「]::あう、はううぅ……いや、あっ、ああ……こ、こんなっ……あん、あっ……い、いやっ、なのにぃ……」",
+        "translation": "Ritsuko「Á... Hức... Không... Á... à... ch-chuyện này... Ư... Á... Kh-không... vậy mà...」"
+    },
+    {
+        "sentence": "[律子「]::ああっ……いやぁっ……ぁあっ……んんっ……こんな、こんな事って……ぁっ、ああっ……！」",
+        "translation": "Ritsuko「Á... Áaaaaa... Áaaa... Ng... Ng... Chuyện... chuyện này là sao... Á... Áaaaa... !」"
+    },
+    {
+        "sentence": "[律子「]::いぁあっ……そんな事、言わないでっ……ああっ……いやぁっ……！」",
+        "translation": "Ritsuko「Á... Đừng nói những lời như vậy... Áaaaa... Không... à... !」"
+    },
+    {
+        "sentence": "[律子「]::クッ……うぅぅぅぅ……」",
+        "translation": "Ritsuko「Khụ... Ư... ư ư ư...」"
+    },
+    {
+        "sentence": "[律子「]::くぅっ、んっんんうっ……！」",
+        "translation": "Ritsuko「Khụ... Ư... ư ư...」"
+    },
+    {
+        "sentence": "[律子「]::くううぅぅ……だ、だめ……きつい、き、きついの……」",
+        "translation": "Ritsuko「Ư... Ưuu... Không... không được... chặt... ch-chặt quá...」"
+    },
+    {
+        "sentence": "[律子「]::んっ、ンンッ！　つ、突き上げないでッ……くっ、くふうっ！」",
+        "translation": "Ritsuko「Ư... Ưm! T-từ từ thôi... Đừng có thúc mạnh thế chứ... Khụ... Khụ khụ!」"
+    },
+    {
+        "sentence": "[律子「]::な、なかと……こ、擦れてっ……お、押されて……きつい……うっ、うぅぅっ……お尻が、きついのっ……！」",
+        "translation": "Ritsuko「...Phía trong... cọ xát... bị ép... chặt quá... Ư... ư ư... Mông... mông của Cô chặt quá...!」"
+    },
+    {
+        "sentence": "[律子「]::あぅっ！　うっぐうぅうっ！　だ、だめっ……だめなのっ、ぅんんんんっ！！」",
+        "translation": "Ritsuko「Ư... Ư! Ư... Ư ư... Ư! Không, không được... Không được mà... Ưm... ư ư ư ư!!」"
+    },
+    {
+        "sentence": "[律子「]::あぁ、いやああ……み、見ないで……ああ……そんな目で……見ちゃいや……」",
+        "translation": "Ritsuko「Áaaaa... Đ-đừng nhìn... Áaaa... Đừng nhìn Cô bằng ánh mắt đó... Cô không muốn bị nhìn thế đâu...!」"
+    },
+    {
+        "sentence": "[律子「]::あぅ、うっ、くうっ……そ、それは……あっ、あなたがっ、動くっ、からっ……うっ、んんっ！　あぅんんっ！」",
+        "translation": "Ritsuko「Á... Ư... Khụ... C-chính là... A, vì... vì Em động đậy... ư... Ưm! Á... ưm!」"
+    },
+    {
+        "sentence": "[律子「]::あふっ、ふっああっ！　あ、ああぁぁんっ！！」",
+        "translation": "Ritsuko「Á... Ư... Ưaaaa! A... Aaaaaaann!」"
+    },
+    {
+        "sentence": "[律子「]::あっ、はあっ……だめっ！　だ、めっ！　ふあっ、あっはあっ！」",
+        "translation": "Ritsuko「Á... Hah... Không... không được! K-không được! Ph..Phụ... Á... Á... Hah!」"
+    },
+    {
+        "sentence": "[律子「]::く……やめてっ……やめ、なさいっ！」",
+        "translation": "Ritsuko「Ư... Dừng lại đi... Dừng lại ngay!」"
+    },
+    {
+        "sentence": "[律子「]::て、手を放してっ……ペニスを、ぬ、抜きなさいっ……」",
+        "translation": "Ritsuko「Bỏ tay Cô ra đi... Rút dương vật của Em ra đi...」"
+    },
+    {
+        "sentence": "[律子「]::はぁぐ……んっ、ううぅん……あぅ、うっ……揉まないで……」",
+        "translation": "Ritsuko「Hah... Ưm, ưuu... Á, ư... Đừng có xoa nắn Cô nữa...」"
+    },
+    {
+        "sentence": "[律子「]::や、ああん……だめ、あ……ち、乳首にっ、こ、こすらないでっ……あっ、くっ……胸、だめぇっ……」",
+        "translation": "Ritsuko「Á, aaaaannh... Không... không được, a... Nh-nhũ hoa của Cô, đ-đừng có chà xát vào đó... Á, c... Ngực, không được màaa...」"
+    },
+    {
+        "sentence": "[律子「]::んあっ！？　あっ……！」",
+        "translation": "Ritsuko「Áh! Á...！」"
+    },
+    {
+        "sentence": "[律子「]::あふっ！　あっああっ！　あはあああああっ……！！」",
+        "translation": "Ritsuko「Á... Ư... Áaaa! Áaaaaaaannn...!」"
+    },
+    {
+        "sentence": "[律子「]::あぅ、うっ……んぅうん……ふ、深いっ、あっ、ああっ！　ペ、ペニスが……私の奥ッ……う、ふっ……奥っ、までェェ……」",
+        "translation": "Ritsuko「Á, ư... Ừm ừm... S-sâu quá, á, áaa! D-dương vật... của Em... Em vào tận bên trong... sâu... thẳm... bên trong Cô rồi...」"
+    },
+    {
+        "sentence": "[律子「]::はあっ、あんっ、ああっ！　はんっ！　だめっ、ええっ……んっ！　んんっ！　こ、こすらないでっ……ペニスっ、だめぇっ！」",
+        "translation": "Ritsuko「Á... Ưm... Áaaa! Hah! Không... Không được... Ưm... Ưm ưm... Đ-đừng có chà xát... Dương vật... Không được màaa!」"
+    },
+    {
+        "sentence": "[律子「]::ひうっ、あぅうっ！　そ、んなにっ……あっ、んっ！　あ、アソコに……おくにっ、こすられっ、たらっ……アアッ！！」",
+        "translation": "Ritsuko「Ư... Á... Áaaa... Đ-đừng mạnh thế... Á... Ưm! Á... A... Ở cái chỗ đó... sâu bên trong... nếu bị cọ xát... áaaaa!!」"
+    },
+    {
+        "sentence": "[律子「]::あっ……あ……」",
+        "translation": "Ritsuko「Á... Á...」"
+    },
+    {
+        "sentence": "[律子「]::う、ウソッ……そ、そんなのイヤッ！　お願い、な、中には出さないでっ……出しちゃダメッ！」",
+        "translation": "Ritsuko「K-Không... Không thể nào... T-Tôi không muốn vậy! Làm ơn, e-Em đừng bắn vào bên trong... Không được bắn ra đâu!」"
+    },
+    {
+        "sentence": "[律子「]::や、あっ……はっ、あっ！　あっ！　な、中にっ、なんてっ！　だ、出されたらっ、あンッ、アッ！　わ、わたしっ！」",
+        "translation": "Ritsuko「Ư... Á... Hộc, á! Á! K-không, vào trong rồi, k-không thể nào! N-nếu mà bắn ra... Ư... Á! C-cô...!」"
+    },
+    {
+        "sentence": "[律子「]::そんなぁっ！　あっ！　ああっ！　だめっ、だめぇぇっ！！」",
+        "translation": "Ritsuko「Không thể nào...! A! Áaa! Không... Không được màaa!!」"
+    },
+    {
+        "sentence": "[律子「]::お、お願いっ！　抜いてっ！　抜いてってばっ！　いやああっ！」",
+        "translation": "Ritsuko「L-làm ơn đi mà! Rút ra đi! Rút ra đi mà! Không... Áaaa!」"
+    },
+    {
+        "sentence": "[律子「]::いやあっ、やあっ！　中はダメっ！　そ、外に出してッ……あんっ！　ああっ！　はぁっ！　あっああああっ！！」",
+        "translation": "Ritsuko「Kh-không... Khoan... Không được bắn vào trong! B-bắn ra ngoài đi... Ư... Áaa! Hộc... A a a a a!!」"
+    },
+    {
+        "sentence": "[律子「]::あぅあっ！　ああっ！　はっ！　あああーーーーっ……」",
+        "translation": "Ritsuko「Ư... Á! Aaa! Hộc! Aaaaaaa...！」"
+    },
+    {
+        "sentence": "[律子「]::んあっ、ああっ！　はあああああぁぁぁぁっ……」",
+        "translation": "Ritsuko「Ư... Á... Haaaaaaa...！」"
+    },
+    {
+        "sentence": "[律子「]::やああ、ああ……な、中に出てるッ……うっ、ううっ！　あ、熱いのが……中にっ……いっぱい、出てるぅぅ……」",
+        "translation": "Ritsuko「Ư... Aaa... K-không... Bắn vào trong rồi... Ư... Ư...! A... Cái nóng hổi... Bên trong... Bắn vào trong... nhiều quá...」"
+    },
+    {
+        "sentence": "[律子「]::んひっ！　いっ、ひぃっ！　あうっ、あっ！　だ、出さないでッ……えっ、あっ！　も、もう……出さないでぇぇっ……」",
+        "translation": "Ritsuko「Ư... Hức! Á... Hức! Ư... A! Ah! K-không, đừng bắn... Ư... A! Đ-đừng mà... Đừng bắn ra màaa...!」"
+    },
+    {
+        "sentence": "[律子「]::うううぅう……あ、アソコが……熱い……な、中が熱いぃぃぃ……」",
+        "translation": "Ritsuko「Ư... Ư... A, \"chỗ đó\"... Nóng quá... Bên trong... Nóng quá đi...」"
+    },
+    {
+        "sentence": "[律子「]::んあ……あああ……ん……」",
+        "translation": "Ritsuko「Ư... Aaaa... Ư...」"
+    },
+    {
+        "sentence": "[律子「]::あぁぁ……ぁぁ……な、何て事なの……」",
+        "translation": "Ritsuko「A... A... Chuyện... chuyện gì thế này...」"
+    },
+    {
+        "sentence": "[律子「]::えっ……」",
+        "translation": "Ritsuko「Hả...」"
+    },
+    {
+        "sentence": "[律子「]::ああっ……！！」",
+        "translation": "Ritsuko「Aaa...!!」"
+    },
+    {
+        "sentence": "[律子「]::い、今……何をしたの？」",
+        "translation": "Ritsuko「Ơ, Em... Em vừa làm cái gì vậy?」"
+    },
+    {
+        "sentence": "[律子「]::くっ……この卑怯者っ！」",
+        "translation": "Ritsuko「Khốn kiếp... Đồ hèn hạ!」"
+    },
+    {
+        "sentence": "[律子「]::うっ……そ、それは……」",
+        "translation": "Ritsuko「Ư... Đó... Đó là...」"
+    },
+    {
+        "sentence": "[律子「]::うぅ……ぅぅ……」",
+        "translation": "Ritsuko「Ư... Ư...」"
+    },
+    {
+        "sentence": "[律子「]::あなたが……こんな非道な人間だったなんて……」",
+        "translation": "Ritsuko「Em... Em không ngờ lại là một kẻ tàn nhẫn như vậy...」"
+    },
+    {
+        "sentence": "[律子「]::…………？」",
+        "translation": "Ritsuko「...?」"
+    },
+    {
+        "sentence": "[律子「]::あっ……ああっ……！」",
+        "translation": "Ritsuko「A... Aaa...!」"
+    },
+    {
+        "sentence": "[律子「]::うっ……く……」",
+        "translation": "Ritsuko「Ưm... Ưc...」"
+    },
+    {
+        "sentence": "[律子「]::くっ……べ、別に私は……」",
+        "translation": "Ritsuko「Ưc... Kh-không, cô không có...」"
+    },
+    {
+        "sentence": "[律子「]::……！　や、やめなさいっ！　こんな所でそんな話……」",
+        "translation": "Ritsuko「... ! Đ-Đừng có làm vậy ! Nói chuyện đó ở đây ư...」"
+    },
+    {
+        "sentence": "[律子「]::う……うぅ……」",
+        "translation": "Ritsuko「Ưm... ư...」"
+    },
+    {
+        "sentence": "[律子「]::……な、何か私に用があるの？」",
+        "translation": "Ritsuko「...Em có chuyện gì muốn nói với cô sao?」"
+    },
+    {
+        "sentence": "[律子「]::なっ……！」",
+        "translation": "Ritsuko「Hả... !」"
+    },
+    {
+        "sentence": "[律子「]::バ、バカな事言わないでッ！　誰がそんな事……」",
+        "translation": "Ritsuko「Đ-Đừng có nói mấy lời ngu ngốc đó! Ai lại làm thế...」"
+    },
+    {
+        "sentence": "[律子「]::や、やめて……やめてっ……」",
+        "translation": "Ritsuko「K-Khoan đã... Dừng lại đi...」"
+    },
+    {
+        "sentence": "[律子「]::やめてって……くっ、うっ……」",
+        "translation": "Ritsuko「K-Khoan đã... Dừng lại đi... Ư...」"
+    },
+    {
+        "sentence": "[律子「]::こ、のっ……やめなさいって言ってるでしょっ！」",
+        "translation": "Ritsuko「K-Khoan đã... Cô đã bảo dừng lại rồi mà!」"
+    },
+    {
+        "sentence": "[律子「]::大人をからかうのもいい加減にしなさいっ！」",
+        "translation": "Ritsuko「Thôi ngay cái trò trêu chọc người lớn đi!」"
+    },
+    {
+        "sentence": "[律子「]::はぁ、はぁ……あなた、私がこのまま黙って泣き寝入り……」",
+        "translation": "Ritsuko「Hộc... hộc... Em... Em định để tôi cứ thế câm lặng chịu đựng sao...?」"
+    },
+    {
+        "sentence": "[律子「]::あっ……」",
+        "translation": "Ritsuko「A...」"
+    },
+    {
+        "sentence": "[律子「]::う、うっ……それ……は……」",
+        "translation": "Ritsuko「Ư... Ư... Cái đó... là...」"
+    },
+    {
+        "sentence": "[律子「]::や、やめて……そんなの……」",
+        "translation": "Ritsuko「Khoan đã... Đừng có... Đừng làm vậy...」"
+    },
+    {
+        "sentence": "[律子「]::ひ、酷い……よくも、そんな……」",
+        "translation": "Ritsuko「T-Thật tồi tệ... Sao em có thể...」"
+    },
+    {
+        "sentence": "[律子「]::お願い……やめて……も、もう言わないで……」",
+        "translation": "Ritsuko「Làm ơn... Dừng lại đi... Đừng nói nữa...」"
+    },
+    {
+        "sentence": "[律子「]::……ね、ねえ」",
+        "translation": "Ritsuko「...Này... Này...」"
+    },
+    {
+        "sentence": "[律子「]::……私に何の用なの？」",
+        "translation": "Ritsuko「...Em có việc gì với tôi sao?」"
+    },
+    {
+        "sentence": "[律子「]::…………え？」",
+        "translation": "Ritsuko「...Hả?」"
+    },
+    {
+        "sentence": "[律子「]::……な、なに？」",
+        "translation": "Ritsuko「...C-Cái gì?」"
+    },
+    {
+        "sentence": "[律子「]::なに……どこを見てるの？」",
+        "translation": "Ritsuko「Gì vậy... Em đang nhìn đi đâu thế?」"
+    },
+    {
+        "sentence": "[律子「]::いや……そ、そんなに見ないで……」",
+        "translation": "Ritsuko「Không... Đừng... đừng nhìn tôi như vậy...」"
+    },
+    {
+        "sentence": "[律子「]::ちょ、ちょっと……三沢……」",
+        "translation": "Ritsuko「Khoan, khoan đã... Takuya...」"
+    },
+    {
+        "sentence": "[律子「]::え……？」",
+        "translation": "Ritsuko「Ơ... Sao cơ?」"
+    },
+    {
+        "sentence": "[律子「]::はあ…………」",
+        "translation": "Ritsuko「Haa......」"
+    },
+    {
+        "sentence": "[律子「]::え、ええ……そうよ」",
+        "translation": "Ritsuko「Ờ, ừm... Đúng vậy mà.」"
+    },
+    {
+        "sentence": "[律子「]::え、えっ……私が……」",
+        "translation": "Ritsuko「Ơ, ơ... Tôi...」"
+    },
+    {
+        "sentence": "[律子「]::はい、男子はクロールをもう２本。１年の女子はそれが終わってから、平泳ぎのタイムを計るわよ」",
+        "translation": "Ritsuko「Được rồi, các bạn nam bơi thêm hai vòng nữa. Các bạn nữ năm nhất sau khi xong phần của mình thì sẽ đo thời gian bơi ếch nhé.」"
+    },
+    {
+        "sentence": "[律子「]::はい、男子は一旦、プールから上がって。女子のあとでタイムを計るから、第４コースで身体を慣らしておきなさい」",
+        "translation": "Ritsuko「Được rồi, các bạn nam tạm thời lên bờ trước đi. Cô sẽ đo thời gian của các bạn nữ sau, nên các em hãy làm quen với cơ thể ở làn số 4 nhé.」"
+    },
+    {
+        "sentence": "[律子「]::それじゃあ、始めるわよ。用意はいいわね」",
+        "translation": "Ritsuko「Được rồi, chúng ta bắt đầu nhé. Mọi người chuẩn bị sẵn sàng chưa?」"
+    },
+    {
+        "sentence": "[律子「]::それじゃ、坂村君。合図をお願いね」",
+        "translation": "Ritsuko「Vậy nhé, Sakamura-kun. Em hãy ra hiệu cho mọi người nhé.」"
+    },
+    {
+        "sentence": "[律子「]::あ、あら、ごめんなさい……ちょっと考えごとをしてたから」",
+        "translation": "Ritsuko「Ơ, ôi, xin lỗi em……Cô đang mải suy nghĩ một chút thôi.」"
+    },
+    {
+        "sentence": "[律子「]::い、いえ。なんでもないわ」",
+        "translation": "Ritsuko「Kh-không có gì đâu.」"
+    },
+    {
+        "sentence": "[律子「]::……で、何かしら？」",
+        "translation": "Ritsuko「...Vậy, chuyện gì?」"
+    },
+    {
+        "sentence": "[律子「]::ああ……そうだったわね」",
+        "translation": "Ritsuko「À... Đúng vậy nhỉ.」"
+    },
+    {
+        "sentence": "[律子「]::え……何が？」",
+        "translation": "Ritsuko「Ể... Chuyện gì vậy em?」"
+    },
+    {
+        "sentence": "[律子「]::う、ううん。そんな事ないわ……先生は元気よ」",
+        "translation": "Ritsuko「Không, không có chuyện gì đâu... Cô vẫn khỏe mà.」"
+    },
+    {
+        "sentence": "[律子「]::中田、ペースを落とし過ぎ！　あと３分の１、頑張ってっ！」",
+        "translation": "Ritsuko「Nakata, em chậm quá rồi đó! Chỉ còn 1/3 nữa thôi, cố lên em!」"
+    },
+    {
+        "sentence": "[律子「]::はい、ラスト１００メートル！」",
+        "translation": "Ritsuko「Được rồi, 100 mét cuối cùng!」"
+    },
+    {
+        "sentence": "[律子「]::はい、お疲れ様」",
+        "translation": "Ritsuko「Được rồi, làm việc tốt lắm em.」"
+    },
+    {
+        "sentence": "[律子「]::１０分休憩したら、すぐに次の練習に入るわよ」",
+        "translation": "Ritsuko「Sau 10 phút nghỉ ngơi, chúng ta sẽ bắt đầu buổi tập tiếp theo ngay nhé.」"
+    },
+    {
+        "sentence": "[律子「]::つべこべ言わないの。来月の大会まで、もう時間が無いのよ」",
+        "translation": "Ritsuko「Đừng có cằn nhằn nữa. Thời gian đến giải đấu tháng tới không còn nhiều đâu.」"
+    },
+    {
+        "sentence": "[律子「]::はあ……」",
+        "translation": "Ritsuko「Haah……」"
+    },
+    {
+        "sentence": "[律子「]::ね、ねえ。坂村君」",
+        "translation": "Ritsuko「Này, này. Sakamura-kun」"
+    },
+    {
+        "sentence": "[律子「]::悪いんだけど、私はこれであがるから、後はお願いしてもいいかしら？」",
+        "translation": "Ritsuko「Xin lỗi, Cô xin phép về trước nhé, còn lại nhờ Em cả được không?」"
+    },
+    {
+        "sentence": "[律子「]::ごめんね。ちょっと体調がよくないのよ」",
+        "translation": "Ritsuko「Xin lỗi Em. Cô đang hơi không khỏe.」"
+    },
+    {
+        "sentence": "[律子「]::べ、別にそんな大した事じゃないんだけどね。でも、無理して身体を壊したら、余計にみんなに迷惑をかけちゃうから」",
+        "translation": "Ritsuko「Cũng không hẳn là chuyện gì to tát lắm đâu. Nhưng nếu Cô cố quá mà làm bản thân kiệt sức thì sẽ còn gây thêm phiền phức cho mọi người nữa.」"
+    },
+    {
+        "sentence": "[律子「]::ありがとう」",
+        "translation": "Ritsuko「Cảm ơn Em.」"
+    },
+    {
+        "sentence": "[律子「]::はあぁぁ……」",
+        "translation": "Ritsuko「Haa…」"
+    },
+    {
+        "sentence": "[律子「]::ダメね……こんな事じゃ。全然練習に身が入らなかったわ……」",
+        "translation": "Ritsuko「Không ổn rồi... cứ như thế này. Mình chẳng thể nào tập trung vào luyện tập được...」"
+    },
+    {
+        "sentence": "[律子「]::みんな頑張ってるのに、顧問の私がもっとしっかりしないと……」",
+        "translation": "Ritsuko「Mọi người đều đang cố gắng hết sức, vậy mà mình là cố vấn lại không thể vững vàng hơn nữa...」"
+    },
+    {
+        "sentence": "[律子「]::ん…………」",
+        "translation": "Ritsuko「Ừm……」"
+    },
+    {
+        "sentence": "[律子「]::私の身体……いったい、どうしちゃったのかしら……」",
+        "translation": "Ritsuko「Cơ thể mình... rốt cuộc đã xảy ra chuyện gì vậy nhỉ...」"
+    },
+    {
+        "sentence": "[律子「]::生理でもないのに、ずっと胸が張ったままだし……なんだか、苦しいような熱いような、変な感じがして……」",
+        "translation": "Ritsuko「Không phải ngày đèn đỏ mà ngực mình cứ căng lên mãi... có cảm giác gì đó vừa đau vừa nóng, thật kỳ lạ...」"
+    },
+    {
+        "sentence": "[律子「]::はぁ……これって、あの事があってからだけど……」",
+        "translation": "Ritsuko「Haah…… Chuyện này... là kể từ sau chuyện đó rồi, nhưng mà……」"
+    },
+    {
+        "sentence": "[律子「]::……病院に行った方がいいのかしら」",
+        "translation": "Ritsuko「...Mình có nên đi bệnh viện không nhỉ?」"
+    },
+    {
+        "sentence": "[律子「]::こんな所に呼び出して……いったい、私に何の用？」",
+        "translation": "Ritsuko「Gọi tôi đến một nơi như thế này... Rốt cuộc thì, em có việc gì với tôi vậy?」"
+    },
+    {
+        "sentence": "[律子「]::クッ……」",
+        "translation": "Ritsuko「Hức...」"
+    },
+    {
+        "sentence": "[律子「]::それで……今日は何をするつもり？」",
+        "translation": "Ritsuko「Vậy thì... hôm nay em định làm gì?」"
+    },
+    {
+        "sentence": "[律子「]::べ、別にそういう意味で言ったんじゃないわ」",
+        "translation": "Ritsuko「Đ、Đâu có phải tôi nói vậy theo cái nghĩa đó đâu.」"
+    },
+    {
+        "sentence": "[律子「]::も、もうっ！　分かってるクセにからかわないでッ！」",
+        "translation": "Ritsuko「Tr-thật là... Đừng có trêu tôi nữa khi em biết rõ rồi mà!」"
+    },
+    {
+        "sentence": "[律子「]::えっ……？」",
+        "translation": "Ritsuko「Hả... ư?」"
+    },
+    {
+        "sentence": "[律子「]::……何よこれ？」",
+        "translation": "Ritsuko「……Cái gì đây?」"
+    },
+    {
+        "sentence": "[律子「]::……これをどうしろって言うの？」",
+        "translation": "Ritsuko「...Em bảo tôi phải làm gì với thứ này?」"
+    },
+    {
+        "sentence": "[律子「]::……な、なんで着替えないといけないのよ？」",
+        "translation": "Ritsuko「...Sao, sao tôi lại phải thay đồ chứ?」"
+    },
+    {
+        "sentence": "[律子「]::う、くっ……」",
+        "translation": "Ritsuko「Ư, hức...」"
+    },
+    {
+        "sentence": "[律子「]::分かったわよ。着替えればいいんでしょっ！」",
+        "translation": "Ritsuko「Tôi hiểu rồi. Em muốn tôi thay đồ chứ gì!」"
+    },
+    {
+        "sentence": "[律子「]::ま、待ちなさいよ……まだ、ちょっと待って……」",
+        "translation": "Ritsuko「Khoan đã nào... Chờ tôi thêm chút nữa...」"
+    },
+    {
+        "sentence": "[律子「]::あっ……！？」",
+        "translation": "Ritsuko「Á...!?」"
+    },
+    {
+        "sentence": "[律子「]::くっ……」",
+        "translation": "Ritsuko「Khụ...」"
+    },
+    {
+        "sentence": "[律子「]::う……ジロジロ見ないでよ……」",
+        "translation": "Ritsuko「Ư... Đừng có nhìn chằm chằm như vậy chứ...」"
+    },
+    {
+        "sentence": "[律子「]::い、いやよ……お願いだから、そんな目で見ないで……」",
+        "translation": "Ritsuko「K-Không... Làm ơn, đừng nhìn tôi bằng ánh mắt đó...」"
+    },
+    {
+        "sentence": "[律子「]::やっ……あ……」",
+        "translation": "Ritsuko「Ặc... Á...」"
+    },
+    {
+        "sentence": "[律子「]::こんな格好をさせて……また、私を犯すつもりなのね？」",
+        "translation": "Ritsuko「Bắt tôi ăn mặc thế này... Lại định cưỡng hiếp tôi nữa sao?」"
+    },
+    {
+        "sentence": "[律子「]::ま、待ってっ！」",
+        "translation": "Ritsuko「Kho-Khoan đã!»"
+    },
+    {
+        "sentence": "[律子「]::一つだけ、あなたにお願いがあるの」",
+        "translation": "Ritsuko「Chỉ có một chuyện tôi muốn nhờ em thôi.」"
+    },
+    {
+        "sentence": "[律子「]::これを……使って欲しいの」",
+        "translation": "Ritsuko「Tôi...muốn em dùng cái này」"
+    },
+    {
+        "sentence": "[律子「]::はい」",
+        "translation": "Ritsuko「Vâng.»"
+    },
+    {
+        "sentence": "[律子「]::そ、そうよ」",
+        "translation": "Ritsuko「V-Vâng, đúng vậy.」"
+    },
+    {
+        "sentence": "[律子「]::あなた……セックス、したいんでしょ？　じゃあ、ちゃんとそれを付けて避妊をしてちょうだい」",
+        "translation": "Ritsuko「Em... muốn làm tình với tôi, phải không? Nếu vậy thì làm ơn, hãy dùng cái đó để tránh thai cho tôi.»"
+    },
+    {
+        "sentence": "[律子「]::ち、違うわ。そういう訳じゃないけど……」",
+        "translation": "Ritsuko「K-Không phải vậy. Không hẳn là thế nhưng...」"
+    },
+    {
+        "sentence": "[律子「]::ただ……最悪の事態は避けたいだけ……それに教師として、学生に正しい認識を持たせる必要があるから……」",
+        "translation": "Ritsuko「Chỉ là... tôi chỉ muốn tránh tình huống tồi tệ nhất thôi... Với lại, với tư cách là giáo viên, tôi cần phải giúp học sinh có nhận thức đúng đắn...」"
+    },
+    {
+        "sentence": "[律子「]::真面目に聞いてちょうだい！　これはあなたにとっても、重要な問題なのよっ！」",
+        "translation": "Ritsuko「Nghiêm túc nghe tôi nói này! Đây là vấn đề quan trọng đối với cả em nữa đấy!」"
+    },
+    {
+        "sentence": "[律子「]::……えっ？」",
+        "translation": "Ritsuko「……Hả?」"
+    },
+    {
+        "sentence": "[律子「]::そ、そう……分かってくれたのならいいんだけど……」",
+        "translation": "Ritsuko「V-Vậy sao... Tốt quá nếu em hiểu ra rồi thì...」"
+    },
+    {
+        "sentence": "[律子「]::はっ……」",
+        "translation": "Ritsuko「Hự...」"
+    },
+    {
+        "sentence": "[律子「]::分かったわ……」",
+        "translation": "Ritsuko「Tôi đã hiểu...」"
+    },
+    {
+        "sentence": "[律子「]::あ……な、なに……それは……」",
+        "translation": "Ritsuko「A... Gì... đó là cái gì vậy...」"
+    },
+    {
+        "sentence": "[律子「]::くっ、うぅう……ぅぅぅ……」",
+        "translation": "Ritsuko「Ư... Ư... Ư...」"
+    },
+    {
+        "sentence": "[律子「]::あう……はうぅぅ……」",
+        "translation": "Ritsuko「A... ha... ư...」"
+    },
+    {
+        "sentence": "[律子「]::こ、こんな……縛るなんて……何をする気なの……？」",
+        "translation": "Ritsuko「K-Không thể nào... Trói tôi lại... Em định làm gì...?」"
+    },
+    {
+        "sentence": "[律子「]::あ……あぁぁ……いやぁっ……」",
+        "translation": "Ritsuko「A... á... ư... không...」"
+    },
+    {
+        "sentence": "[律子「]::くうっ……」",
+        "translation": "Ritsuko「Ư...」"
+    },
+    {
+        "sentence": "[律子「]::うっ、くぅ……あまり、見ないで……」",
+        "translation": "Ritsuko「Ư, ư... Đừng nhìn tôi... nhiều như vậy...」"
+    },
+    {
+        "sentence": "[律子「]::あぅう……それは、あなたがさせたから……あっ……」",
+        "translation": "Ritsuko「Ư... Ưm... Đó là vì Em đã bắt tôi... Ách...!」"
+    },
+    {
+        "sentence": "[律子「]::ああぁ……いや…………」",
+        "translation": "Ritsuko「Á... không...」"
+    },
+    {
+        "sentence": "[律子「]::うぅ……み、見ないでって……言ってるのに……」",
+        "translation": "Ritsuko「Ư... Ưm... Tôi đã bảo đừng nhìn mà...」"
+    },
+    {
+        "sentence": "[律子「]::も、もりまんって……な、なによそれ……」",
+        "translation": "Ritsuko「C-cái gì mà Moriman... Gì thế...」"
+    },
+    {
+        "sentence": "[律子「]::くっ……うぅ……バカにして……」",
+        "translation": "Ritsuko「Ư... Ưm... Thật là đáng ghét... Em đang chế giễu tôi phải không...」"
+    },
+    {
+        "sentence": "[律子「]::し、知らないわ、そんな事っ……」",
+        "translation": "Ritsuko「T-Tôi không biết gì hết, mấy chuyện đó...」"
+    },
+    {
+        "sentence": "[律子「]::ああ……や、やめて……」",
+        "translation": "Ritsuko「A... ưm, đừng mà...」"
+    },
+    {
+        "sentence": "[律子「]::う、うう……そんな訳ないでしょ……やめてよ……下品な事、言わないで……」",
+        "translation": "Ritsuko「Ư... Ưm... Đâu... Đâu có chuyện đó chứ... Đừng mà... Xin Em đừng nói mấy chuyện hạ lưu đó...」"
+    },
+    {
+        "sentence": "[律子「]::ああぁっ……」",
+        "translation": "Ritsuko「Aaa...」"
+    },
+    {
+        "sentence": "[律子「]::やぁ……えっ？　な、なに？」",
+        "translation": "Ritsuko「Ơ... hả? G-gì vậy?」"
+    },
+    {
+        "sentence": "[律子「]::な、何なのよ、これは……？」",
+        "translation": "Ritsuko「C-Cái... Cái quái gì thế này...?」"
+    },
+    {
+        "sentence": "[律子「]::そんな事は分かってるわ……何をする気か聞いてるの」",
+        "translation": "Ritsuko「Tôi biết chứ... Tôi hỏi Em định làm gì cơ mà.」"
+    },
+    {
+        "sentence": "[律子「]::……え？」",
+        "translation": "Ritsuko「...Hả?」"
+    },
+    {
+        "sentence": "[律子「]::……っ！　ちょ、ちょっと待ちなさいよっ！」",
+        "translation": "Ritsuko「...ư! Ch-Chờ một chút đã nào!」"
+    },
+    {
+        "sentence": "[律子「]::ああぁぁーーーーっ！！」",
+        "translation": "Ritsuko「Aaa... Áaaaaaa!!」"
+    },
+    {
+        "sentence": "[律子「]::い、痛いわ、何するのっ……や、やめてっ！　すぐに外してっ！」",
+        "translation": "Ritsuko「Đ-Đau quá, Em đang làm gì vậy... D-Dừng lại đi! Mau tháo nó ra!」"
+    },
+    {
+        "sentence": "[律子「]::あぁっ！　い、痛いっ！　痛いってばっ！！」",
+        "translation": "Ritsuko「Áaaa! Đ-Đau quá! Đau đó!!」"
+    },
+    {
+        "sentence": "[律子「]::バ、バカッ！　引っ張らないでッ！　やあっ！　痛い、痛いーーっ！！」",
+        "translation": "Ritsuko「Đ-Đồ ngốc! Đừng kéo nữa! Á! Đau, đau quá!!」"
+    },
+    {
+        "sentence": "[律子「]::あう、くっ……ああっ、なっ、何がよっ……」",
+        "translation": "Ritsuko「Ư ư... ưm... Áaaa, g-gì chứ...?」"
+    },
+    {
+        "sentence": "[律子「]::う、うぅ……酷い……ひ、酷すぎるわ……どうしてこんな事をするの……？」",
+        "translation": "Ritsuko「Ư... ưm... Tàn nhẫn quá... quá tàn nhẫn rồi... Tại sao lại làm chuyện này... ưm...?」"
+    },
+    {
+        "sentence": "[律子「]::くっ……な、何て変質的なの……」",
+        "translation": "Ritsuko「Ưm... Thật biến thái quá đi...」"
+    },
+    {
+        "sentence": "[律子「]::あなた、狂ってるわ……おかしいっ、どうかしてるわよっ！」",
+        "translation": "Ritsuko「Em điên rồi... Thật không bình thường! Em bị làm sao thế hả!」"
+    },
+    {
+        "sentence": "[律子「]::こ、今度は何をするつもり？」",
+        "translation": "Ritsuko「L-Lần này em định làm gì?」"
+    },
+    {
+        "sentence": "[律子「]::そ、そんな……ま、まさかそれでっ！？」",
+        "translation": "Ritsuko「K-Không thể nào... Đ-Đừng nói là vì... chuyện đó nhé!?」"
+    },
+    {
+        "sentence": "[律子「]::あぁっ、あああぁっ……」",
+        "translation": "Ritsuko「Aaaaah, Aaaaaah...」"
+    },
+    {
+        "sentence": "[律子「]::いぃ、やっ……あぅ、クッ……」",
+        "translation": "Ritsuko「Ưm, a... Á, ưm...」"
+    },
+    {
+        "sentence": "[律子「]::あ、ぅう……いやぁ……ダメッ……や、やめてぇ……」",
+        "translation": "Ritsuko「Aaa... Không... Không được... Đừng... Đừng làm thế mà...」"
+    },
+    {
+        "sentence": "[律子「]::うぅ、い、痛いわよ……クッ、アッ……んんっ、あぅン……」",
+        "translation": "Ritsuko「Ưm... Đ-Đau quá... Khụ, Á... Ưm... Á...」"
+    },
+    {
+        "sentence": "[律子「]::ひぁっ、あっ……ふぅっ、ハァ……」",
+        "translation": "Ritsuko「H-Híc, Á... Phù... Ha...」"
+    },
+    {
+        "sentence": "[律子「]::いやぁ……も、もうやめて……そんな事しないでッ……」",
+        "translation": "Ritsuko「Khoan đã... Đ-Đừng làm thế nữa... Đừng có làm vậy mà...」"
+    },
+    {
+        "sentence": "[律子「]::アッ！　い、やっ……クッ、うぅ……あ、んぅあ……」",
+        "translation": "Ritsuko「Á! Kh-Khoan đã... Khụ, ưm... A, ưm...」"
+    },
+    {
+        "sentence": "[律子「]::はあぅう……あ……い、いやよ……やめて……胸、もう、いじらないで……」",
+        "translation": "Ritsuko「Haa... a... Ưm, không... Đừng mà... Đừng có nghịch ngợm ngực Tôi nữa...」"
+    },
+    {
+        "sentence": "[律子「]::うぅ……クッ……う……」",
+        "translation": "Ritsuko「Ưm... Khụ... Ưm...」"
+    },
+    {
+        "sentence": "[律子「]::そ、そんな事……お願いだから、もうやめて……」",
+        "translation": "Ritsuko「T-Thứ như vậy... Làm ơn, đừng làm nữa mà...」"
+    },
+    {
+        "sentence": "[律子「]::……な、何をしているの？」",
+        "translation": "Ritsuko「... Em, em đang làm gì vậy?」"
+    },
+    {
+        "sentence": "[律子「]::ねぇ、それ……な、何をしているのよっ！　一体何をするつもりなの？！」",
+        "translation": "Ritsuko「Này, cái đó... Em, em đang làm gì vậy hả! Rốt cuộc em định làm gì?!」"
+    },
+    {
+        "sentence": "[律子「]::裂ける、って……」",
+        "translation": "Ritsuko「Bị... bị rách, ý Em là sao?」"
+    },
+    {
+        "sentence": "[律子「]::そ、そんな……まさかっ！？」",
+        "translation": "Ritsuko「K-Không thể nào... Chuyện này... không thể nào là thật... được!」"
+    },
+    {
+        "sentence": "[律子「]::やめてっ、もう変な事しないでっ！　お、お願いっ！　いやぁっ、やめてぇっ！」",
+        "translation": "Ritsuko「Dừng lại đi, đừng có làm mấy chuyện kỳ quái nữa! T-Tôi cầu xin Em đó! Aaaah, dừng lại đi!」"
+    },
+    {
+        "sentence": "[律子「]::あぐっ！　んぐ、ぐぅうううっ！！」",
+        "translation": "Ritsuko「Á... Ứ, ực ực ực!!」"
+    },
+    {
+        "sentence": "[律子「]::い、いやあ……お尻に入ってくるッ……うぐっ、うっ！　か、硬いのが入ってくるゥゥッ……！！」",
+        "translation": "Ritsuko「A-Aaaah... Có gì đó đang vào hậu môn của tôi... Ực, ực! M-Một vật cứng đang xâm nhập vào đâyyyy...!」"
+    },
+    {
+        "sentence": "[律子「]::いやぁっ、あっ……ぐぅっ！　そ、そんなに奥までッ……いっ、入れないでッ！！」",
+        "translation": "Ritsuko「Aaaah, ực! S-Sao Em lại cho nó vào sâu đến vậy... K-Không, đừng làm vậy mà!!」"
+    },
+    {
+        "sentence": "[律子「]::あぅう……い、いやよっ……ンッ、ンゥゥッ！　だめっ、お、お尻の奥っ、掻き回さないで……あぅっ、あゥゥゥッ！！」",
+        "translation": "Ritsuko「Áaaaah... K-Không... Ưm, ừm! Đừng, đừng có khuấy động sâu bên trong hậu môn của Tôi! Áaaaah, áaaaaaah!!」"
+    },
+    {
+        "sentence": "[律子「]::ンッ、アンゥッ！　お、お尻の穴が……あぐっ、ウウッ！　え、抉られてるッ……はうっ！　あふぅうんっ！！」",
+        "translation": "Ritsuko「Ưm, ưmmm! H-Hậu môn của tôi... Á... Ưeee! Nó đang bị... bị xẻo raaa...! Áaaaah! Áaaaaaah!!」"
+    },
+    {
+        "sentence": "[律子「]::ぐぅっ……ち、違うわっ……あくぅっ、うふぅっ！　そんなんじゃ……あぁっ、ないのにぃっ……」",
+        "translation": "Ritsuko「Ư... ư... Không... Không phải vậy... Á... Ư! Không phải... Ah... Không phải như thế này...」"
+    },
+    {
+        "sentence": "[律子「]::んはァッ、ハァァッ……あンッ！　アァンンッ！！」",
+        "translation": "Ritsuko「Nnn haaa, haaa... Ahhh! Aaaahn!!」"
+    },
+    {
+        "sentence": "[律子「]::す、すごいっ……お尻の穴がっ、アン、アンゥゥッ！　熱いっ……アッ、アァッ……お尻が熱いのォォッ！！」",
+        "translation": "Ritsuko「T-Tuyệt quá... Hậu môn của tôi... Ân, ân ứ! N-Nóng quá... Á, áaa... Hậu môn nóng quá đi mất!!」"
+    },
+    {
+        "sentence": "[律子「]::あふぅっ、ンッ、ンンゥ……いやぁ、やっ、やだ……またぁ……」",
+        "translation": "Ritsuko「Áaaaah, ưm, ưm... Không, không... Lại nữa rồi...」"
+    },
+    {
+        "sentence": "[律子「]::そんな……はぅぅ……ふ、噴きたく、なんか……ないのに……んンンッ……」",
+        "translation": "Ritsuko「Không... Áaaa... T-Tôi không muốn... phun ra... Ưm, ưm!!」"
+    },
+    {
+        "sentence": "[律子「]::あっ、あぁっ、ダメッ、ダメェェッ！　ンッ、オ、オッパイが……はっ、はあっ！　破裂、しちゃうゥッ！！」",
+        "translation": "Ritsuko「Á, áaa, không, không mà! Ưm, ngực, ngực của Tôi... Hộc, hộc! Sắp, nổ tung mất thôi!!」\n"
+    },
+    {
+        "sentence": "[律子「]::ダメッ、出るゥッ！　アッ！　アァッ！！　出ちゃうッ！　アァアッ……出るのっ、出ちゃうゥゥッ！！」",
+        "translation": "Ritsuko「Không! Sắp ra rồi! Á! Áaa!! Ra mất rồi! Áaa... Sắp ra rồi, ra mất rồi!!」"
+    },
+    {
+        "sentence": "[律子「]::あぁッ！　ハアアアアァァァーーーーッ……！！」",
+        "translation": "Ritsuko「Áaaah! Haaaahhh....!!」"
+    },
+    {
+        "sentence": "[律子「]::そんな、ああっ……で、出ちゃったッ……出ちゃったぁ……」",
+        "translation": "Ritsuko「Không... Áaa... Đã... đã ra rồi... đã ra rồi mà...」"
+    },
+    {
+        "sentence": "[律子「]::わ、私……オッパイから、こんな、いっぱい……ミルク、噴いちゃった……あっ、あぁ……はぁぁぁぁ……」",
+        "translation": "Ritsuko「A, Tôi... từ ngực, lại ra nhiều... sữa... phun ra rồi... á, aaaa... haaaa....」"
+    },
+    {
+        "sentence": "[律子「]::あぁ……ぁぁ……はぁ……は…………」",
+        "translation": "Ritsuko「Áaa.... Áaaa.... Ha.... Ha............」"
+    },
+    {
+        "sentence": "[律子「]::あぅっ！　んっ……ふぅぅぅぅ…………」",
+        "translation": "Ritsuko「Áaa! Ưm... Fuuuu...........」"
+    },
+    {
+        "sentence": "[律子「]::はぁ……はぁ……」",
+        "translation": "Ritsuko「Khụ... Khụ...」"
+    },
+    {
+        "sentence": "[律子「]::あぅ、うっ……あぁっ……」",
+        "translation": "Ritsuko「Ưm... Ư... Áaa...」"
+    },
+    {
+        "sentence": "[律子「]::いぎっ！？　いっ、あっ！　あうううっ！？　うぁあああああっ！」",
+        "translation": "Ritsuko「Ưm!? Ư... Áaa... Aaaa....!」"
+    },
+    {
+        "sentence": "[律子「]::ち、違うっ！　そ、そこ違うっ！　違うわよーーっ！！」",
+        "translation": "Ritsuko「K-Không đúng! Chỗ đó sai rồi! Không đúng đâuーー!!」"
+    },
+    {
+        "sentence": "[律子「]::んぎぃっ、んぁおっ！　ダ、ダメッ！　い、入れないでッ！　お、お尻ッ……お尻の穴がっ、裂けちゃうっ！！」",
+        "translation": "Ritsuko「Ưng... Ư á! K-Không! Đừng vào! Mông... Hậu môn của tôi sắp rách ra rồi!!」"
+    },
+    {
+        "sentence": "[律子「]::ンウゥゥッ！　お、お尻に……入るッ！　か、硬いのがっ、アッ！　い、いやっ……抜いてッ！　抜いてェェッ！」",
+        "translation": "Ritsuko「Ư ư ư... Ở, ở mông tôi... vào rồi! Cái, cái gì đó cứng quá, a! K, không... Rút ra đi! Rút ra đi!!」\n"
+    },
+    {
+        "sentence": "[律子「]::はぅっ！！　うっ、ううっ！　あうぅーーーーっ……！！」",
+        "translation": "Ritsuko「Hức! U... ư... Ưuuuuu...!」"
+    },
+    {
+        "sentence": "[律子「]::うううっ、あぁうっ！　んぁ、んんううっ！！」",
+        "translation": "Ritsuko「Ưm... Ư... Áaa... ưm, ư ưm...!!」"
+    },
+    {
+        "sentence": "[律子「]::そんなっ、あぁぁ……お、お尻にペニスを……入れられちゃう、なんてッ……」",
+        "translation": "Ritsuko「K-Không thể nào, á... a... dương vật vào, vào mông tôi... chuyện đó...」"
+    },
+    {
+        "sentence": "[律子「]::いやぁ……そ、そんな事を言わないでっ……やめてッ……は、早く抜いてよっ……お願いだから……」",
+        "translation": "Ritsuko「Không... Đừng nói vậy mà... Dừng lại đi... Nhanh rút ra đi... Làm ơn đi...」"
+    },
+    {
+        "sentence": "[律子「]::くうっ、うっ、ううっ！　あぅ……ううゥゥゥッ……！！」",
+        "translation": "Ritsuko「K-Kuuu... Ư... Ưu! Aww... Ưuuuuuu...!」"
+    },
+    {
+        "sentence": "[律子「]::苦しいっ……うぅっ、ふっ！　く、苦しいわっ……おぅ、んんんっ！　つ、突かないでッ……動いちゃダメェッ……」",
+        "translation": "Ritsuko「Đau quá... Ư... Phụt! Đ-Đau quá đi... Ứm, ưm! Đ-Đừng đâm vào nữa! Đừng động đậy nữa mà!」"
+    },
+    {
+        "sentence": "[律子「]::ん、うっ、ううん……苦しい、のっ、あふっ！　ふ、太いのがっ……お、お尻の穴っ……突いてっ、ええっ……」",
+        "translation": "Ritsuko「Ưm, ư... ư ư... Khó chịu quá, ư... Á... Ư... Cái thứ to lớn... Ở... ở lỗ mông... Đâm vào... Aaa...」"
+    },
+    {
+        "sentence": "[律子「]::あぅ、ンゥ、ンンッ！　も、もうダメッ……あぐっ、うっ！　お尻っ……突いちゃダメッ……止めてェェッ……」",
+        "translation": "Ritsuko「Aa... Ư... Ư ư...!! Không, không chịu được nữa rồi... Á... Ư...!! Hậu môn... Đừng đâm vào đó... Dừng lại đi mà...!!」"
+    },
+    {
+        "sentence": "[律子「]::ちぃ、違うわっ……そんなんじゃっ、ああっ！　ひぃいっ！！」",
+        "translation": "Ritsuko「K-Không phải... Không phải thế... Aaa! Hiii!!」"
+    },
+    {
+        "sentence": "[律子「]::うふぅっ……んっおぁぁっ……いぃ、いやっ……お尻の奥が……うぐっ、ううぅっ……苦しい、わっ……んんぁはぁ……」",
+        "translation": "Ritsuko「Ư... Ưm... Aaa... Kh-Không... Không được... Sâu trong hậu môn... Ư... Ư... Đau quá... Ư... Ư...」"
+    },
+    {
+        "sentence": "[律子「]::あっ、ああっ！　は、はげしい……くっ、ふっ！　そ、そんなにっ……ズンズンッ、つ、突かれたらッ……ああっ！！」",
+        "translation": "Ritsuko「A... Aaa! M-Mạnh quá... Khự... Phựt! K-Không thể nào... Cứ đ-đâm mạnh như vậy... Aaa!!」"
+    },
+    {
+        "sentence": "[律子「]::あはぁっ、ひっ、いいっ！　はげし、過ぎるゥッ！　ンッ、んあっ！　アッ！　あぅああッ！！」",
+        "translation": "Ritsuko「Ah... Ahh, ư... thích quá! Mạnh... mạnh quá rồi! Ư... ư ớ! Ah! A... Aaaa!!」"
+    },
+    {
+        "sentence": "[律子「]::えっ、うっ、うそっ！？　膨らんでるッ……アッ、アァッ！　お尻の中で、ペニスが、おっきくなってるゥッ……！！」",
+        "translation": "Ritsuko「Hả, ư, không thể nào!? Nó đang phình to ra... A... Aaa! Bên trong hậu môn, dương vật đang, đang to lên...!!」"
+    },
+    {
+        "sentence": "[律子「]::あ、ンンッ！　だ、出す、つもりなのっ……んんっ、ぅうんっ！　お尻でっ、はぁんっ！　射精、しちゃうのっ！？」",
+        "translation": "Ritsuko「A, ư ư! Đ-Định bắn vào đây sao... Ư ư, ư ư! Ở hậu môn... haaa! Tôi, tôi bắn mất...!?」"
+    },
+    {
+        "sentence": "[律子「]::んぅうあああーーーーーーっ！！」",
+        "translation": "Ritsuko「Ư... U... AAAAAAAAAAAAAAAA!!」"
+    },
+    {
+        "sentence": "[律子「]::あぁ、あっああ……で、出てるッ……んんんっ！　お、お尻の穴でッ、ペニスが、あっ、ビクビク、してるゥッ……」",
+        "translation": "Ritsuko「A... Aaa... Ư ư, ra rồi... Ư ư ư! Ở, ở trong lỗ đít... dương vật, a, đang giật giật...」"
+    },
+    {
+        "sentence": "[律子「]::うぅっ、ん、うぅう…………」",
+        "translation": "Ritsuko「Ư... ư... ư ư...」"
+    },
+    {
+        "sentence": "[律子「]::ひ、酷いわ……うぅ、くぅ……お尻を、お、犯すなんて……こんなの、酷すぎるわ……」",
+        "translation": "Ritsuko「Khốn nạn thật... Ư... Khụ... Dám, dám chịch vào hậu môn của Tôi... Chuyện này, quá đáng lắm rồi...」"
+    },
+    {
+        "sentence": "[律子「]::そ、そんな……濡れてない……私、濡れてなんかいないぃ……」",
+        "translation": "Ritsuko「Đ-Đâu có... Không có ướt... Tôi, tôi không có ướt gì hết...」"
+    },
+    {
+        "sentence": "[律子「]::えっ、ええっ……？」",
+        "translation": "Ritsuko「Hả, Hả?......」"
+    },
+    {
+        "sentence": "[律子「]::や……いや……なっ……何をするつもりっ？」",
+        "translation": "Ritsuko「K-Không... Không... Ư... Em định làm gì vậy?」"
+    },
+    {
+        "sentence": "[律子「]::ひぃっ……い、いやっ！　いやぁぁぁっ……」",
+        "translation": "Ritsuko「Hức... K-Không! Khônggggg...」"
+    },
+    {
+        "sentence": "[律子「]::や、やあ……生温かいのが、お、お尻にかかって……あ、ああぅ……中にっ、な、流れてくる……ひっ、ひぃぃ……」",
+        "translation": "Ritsuko「Chào... cái thứ ấm ấm, nó đang dính vào, vào mông Tôi... A, aaaaa... Trong đó, đang, đang chảy vào... Hức, híc híc...」"
+    },
+    {
+        "sentence": "[律子「]::酷いわ……ど、どうしてそんな事……ひっ、いぃ……気持ち悪いっ……あぅ、ぅうぅぅ……」",
+        "translation": "Ritsuko「Khốn nạn quá... T-Tại sao lại làm thế... Hức, ưm... Ghê quá... Aaaaa...」"
+    },
+    {
+        "sentence": "[律子「]::違うぅ……私、淫乱なんかじゃない……違うわぁ……淫乱じゃないっ……！」",
+        "translation": "Ritsuko「Không phải đâu... Tôi không có dâm đãng... Không phải đâu... Tôi không dâm đãng!」"
+    },
+    {
+        "sentence": "[律子「]::ええっ！？　ま、待ってっ！！」",
+        "translation": "Ritsuko「Hả!? K-Khoan đã!!」"
+    },
+    {
+        "sentence": "[律子「]::あはぁああっ……！　いやっ……やっあああっ……ダメッ、入れちゃダメ……あふっ、んんぅんっ、ああんんーーーっ……」",
+        "translation": "Ritsuko「Aaaaaaahh... Không... Khôngggg... Đừng... Đừng có cho vào... Afu... Nnngh... Aaaannnn-----...」"
+    },
+    {
+        "sentence": "[律子「]::ダ、ダメよ……す、すぐに抜いてッ！　あ、ダメッ……な、生でするなんてェッ……」",
+        "translation": "Ritsuko「K-Không... Không... R-Rút ra ngay đi! A, không... Không được... Làm vậy mà không dùng biện pháp...」"
+    },
+    {
+        "sentence": "[律子「]::ふ、ふざけないでッ……生はダメッ！　早く抜いてぇえっ！」",
+        "translation": "Ritsuko「Đ-Đừng có đùa nữa! Làm vậy mà không dùng biện pháp thì không được! Nhanh lên rút ra đi!」"
+    },
+    {
+        "sentence": "[律子「]::んああっ！　あっああああーーーっ！！」",
+        "translation": "Ritsuko「Ng, Ngôôô! Aaaaaaaaaaaaaa!!」"
+    },
+    {
+        "sentence": "[律子「]::いぃやぁぁ……な、生で入ってる……私の中にっ……ペニスが、生で……刺さってるゥゥ……」",
+        "translation": "Ritsuko「K-Khônggg... Nó đang... đang đi vào bên trong... bên trong tôi này... Dương vật, nó đang... đang đâm vào trong tôi này!」"
+    },
+    {
+        "sentence": "[律子「]::う、うぅう……そんなぁ……あっ、うっ……イヤなのにっ……こんな、無理矢理されて……イヤなのにぃぃ……」",
+        "translation": "Ritsuko「Ư, ưuuu... Không... Không thể nào... Á, ư... Tôi không muốn... Bị ép buộc như thế này... Tôi không muốn màaaaa...」"
+    },
+    {
+        "sentence": "[律子「]::あぅっ、うっああっ！　はうっ、んんっ！　あふぅんんっ！」",
+        "translation": "Ritsuko「Auuuu... Ư... Aaaah! HAU! Nnngh! Afuuunnn!」"
+    },
+    {
+        "sentence": "[律子「]::えっ……そ、そんなぁっ、あぅっ！　い、いやよぉっ……はぁっ、ンンッ、ああっ……」",
+        "translation": "Ritsuko「Hả... K-Không thể nào... Ưh! T-Tôi không muốn mà... Haah, Nnngh, Aahh...」"
+    },
+    {
+        "sentence": "[律子「]::ほ、んとうに……は、入ってクルッ！　あ、ンッ、ペニスと、一緒に……ハァ、アッ、生温かいのがっ、入るぅっ……」",
+        "translation": "Ritsuko「Th-Thật sự... Đã vào rồi ư! A, ừm, cùng với dương vật... Haah, á, thứ ấm ấm đó... đã vào rồi...」"
+    },
+    {
+        "sentence": "[律子「]::あひっ！　ひぃあはあああっ！　あ、アソコに、こすれてっ……硬いっ、ああっ！　太いのぉっ！」",
+        "translation": "Ritsuko「Á! Ưh... Aaaaaaa! A, nó cọ vào chỗ đó rồi... Cứng quá, aahh! Dài quá đi!」"
+    },
+    {
+        "sentence": "[律子「]::んぅんっ、あっんンッ！　いやっ、あっ……硬いの、こすれるッ！　すごくっ……ハァッ！　こすれてっ、ハァァッ！！」",
+        "translation": "Ritsuko「Ngnh, áh, Nnngh! Kh-Không... áh... Sao nó lại cứng thế này, cọ xát vào đây... Thật quá... Haa! Nó cọ xát vào đây, Haaaa!!」"
+    },
+    {
+        "sentence": "[律子「]::あンッ！　あぁんんっ！　はんっ、あぁンッ！　あふぅんっ！　はぁああんっ！！」",
+        "translation": "Ritsuko「Áh! Áaaaannn! Hnn, áaaannn! Afuuun! Haaaaan!!」"
+    },
+    {
+        "sentence": "[律子「]::えっ、そんな……私、そんな事っ、してないっ……あっ、ああっ……だめぇえっ……！」",
+        "translation": "Ritsuko「Hả... Sao lại vậy... T-Tôi, tôi không có làm... Á, Aahh... Không được màaa...!」"
+    },
+    {
+        "sentence": "[律子「]::や、あっ……ち、違うぅっ！　そんなっ……か、身体が、勝手に……動いちゃうッ！　あっ、どうしてッ……いやああっ！」",
+        "translation": "Ritsuko「A, á... K-Không phải! Sao lại... T-Tôi không kiểm soát được cơ thể mình...! Á, sao lại thế này... Kh-Khônggg!」"
+    },
+    {
+        "sentence": "[律子「]::か、感じてないっ……あぁ、か、感じちゃ、いけないのにっ……あふっ、んっふうっ！　はぁっ、ああっ……！！」",
+        "translation": "Ritsuko「T-Tôi không cảm thấy gì hết... A, t-tôi không được cảm thấy gì mà... Afu, nnnfuu! Haa, aahh...!」"
+    },
+    {
+        "sentence": "[律子「]::あっ、ああぁんっ！　ど、どうしてっ……はンッ、んんっ！　感じちゃ、ダメなのにっ！　あん、あぁンッ、はぁンンッ！」",
+        "translation": "Ritsuko「Á... Áaaaannn! T-Tại sao... Hnn, Nnn! Tôi không được phép cảm thấy gì mà...! Án, Áaaannn, Haaaaannn!」"
+    },
+    {
+        "sentence": "[律子「]::はぁ、アアッ！　ダ、メェッ！　あンッ、はァンッ！」",
+        "translation": "Ritsuko「Haa, Aahh! K-Khônggg! Án, haan!」"
+    },
+    {
+        "sentence": "[律子「]::つ、突かないでェッ！　そ、そんなに、突かれたらッ！　わたし、ひっ、いっ！　わたっ、しぃぃぃっ……！！」",
+        "translation": "Ritsuko「Đ-Đừng có thúc mạnh như vậyyy! T-Nếu bị thúc mạnh thế nàyyy! T-T-Tôi... Tôi sẽ...!!!」"
+    },
+    {
+        "sentence": "[律子「]::ダ、ダメってばっ！　ひぁっ！　あっ！　な、中はダメッ！　んっ、あんんっ！　中は、何度も、は、あんっ！　ダメ、だってッ！」",
+        "translation": "Ritsuko「K-Khônggg! Hiaah! Á! K-Không được vào trong! Nnn, Annn! Vào trong, nhiều lần, á, Án! Khônggg, em đã nói rồi mà!」"
+    },
+    {
+        "sentence": "[律子「]::ひぃいっ！　いやぁあっ！　あぐっ！　あっふぅんんっ！！」",
+        "translation": "Ritsuko「Hiiih! Khoan đaaa! Ách! Á... Fffuuunnn!!」"
+    },
+    {
+        "sentence": "[律子「]::あひぃあっ、ひゃっ、あっ！　ペニスが、アッ！　あっ……また、膨らんでッ！　あンッ！　はぁんああっ……」",
+        "translation": "Ritsuko「Á... Ái! Hyah! Á! Dương vật, Á! Á... Lại, lại cương lên rồi! Án! Haaann áahh...!」"
+    },
+    {
+        "sentence": "[律子「]::あああっ！　んあっ！　あっはあああぁぁぁーーーーっ！！」",
+        "translation": "Ritsuko「Áaaaannh! Nn áa! Áaahaaaaaaa————!!」"
+    },
+    {
+        "sentence": "[律子「]::ひい、やあっ！　入って、クルッ！　あ、熱いのッ！　せ、精液がっ……お腹の、中っ！　は、入ってくるゥゥゥッ！！」",
+        "translation": "Ritsuko「Hii, Yaah! Đâm đi, xoay đi! Á, nóng quá! T-Tinh dịch... Vào trong bụng em! Nó đang chui vào trongy!!!」"
+    },
+    {
+        "sentence": "[律子「]::いやぁ、やっあああっ！　な、流し込まないでッ！　精液っ、子宮に、注がないでェーーッ！」",
+        "translation": "Ritsuko「Khoan đã, aaaaa! Đ-Đừng có đổ vào trongyyy! Tinh dịchyyy, đừng có rót vào tử cung của tôi nữaaaa—!!」"
+    },
+    {
+        "sentence": "[律子「]::はぁ……ひぃ、ひ、ひどいぃ……そ、そんなっ……またっ、中で……だ、出すなんて……あ、あぁぁぁ……」",
+        "translation": "Ritsuko「Haaah… Hii, H-Hai quá đi mất… K-Không thể nào… Lại… bắn vào trong… Đ-Định xuất tinh vào trong… Á, áaaaaa…」"
+    },
+    {
+        "sentence": "[律子「]::はぁ……あぁ……ぁぁぁ…………」",
+        "translation": "Ritsuko「Haaah… Aaaah… Aaaaaa…………」"
+    },
+    {
+        "sentence": "[律子「]::うぅ……くぅ……ぐす、えぅ…………」",
+        "translation": "Ritsuko「Ư… Hức… Nức, a…」"
+    },
+    {
+        "sentence": "[律子「]::あ、あんなに、酷い事して……あんまりだわ……えぐ、うっ……あぅっ、ううあぁぁぁっ……」",
+        "translation": "Ritsuko「Á... đã làm những chuyện kinh khủng đến vậy... thật quá đáng mà... *khụ*... hức... Áu... uuuáaaaaa————!!」"
+    },
+    {
+        "sentence": "[律子「]::ひぅっ、あぅう……えぅっ、うっ、ぐすっ、うぅう……」",
+        "translation": "Ritsuko「Hức, áu… Ư, ư, nức, ừm…」"
+    },
+    {
+        "sentence": "[律子「]::うぅ……ひぐっ、うっ……そんな、事……あぅううう……」",
+        "translation": "Ritsuko「Ư… Hức… Ư… Chuyện… như vậy… Áuuu…」"
+    },
+    {
+        "sentence": "[律子「]::あぁ……そ、そんなぁ……うぐ、うぅ……ま、まだこんな事……続ける、つもり……？」",
+        "translation": "Ritsuko「A… Không… Không thể nào… Ư… Ư… Tôi… vẫn còn… định… tiếp tục… chuyện này sao…?」"
+    },
+    {
+        "sentence": "[律子「]::ここで何をしているの？」",
+        "translation": "Ritsuko「Em đang làm gì ở đây vậy?」"
+    },
+    {
+        "sentence": "[律子「]::答えなさい。ここで何をしているの？」",
+        "translation": "Ritsuko「Trả lời tôi. Em đang làm gì ở đây?」"
+    },
+    {
+        "sentence": "[律子「]::何をニヤニヤしているのよ」",
+        "translation": "Ritsuko「Em đang tủm tỉm cái gì đấy?」"
+    },
+    {
+        "sentence": "[律子「]::ふざけないでっ！　私の質問に答えなさいっ！」",
+        "translation": "Ritsuko「Đừng có giỡn mặt! Trả lời câu hỏi của tôi ngay!」"
+    },
+    {
+        "sentence": "[律子「]::……あ、当たり前でしょ！　あんな事されて、機嫌がいいとでも思ってるのっ！？」",
+        "translation": "Ritsuko「...À, đương nhiên rồi! Bị em đối xử như thế, tôi còn tâm trạng tốt cho được chắc!?」"
+    },
+    {
+        "sentence": "[律子「]::くっ……うっ……」",
+        "translation": "Ritsuko「Kh... Ư...」"
+    },
+    {
+        "sentence": "[律子「]::ふぅ……はぁ……付き合ってられないわね」",
+        "translation": "Ritsuko「Phù... Hà... Tôi không thể chịu đựng được nữa rồi.」"
+    },
+    {
+        "sentence": "[律子「]::そ、そんな事より……あなた、今プールに行こうとしてたわね」",
+        "translation": "Ritsuko「T-Thôi bỏ chuyện đó đi... Em định đi bơi hả?」"
+    },
+    {
+        "sentence": "[律子「]::プールに行って一体何をするつもりだったの？」",
+        "translation": "Ritsuko「Đi đến hồ bơi thì em định làm cái gì chứ?」"
+    },
+    {
+        "sentence": "[律子「]::……本当にそれだけ？」",
+        "translation": "Ritsuko「...Thật sự chỉ có vậy thôi sao?」"
+    },
+    {
+        "sentence": "[律子「]::原因？」",
+        "translation": "Ritsuko「Nguyên nhân?」"
+    },
+    {
+        "sentence": "[律子「]::……？　意味が分からないわ」",
+        "translation": "Ritsuko「......? Tôi không hiểu em đang nói gì.」"
+    },
+    {
+        "sentence": "[律子「]::なっ……」",
+        "translation": "Ritsuko「... Cái gì...?」"
+    },
+    {
+        "sentence": "[律子「]::バカな事言わないでっ！　他の男子学生は、あなたみたいにイヤらしい人間じゃないわっ！！」",
+        "translation": "Ritsuko「Đừng có nói ngu ngốc như thế! Những nam sinh khác không ai biến thái như em đâu!!」"
+    },
+    {
+        "sentence": "[律子「]::な、何よっ！　何がおかしいの！？」",
+        "translation": "Ritsuko「C... Cái gì chứ! Có gì buồn cười chứ!?」"
+    },
+    {
+        "sentence": "[律子「]::え……何の事よ？」",
+        "translation": "Ritsuko「E... Em đang nói cái gì vậy...?」"
+    },
+    {
+        "sentence": "[律子「]::……異常って？」",
+        "translation": "Ritsuko「...Bất thường... là sao em?」"
+    },
+    {
+        "sentence": "[律子「]::そ、それは……入部を考えてるからじゃないの？」",
+        "translation": "Ritsuko「C... Chẳng phải... chẳng phải vì em đang cân nhắc việc vào câu lạc bộ sao?」"
+    },
+    {
+        "sentence": "[律子「]::そ、そんな……」",
+        "translation": "Ritsuko「K... Không thể nào...」"
+    },
+    {
+        "sentence": "[律子「]::ち、違うわ……そんな事……」",
+        "translation": "Ritsuko「K... Không phải... Không có chuyện đó...」"
+    },
+    {
+        "sentence": "[律子「]::や、やめてっ！　もうたくさんだわっ！！」",
+        "translation": "Ritsuko「K... Khoan đã! Đủ rồi mà!!」"
+    },
+    {
+        "sentence": "[律子「]::う、うるさいわね！　仮に……あなたの言ってる事が、そうだとしても……」",
+        "translation": "Ritsuko「Ư, ồn ào quá đấy! Giả sử... Giả sử những gì em nói là thật đi nữa thì...」"
+    },
+    {
+        "sentence": "[律子「]::あ、あなたみたいに、何でもかんでも卑猥な方向に考える人より、よっぽどマシだわっ！！」",
+        "translation": "Ritsuko「À, tôi thấy tốt hơn nhiều so với những người lúc nào cũng nghĩ mọi thứ theo hướng dâm dục như em đấy!!」"
+    },
+    {
+        "sentence": "[律子「]::くっ……あなたって人はっ！！」",
+        "translation": "Ritsuko「Kh... Em đúng là...!!」"
+    },
+    {
+        "sentence": "[律子「]::……何よ？」",
+        "translation": "Ritsuko「...Gì vậy?」"
+    },
+    {
+        "sentence": "[律子「]::お、大きなお世話よっ！！」",
+        "translation": "Ritsuko「Ôi, lo chuyện bao đồng quá đấy!!」"
+    },
+    {
+        "sentence": "[律子「]::……あっ」",
+        "translation": "Ritsuko「……Á!」"
+    },
+    {
+        "sentence": "[律子「]::……っ！」",
+        "translation": "Ritsuko「……Ách!」"
+    },
+    {
+        "sentence": "[律子「]::何の用？　ここはあなたのような人間が来る場所じゃないわ」",
+        "translation": "Ritsuko「Cần gì? Nơi này không phải là chỗ dành cho người như Em đâu.」"
+    },
+    {
+        "sentence": "[律子「]::どうせ、私をからかいにでも来たんでしょ？」",
+        "translation": "Ritsuko「Dù sao thì, Em cũng đến đây để trêu chọc tôi thôi, đúng không?」"
+    },
+    {
+        "sentence": "[律子「]::あいにく、私はあなたと下らない話をするほど暇じゃないの」",
+        "translation": "Ritsuko「Rất tiếc, tôi không có thời gian rảnh để nói chuyện nhảm nhí với Em đâu.」"
+    },
+    {
+        "sentence": "[律子「]::さっ、分かったら、早くここから出て行ってちょうだい」",
+        "translation": "Ritsuko「Nào, đã hiểu thì Em mau đi khỏi đây cho tôi.」"
+    },
+    {
+        "sentence": "[律子「]::もう一度言わないと分からない？」",
+        "translation": "Ritsuko「Em không hiểu nếu tôi không nói lại sao?」"
+    },
+    {
+        "sentence": "[律子「]::フンッ、よく言うわね」",
+        "translation": "Ritsuko「Hừ, nói hay lắm.」"
+    },
+    {
+        "sentence": "[律子「]::ええ、その通りよ。私はあなたを学生だなんて思ってないから」",
+        "translation": "Ritsuko「Ừm, đúng vậy. Tôi không nghĩ em là học sinh đâu.」"
+    },
+    {
+        "sentence": "[律子「]::……それって、どういう意味よ？」",
+        "translation": "Ritsuko「......Ý em là gì vậy?」"
+    },
+    {
+        "sentence": "[律子「]::なっ、何を言うのっ！？　二回とも、あなたが無理矢理、押し倒したんじゃないのっ！！」",
+        "translation": "Ritsuko「Á... Em nói cái gì vậy hả!? Cả hai lần đều là do em dùng vũ lực, đẩy tôi ngã xuống chứ bộ!!」"
+    },
+    {
+        "sentence": "[律子「]::う……や、やめなさいっ……それ以上、言わないでっ……」",
+        "translation": "Ritsuko「Ư... Này, đừng... Đừng nói thêm nữa...」"
+    },
+    {
+        "sentence": "[律子「]::やめてって言ってるでしょっ……うぅ……」",
+        "translation": "Ritsuko「Tôi đã bảo dừng lại rồi mà... ư...」"
+    },
+    {
+        "sentence": "[律子「]::くぅ……」",
+        "translation": "Ritsuko「Ư...」"
+    },
+    {
+        "sentence": "[律子「]::もう……やめましょう。こんな場所で、そんな話をするのは……」",
+        "translation": "Ritsuko「Đủ rồi... Chúng ta dừng lại đi. Nói chuyện như vậy ở một nơi như thế này thì...」"
+    },
+    {
+        "sentence": "[律子「]::とにかく、今日のところは帰って。別に私に用がある訳じゃないんでしょう？」",
+        "translation": "Ritsuko「Dù sao thì, hôm nay em về đi. Đằng nào thì em cũng có việc gì đâu mà đến tìm tôi, đúng không?」"
+    },
+    {
+        "sentence": "[律子「]::ねえ、大会が近いの……みんな、貴重な時間を使って、練習をしているのよ」",
+        "translation": "Ritsuko「Này, giải đấu sắp đến rồi đó... Mọi người đều đang dành thời gian quý báu của mình để tập luyện đấy.」"
+    },
+    {
+        "sentence": "[律子「]::あなたがそこにいると、私も集中出来ないし、部員のみんなも気が散ってしまうでしょう？」",
+        "translation": "Ritsuko「Nếu em cứ ở đó, tôi cũng không thể tập trung được, và tất cả các thành viên cũng sẽ bị phân tâm phải không?」"
+    },
+    {
+        "sentence": "[律子「]::くっ……クッ……！」",
+        "translation": "Ritsuko「Ư... Ư...!」"
+    },
+    {
+        "sentence": "[律子「]::いい加減にしなさいっ！　さっさと出て行ってっ！！」",
+        "translation": "Ritsuko「Đủ rồi đó! Cút ra ngoài ngay đi!!」"
+    },
+    {
+        "sentence": "[律子「]::ええ、お願いするわ。二度とその汚い足で、私のプールに踏み込まないでちょうだい」",
+        "translation": "Ritsuko「Ừm, tôi cầu xin em đấy. Đừng có dùng đôi chân bẩn thỉu đó bước vào hồ bơi của tôi lần nào nữa.」"
+    },
+    {
+        "sentence": "[律子「]::聞こえなかった？　汚い足をプールの外に出してって言ってるの」",
+        "translation": "Ritsuko「Em không nghe thấy sao? Tôi đang bảo em nhấc đôi chân bẩn thỉu đó ra khỏi hồ bơi mà.」"
+    },
+    {
+        "sentence": "[律子「]::ふ、ふんっ……」",
+        "translation": "Ritsuko「Phù, phùn……」"
+    },
+    {
+        "sentence": "[律子「]::あっ……！」",
+        "translation": "Ritsuko「Á...！」\n"
+    },
+    {
+        "sentence": "[律子「]::ここで何をしているの？　もう授業が始まるわ、早く教室に戻りなさい」",
+        "translation": "Ritsuko「Sao em lại đứng đây vậy? Sắp vào tiết học rồi, mau về lớp đi em.」"
+    },
+    {
+        "sentence": "[律子「]::用？　私はあなたに用なんてないわ」",
+        "translation": "Ritsuko「Có việc gì sao? Tôi không có việc gì với em cả.」"
+    },
+    {
+        "sentence": "[律子「]::こ、こらっ！　何をするのっ！？」",
+        "translation": "Ritsuko「C, Cậu làm gì vậy hả! Đừng có làm thế chứ!」"
+    },
+    {
+        "sentence": "[律子「]::トイレなんかに……どういうつもりなの？」",
+        "translation": "Ritsuko「Ở cái nhà vệ sinh này thì... em định làm cái trò gì vậy hả?」"
+    },
+    {
+        "sentence": "[律子「]::……渡すって？」",
+        "translation": "Ritsuko「...Đưa cho tôi á?」"
+    },
+    {
+        "sentence": "[律子「]::えっ、ちょっと……」",
+        "translation": "Ritsuko「Hả, đợi đã...」"
+    },
+    {
+        "sentence": "[律子「]::……これは何の冗談？」",
+        "translation": "Ritsuko「...Đây là trò đùa gì vậy?」"
+    },
+    {
+        "sentence": "[律子「]::ふ、ふざけるのもいい加減にしなさいっ！　こんな物渡して、私にどうしろっていうのっ！？」",
+        "translation": "Ritsuko「C-Cậu đừng có đùa nữa! Cậu đưa thứ này cho tôi thì muốn tôi phải làm gì chứ!?」"
+    },
+    {
+        "sentence": "[律子「]::馬鹿げた事を……」",
+        "translation": "Ritsuko「Thật là một chuyện nực cười...」"
+    },
+    {
+        "sentence": "[律子「]::馬鹿にしないでっ！　そんな事出来る訳ないでしょっ！」",
+        "translation": "Ritsuko「Đừng có xem thường tôi! Sao tôi có thể làm mấy chuyện như vậy được chứ!」"
+    },
+    {
+        "sentence": "[律子「]::な、何よ……」",
+        "translation": "Ritsuko「C-Cái gì vậy...?」"
+    },
+    {
+        "sentence": "[律子「]::勘違いですって？　何を言ってるのよっ？！」",
+        "translation": "Ritsuko「Hiểu lầm ư? Em đang nói cái gì vậy?!」"
+    },
+    {
+        "sentence": "[律子「]::どういう……意味よ？」",
+        "translation": "Ritsuko「Ý... ý em là gì?」"
+    },
+    {
+        "sentence": "[律子「]::……そ、それは…………」",
+        "translation": "Ritsuko「......C-Cái đó là........」"
+    },
+    {
+        "sentence": "[律子「]::う…………」",
+        "translation": "Ritsuko「Ư...」"
+    },
+    {
+        "sentence": "[律子「]::まっ、待ってっ！！」",
+        "translation": "Ritsuko「Kho-Khoan đã!!」"
+    },
+    {
+        "sentence": "[律子「]::待ってよ……別に私は……」",
+        "translation": "Ritsuko「Khoan đã...... Thật ra tôi không có......」"
+    },
+    {
+        "sentence": "[律子「]::くっ…………」",
+        "translation": "Ritsuko「Khụ...」"
+    },
+    {
+        "sentence": "[律子「]::分かったわよ。言う事を聞けばいいんでしょ」",
+        "translation": "Ritsuko「Tôi hiểu rồi. Chỉ cần nghe lời là được, đúng không?」"
+    },
+    {
+        "sentence": "[律子「]::え、ええ……」",
+        "translation": "Ritsuko「Ờ, ừm...」"
+    },
+    {
+        "sentence": "[律子「]::ん……」",
+        "translation": "Ritsuko「Ưm……」"
+    },
+    {
+        "sentence": "[律子「]::わ、分かってるわよ……ん……」",
+        "translation": "Ritsuko「T-Tôi biết rồi mà……ưm……」"
+    },
+    {
+        "sentence": "[律子「]::あぅ……クッ……いや……ぅぅ……」",
+        "translation": "Ritsuko「A... Nức... Không... Ư...」"
+    },
+    {
+        "sentence": "[律子「]::終わったわ……はぁ……」",
+        "translation": "Ritsuko「Xong rồi…… Haa……」"
+    },
+    {
+        "sentence": "[律子「]::な、何もそこまで……」",
+        "translation": "Ritsuko「Đ-Đâu cần đến mức đó chớ……」"
+    },
+    {
+        "sentence": "[律子「]::う……くっ…………」",
+        "translation": "Ritsuko「Ư... Nức...」"
+    },
+    {
+        "sentence": "[律子「]::ハイ、みんな席に着きなさい」",
+        "translation": "Ritsuko「Nào, mọi người vào chỗ ngồi đi.」"
+    },
+    {
+        "sentence": "[律子「]::それじゃあ、授業を始めます……」",
+        "translation": "Ritsuko「Vậy thì, cô bắt đầu buổi học đây……」"
+    },
+    {
+        "sentence": "[律子「]::まずは教科書の７４ページから……」",
+        "translation": "Ritsuko「Trước hết, chúng ta bắt đầu với trang 74 của sách giáo khoa...」"
+    },
+    {
+        "sentence": "[律子「]::じゃ、出席番号７番の人。７４ページの例文を頭から読んで」",
+        "translation": "Ritsuko「Vậy thì, người có số báo danh 7. Hãy đọc đoạn ví dụ từ đầu đến cuối trang 74 đi.」"
+    },
+    {
+        "sentence": "[律子「]::あ、あっ……」",
+        "translation": "Ritsuko「À, ừm……」"
+    },
+    {
+        "sentence": "[律子「]::そ、そうだったわね」",
+        "translation": "Ritsuko「Ờ, đúng vậy nhỉ.」"
+    },
+    {
+        "sentence": "[律子「]::ごめんなさい。それじゃあ、７８ページから読んでいって」",
+        "translation": "Ritsuko「Xin lỗi em. Vậy thì, hãy đọc tiếp từ trang 78 nhé.」"
+    },
+    {
+        "sentence": "[律子「]::はぁ……」",
+        "translation": "Ritsuko「Hừm……」"
+    },
+    {
+        "sentence": "[律子「]::あっ……ごめんなさい、もういいわ」",
+        "translation": "Ritsuko「...Ách... xin lỗi, không cần nữa đâu.」"
+    },
+    {
+        "sentence": "[律子「]::そ、それじゃあ、今からポイントを抑えていくから、みんな、しっかり聞いてちょうだいね……」",
+        "translation": "Ritsuko「Th-thế thì, bây giờ cô sẽ đi vào những điểm chính, mọi người, hãy chú ý lắng nghe cho cô nhé……」"
+    },
+    {
+        "sentence": "[律子「]::えっ、そうだったかしら……」",
+        "translation": "Ritsuko「Ể, có hả... cô không nhớ nữa...」"
+    },
+    {
+        "sentence": "[律子「]::え、ええっ……？」",
+        "translation": "Ritsuko「E, eeeeeee...!?」\n"
+    },
+    {
+        "sentence": "[律子「]::ああ……」",
+        "translation": "Ritsuko「A...」"
+    },
+    {
+        "sentence": "[律子「]::あぁっ……！」",
+        "translation": "Ritsuko「A...！」"
+    },
+    {
+        "sentence": "[律子「]::あ……く……うぅ……」",
+        "translation": "Ritsuko「A... Ư... ư...」"
+    },
+    {
+        "sentence": "[律子「]::だ、大丈夫。何でもないわ」",
+        "translation": "Ritsuko「::Không, không sao. Không có gì đâu.」"
+    },
+    {
+        "sentence": "[律子「]::はっ……ゥ……」",
+        "translation": "Ritsuko「Hức... ư...」"
+    },
+    {
+        "sentence": "[律子「]::く……こ、の……」",
+        "translation": "Ritsuko「K... khô...ốn...」"
+    },
+    {
+        "sentence": "[律子「]::……ご、ごめんなさい。授業を続けるわよ」",
+        "translation": "Ritsuko「……Cô, cô xin lỗi. Chúng ta tiếp tục bài giảng nào.」"
+    },
+    {
+        "sentence": "[律子「]::ｉｎ　ｔｈｅ　ｅｎｄ……これは、結局という意味だから……くっ、ン……」",
+        "translation": "Ritsuko「...rốt cuộc... câu này có nghĩa là 'cuối cùng' đó... khụ, ừm……」"
+    },
+    {
+        "sentence": "[律子「]::次の文……ｈｅ　ｗａｓ　ｌａｔｅ　ｆｏｒ　ｓｃｈｏｏｌは……ぁっ……ぅ……」",
+        "translation": "Ritsuko「Câu tiếp theo... 'he was late for school' có nghĩa là... á... ưm……」"
+    },
+    {
+        "sentence": "[律子「]::あぅっ……クッ！　ウッ……！！」",
+        "translation": "Ritsuko「Á... ú! Khụ! Ưm...!!」"
+    },
+    {
+        "sentence": "[律子「]::く…………」",
+        "translation": "Ritsuko「Cứ...」"
+    },
+    {
+        "sentence": "[律子「]::う……それでは、次の問題……Ｔｏｍ　ｗａｓ　ｌａｔｅ……ゥッ……ｆｏｒ　ｓｈｏｏｌ……これに続く、文章は……ァッ……」",
+        "translation": "Ritsuko「Ư... Vậy thì, câu tiếp theo... 'Tom was late... ú... for school...' Phần tiếp theo của câu này là... Á...」"
+    },
+    {
+        "sentence": "[律子「]::この場合、ｈｅ　ｗｅｎｔ　ｂａｃｋ……ぁっ……ふ……」",
+        "translation": "Ritsuko「Trong trường hợp này, 'he went back'... Á... Hức...」"
+    },
+    {
+        "sentence": "[律子「]::く……ぁぁ……んっ……」",
+        "translation": "Ritsuko「Ư... Áaaaa... Hự...」"
+    },
+    {
+        "sentence": "[律子「]::え……また、長文に行きます……ふ、ふぁっ……Ｆｉｖｅ　ｙｅａｒｓ　ａｇｏ……ン……」",
+        "translation": "Ritsuko「Ư... Lại là một câu dài nữa... Phù, phù á... Năm năm trước... Ư...」"
+    },
+    {
+        "sentence": "[律子「]::み、みんな……静かに、しなさい」",
+        "translation": "Ritsuko「M-Mọi người... Yên lặng nào.」"
+    },
+    {
+        "sentence": "[律子「]::い、いいから、授業を続け……あっ、んっ、はっ……」",
+        "translation": "Ritsuko「K-Không sao đâu, tiếp tục giờ học đi... Á, ân, hự...」"
+    },
+    {
+        "sentence": "[律子「]::ん、うぅん……はっ、はぁっ……」",
+        "translation": "Ritsuko「Ưm, ưm... Hức, hức...」"
+    },
+    {
+        "sentence": "[律子「]::ん……だ、大丈夫、よ……」",
+        "translation": "Ritsuko「Ư... Không, cô không sao, em đừng lo...」"
+    },
+    {
+        "sentence": "[律子「]::んっ……はぁ……くっ……ン…………」",
+        "translation": "Ritsuko「Ưm... Ha... Khụ... Ưm...」"
+    },
+    {
+        "sentence": "[律子「]::大丈夫……んンッ……ほんとう、に……大丈夫なのよ……」",
+        "translation": "Ritsuko「Ổn mà... Ưm... Thật, thật sự... cô ổn mà...」"
+    },
+    {
+        "sentence": "[律子「]::はぁ……そ、そうだ……」",
+        "translation": "Ritsuko「Haa... Ờ, đúng vậy...」"
+    },
+    {
+        "sentence": "[律子「]::あの……ちょっと早いけど、小テストを始めるわ」",
+        "translation": "Ritsuko「À... hơi sớm một chút, nhưng cô sẽ bắt đầu bài kiểm tra ngắn nhé.」"
+    },
+    {
+        "sentence": "[律子「]::ご、ごめんね、みんな……最初に言うつもりだったのに、すっかり忘れてて……」",
+        "translation": "Ritsuko「C-Các em, xin lỗi... Cô định nói ngay từ đầu mà lại quên béng đi mất...」"
+    },
+    {
+        "sentence": "[律子「]::それと、今日の小テストは、いつもより難しいと思うから、ちょっと時間も多めに取るからね……」",
+        "translation": "Ritsuko「Và còn nữa, bài kiểm tra ngắn hôm nay cô nghĩ sẽ khó hơn mọi khi, nên sẽ cho các em thêm một chút thời gian nhé...」"
+    },
+    {
+        "sentence": "[律子「]::ハァ……ぁ……ふぅ……ン……」",
+        "translation": "Ritsuko「Haa... a... Fuu... Nn...」"
+    },
+    {
+        "sentence": "[律子「]::あっ…………」",
+        "translation": "Ritsuko「A...」"
+    },
+    {
+        "sentence": "[律子「]::え、えぇ……」",
+        "translation": "Ritsuko「Ơ, ừm……」"
+    },
+    {
+        "sentence": "[律子「]::今日は監督だけだから、水着に着替えてもいなかったわ」",
+        "translation": "Ritsuko「Hôm nay chỉ là giám sát thôi, nên tôi cũng không thay đồ bơi đâu.」"
+    },
+    {
+        "sentence": "[律子「]::別に……」",
+        "translation": "Ritsuko「Không có gì……」"
+    },
+    {
+        "sentence": "[律子「]::それよりも……いったいいつまで、こんな事を続けるつもりなの……？」",
+        "translation": "Ritsuko「Hơn nữa... Em định sẽ tiếp tục chuyện này đến bao giờ... vậy?」"
+    },
+    {
+        "sentence": "[律子「]::そうよ。だいたい、あなたのしてる事に、何の意味があるの？　あなたの目的は何なの？」",
+        "translation": "Ritsuko「Đúng vậy. Nói chung, việc em đang làm có ý nghĩa gì chứ? Mục đích của em là gì?」"
+    },
+    {
+        "sentence": "[律子「]::……ちょ、ちょっと、何を悩んでるのよ？」",
+        "translation": "Ritsuko「......Này, em đang suy nghĩ chuyện gì thế?」"
+    },
+    {
+        "sentence": "[律子「]::もしかして、意味も無いのに、こんな事を続けてるの？」",
+        "translation": "Ritsuko「Chẳng lẽ, em lại tiếp tục làm chuyện này mà không có bất kỳ ý nghĩa gì sao?」"
+    },
+    {
+        "sentence": "[律子「]::……単純？」",
+        "translation": "Ritsuko「......Đơn giản ư?」"
+    },
+    {
+        "sentence": "[律子「]::な、何よそれっ！？　たった、それだけの理由でこんな事をしているのっ！？」",
+        "translation": "Ritsuko「C-Cái gì thế?! Em lại làm chuyện này chỉ vì lý do nhỏ nhặt như vậy thôi sao?!」"
+    },
+    {
+        "sentence": "[律子「]::そ、そんな事を言われても……別に嬉しくも何ともないわっ……！」",
+        "translation": "Ritsuko「Bị... bị nói những lời như vậy... tôi chẳng vui vẻ gì đâu...!」"
+    },
+    {
+        "sentence": "[律子「]::うぅ……今日は……何をするつもり……？」",
+        "translation": "Ritsuko「Ư... Hôm nay... em định làm gì... ?」"
+    },
+    {
+        "sentence": "[律子「]::……あっ…………」",
+        "translation": "Ritsuko「……A…...」"
+    },
+    {
+        "sentence": "[律子「]::やっ……」",
+        "translation": "Ritsuko「Ách...」"
+    },
+    {
+        "sentence": "[律子「]::や、やっ……な、何するのっ！？」",
+        "translation": "Ritsuko「Khô-không... e-em đang làm gì vậy!?」"
+    },
+    {
+        "sentence": "[律子「]::う……うぅっ……」",
+        "translation": "Ritsuko「Ư... Ư..」"
+    },
+    {
+        "sentence": "[律子「]::あぅ、うっ……ね、ねえ……痛いわっ……」",
+        "translation": "Ritsuko「Á... Ư... Này... Đau quá...」"
+    },
+    {
+        "sentence": "[律子「]::ゴーグルのレンズが、手首に食い込んで……い、痛いの……ちょっと緩めて……くっ……」",
+        "translation": "Ritsuko「Tròng kính của kính bảo hộ đang ấn sâu vào cổ tay tôi... Đ-đau quá... nới lỏng ra một chút đi... Ư...」"
+    },
+    {
+        "sentence": "[律子「]::い、いやよ……そんな事を言わないで……」",
+        "translation": "Ritsuko「K-không được... Đừng nói những lời như vậy...」"
+    },
+    {
+        "sentence": "[律子「]::こんな格好いやだわ……ねえ、お願い、縄をほどいて……」",
+        "translation": "Ritsuko「Tôi ghét phải ăn mặc thế này... Này, làm ơn, cởi trói cho tôi đi...」"
+    },
+    {
+        "sentence": "[律子「]::ば、馬鹿な事を言ってないで、ロープを外して……そんな目で……お尻ばっかりじろじろ見ないでっ……」",
+        "translation": "Ritsuko「Đừng nói những lời ngớ ngẩn, cởi trói cho tôi đi... Đừng nhìn tôi bằng ánh mắt đó... Đừng có nhìn chằm chằm vào mông tôi như vậy...」"
+    },
+    {
+        "sentence": "[律子「]::も、もしかしてっ……」",
+        "translation": "Ritsuko「Kh-không lẽ nào...」"
+    },
+    {
+        "sentence": "[律子「]::また……私のお尻を……お、犯すつもりなの？」",
+        "translation": "Ritsuko「Lại... lại định... hiếp cái mông của tôi nữa hả?」"
+    },
+    {
+        "sentence": "[律子「]::い、いやよっ！　ちがうわっ、やめて、望んでなんてないわっ！！」",
+        "translation": "Ritsuko「Không, tôi không muốn! Sai rồi, dừng lại đi, tôi không hề mong muốn điều này!!」"
+    },
+    {
+        "sentence": "[律子「]::だって……どうして、お尻なのよ……お、お尻でセックスするなんて……異常だわっ！」",
+        "translation": "Ritsuko「Nhưng... tại sao lại là mông chứ... Làm tình bằng mông... Thật là bệnh hoạn!」"
+    },
+    {
+        "sentence": "[律子「]::そ、そんなはずないわ。セ、セックスというのは、子孫を残すための行為よっ……」",
+        "translation": "Ritsuko「Không thể nào! Sex là hành vi để duy trì nòi giống mà...」"
+    },
+    {
+        "sentence": "[律子「]::それを……お尻だなんて……ううっ……あ、あんなの異常よっ！　あんな事をするなんて、絶対おかしいわっ！」",
+        "translation": "Ritsuko「Cái đó mà... lại còn là... mông nữa chứ... ư... a, cái thứ đó thật là bệnh hoạn! Làm cái chuyện đó, tuyệt đối là không bình thường!」"
+    },
+    {
+        "sentence": "[律子「]::そ、それは……わ、わたしは違うわっ……そんな事、してないわっ……！」",
+        "translation": "Ritsuko「C-Chuyện đó... T-Tôi không có! Tôi không làm chuyện đó!」"
+    },
+    {
+        "sentence": "[律子「]::ち、違う……そんなのウソよ、ウソだわっ！　誰もそんなイヤらしい事っ、考えてないわっ！」",
+        "translation": "Ritsuko「Không, không phải... Đó là lời nói dối, là lời nói dối! Không ai nghĩ đến những chuyện dâm đãng như vậy đâu!」"
+    },
+    {
+        "sentence": "[律子「]::はあぁっ、ひあっ！」",
+        "translation": "Ritsuko「Haaah, hi-hi-hi!」"
+    },
+    {
+        "sentence": "[律子「]::あや……や、やはぁ……やめてっ……あぁっ……！」",
+        "translation": "Ritsuko「A-ay... ya, yah-ha... Đừng mà... Aaaah...!」"
+    },
+    {
+        "sentence": "[律子「]::はぅあ……あ……やめ、てっ……だめっ、ひっぱらんないでっ……あぁあっ、食い込ませ、ないでッ……あぅっ、ンッ……あああっ……」",
+        "translation": "Ritsuko「Haaah... Ưh... Đừng, đừng mà... Không được, đừng kéo tôi ra... Aaah, đừng ép vào nữa... Auu... Nn... Aaah...」"
+    },
+    {
+        "sentence": "[律子「]::そんな、ち、違うわよ……変な事、言わないでッ……」",
+        "translation": "Ritsuko「Không, không phải vậy đâu... Đừng có nói những lời kỳ cục...」"
+    },
+    {
+        "sentence": "[律子「]::わ、私は感じてなんか……あぅっ、ヒッ！！」",
+        "translation": "Ritsuko「K-Không, tôi không có cảm giác gì... Auh, Híc!!」"
+    },
+    {
+        "sentence": "[律子「]::ふああっ！　あっああああっ！！」",
+        "translation": "Ritsuko「Phùu... Aaaahhh!!」"
+    },
+    {
+        "sentence": "[律子「]::あっ、ンッ！　だ、だめェッ！　アッ、やっ……お、お尻っ、ダメッ、アッ！　そんなところっ、い、弄らないでッ……ハアァッ！」",
+        "translation": "Ritsuko「Áh, ừm! K-Không được mà! Á, a... m-mông, không được! Á! Đừng có động vào chỗ đó! ...Haahhh!」"
+    },
+    {
+        "sentence": "[律子「]::アゥゥッ！　あふっ、ンアッ！　ハッ、ああっ！！」",
+        "translation": "Ritsuko「Aww! A-ah, ừm! Hah, aahh!!」"
+    },
+    {
+        "sentence": "[律子「]::お尻は、ダメ……い、弄っちゃダメよぉ……グッ、あぅあっ！　あっ、やあっ……」",
+        "translation": "Ritsuko「Mông thì, không được... không, không được động vào đâu mà... Grrr, áu! Á, á...」"
+    },
+    {
+        "sentence": "[律子「]::そんな……イ、イヤって言ってるのに……お尻はイヤなの……あ、あんな事をするのだけは、許してっ……お願いよぉ……」",
+        "translation": "Ritsuko「Sao lại... Tôi đã nói là không mà... Tôi không muốn bị động vào mông... A, làm ơn đừng làm những chuyện như vậy, xin em... Làm ơn mà...」"
+    },
+    {
+        "sentence": "[律子「]::だ、だって、おかしいわ。お尻の穴は、排泄器官なのよっ！」",
+        "translation": "Ritsuko「D-đấy là, thật kỳ lạ. Hậu môn là một bộ phận bài tiết cơ mà!」"
+    },
+    {
+        "sentence": "[律子「]::それを使って性行為をするなんて、絶対に変よ！　そんなの、間違ってるわっ！」",
+        "translation": "Ritsuko「Sử dụng nó cho mục đích quan hệ tình dục, đúng là biến thái mà! Làm vậy là sai trái lắm!」"
+    },
+    {
+        "sentence": "[律子「]::んぅっ、あっ……くぅ、くゥゥゥッ……！」",
+        "translation": "Ritsuko「Ưnn, ahh... Kuku, kuuuuuu...!」"
+    },
+    {
+        "sentence": "[律子「]::い、嫌よ……あ、あはっ、はっ！　んぁ、あっ、あぁンッ！」",
+        "translation": "Ritsuko「K-không... a, a há, há! Ng-ngaa, á, àaaannh!」"
+    },
+    {
+        "sentence": "[律子「]::そ、んな……イヤ、なのに……アッ、アァゥッ！　ふぁあっ……んっ……あぁぁっ……！」",
+        "translation": "Ritsuko「K-không... không... dù ghét... ah, aáuuuht! Fuáaaah... ừm... áááaaah...!」"
+    },
+    {
+        "sentence": "[律子「]::違う……わ、たしは……あくっ、ふぅあっ！　アンッ！　はァんっ！　ンンッ！　あんンンーーッ！！」",
+        "translation": "Ritsuko「Không... tôi... aku, fuu ah! Ann! Haaann! Nn! Annnn--!!」"
+    },
+    {
+        "sentence": "[律子「]::う、嘘よ、そんなっ……んんっ……はァんっ！　ンンッ！　あんッ……くぅっ……！！」",
+        "translation": "Ritsuko「K-không... không thể nào... ừm ừm... haaaann! Nn! Ann... kuuuu...!!」"
+    },
+    {
+        "sentence": "[律子「]::いやっ、ンッ、ああっ！　か、掻き混ぜないでッ……お尻の穴っ、はぁっ……指、動かさないでッ……あふぅあっ！」",
+        "translation": "Ritsuko「Không, ừm, áááh! Đ-đừng có đảo nó lên... cái lỗ hậu môn của tôi, haaah... đừng có cử động ngón tay đó... áfúuu ah!」"
+    },
+    {
+        "sentence": "[律子「]::ハァ…ぁ…プ、レゼント……？」",
+        "translation": "Ritsuko「Haa... aah... Quà... tặng...?」"
+    },
+    {
+        "sentence": "[律子「]::……そ、それは何なの？　何をするのっ？！」",
+        "translation": "Ritsuko「......Đó, đó là cái gì vậy? Em định làm gì?」"
+    },
+    {
+        "sentence": "[律子「]::い、いや……何よそれ、何をする気なのっ！？」",
+        "translation": "Ritsuko「K-không... Cái gì vậy chứ, em định làm gì vậy?!」"
+    },
+    {
+        "sentence": "[律子「]::ま、待ちなさいよっ！　それは何か聞いてるのっ！」",
+        "translation": "Ritsuko「D-dừng lại đi! Tôi đang hỏi đó là cái gì vậy!」"
+    },
+    {
+        "sentence": "[律子「]::ひああっ！？　あぁあああーーーっ！！」",
+        "translation": "Ritsuko「Á! Hức... Aaahhh!!!」"
+    },
+    {
+        "sentence": "[律子「]::ひぎぃあっ、あああっ！？　な、なにをっ……つ、冷たいぃっ！」",
+        "translation": "Ritsuko「H-hức... Áaaaaa!? T-tôi, em đang làm gì vậy... Aaa, lạnh quá!」"
+    },
+    {
+        "sentence": "[律子「]::やめっ……うぐああっ！　冷たい、痛いぃっ！　抜いてっ！　抜いて抜いてェェーーッ！！」",
+        "translation": "Ritsuko「D-dừng lại... Hức! Lạnh quá, đau quá đi! Rút ra đi! Rút ra đi màaaa!!」"
+    },
+    {
+        "sentence": "[律子「]::クッ！　ウゥウッ！　あぐ、うっ……！」",
+        "translation": "Ritsuko「Ư-ưm! Rên... a, ưm...!」"
+    },
+    {
+        "sentence": "[律子「]::あぐっ……あぁっ……やあっ……つ、冷たいのが……お尻に……お、おくに……おくぅにぃ……」",
+        "translation": "Ritsuko「H-hức... Áaaaaa... Yaah... T-thứ lạnh lẽo này... vào mông tôi... vào, vào trong... sâu vào trong nữa đi...」"
+    },
+    {
+        "sentence": "[律子「]::あぐ……ぬ、抜いてぇ……苦しい……あぅ、うっ……お尻、穴……痛いぃのぉぉ……」",
+        "translation": "Ritsuko「Ưm... Rút ra đi... Đau quá... A, ưm... Mông, lỗ nhị... Đau quá đi mất...」"
+    },
+    {
+        "sentence": "[律子「]::や、な、なに……ひっ、いぃっ……」",
+        "translation": "Ritsuko「Kho-khoan, cái gì... Ư! Đauuu...!」"
+    },
+    {
+        "sentence": "[律子「]::いぃ、いやぁぁっ！　な、なにしてるのっ……ああっ！？」",
+        "translation": "Ritsuko「Không, khônggg! Aaa! C-cậu đang làm cái quái gì vậy... Aaaah!?」"
+    },
+    {
+        "sentence": "[律子「]::な、何これっ！？　お、お尻、開いちゃうっ！　お尻の穴が、開いちゃってるっ！！」",
+        "translation": "Ritsuko「C-cái gì thế này!? Mông, mông của tôi đang bị mở ra! Lỗ nhị, lỗ nhị của tôi đang bị hé ra rồi!!」"
+    },
+    {
+        "sentence": "[律子「]::ちょっとぉっ！　な、何してるのよっ！？」",
+        "translation": "Ritsuko「Khoan đã! C-cậu đang làm cái quái gì vậy chứ!?」"
+    },
+    {
+        "sentence": "[律子「]::そんなっ、ダメェェッ！　お尻、見ちゃダメッ！　中なんか、覗いちゃダメよぉぉおーーっ！！」",
+        "translation": "Ritsuko「Khônggg! Cấm đấyyy! Cấm nhìn mông tôi! Cấm nhìn trộm vào bên trong đóoo!!!」"
+    },
+    {
+        "sentence": "[律子「]::い、いやよ！　ダメッ、ほんとにダメッ！　お尻の穴、見ないでッ！　お願いだから見ないでってばァッ！！」",
+        "translation": "Ritsuko「K-khônggg! Cấm đấy, thật sự cấm đấy! Đừng có nhìn lỗ nhị của tôi! Làm ơn đừng nhìn mà!!!」"
+    },
+    {
+        "sentence": "[律子「]::そ、そんな……くぅ……」",
+        "translation": "Ritsuko「K-khô-khôngg... Ưhh...」"
+    },
+    {
+        "sentence": "[律子「]::んくっ！　クッ！　うう……あぐっ、ウッ……動かさないで……ヒッ！　アッ、アアッ！！」",
+        "translation": "Ritsuko「Ng... Ngukk! Kk! Uuu... Agh, Uhh... Đừng có cử động... Híc! Aah, Aaaah!!」"
+    },
+    {
+        "sentence": "[律子「]::うぐ……そ、それはっ……だって……」",
+        "translation": "Ritsuko「Ưng... Đ-điều đó... bởi vì...」"
+    },
+    {
+        "sentence": "[律子「]::ま、前に、された時……お、奥の方のが、ペニスに突かれて……苦し、かったから……」",
+        "translation": "Ritsuko「L-lần trước, khi... khi bị làm vậy... cái phần sâu bên trong đã bị dương vật đâm vào... đau... nên...」"
+    },
+    {
+        "sentence": "[律子「]::うぅ……ち、違う……違うのにぃぃぃ……ぐ、ぅぅ……」",
+        "translation": "Ritsuko「Ưuu... K-không phải... không phải vậy đâuuuu... Gư, ựuuu...」"
+    },
+    {
+        "sentence": "[律子「]::こ、今度は何をしているのっ……！？」",
+        "translation": "Ritsuko「Đ-đây, em đang làm cái gì vậy hả...!?」"
+    },
+    {
+        "sentence": "[律子「]::きゃあっ！？　い、いやあァァァァーーーッ！！」",
+        "translation": "Ritsuko「Kyaaa!? K-khôngggg!!!!」"
+    },
+    {
+        "sentence": "[律子「]::やあぁっ！　つ、冷たいぃっ、ひっ、ヒィッ！　やめてっ、やめてっ……やめてぇぇぇぇっ！！」",
+        "translation": "Ritsuko「Aaaah! Lạnh quá! Híc, Híc! Dừng lại đi, dừng lại đi... Dừng lạiiiiiiiii!!」"
+    },
+    {
+        "sentence": "[律子「]::あぅああっ！　み、みずっ、水がっ、入ってくるっ！　ウッ、ゥッ！！　お、お尻の、穴にっ、入って、くるゥゥッ！！」",
+        "translation": "Ritsuko「Aaaaah! N-nước, nước đang vào! Ư, ứ!! Đang vào... hậu môn của tôi rồi!!」"
+    },
+    {
+        "sentence": "[律子「]::いぃ、いやよぉっ、許して、お、お願いっ……いっ、うっ！」",
+        "translation": "Ritsuko「Ư, ừm, khônggg! Tha cho tôi, làm ơn... Ư, ứ!」"
+    },
+    {
+        "sentence": "[律子「]::も、う、やめっ……うぐっ、ぐっ！　やめっ……てェッ！　ぐぅっ……おうぅっ、うっ、うううゥゥウウウ……」",
+        "translation": "Ritsuko「D-dừng lại đi... ưg, ực! Dừng lại... đi mà! Ực... Ouuu, ư, uuuuuuuu……」"
+    },
+    {
+        "sentence": "[律子「]::ヒィッ、アゥゥ……はァッ、ぅぅ……」",
+        "translation": "Ritsuko「Híc, aaaaah…… Haaah, ưuuu……」"
+    },
+    {
+        "sentence": "[律子「]::あ……いやぁ……くっ、うゥゥ……はぐぅぅうぅ……」",
+        "translation": "Ritsuko「À…… khônggg…… ưc, ưuuu…… Hựuuu……」"
+    },
+    {
+        "sentence": "[律子「]::も、もも……もぉう、いっ、いいでしょっ……うぐっ、ぐっ……」",
+        "translation": "Ritsuko「Đ-đủ rồi…… Đ-đủ rồi mà…… Ưg, ực……」"
+    },
+    {
+        "sentence": "[律子「]::とぉ、とっ、といれに……いっ、ひっ！　ひっ、ひかせて……トイレ、行かせてぇぇぇ……」",
+        "translation": "Ritsuko「Đ-đi, đi, đi vệ sinh…… Ư, híc! Híc, cho tôi…… Tôi muốn đi vệ sinhgggg……」"
+    },
+    {
+        "sentence": "[律子「]::そ……そ、それは……ウゥゥゥッ！！」",
+        "translation": "Ritsuko「Đ-Đó…… đó là…… ƯUUUU!!」"
+    },
+    {
+        "sentence": "[律子「]::はぁっ、ぐっ……お、お腹が……あぐっ、うぅくっ……！」",
+        "translation": "Ritsuko「Haaah, ực…… B-bụng của tôi…… A-gưc, uuu cức……!」"
+    },
+    {
+        "sentence": "[律子「]::うぁっ、あぉぉっ……おぐっ、ぐぅぅうう……」",
+        "translation": "Ritsuko「Ưa, aoooh…… ực, gừuuuuu……」"
+    },
+    {
+        "sentence": "[律子「]::もぉ、れるっ……ひぃ、いっ！　は、はやくっ、トイレに、いっ……行かないとぉっ……おおっ……」",
+        "translation": "Ritsuko「Aaaah, sắp trào ra rồi…… Híc, híc! N-nhanh lên, đi vệ sinh, híc…… Tôi phải đi vệ sinhgggg…… Ooooh……」"
+    },
+    {
+        "sentence": "[律子「]::ひぃ、いっ……あ、ああああっ……！！」",
+        "translation": "Ritsuko「Híc, híc…… A, aaaah……!!」"
+    },
+    {
+        "sentence": "[律子「]::ゆ、許してっ！　お願い、お願いよぉっ！　早くトイレに、行かせてっ！　行かせっ……ヒィィッ！！」",
+        "translation": "Ritsuko「X-Xin tha cho tôi! Làm ơn, làm ơn đi mà! Cho tôi đi vệ sinh nhanh lên, cho tôi đi đi mà! Cho tôi đi…… Híííiiii!!」"
+    },
+    {
+        "sentence": "[律子「]::うぉあっ、あおっ……おおっ！！」",
+        "translation": "Ritsuko「Ưa, a... oaaa...!!」"
+    },
+    {
+        "sentence": "[律子「]::も、もう……クッ！　フゥッ！　おふっ、おふぅひっ……！！」",
+        "translation": "Ritsuko「Ôi, ôi... Khụ! Phù! Ôi, ôi hừ...!!」"
+    },
+    {
+        "sentence": "[律子「]::あっ、ダ、メッ！　も、ももうっ！　ダメッ……ウゥッ！　おうぅっ、はふっ！　ふぅぶっ！　ぐふぅううううっ！！」",
+        "translation": "Ritsuko「A, không, được rồi! Thôi, thôi rồi! Không được nữa…… Ưừ! Oaaa, haaaa! Phù! Gừừừừừ!!」"
+    },
+    {
+        "sentence": "[律子「]::だぁ、メッ！　で、るっ！　もも、もれルゥゥゥーーッ！！」",
+        "translation": "Ritsuko「Kh-Không, ư ư! Dừng, dừng lại đi! Ư ư, sắp trào ra mất thôi...!!」"
+    },
+    {
+        "sentence": "[律子「]::おあはっ！　いひぁはあああぁぁ－－－－－－っ……！！」",
+        "translation": "Ritsuko「Ô a! Aaaaaaahh!!」"
+    },
+    {
+        "sentence": "[律子「]::おぁ、あぐぅあっ！　で、出てるっ！　くぅっ、ぶぅっ！　アァァッ！　で、出てるゥッ！！」",
+        "translation": "Ritsuko「Oaaa, aaaaah! Đang, đang ra! Kuuu, bùu! Aaaaah! Đang, đang raaa!!」"
+    },
+    {
+        "sentence": "[律子「]::お、お尻からッ！　ひっ、いっ！　ま、前からもッ！　あぐっ、くひぃっ！　うぐっ！　おぅゥゥゥッ！！」",
+        "translation": "Ritsuko「Ô, từ hậu môn! Hi, í! T-từ phía trước nữa! A-gừ, ku-hi! U-gừ! Oouuuu!!」"
+    },
+    {
+        "sentence": "[律子「]::あぁはあっ、あっはあっ……ひっ、ひぃっ、あぎっ、ひぃぃ……」",
+        "translation": "Ritsuko「Aaaaaah, aaaaaah... Hí, hịi, a-gì, hịii...」"
+    },
+    {
+        "sentence": "[律子「]::うぅ……あぅぅう……うっ、ぅぅ……」",
+        "translation": "Ritsuko「Ưuu... A-uuu... Ư-ực, uuu...」"
+    },
+    {
+        "sentence": "[律子「]::はぁ……ぁぁうう……ぅ……ぐ……」",
+        "translation": "Ritsuko「Haa... Aaaauu... Uuu... G-gừ...」"
+    },
+    {
+        "sentence": "[律子「]::あぁっ……は……」",
+        "translation": "Ritsuko「Á... hả...」"
+    },
+    {
+        "sentence": "[律子「]::ぅぅぅ…………」",
+        "translation": "Ritsuko「Ư... ừ...」"
+    },
+    {
+        "sentence": "[律子「]::……きゃっ！？」",
+        "translation": "Ritsuko「......Ách!?」"
+    },
+    {
+        "sentence": "[律子「]::けはっ、えはっ！　な、なにっ！？」",
+        "translation": "Ritsuko「Khụ, khụ! C-chuyện gì vậy!?」"
+    },
+    {
+        "sentence": "[律子「]::きゃあっ……！」",
+        "translation": "Ritsuko「Áaaah……!」"
+    },
+    {
+        "sentence": "[律子「]::んぁっ、あ……えっ！？　いったい、何をっ……！！」",
+        "translation": "Ritsuko「Ưn! Á... Hả!? C-cái gì vậy...!!」"
+    },
+    {
+        "sentence": "[律子「]::いや、やぁっ……ま、待ってっ！　ダメェェッ！」",
+        "translation": "Ritsuko「Khoan, aaaaaah…… D-đừng mà! Không được đâuuuu!」"
+    },
+    {
+        "sentence": "[律子「]::あぁあっ！　あっふぅあっ！　あっ……あああーーっ！！」",
+        "translation": "Ritsuko「Áaaah! Áffuuu á! Á... Áaaaaaah!!」"
+    },
+    {
+        "sentence": "[律子「]::んあっ、あっうぅうんっ！　そんなあっ、あっ……オ、オシッコはっ、そ、そんなのっ……か、関係、ないわっ……」",
+        "translation": "Ritsuko「Ưng! Aaaah… Ưuunh! Đ-đừng… aah… Ti-tiểu tiện… không, không liên quan… gì đâu…」"
+    },
+    {
+        "sentence": "[律子「]::ち、違うわっ……オシッコもっ、お、お尻もっ……ち、違うのにぃっ……くっ、うぅっ！　あぅっ、ふぅぐっ！！」",
+        "translation": "Ritsuko「K-không phải đâu…… Ti-tiểu tiện cũng, c-chỗ đó cũng…… không phải đâuuuu…… Hức, ừuu! Áuuu, phuuguu!!」"
+    },
+    {
+        "sentence": "[律子「]::い、いやぁ……違うのっ……あ、あんなのでっ、か、感じたりなんかぁっ、あぁっ、はっああぁっ！」",
+        "translation": "Ritsuko「K-không… không phải vậy… T-thứ như vậy… làm tôi… có cảm giác được… áah… haaaaaah!」"
+    },
+    {
+        "sentence": "[律子「]::あくぅっ！　んンッ！　あぅ、うぅんンンッ！」",
+        "translation": "Ritsuko「Áuuu! Ưng! Aaw, ưunnnn!」"
+    },
+    {
+        "sentence": "[律子「]::あっ、くぅん……違う、わっ……わ、私っ……排泄、行為でっ、感じたり、し、しないっ……あっ……！」",
+        "translation": "Ritsuko「Áh… kuuun… Không… không phải… T-tôi… tôi… tôi không… không có cảm giác… với việc đi vệ sinh… Áh…!」"
+    },
+    {
+        "sentence": "[律子「]::くぅ……うっ、私は……淫乱なんかじゃっ……んンアッ！」",
+        "translation": "Ritsuko「Kuuu… Ưgh, tôi… tôi không phải… kẻ dâm đãng… ưNgh!」"
+    },
+    {
+        "sentence": "[律子「]::ンアッ、ハアアアアッ！！」",
+        "translation": "Ritsuko「Nggahh, haaaaaa!!」"
+    },
+    {
+        "sentence": "[律子「]::いっやあっ、アァッ！　ま、またそんなところにっ、ンッ！　アッ……ペ、ペニスをっ……あはぁああっ！！」",
+        "translation": "Ritsuko「Ưaahhh! Aahh! L-lại nữa ở chỗ đó sao! Ngnh! Áh… D-dương vật… Ahahaahhh!!」"
+    },
+    {
+        "sentence": "[律子「]::あゥゥンッ！　やぁっ、いやよぉぉっ！　ぬ、抜いてぇっ……ペニスっ、お尻から抜いてよぉっ……」",
+        "translation": "Ritsuko「Aaaahhh! Yaah! Khônggg! N-nhanh rút ra đi… dương vật… rút ra khỏi mông tôi đi màaa…」"
+    },
+    {
+        "sentence": "[律子「]::はゥッ、くっ……そ、れはっ……アッ！　それは、アァッ……！」",
+        "translation": "Ritsuko「Hauu, kuu... cái đó... Áh! Cái đó, Aaaah...!」"
+    },
+    {
+        "sentence": "[律子「]::はんっ、あっあァンッ！　わ、たしっ……楽しみに、なんかっ、ハッ、アァッ……してないっ、のにっ……！」",
+        "translation": "Ritsuko「Hnng, àhh! T-tôi… không hề… hhh, Aaaah… mong chờ nó… thế mà…!」"
+    },
+    {
+        "sentence": "[律子「]::そんな事、なっ、ないわっ、はぁンッ！　やみつきっ、なんかじゃっ、ひぁっ、あっ……はあっ、うぅうんっ！！」",
+        "translation": "Ritsuko「Chuyện đó, không, không có đâu! *Haaan*! Nghiện ngập cái gì mà nghiện! *Hiaaa*! Áh… *Haaah*, ưuuuunnn!!」"
+    },
+    {
+        "sentence": "[律子「]::んくっ、くふああっ！」",
+        "translation": "Ritsuko「Ngừm, khụ... khụaaaaa!」"
+    },
+    {
+        "sentence": "[律子「]::ひやああぁぁぁぁーーーっ！！」",
+        "translation": "Ritsuko「Hiyyaaaaaaaa——!」"
+    },
+    {
+        "sentence": "[律子「]::あぁんっ、ダッ、ダメッ！　こっちも、ダメェッ！　あっ、ああんっ、はんっ！　はうんっ！」",
+        "translation": "Ritsuko「Aaaannh, Đ-đừng! Chỗ này cũng, Đừng màaa! Áh, aaannh, hanh! Haunnh!」"
+    },
+    {
+        "sentence": "[律子「]::そ、そんなのウソよっ……ち、違うわっ！　はっ！　ああっ！　ちがっ、ひぃあっ！　あはあぁんっ！」",
+        "translation": "Ritsuko「Không, không thể nào là thật! *Haa*! Không, không đúng! *Aaaah*! Không, *hiiaaa*! *Ahaaaannh*!」"
+    },
+    {
+        "sentence": "[律子「]::ダメェッ、んぁっ、あぁっ！　アソコ、こ、こすらないでッ！　ペニスを、そんなにしないでッ……」",
+        "translation": "Ritsuko「Đ-đừng! *Ngaaah*, *Aah*! Chỗ đó, đừng, đừng có cọ xát! Dương vật của [Em], đừng làm vậy với nó nữa...」"
+    },
+    {
+        "sentence": "[律子「]::あぅっ、あっ、そんな……あああっ！　こ、声が出ちゃうっ……はんっ、あぁんっ！　声が、出ちゃうゥゥッ！」",
+        "translation": "Ritsuko「A... a... không thể nào... aaaa! Tiếng... tiếng của tôi... vang lên mất rồi... haaa, aaaa! Tiếng của tôi, nó cứ thế phát ra mất thôi!」"
+    },
+    {
+        "sentence": "[律子「]::あっ、あぁンッ！　いやぁ、アンッ！　アッ！　ダメよっ、ハッ、あぁウンッ！　そ、それ以上はダメ、ダメェッ！！」",
+        "translation": "Ritsuko「Aaaah! Không, không! Ah! Không được! Haa, Aaaunh! Không, không được nữa đâu, KHÔNG ĐƯỢC NỮA!!」"
+    },
+    {
+        "sentence": "[律子「]::も、もう突かないでッ！　ペ、ペニス、ダメェッ！　これ以上、ペニスでっ、ヒッ、アッ！　突かれたらッ……！！」",
+        "translation": "Ritsuko「L-làm ơn đừng thúc nữa! D-dương vật, không được đâu! Thêm nữa, với dương vật này, Hít, Ách! Nếu bị thúc vào nữa thì...!!」"
+    },
+    {
+        "sentence": "[律子「]::はああっ！　そ、そっちもダメッ、お尻ダメェェッ！！」",
+        "translation": "Ritsuko「Haaah! T-từ phía đó cũng không được, **hậu môn** không được đâuuu!!」"
+    },
+    {
+        "sentence": "[律子「]::うふあっ！　あうっ……ううふううっ！！」",
+        "translation": "Ritsuko「Ư-ưm! Aaa... Ưu fuuuu!!」"
+    },
+    {
+        "sentence": "[律子「]::あ、あふっ！　あぁあっ……そんなっ、あっ！　う、うそっ……またっ！　またっ……く、るっ！！」",
+        "translation": "Ritsuko「Aa, ực! Aaah... Không, không thể nào, ách! K-không thể nào... Lại nữa! Lại nữa... Sắp đến rồi!!」"
+    },
+    {
+        "sentence": "[律子「]::も、もうダメよっ！　お尻っ、もうダメ、なのっ！　それ以上っ、ペニスをっ、刺されたらっ……わ、わたしぃぃっ……」",
+        "translation": "Ritsuko「Đ-đến giới hạn rồi! Hậu môn! Không thể chịu nổi nữa! Nếu còn bị cái dương vật này đâm vào nữa... Tôi... tôi sẽ không chịu nổi mất...」"
+    },
+    {
+        "sentence": "[律子「]::い、いやよっ！　母乳なんてっ、出ないわっ！　あっ、はっ！　で、出ないっ！　で、出ちゃっ、ダメッ！　やぁあっ！」",
+        "translation": "Ritsuko「K-không muốn! Sữa mẹ gì chứ, sẽ không ra đâu! Ách, hắc! Sẽ, sẽ không ra đâu! Sẽ, sẽ không được ra, không được đâu! Yaah!」"
+    },
+    {
+        "sentence": "[律子「]::ひいっ、やあっ！　やめっ、てっ！　オッパイがっ！　で、出ちゃうっ、んゥゥッ！　オッパイ、出ちゃうゥゥッ！！」",
+        "translation": "Ritsuko「Hii! Yaah! D-dừng lại, dừng lại đi! Bầu ngực... Sắp ra rồi, ừm... Bầu ngực, sắp ra rồi!!」"
+    },
+    {
+        "sentence": "[律子「]::も、もうダメッ！　もうっ、ダメェェーーーーーッ！！」",
+        "translation": "Ritsuko「Không, không thể chịu nổi nữa! Không, không thể chịu nổi nữa rồiーーーーー!!」"
+    },
+    {
+        "sentence": "[律子「]::あああぁぁはああぁぁぁーーーーっ……！！」",
+        "translation": "Ritsuko「Aaaaahhhhhhーーーーっ……！！」"
+    },
+    {
+        "sentence": "[律子「]::あぁっ、ああっ！　で、出てるっ！　オッパイがっ、出てッ！　ハッ、ハゥッ！　と、とまらないィィィッ……」",
+        "translation": "Ritsuko「Aah, aah! Đ-đã ra rồi! Bầu ngực, ra rồi! Hắc, hắc! K-không dừng lại được rồi…」"
+    },
+    {
+        "sentence": "[律子「]::はぁ、ぁぁあ……こ、こんなの嘘よ……お尻の穴を犯されて……ミ、ミルクを噴いちゃう、なんてっ……あぁぁ……」",
+        "translation": "Ritsuko「Haa, aaaa… K-không thể nào, đây là lời dối trá… Bị xâm phạm cái lỗ hậu môn… Và còn… sữa mẹ phun ra nữa… Aaaa…」"
+    },
+    {
+        "sentence": "[律子「]::あぅう、そ、そんなんじゃっ、あっ……な、ないのに……」",
+        "translation": "Ritsuko「Á... á... cái kiểu đó thì... á... Tôi không... không có mà...」"
+    },
+    {
+        "sentence": "[律子「]::うぅうっ、いやぁ……あぁっ、いやぁぁぁ……」",
+        "translation": "Ritsuko「Ưm... ưm... Không... Á! Khônggggg...」"
+    },
+    {
+        "sentence": "[律子「]::はぁっ、あっあぁ……んっ、あっ……はっ、あぁっ……」",
+        "translation": "Ritsuko「Haa... á... á... ừm... á... haa... á...」"
+    },
+    {
+        "sentence": "[律子「]::はぁああっ！　す、ごいっ……あっ、ペニス、んんっ……すごい、いぃっ、いッ……はああっ！」",
+        "translation": "Ritsuko「Haaah! Tuyệt... tuyệt quá... Á, dương vật, ừm... Tuyệt quá, ừm! ... Haaah!」"
+    },
+    {
+        "sentence": "[律子「]::あぁ、ああっ、お、お尻が、抉れちゃうっ！　あんっ、んんゥッ！　硬い、ペニスでっ、えぐ、られちゃうっ！」",
+        "translation": "Ritsuko「Áh, áh, ôi, mông của tôi, sắp bị khoét sâu rồi! An, ừm! Với dương vật cứng rắn, tôi đang bị khoét sâu!」"
+    },
+    {
+        "sentence": "[律子「]::あんっ、あぁんんっ！　あぅ、い、いいっ！　ペニス、いいのっ、はんっ、ハァンッ！」",
+        "translation": "Ritsuko「An... aaaaannn! Au, i, ii! Dương vật, thích lắm, hhanh, haaanh!」"
+    },
+    {
+        "sentence": "[律子「]::お尻っ、いいっ！　あっ、気持ち、いいのぉっ！　あはぁっ、んぅぁあっ！　ひい、いいひぃぃっ！」",
+        "translation": "Ritsuko「Ôi, mông! Tuyệt quá! Á, sướng quá đi mất! Áhà, ưaaah! Hii, sướng quá đi mất!」"
+    },
+    {
+        "sentence": "[律子「]::ひぐっ…んんっ……っ…あぅっ……はぁっ……っ…あっ…っ……はぁっ……ぁっ…っ……っ……はぁああああっ……！」",
+        "translation": "Ritsuko「Híc... ưm... ưm... àuu... haa... ừm... áh... ừm... haa... áh... ưm... ưm... haaaaaaah...!」"
+    },
+    {
+        "sentence": "[律子「]::んハァッ！　あふああぁぁぁーーーっ……！！」",
+        "translation": "Ritsuko「Ưn hah! Áfuaaaaaaaah...!」"
+    },
+    {
+        "sentence": "[律子「]::あんっ、ふぅっ！　す、すごいぃっ！　お、お尻の穴でっ、ビクビクッ、跳ねてるっ！」",
+        "translation": "Ritsuko「Án, phù! Tuyệt vời quá! Cái lỗ đít, cứ giật giật, rung lên!»"
+    },
+    {
+        "sentence": "[律子「]::んふぅっ、ふううぅぅっ！　あ、あっついの、お尻にっ！　あ、穴に、いっぱいっ、あっ、はっ……ハァァァ……！」",
+        "translation": "Ritsuko「Nghu... fuuuu...!! A, nóng quá, ở mông! A, trong lỗ, đầy rồi, áh, hức... Haaaaaa...!」"
+    },
+    {
+        "sentence": "[律子「]::はぁぁ……あぁぁぁ……お尻の穴に……熱いの、いっぱい……」",
+        "translation": "Ritsuko「Haaaaa... Aaaaaaah... Trong lỗ đít... nóng bỏng, đầy ắp...」"
+    },
+    {
+        "sentence": "[律子「]::いっちゃった……ぁ、ぁぁ……私、お尻の穴に出されて……はぁ……あぁ……イッちゃったのぉぉぉ……」",
+        "translation": "Ritsuko「Đã ra rồi……á, áá……Tôi, bị bắn vào lỗ đít……hà……á……Tôi đã lên đỉnh rồi ư ư ư ư……」"
+    },
+    {
+        "sentence": "[律子「]::ああっ！！」",
+        "translation": "Ritsuko「Aahh!!」"
+    },
+    {
+        "sentence": "[律子「]::よ、よしてっ……そんな事する訳ないでしょう……」",
+        "translation": "Ritsuko「Khoan, đừng mà... Làm sao tôi lại làm chuyện đó được chứ...」"
+    },
+    {
+        "sentence": "[律子「]::はぁ……別に、私が何をしていたっていいじゃない……あなたには関係ない事でしょう？」",
+        "translation": "Ritsuko「Hừm... Dù tôi có làm gì thì cũng đâu có sao đâu... Chuyện đó đâu liên quan gì đến em chứ?」"
+    },
+    {
+        "sentence": "[律子「]::い、いやっ……」",
+        "translation": "Ritsuko「K-Không...」"
+    },
+    {
+        "sentence": "[律子「]::また勝手な事を言って……私がいつ、あなたの奴隷になったのよ？」",
+        "translation": "Ritsuko「Lại nói mấy lời tùy tiện... Bao giờ thì tôi đã trở thành nô lệ của em vậy?」"
+    },
+    {
+        "sentence": "[律子「]::そんな……滅茶苦茶だわ。私は奴隷なんかじゃないわ……！」",
+        "translation": "Ritsuko「Thật... Thật vô lý. Tôi không phải là nô lệ của em...!」"
+    },
+    {
+        "sentence": "[律子「]::あっ……やっ……！？」",
+        "translation": "Ritsuko「Á... Ưm...!?」"
+    },
+    {
+        "sentence": "[律子「]::あぁ……い、いやよ……はっ、ぁ……やめてぇっ……」",
+        "translation": "Ritsuko「A... K-Không... Haa, ahh... Đừng mà...」"
+    },
+    {
+        "sentence": "[律子「]::ダ、ダメ……触らないでっ……あっ、ぐっ……」",
+        "translation": "Ritsuko「K-Không... Đừng có chạm vào tôi... A, ừm...」"
+    },
+    {
+        "sentence": "[律子「]::お、お願い……やめてちょうだい……お尻、触らないでっ……ひぅっ……！」",
+        "translation": "Ritsuko「L-Làm ơn... Đừng mà... Đừng có chạm vào mông tôi... Ưm...！」"
+    },
+    {
+        "sentence": "[律子「]::い、嫌に決まってるでしょ……やめてっ……あぁっ……ゆ、指をどけなさいぃっ……！」",
+        "translation": "Ritsuko「T-Tất nhiên là tôi ghét rồi... Dừng lại đi... Aah... B-Bỏ ngón tay ra đi!」"
+    },
+    {
+        "sentence": "[律子「]::ひぃっ……アッ！！」",
+        "translation": "Ritsuko「Hii... Ahh!!」"
+    },
+    {
+        "sentence": "[律子「]::お願い……ぁっ、アッ……そ、それ以上、しないで……ンッ、あっ……くっ……ふっ……」",
+        "translation": "Ritsuko「Làm ơn... Ưm, Ahh... Đ-Đừng có làm nữa... Nn, Ahh... K-Khụ... Hức...」"
+    },
+    {
+        "sentence": "[律子「]::くぅ……あぐ、うっ……やめ、てっ……あっ、はっ……お尻の、穴……指っ、どけてっ……くぅぅっ……」",
+        "translation": "Ritsuko「Ưm... A-Á... Dừng lại đi... Aah, Hức... Hậu môn... Bỏ ngón tay ra đi... Ưuuuu...」"
+    },
+    {
+        "sentence": "[律子「]::そんなっ……アッ、ハッ……こんな、ところでっ……」",
+        "translation": "Ritsuko「Không... Ahh, Hức... Ở, ở nơi thế này...」"
+    },
+    {
+        "sentence": "[律子「]::ひっ……ひぃくっ……んっ、んんっ！　んんーーっ！！」",
+        "translation": "Ritsuko「Hức... Hức... Ưm, Ưm! Ưuuuu!!」"
+    },
+    {
+        "sentence": "[律子「]::アァッ……」",
+        "translation": "Ritsuko「Áh...」"
+    },
+    {
+        "sentence": "[律子「]::お、お願い……誰か来たわ……」",
+        "translation": "Ritsuko「L-Làm ơn... Có người đến rồi...」"
+    },
+    {
+        "sentence": "[律子「]::うっ、うぅ……あぅ、くっ…………！」",
+        "translation": "Ritsuko「Ư... ưm... Á... A...ukk... !」"
+    },
+    {
+        "sentence": "[律子「]::あ……ぅ……」",
+        "translation": "Ritsuko「Á… ư…」"
+    },
+    {
+        "sentence": "[律子「]::ちょ、ちょっと……何をするのっ……」",
+        "translation": "Ritsuko「Khoan, khoan đã... Em đang làm gì vậy...?」"
+    },
+    {
+        "sentence": "[律子「]::ひあぁ、ぅっ……ダ、ダメよ……」",
+        "translation": "Ritsuko「Á... ư... C-không được đâu...」"
+    },
+    {
+        "sentence": "[律子「]::やめてっ……ぁっ……や……ぁぁ……」",
+        "translation": "Ritsuko「Đừng... Á... Đừng... Áaa...」"
+    },
+    {
+        "sentence": "[律子「]::本当に……はっ、ン……ダ、ダメ……ぁっ……やめ、て……」",
+        "translation": "Ritsuko「Thật... Hức, ư... K-không... Át... Dừng, lại...」"
+    },
+    {
+        "sentence": "[律子「]::ひぃあっ、あっ！　く……あぁんンッ！」",
+        "translation": "Ritsuko「Á á! Ầ... Ư... Aaaannh!」"
+    },
+    {
+        "sentence": "[律子「]::ひぃっ……くっ……んっ、ふっ……ひやっ、だっ……だめっ……」",
+        "translation": "Ritsuko「Hí... Hức... Ưm, hức... Hi... Đừng... Không...」"
+    },
+    {
+        "sentence": "[律子「]::は……はぁぁぁ……な、何なの？」",
+        "translation": "Ritsuko「H... Haah... C-Cái gì vậy?」"
+    },
+    {
+        "sentence": "[律子「]::……？」",
+        "translation": "Ritsuko「...Ừm?」"
+    },
+    {
+        "sentence": "[律子「]::えっ……！？」",
+        "translation": "Ritsuko「Ể...?！」"
+    },
+    {
+        "sentence": "[律子「]::ど、どんな感覚って……どういう、意味よ？」",
+        "translation": "Ritsuko「C-Cảm giác thế nào á... ý em là sao?」"
+    },
+    {
+        "sentence": "[律子「]::し、知らないわっ……そんな事……」",
+        "translation": "Ritsuko「T-Tôi không biết... chuyện đó...」"
+    },
+    {
+        "sentence": "[律子「]::そ、そう言われても……あぁっ、はっ……ほ、本当に分からない……」",
+        "translation": "Ritsuko「C-C-Chỉ vì em nói vậy thôi sao... Á... hức... T-Tôi thật sự không hiểu...」"
+    },
+    {
+        "sentence": "[律子「]::あぁっ……ハッ、はぁぅっんっ……」",
+        "translation": "Ritsuko「Á... hức, haaaaa... ừm...」"
+    },
+    {
+        "sentence": "[律子「]::お、おかしいって……はぁくっ、ンッ……ァァァッ……！」",
+        "translation": "Ritsuko「K-Không... kỳ lạ... Á... hức, ừm... Aaaaah...！」"
+    },
+    {
+        "sentence": "[律子「]::それは……はっ、あぁ……あふっ……んンー……」",
+        "translation": "Ritsuko「Đó... hức, á... a... ừm...」"
+    },
+    {
+        "sentence": "[律子「]::ひぃあっ……ひゃっ、アアァッ！」",
+        "translation": "Ritsuko「Híii á... Hự, Aaaaaah...!」"
+    },
+    {
+        "sentence": "[律子「]::はあぅっ、はっ……あっ、ぁ……わ、分からないって……言ってる、のに……」",
+        "translation": "Ritsuko「Á... á... hức... Á, á... T-Tôi nói là tôi không hiểu... mà...」"
+    },
+    {
+        "sentence": "[律子「]::あァッ、ハッ……ァッ！　ンッ……アゥ、ゥゥゥッ……！！」",
+        "translation": "Ritsuko「Áaaaaaah, hức... Á! Ưm... Áuu, ùuuuuu...!!」"
+    },
+    {
+        "sentence": "[律子「]::そ、それは……ンッ……お、お尻がっ……ぅっ、あ……」",
+        "translation": "Ritsuko「Đó... Ưm... C-chỗ đó... á... Ư... á...」"
+    },
+    {
+        "sentence": "[律子「]::あぁっ……」",
+        "translation": "Ritsuko「Áaa...」"
+    },
+    {
+        "sentence": "[律子「]::ね、ねえ……」",
+        "translation": "Ritsuko「N-này...」"
+    },
+    {
+        "sentence": "[律子「]::うぅっ……ぅぅっ……」",
+        "translation": "Ritsuko「Ư... ư...」"
+    },
+    {
+        "sentence": "[律子「]::な、何の用！？」",
+        "translation": "Ritsuko「G-Gì vậy?!」"
+    },
+    {
+        "sentence": "[律子「]::い、いやっ……！」",
+        "translation": "Ritsuko「K-Không...！」"
+    },
+    {
+        "sentence": "[律子「]::え……い、いえ……」",
+        "translation": "Ritsuko「Ư... K-Không...」"
+    },
+    {
+        "sentence": "[律子「]::あ……あなたがいつも……変な悪戯をするから……」",
+        "translation": "Ritsuko「À... Tại vì em lúc nào cũng... trêu chọc những trò đùa kỳ quặc...」"
+    },
+    {
+        "sentence": "[律子「]::や、やめてちょうだい……また、そんな事を……」",
+        "translation": "Ritsuko「Khoan, đừng có làm thế nữa đi mà... Lại nữa rồi...」"
+    },
+    {
+        "sentence": "[律子「]::く……」",
+        "translation": "Ritsuko「... Khụ...」"
+    },
+    {
+        "sentence": "[律子「]::……趣向？」",
+        "translation": "Ritsuko「......Khẩu vị?」"
+    },
+    {
+        "sentence": "[律子「]::な、なに…………？」",
+        "translation": "Ritsuko「C-chuyện gì…………?」"
+    },
+    {
+        "sentence": "[律子「]::この部屋に……？」",
+        "translation": "Ritsuko「Vào căn phòng này……?」"
+    },
+    {
+        "sentence": "[律子「]::天文部の部室……よね……？」",
+        "translation": "Ritsuko「Đây là phòng sinh hoạt câu lạc bộ Thiên văn... đúng không... ạ...?」"
+    },
+    {
+        "sentence": "[律子「]::……ここで……何をするつもりなの？」",
+        "translation": "Ritsuko「……Ở đây……em định làm gì?」"
+    },
+    {
+        "sentence": "[律子「]::ねえ……何を探してるの？」",
+        "translation": "Ritsuko「Này... em đang tìm gì vậy?」"
+    },
+    {
+        "sentence": "[律子「]::……これは何なの？」",
+        "translation": "Ritsuko「... Cái này là cái gì vậy?」"
+    },
+    {
+        "sentence": "[律子「]::メ、メイド服ですって？」",
+        "translation": "Ritsuko「Cái gì... đồ hầu gái ư?」"
+    },
+    {
+        "sentence": "[律子「]::ちょ、ちょっと待ってよっ、どうして私がメイド服なんか……」",
+        "translation": "Ritsuko「Khoan, khoan đã! Sao tôi lại phải mặc đồ hầu gái chứ...」"
+    },
+    {
+        "sentence": "[律子「]::べ、別に断るとか……そういうつもりで言ったんじゃ……」",
+        "translation": "Ritsuko「T-tôi không có ý định từ chối hay gì... chỉ là...」"
+    },
+    {
+        "sentence": "[律子「]::う……わ、分かったわよ……着替えれば、いいんでしょ……」",
+        "translation": "Ritsuko「Ư... Được rồi, tôi hiểu rồi... Chỉ cần thay đồ là được, đúng không...」"
+    },
+    {
+        "sentence": "[律子「]::こんな、服……着るなんて……」",
+        "translation": "Ritsuko「Mặc bộ đồ... như thế này...」"
+    },
+    {
+        "sentence": "[律子「]::……え？　ブラジャーを？」",
+        "translation": "Ritsuko「... Hả? Áo lót ư?」"
+    },
+    {
+        "sentence": "[律子「]::……ええ」",
+        "translation": "Ritsuko「... Ừm」"
+    },
+    {
+        "sentence": "[律子「]::これで……いいのかしら？」",
+        "translation": "Ritsuko「Với bộ đồ này... là được rồi sao?」"
+    },
+    {
+        "sentence": "[律子「]::ぅ……」",
+        "translation": "Ritsuko「...Ư...」"
+    },
+    {
+        "sentence": "[律子「]::そ、んな……」",
+        "translation": "Ritsuko「Th-thế ư……」"
+    },
+    {
+        "sentence": "[律子「]::……何の話？」",
+        "translation": "Ritsuko「......Chuyện gì vậy?」"
+    },
+    {
+        "sentence": "[律子「]::なっ……！？」",
+        "translation": "Ritsuko「Hả……!?」"
+    },
+    {
+        "sentence": "[律子「]::くっ……あ、あなたって人は……」",
+        "translation": "Ritsuko「Chậc…… a, em đúng là đồ……」"
+    },
+    {
+        "sentence": "[律子「]::ほ、奉仕って？」",
+        "translation": "Ritsuko「H-hầu hạ á?」"
+    },
+    {
+        "sentence": "[律子「]::なっ、なっ……お、お尻を舐めろですってっ！？」",
+        "translation": "Ritsuko「C-cái gì…… em bảo tôi…… liếm mông của em ư?!」"
+    },
+    {
+        "sentence": "[律子「]::ま、待って……待ちなさいよ……ほ、本気なの？」",
+        "translation": "Ritsuko「K-khoan đã…… Chờ đã nào…… Em, em nghiêm túc đấy ư?」"
+    },
+    {
+        "sentence": "[律子「]::そんな……嫌よ、お尻を舐めるなんて……」",
+        "translation": "Ritsuko「Không…… Tôi không muốn, liếm mông ư……」"
+    },
+    {
+        "sentence": "[律子「]::で、出来ないわ……嫌よ、絶対に無理だわ……」",
+        "translation": "Ritsuko「Vậy thì... tôi không làm được đâu... Không, tuyệt đối không thể nào...」"
+    },
+    {
+        "sentence": "[律子「]::えっ……ちょ、ちょっと」",
+        "translation": "Ritsuko「Ể…… Khoan, đợi đã」"
+    },
+    {
+        "sentence": "[律子「]::何をバカな事を言ってるの？　は、放してっ！」",
+        "translation": "Ritsuko「Em đang nói cái trò ngu ngốc gì vậy? Thả tôi ra!」"
+    },
+    {
+        "sentence": "[律子「]::やっ、まっ、待ってっ！　引っ張らないでっ！　ああっ！」",
+        "translation": "Ritsuko「Khoan, chờ đã! Đừng kéo tôi! Áaa!」"
+    },
+    {
+        "sentence": "[律子「]::ああっ、ダ、ダメッ！　外から……」",
+        "translation": "Ritsuko「Áaa, k-không được! Bên ngoài...」"
+    },
+    {
+        "sentence": "[律子「]::い、いやっ、許してっ！　お願い、言う事を聞くからっ……」",
+        "translation": "Ritsuko「K-không, tha cho tôi đi! Làm ơn, tôi sẽ nghe lời mà...」"
+    },
+    {
+        "sentence": "[律子「]::あぁ……」",
+        "translation": "Ritsuko「Àa...」"
+    },
+    {
+        "sentence": "[律子「]::ぅぅっ……ぅ、ぅぅ……」",
+        "translation": "Ritsuko「...Ư...ư...ư...」"
+    },
+    {
+        "sentence": "[律子「]::あぅ……か、硬いわ……それに、すごく熱いっ……」",
+        "translation": "Ritsuko「A... Ư... cứng quá... Với cả, nóng ran cả lên...」"
+    },
+    {
+        "sentence": "[律子「]::うぅう……ぅ……」",
+        "translation": "Ritsuko「Ư... ư... ư...」"
+    },
+    {
+        "sentence": "[律子「]::うっ……く……ふぅ……ん……」",
+        "translation": "Ritsuko「Ư... ư... phù... ừ...」"
+    },
+    {
+        "sentence": "[律子「]::ちるっ……るっ……」",
+        "translation": "Ritsuko「Chụt... Chụt...」"
+    },
+    {
+        "sentence": "[律子「]::きゃっ……！？」",
+        "translation": "Ritsuko「Á...!?」"
+    },
+    {
+        "sentence": "[律子「]::急に、ペニスがビクッてしたから……い、今のは、私……何か間違った事をしたかしら……？」",
+        "translation": "Ritsuko「Bởi vì... dương vật của... em đột nhiên giật mạnh... Vừa rồi... là tôi... đã làm gì sai sao...?」"
+    },
+    {
+        "sentence": "[律子「]::そ、そう……ええ……そう、よね……」",
+        "translation": "Ritsuko「Ờ... ừm... Ừm... Đúng, đúng rồi...」"
+    },
+    {
+        "sentence": "[律子「]::うぅ、く……分かってるわよ……んっ……るっ……ちるっ……」",
+        "translation": "Ritsuko「Ưu... ư... Tôi... biết rồi... Ưm... ưm... ưm...」"
+    },
+    {
+        "sentence": "[律子「]::んぅ……れぅる……んっ、ぺる……」",
+        "translation": "Ritsuko「Ưm... ưm... Ưm... nhụt nhịt...」"
+    },
+    {
+        "sentence": "[律子「]::え……」",
+        "translation": "Ritsuko「Ư...」"
+    },
+    {
+        "sentence": "[律子「]::だ、だって……こんな……やっぱり、おかしいわ……排泄器官を舌で舐めるなんて……」",
+        "translation": "Ritsuko「K-không... như thế này... đúng là quá kỳ cục... liếm cái cơ quan bài tiết bằng lưỡi...」"
+    },
+    {
+        "sentence": "[律子「]::わ、私は違うわよ……お尻の穴なんて、好きじゃないのに……感じるかもしれないけど……べ、別に好きな訳じゃ……」",
+        "translation": "Ritsuko「T-tôi không giống vậy... Tôi không thích cái lỗ hậu môn này... Có lẽ tôi có thể cảm nhận được... n-nhưng không có nghĩa là tôi thích nó...」"
+    },
+    {
+        "sentence": "[律子「]::ほ、本当に違うのよ……好きじゃない、好きじゃないのよ……」",
+        "translation": "Ritsuko「T-thật sự không phải vậy đâu... Tôi không thích, tôi không thích nó đâu...」"
+    },
+    {
+        "sentence": "[律子「]::え……こ、これは……」",
+        "translation": "Ritsuko「Ơ... cái này là...」"
+    },
+    {
+        "sentence": "[律子「]::ア、アナル……ビーズ……？」",
+        "translation": "Ritsuko「A... bi hậu môn... ưm...?」"
+    },
+    {
+        "sentence": "[律子「]::こんな物を、お、お尻に入れるの？」",
+        "translation": "Ritsuko「Cái... cái thứ này, lại nhét vào hậu môn ư?」"
+    },
+    {
+        "sentence": "[律子「]::あぁ……そ、そんな無茶ばかり言って……また、私のお尻を虐めるつもりなのね……」",
+        "translation": "Ritsuko「À... nói những lời vô lý như vậy... Lại định hành hạ cái mông của tôi nữa sao...」"
+    },
+    {
+        "sentence": "[律子「]::ほ、本当？　それは本当なのね？」",
+        "translation": "Ritsuko「Thật... thật sao? Chuyện đó là thật ư?」"
+    },
+    {
+        "sentence": "[律子「]::え、ええ……やるわ。でも、約束は守ってよ」",
+        "translation": "Ritsuko「Ư, ừm... Tôi sẽ làm. Nhưng, phải giữ lời hứa đấy nhé.」"
+    },
+    {
+        "sentence": "[律子「]::ええ……」",
+        "translation": "Ritsuko「Ư...」"
+    },
+    {
+        "sentence": "[律子「]::ンッ、んん……クッ、ン……」",
+        "translation": "Ritsuko「Ư, ừm... Cứ, ừm... Khụ, ư...」"
+    },
+    {
+        "sentence": "[律子「]::うぅ、く……えっ……一個だけど……」",
+        "translation": "Ritsuko「Ư, khụ... Hả... Chỉ một cái thôi ạ...」"
+    },
+    {
+        "sentence": "[律子「]::そ、そんな……十個だなんて……うぐっ、ンッ……んンッ……んんーー……」",
+        "translation": "Ritsuko「C-Chuyện đó... Mười cái cơ á... Ư, ưm... Ưm! ...Ưmm...」"
+    },
+    {
+        "sentence": "[律子「]::ハッ、はぁぁ……はぁっ、はっ……」",
+        "translation": "Ritsuko「Hah, haaa... Hah, hah...」"
+    },
+    {
+        "sentence": "[律子「]::あぅ……ンッ、ゥッ……んンッ……」",
+        "translation": "Ritsuko「Âu... Ưm, ứ... Ưm...」"
+    },
+    {
+        "sentence": "[律子「]::んん……ちるるっ……える、るっ……ちゅれろぉ……」",
+        "translation": "Ritsuko「Ưm... Ưm... Đút vào đi... Đút vào đi...」"
+    },
+    {
+        "sentence": "[律子「]::ちるっ、ちろっ……はぁ、ふぅん……るぅ、れるる……んふっ、ふぅん……んふぅうン……」",
+        "translation": "Ritsuko「Chụt, chụt... haa, hừm... Ưm, ừm... Nnph, hừm... Nnphuuuun...」"
+    },
+    {
+        "sentence": "[律子「]::そ、そんな……それは、別に……関係ないわ……ちゅっ、ちぃるるっ……れぇるっ、ちるぅん……」",
+        "translation": "Ritsuko「K-không thể nào... chuyện đó, không liên quan gì đến... Chụt, chừ rừ... rừ, chừ...」"
+    },
+    {
+        "sentence": "[律子「]::ち、違うわよ……わ、私はただ……はぁ、は……あなたを、早く満足せて、解放されたいだけだから……はぁぁ……」",
+        "translation": "Ritsuko「K-không phải vậy đâu... T-tôi chỉ... haa, ha... chỉ muốn nhanh chóng làm thỏa mãn em, rồi được giải thoát thôi... haaa...」"
+    },
+    {
+        "sentence": "[律子「]::くぅっ……ん、んン……れるっ、ちるちろっ……ぺる、ぺろぺろっ、ちゅぺろっ、れろぉぉっ……」",
+        "translation": "Ritsuko「Ưk... Ưm, ừm... Ưm, chụt chụt... Liếm, liếm liếm... Chụt liếm, liếm ừoooo...」"
+    },
+    {
+        "sentence": "[律子「]::んっ、んンー……んぶっ、んんンッ……」",
+        "translation": "Ritsuko「Ưm, ừm... Ực, ừm ừm ức...」"
+    },
+    {
+        "sentence": "[律子「]::んンンンッ、んっ、ふぅンッ！　ンッ、ンッ！　ん、んンッ！」",
+        "translation": "Ritsuko「Ưmmmm, ưm, phùuuun! Ưm, ưm! Ưm, ưmmm!」"
+    },
+    {
+        "sentence": "[律子「]::んんー……はぁ、あっ……感じてるのね……」",
+        "translation": "Ritsuko「Ưm... haa, á... Em đang cảm nhận thấy à...」"
+    },
+    {
+        "sentence": "[律子「]::もっと、するから……早く射精して……ちゅっ、ちゅぢゅぅ……ふぅっん、んふぅンっ……ちゅずっ、ちゅずずーーっ！」",
+        "translation": "Ritsuko「Tôi sẽ làm Em sướng hơn nữa... Nhanh lên, xuất tinh đi Em... Tiếng *chụt* rồi *chù chụ* ướt át vang lên khi cô mút mạnh hơn. *Phùn*, một tiếng thở dốc đầy dục vọng thoát ra, *ừm phùn*... Cô nuốt sâu và kéo mạnh, tạo ra tiếng *chù zứt*, rồi *chù zứ zứ――!*」"
+    },
+    {
+        "sentence": "[律子「]::んんぅ……あぁ、ペニスが、ビクビクしてるわっ……根元から、ビクッて脈打って……」",
+        "translation": "Ritsuko「Ưm... Á, dương vật của Em đang run lên... Nó đang đập mạnh từ tận gốc rễ...」"
+    },
+    {
+        "sentence": "[律子「]::ねっ……お尻の穴も、私の唾液で濡れて……すごく、ひくついてるのっ……もう、ペニス、イキそうなんでしょ……？」",
+        "translation": "Ritsuko「Này... Hậu môn của Em cũng ướt đẫm nước bọt của tôi... Nó đang co thắt dữ dội lắm đó... Sắp muốn bắn rồi phải không Em...？」"
+    },
+    {
+        "sentence": "[律子「]::ペニスが、腫れて、苦しそうだわ……ねぇ、ザーメン、出るんでしょ……ほらっ、出して……精液出してっ……」",
+        "translation": "Ritsuko「Dương vật của Em sưng lên và trông thật khó chịu... Này, tinh dịch, sắp ra rồi phải không Em... Nhanh lên, xuất ra đi... Xuất tinh ra đi Em...」"
+    },
+    {
+        "sentence": "[律子「]::いいわ……このまま、イカせてあげる……お尻を舐めて、イカせてあげるからっ……」",
+        "translation": "Ritsuko「Được rồi... Cứ thế này đi, tôi sẽ cho Em bắn... Tôi sẽ liếm hậu môn và làm cho Em bắn ra đây...」"
+    },
+    {
+        "sentence": "[律子「]::れろれろっ、れぅるっ……ちゅぷっ、ずるぷっ、ちゅろっ、れるろ……ちゅるるぅん……」",
+        "translation": "Ritsuko「Liếm liếm, liếm liếm... Chụp chụp, rút rút, liếm liếm, liếm liếm... Chụt chụt... Chụt chụt..."
+    },
+    {
+        "sentence": "[律子「]::ひぁっ！　あはぁあっ！」",
+        "translation": "Ritsuko「Ách! Aaaaaah...」"
+    },
+    {
+        "sentence": "[律子「]::あっ、ああっ！　ちょ、ちょっとっ……ダメッ！　な、なにっ……こんなっ、急に……あっはっ、あぁああっ！！」",
+        "translation": "Ritsuko「Á, aaaa! Chờ, chờ đã... Không được! Gì, gì thế này... Đột nhiên... như vậy... A ha, aaaaaaaa!!」"
+    },
+    {
+        "sentence": "[律子「]::うぅ、うぅぅ……くぅぅぅぅ……」",
+        "translation": "Ritsuko「Ư, ư ư... K-kuuuuuu......」"
+    },
+    {
+        "sentence": "[律子「]::んっ、んぅうう……れるっ、るるっ……ちるっ……」",
+        "translation": "Ritsuko「Ưm, ưuuu... r-ru... ru... ch-chiru...」"
+    },
+    {
+        "sentence": "[律子「]::ちゅっ……ちゅぷぁっ！　あ、あぁあっ！　ダ、ダメッ！　や、やっぱり、ダメよぉぉっ……！」",
+        "translation": "Ritsuko「Chụt... Chụt chụt! A, áaaa! Kh-không được! T-tôi... tôi thật sự không được đâuuuu...!!」"
+    },
+    {
+        "sentence": "[律子「]::うくぅっ、ううっ……そ、そう言われても……あっ、うっ……ちゅっ、ちゅるぷ……ん、あっ！　やっ！　ハァァッ！」",
+        "translation": "Ritsuko「Ưkuuu, ưuu... D-dù Takuya nói vậy... Á, ư... Chụt, chu-chựp... Ưn, á! Y-yah! Ha-aaahh!」"
+    },
+    {
+        "sentence": "[律子「]::す、するわ……お尻、舐める……ささ、先に、イ、イカせるんだから……ハッ、ハァ、ハァァッ……」",
+        "translation": "Ritsuko「T-tôi... tôi sẽ làm... Tôi sẽ liếm mông... N-nhanh lên, tôi sẽ cho Em bắn ra trước... Hức, hức, hức...」"
+    },
+    {
+        "sentence": "[律子「]::ハァ、ハァ……射精して、早くぅ……んっ、れぅる……ぺろぺろっ、ちるっ、ぺろぉぉんっ……お願いっ……！」",
+        "translation": "Ritsuko「Hức, hức... Takuya, bắn ra đi, nhanh lên... Ưn, r-ru... chu-chựp, chựp... chu-chựp... làm ơn...!!」"
+    },
+    {
+        "sentence": "[律子「]::え……あっ、はっ……こ、これは違うっ……ち、違うのぉ……」",
+        "translation": "Ritsuko「Ư... Ưm... Khụ... Cái này... cái này là sai rồi... Sai rồi màaa...」"
+    },
+    {
+        "sentence": "[律子「]::うぅぅ……も、もうやめて……そんな事、言わないでっ……」",
+        "translation": "Ritsuko「Ưu ưu... Đ-đừng nữa... Đừng nói những lời như vậy...」"
+    },
+    {
+        "sentence": "[律子「]::んっ、ちゅる……ふぁ、あっ、ハッ……ハアアアッ！」",
+        "translation": "Ritsuko「Ưm, ực... Ựaaaa... Ưm... Ưm... Haaaaa!」"
+    },
+    {
+        "sentence": "[律子「]::あっ、ダメッ……アァッ！　さ、先にイッちゃったらッ……ハッ！　アァッ！　ダ、ダメッ、なのにィィッ！！」",
+        "translation": "Ritsuko「Ư... Không... Ưaaaa! T-Tôi... tôi mà đạt trước thì... Hức! Ưaaaa! K-Không được, nhưng màaa!!」"
+    },
+    {
+        "sentence": "[律子「]::いぃ、やっ……アァッ！　イッ、イッちゃうっ、ハッ……アハァッ、あンッ！　あンンンッ！！」",
+        "translation": "Ritsuko「Ưưm, a... Ưaaa! Sắp, sắp đạt đến rồi, Hức... Ahaaa, ưm! Ưmmm!!」"
+    },
+    {
+        "sentence": "[律子「]::そ、んなっ……お、お尻でッ！　ま、またイクッ、なんてっ……あふっ、んっふぅっ……ンンッ！」",
+        "translation": "Ritsuko「Kh-Không... Đ-Đương nhiên rồi! L-Lần nữa ư... A fù,  ưm fū... Ưm!」"
+    },
+    {
+        "sentence": "[律子「]::ああっ、ダメぇっ……ああっ、はぁっ……ダメなにのっ……あぁっ……イクッ、イッちゃうぅっ……あっ、ああッ……！」",
+        "translation": "Ritsuko「Ưaaa, không... Ưaaa, hức... Không được mà... Ưaaa... Sắp, sắp đạt đến rồi... Ư... Ưaaa!」"
+    },
+    {
+        "sentence": "[律子「]::イヤぁっ、こんな、ああぁっ……イク、ああぅっ……きちゃう、お尻でイッちゃううう……！」",
+        "translation": "Ritsuko「Ưaaa, không... Ưaaaa... Sắp, sắp đạt đến rồi, ưaa... ưaa... Tôi sắp đạt đến rồi, tôi sẽ đạt đến với cái mông nàyyyy...!」"
+    },
+    {
+        "sentence": "[律子「]::んぁあッ！　あふッ、あふぁぁぁぁーーーッ……！！」",
+        "translation": "Ritsuko「Ưaaa! A fù, afaaaaaaーーーッ...!」"
+    },
+    {
+        "sentence": "[律子「]::あっ、あっふぅあ……イッ、イッちゃった……おぉ、お尻でッ……穴でっ、イッっちゃったのぉぉ……」",
+        "translation": "Ritsuko「Ah, ahh fūā... Đã, đã đạt đến rồi... Ooh, với cái mông... Với cái lỗ... Tôi đã đạt đến rồi đóooo...」"
+    },
+    {
+        "sentence": "[律子「]::あぅ……ん、んんン……お尻の穴、はっ……ひっ、ひぃあ……イッた……きぃ、ひっ、気持ち、よかった……のぉ……」",
+        "translation": "Ritsuko「Auu... Nn, nnn... Lỗ... Của... tôi... hức... Hiiiiaaa... Đã... đạt... đến... rồi... Khụ, hức, Thích... thật... quá... đó...」"
+    },
+    {
+        "sentence": "[律子「]::はぁ……あ、あぁ……わ、私の……負け、なの……？」",
+        "translation": "Ritsuko「Hức... Ưaaa... T-tôi... thua... rồi sao...?」"
+    },
+    {
+        "sentence": "[律子「]::……良かった？」",
+        "translation": "Ritsuko「...Tốt chứ?」"
+    },
+    {
+        "sentence": "[律子「]::そ、そう……なの、かしら……はぁ、はぁ……」",
+        "translation": "Ritsuko「V-Vậy... vậy sao... có lẽ... Hức, hức...」"
+    },
+    {
+        "sentence": "[律子「]::んむっ！？　んっ、むむむ……！」",
+        "translation": "Ritsuko「Ưm!? Ưm, mừm mừm...!」"
+    },
+    {
+        "sentence": "[律子「]::ん、ンンッ、ふぅン……あ、ああ……お尻の穴……舐めればいいのねっ……ぺろ、ちるぺろっ、れるっ、ぺるるっ……」",
+        "translation": "Ritsuko「Ưm, ưn ừn, phuuun... Aaa... Hậu môn... là thứ em phải liếm phải không...? Liếm, chựp liếm, liếm, liếm liếm...」"
+    },
+    {
+        "sentence": "[律子「]::ちゅむぅ……ふっ、ンぅん……あぁ、すごいわッ……ペニス、こんなに脈打たせてしまってッ……ハァッ、ふゥン……」",
+        "translation": "Ritsuko「Chù mừ... hức, ừn ừn... Aaa, thật là tuyệt vời... Dương vật, đã khiến nó đập thình thịch thế này rồi... Haa, phuuun...」"
+    },
+    {
+        "sentence": "[律子「]::えぇ、扱くわっ……ペニス、扱いて……お尻の穴もっ、もっと……ちゅぶっ、ちゅずるっ、ずずっ、ちゅずぅぅーーっ……！」",
+        "translation": "Ritsuko「Vâng, tôi sẽ mút mà...! Dương vật, tôi sẽ mút nó...! Cả hậu môn nữa, tôi sẽ mút sâu hơn nữa...! Chùp chùp, chụt chụt, zù zù, chùuuuuuut...!」"
+    },
+    {
+        "sentence": "[律子「]::あっ、はああっ……ペニスが、脈打ってるッ……もうすぐ、私の手に、射精されちゃうっ……はっ、ハァッ……」",
+        "translation": "Ritsuko「A! Haaah... Dương vật đang đập thình thịch này... Sắp sửa bắn vào tay tôi rồi... Haa! Haaah...」"
+    },
+    {
+        "sentence": "[律子「]::んぅっ、れるぅ……んっ、ちゅっ、れる……ちゅずずっ……！」",
+        "translation": "Ritsuko「Ưm ưm, nnn... Ưm, chụt, nnn... chụt ụt ụt...！」"
+    },
+    {
+        "sentence": "[律子「]::ちゅっ……ちゅぶぷっ、れるっ……んンンッ！」",
+        "translation": "Ritsuko「Chụt... Chụpbụp, nnn... nnnn!」"
+    },
+    {
+        "sentence": "[律子「]::はぁあっ、あっああっ……」",
+        "translation": "Ritsuko「Haaah, aah aah...」"
+    },
+    {
+        "sentence": "[律子「]::あぁあっ、で、出てるわっ……熱い、ザーメンッ……わ、私の手の中でッ……ドクドクッ、出てるのぉっ……！」",
+        "translation": "Ritsuko「Aaah! Nó ra rồi... Tinh dịch nóng hổi... Tôi, trong tay tôi đây này... Thình thịch, nó đang ra ngoài...!」"
+    },
+    {
+        "sentence": "[律子「]::熱い……精液が、手の中にいっぱいだわ……あ、あぁ……こんなに、出されたら、匂いが染み付いちゃう……」",
+        "translation": "Ritsuko「Nóng quá... Tinh dịch đã đầy cả lòng bàn tay tôi rồi... A, aá... Nếu bị xuất ra nhiều thế này, mùi hương sẽ bám lấy tôi mất...」"
+    },
+    {
+        "sentence": "[律子「]::私の手、ペニスの汁でドロドロだわ……これじゃあ、洗っても落ちない……ザーメンの匂いが取れなくなっちゃうっ……」",
+        "translation": "Ritsuko「Tay tôi, giờ toàn là thứ nước dính như bùn của dương vật... thế này thì có rửa cũng không sạch được mất... Mùi tinh dịch sẽ ám lấy tôi mất thôi...」"
+    },
+    {
+        "sentence": "[律子「]::ハァ、ハァァ……ァァァァ…………」",
+        "translation": "Ritsuko「Haa, haaa... Aaaaaa...........」"
+    },
+    {
+        "sentence": "[律子「]::ちゅるぅ……れるぅっ……えっ……こ、れは？」",
+        "translation": "Ritsuko「Chựlù... Lều rừ... Ư... cái này... là cái gì?」"
+    },
+    {
+        "sentence": "[律子「]::そ、そんな……こんな事したら、ブラジャーが汚れちゃうのに……ぁっ……はぁ……」",
+        "translation": "Ritsuko「K-không thể nào…… Nếu làm thế này, áo lót của tôi sẽ bị bẩn mất…… Á... haa……」"
+    },
+    {
+        "sentence": "[律子「]::ああぁ……いっぱい、出てるっ！　熱い、ザーメンがっ……わ、私のブラにっ、びゅくびゅくっ……かかってるぅぅっ……！」",
+        "translation": "Ritsuko「Aaaah... Nhiều quá, nó đang ra rồi! Tinh dịch nóng bỏng... Ơ, bắn hết vào áo lót của tôi rồi... bùm bùm... ahhh...!」"
+    },
+    {
+        "sentence": "[律子「]::熱い精液が……ブラにいっぱい……あぁ、あっ……こんなに、かけられたら、中まで染み込んじゃう……」",
+        "translation": "Ritsuko「Tinh dịch nóng bỏng quá... Đầy cả trong áo lót rồi... À, áh... Nếu bị bắn nhiều thế này, nó sẽ thấm sâu vào bên trong mất thôi...」"
+    },
+    {
+        "sentence": "[律子「]::ペニスの汁で、ドロドロだわ……あぅぅ……こんなになってっ……もう、着けられなくなっちゃったっ……」",
+        "translation": "Ritsuko「Đầy cả dịch dương vật rồi, đặc sệt cả ra... Aaaah... Lại thế này rồi... Em không thể đeo nó vào được nữa rồi...」"
+    },
+    {
+        "sentence": "[律子「]::あ……ぁぁ、ハッ……あぁ……」",
+        "translation": "Ritsuko「À... Àaaa, Hức... Àa...」"
+    },
+    {
+        "sentence": "[律子「]::はぁ……あ、あぁぁぁぁぁぁ…………」",
+        "translation": "Ritsuko「Haa... Aaaa.............」"
+    },
+    {
+        "sentence": "[律子「]::はぅ……ぅぅ……あぅぅ……」",
+        "translation": "Ritsuko「Hức... Ưm... A...」"
+    },
+    {
+        "sentence": "[律子「]::……え？　な、何が……悪くないの……？」",
+        "translation": "Ritsuko「...Hả? C-Cái gì... không tệ à...?」"
+    },
+    {
+        "sentence": "[律子「]::……褒める？」",
+        "translation": "Ritsuko「...Khen?」"
+    },
+    {
+        "sentence": "[律子「]::……ぅぅぅ…………」",
+        "translation": "Ritsuko「……Ư ư…………」\n"
+    },
+    {
+        "sentence": "[律子「]::うっ……クッ……」",
+        "translation": "Ritsuko「Ư… Khụ…」\n"
+    },
+    {
+        "sentence": "[律子「]::こ、こんな格好、させられたんだからっ……！」",
+        "translation": "Ritsuko「Tôi... Tôi bị bắt mặc cái bộ dạng này đấy...！」"
+    },
+    {
+        "sentence": "[律子「]::あぅ……うっ……少し、ぐらい……おぉ、遅れても、しょうがないっ、じゃないッ！」",
+        "translation": "Ritsuko「Ư... ư... Chỉ một chút thôi mà... ồ, có đến muộn một chút... cũng đâu có sao... chứ hả!」\n"
+    },
+    {
+        "sentence": "[律子「]::な、何よ……ぁぅぅ……ぅ……」",
+        "translation": "Ritsuko「C.. Cái gì chứ... ư... ư...」\n"
+    },
+    {
+        "sentence": "[律子「]::うくっ……うっ、うぅ……」",
+        "translation": "Ritsuko「Ư... ư... ư...」\n"
+    },
+    {
+        "sentence": "[律子「]::だって……逆らったりしたら……余計に、酷い事……されそうだったから……ぅ……く……」",
+        "translation": "Ritsuko「Tại...tại vì...nếu mà chống đối...thì...tôi sẽ còn bị...cậu làm...những chuyện...tồi tệ hơn nữa...ư...ư...」\n"
+    },
+    {
+        "sentence": "[律子「]::え……どういう意味？」",
+        "translation": "Ritsuko「Ế... ý cậu là sao?」"
+    },
+    {
+        "sentence": "[律子「]::そ、そんな事よりっ……」",
+        "translation": "Ritsuko「K-Không, hơn chuyện đó thì...」"
+    },
+    {
+        "sentence": "[律子「]::いつの間に、こんな物を私のロッカーに入れていたの？」",
+        "translation": "Ritsuko「Từ lúc nào mà cậu lại bỏ cái thứ này vào tủ đồ của tôi vậy?」"
+    },
+    {
+        "sentence": "[律子「]::あ、呆れた人ね……よくそんな事を……」",
+        "translation": "Ritsuko「Ôi, đúng là hết nói nổi... Sao cậu có thể nói ra những lời như vậy chứ...」"
+    },
+    {
+        "sentence": "[律子「]::そ、そんな自慢、聞きたくないわ……」",
+        "translation": "Ritsuko「T-Tôi không muốn nghe cậu khoe khoang đâu……」"
+    },
+    {
+        "sentence": "[律子「]::結構だわっ……！　どうせ、また、イヤらしい話をする気でしょう！？」",
+        "translation": "Ritsuko「Đủ rồi đấy……! Đằng nào thì cậu cũng lại định giở trò đồi bại nữa chứ gì!?」\n"
+    },
+    {
+        "sentence": "[律子「]::ないって言ってるでしょう？！　どうせ、ろくでもない話に決まってるわっ！！」",
+        "translation": "Ritsuko「Tôi đã bảo là không rồi mà?! Đằng nào thì cũng lại là chuyện chẳng ra gì thôi!!」\n"
+    },
+    {
+        "sentence": "[律子「]::クッ……や、やめてよ……あなたが着ろって言ったんでしょ……」",
+        "translation": "Ritsuko「Ư... ư, đừng mà……Chẳng phải cậu bảo tôi mặc sao……」"
+    },
+    {
+        "sentence": "[律子「]::い、いくつって……全部、よ……」",
+        "translation": "Ritsuko「T... bao nhiêu ư...... Tất cả, là tất cả......」"
+    },
+    {
+        "sentence": "[律子「]::そうよ……お、おかしい？」",
+        "translation": "Ritsuko「Vậy... t, tôi có kỳ quặc lắm không?」"
+    },
+    {
+        "sentence": "[律子「]::ち、違うわよっ！」",
+        "translation": "Ritsuko「Đ... đâu có phải vậy đâu!」\n"
+    },
+    {
+        "sentence": "[律子「]::だって……そうしないと……」",
+        "translation": "Ritsuko「Tại... tại vì nếu tôi không làm vậy thì...」"
+    },
+    {
+        "sentence": "[律子「]::だ、だから……全部入れないと……その……お、お尻の穴から……ハミ出しちゃうじゃない……」",
+        "translation": "Ritsuko「K... Không phải tại...... Nếu tôi không nhét hết...... thì...... cái kia...... nó, nó tràn ra khỏi...... lỗ hậu mất......」"
+    },
+    {
+        "sentence": "[律子「]::うぅ……違うって、言ってるのに……」",
+        "translation": "Ritsuko「Ư... Tôi đã bảo là không phải mà...」"
+    },
+    {
+        "sentence": "[律子「]::い、いやよ……やめてっ、もう、恥ずかしい事を言わないでッ……」",
+        "translation": "Ritsuko「K... Không... Đừng mà... Dừng lại đi... Thôi, đừng có nói mấy chuyện xấu hổ đó nữa......」\n"
+    },
+    {
+        "sentence": "[律子「]::酷い……ひ、酷いわ……どうして、そんな事ばかり言うの……うぅっ……ちゃんと、言う事を聞いてるのに……」",
+        "translation": "Ritsuko「Tệ quá... t, tệ thật... Sao cậu cứ nói mấy chuyện đó hoài vậy...... ư...... Tôi đã nghe lời cậu rồi mà......」"
+    },
+    {
+        "sentence": "[律子「]::あぅ……ぁっ……」",
+        "translation": "Ritsuko「Ư... á...」"
+    },
+    {
+        "sentence": "[律子「]::うっ……い、いやぁ……」",
+        "translation": "Ritsuko「Ư... Không, không đâu...」\n"
+    },
+    {
+        "sentence": "[律子「]::あぅ、くぅ……お尻、見ないで……」",
+        "translation": "Ritsuko「Ư... khụ... Đừng có nhìn... mông tôi...」\n"
+    },
+    {
+        "sentence": "[律子「]::やぁ、やめて……気に入ってなんか、いる訳、ないでしょ……」",
+        "translation": "Ritsuko「Ấy, dừng lại đi...... Đâu có...... Đâu có thích gì chứ......」"
+    },
+    {
+        "sentence": "[律子「]::はぅう……クッ、うぅう……」",
+        "translation": "Ritsuko「Hức... Khụ, ư...」"
+    },
+    {
+        "sentence": "[律子「]::あ、あれは、違うわ……そんなんじゃ、なくて……」",
+        "translation": "Ritsuko「À, không phải, không phải thế...... Không phải như vậy......」\n"
+    },
+    {
+        "sentence": "[律子「]::あぅ……うぐ……」",
+        "translation": "律子「A... Ư...」\n"
+    },
+    {
+        "sentence": "[律子「]::……思い知らせるって……な、何を？」",
+        "translation": "Ritsuko「......Trừng phạt...... là, là cái gì chứ?」"
+    },
+    {
+        "sentence": "[律子「]::あっ……いやぁっ……！」",
+        "translation": "Ritsuko「A... Ư... Không...!」\n"
+    },
+    {
+        "sentence": "[律子「]::あぁぁっ……！」",
+        "translation": "Ritsuko「Ahhhh……！」\n"
+    },
+    {
+        "sentence": "[律子「]::いやぁ……いやよぉ……見ちゃ、いやぁぁぁ……」",
+        "translation": "Ritsuko「Không...... Không muốn đâu...... Đừng nhìn, không muốn mà......」"
+    },
+    {
+        "sentence": "[律子「]::はァッ！　あゥンッ！」",
+        "translation": "Ritsuko「Haaa! Ư ư!」"
+    },
+    {
+        "sentence": "[律子「]::あぅっ、くふっ……あっ、あンッ！」",
+        "translation": "Ritsuko「Ư... Khư... Á... Ah!」\n"
+    },
+    {
+        "sentence": "[律子「]::あっ！　ダメッ、やはぁ……お、押し込まないでッ……ヒッ、ぃいんっ！　つつか、ないでェッ！」",
+        "translation": "Ritsuko「A! Không được, ưm...... Ô, đừng có nhét vào...... Hức, ư ư! Đừng, đừng có chạm vào mà!」\n"
+    },
+    {
+        "sentence": "[律子「]::ひあぅふッ……！　お、お願いッ、やめっ……ハァッ！　パール、動かさないでっ……うふゥッ！　ふぅああっ！」",
+        "translation": "Ritsuko「Hự... Ư... Xin, xin cậu đấy, dừng lại đi... Haa!... Ngọc trai, đừng có di chuyển nó mà... Ư ư!... Ư á!」"
+    },
+    {
+        "sentence": "[律子「]::ハァッ、ハァッ……はぁあぁっ……フ、フゥゥ……」",
+        "translation": "Ritsuko「Ha... ha... haaaa... phù, phù...」"
+    },
+    {
+        "sentence": "[律子「]::うぅっ、い、いやよぉ……許して、いやぁっ……お尻はいやっ、お尻は……イヤ、なのぉぉ……」",
+        "translation": "Ritsuko「Ư... Không, tôi không muốn... Xin cậu, đừng mà... Tôi không muốn ở mông đâu, ở mông thì... Tôi không muốn mà...」"
+    },
+    {
+        "sentence": "[律子「]::えぇ……？」",
+        "translation": "Ritsuko「Hả...?」"
+    },
+    {
+        "sentence": "[律子「]::……っ！　ま、待ってッ！」",
+        "translation": "Ritsuko「……っ！　Khoan, đợi đã!」"
+    },
+    {
+        "sentence": "[律子「]::んぁっ！　ンゥアアアッ！！」",
+        "translation": "Ritsuko「Á! Ưaaah!!」"
+    },
+    {
+        "sentence": "[律子「]::ちょっと待ってッ！　ぬかっ、はぁんッ！　抜かない、でッ……アッ！　んっふぅぅっ！！」",
+        "translation": "Ritsuko「Chờ, chờ đã! Ư... Ah! Đừng, đừng rút ra... A! Ư... ư...!!」\n"
+    },
+    {
+        "sentence": "[律子「]::ひっ、んひぃいッ！　お、お尻の穴からっ、ぽこっ、ぽこって……あふっ、はっ、はぁっ……あああっ！」",
+        "translation": "Ritsuko「Hức, ư ư ư...! Ở, ở lỗ hậu môn, bóc, bóc tách... tràn, hộc, hộc... aaaa!」\n"
+    },
+    {
+        "sentence": "[律子「]::ふぃっ、いぃいっ！？　あぐっ、ぐっ、ぐううううっ！！」",
+        "translation": "Ritsuko「Khự, ư ư ư...!? Ách, ư, ư ư ư...!!」\n"
+    },
+    {
+        "sentence": "[律子「]::いぃ、いやっ！　い、意地悪、しないでッ……抜いて、それッ！　は、早くッ、お尻の穴からっ、抜い、てェェッ……！」",
+        "translation": "Ritsuko「Kh-không! Đ-đừng mà, xấu tính quá…… Bỏ ra đi, cái đó! Nhanh lên, bỏ ra khỏi lỗ hậu của tôi đi…… bỏ ra đi……!」\n"
+    },
+    {
+        "sentence": "[律子「]::うふあっ！　あっあああああーーーーーっ！！」",
+        "translation": "Ritsuko「Ư... ư... á á á á á á á á á á!!」"
+    },
+    {
+        "sentence": "[律子「]::はっ、はぁ、はぁっ、はぁぁ……」",
+        "translation": "Ritsuko「Hộc, hộc, hộc, hộc……」\n"
+    },
+    {
+        "sentence": "[律子「]::えぇ……い、いやよ……も、もう許して……もう、お尻になんか……な、何も入れないで……お願い……」",
+        "translation": "Ritsuko「E hèm…… k-không muốn…… x-xin tha cho tôi…… làm ơn, đừng cho cái gì vào hậu môn tôi nữa…… xin cậu đấy……」"
+    },
+    {
+        "sentence": "[律子「]::な、なによそれっ！？」",
+        "translation": "Ritsuko「C-cái, cái gì thế hả!?」"
+    },
+    {
+        "sentence": "[律子「]::そうじゃなくて……な、なんなの？」",
+        "translation": "Ritsuko「Không phải vậy…… c-cái gì thế này!?」"
+    },
+    {
+        "sentence": "[律子「]::ま……まさか、それをっ……」",
+        "translation": "Ritsuko「K-không lẽ, là cái đó……」"
+    },
+    {
+        "sentence": "[律子「]::あくぅっ！　くっ、ウウゥゥーーーッ！！」",
+        "translation": "Ritsuko「Ách! Ư... Ư... Ư...!!」\n"
+    },
+    {
+        "sentence": "[律子「]::おぐっ！　うぐぐっ！　おうぅッ！　グゥッ！　あぅぐッ！」",
+        "translation": "Ritsuko「Ư... á! Ư... ư! Oaa...!! Ư! Á ư...!!」\n"
+    },
+    {
+        "sentence": "[律子「]::ぐふぅっ、うっううっ！　ゴ、ゴツゴツ、したのがっ、お尻っ……いっ！　おぅ、おっ、おひりにぃぃっ……！」",
+        "translation": "Ritsuko「Ư... hự, ư... ư... ư! C-cái gì đó c-cứng, gồ ghề, ở... mông tôi... đau...! Ôi, ở, ở mông tôi...!」\n"
+    },
+    {
+        "sentence": "[律子「]::んっぐうっ！　んぁうっ！　フゥッ！　フゥゥーーッ！！」",
+        "translation": "Ritsuko「Ư... ừ! Á... á! Phu! Phu...!」"
+    },
+    {
+        "sentence": "[律子「]::あぅく、くはぁんっ！　ニ、ニンジンッ！　ニンジンがっ、はっ！　ニィ、ニッ、ニンジンーーッ！！」",
+        "translation": "Ritsuko「Ư... á, khốn... khốn kiếp...! C-cà rốt...! Cà rốt, á...! C-c-cà rốt...!!」"
+    },
+    {
+        "sentence": "[律子「]::えぁっ……ちょ、ちょっと待ってッ……ああっ！」",
+        "translation": "Ritsuko「Ư... Chờ, chờ một chút... Ư...!!」"
+    },
+    {
+        "sentence": "[律子「]::ひぃやぁぁぁぁぁーーーーーっ……！！」",
+        "translation": "Ritsuko「Á á á á á á á á á ーーーーーっ……！！」"
+    },
+    {
+        "sentence": "[律子「]::あっ、うぅンンッ！　は、はいってくるっ……ア、アソコにも、はっ、あ……硬い、ゴツゴツがっ、入ってッ……！」",
+        "translation": "Ritsuko「A, ư ư ッ! Nó, nó vào rồi... A, cả chỗ đó nữa, hự, a... Cứng, cộm cộm, vào rồi...!」"
+    },
+    {
+        "sentence": "[律子「]::ダ、ダメよっ、許してっ、抜いてぇっ……ど、同時に入れる、なんてっ……はぁっ、ひっ、ず、するいわっ……」",
+        "translation": "Ritsuko「K, không được đâu! Tha cho tôi! Rút ra đi! C, cậu lại còn nhét vào cả hai lỗ cùng lúc thế này sao... Hự, hức, th, thật là quá đáng mà...!」"
+    },
+    {
+        "sentence": "[律子「]::そぉ、そんなっ……ウサギは、お、お尻の穴でッ、ニ、ニンジンなんて、食べない、わっ……！」",
+        "translation": "Ritsuko「K-không, không thể nào... Thỏ thì, k-không, không đời nào lại ăn c, củ cà rốt bằng lỗ hậu... đâu...!」"
+    },
+    {
+        "sentence": "[律子「]::な、なかでっ、ゴツゴツがっ、こ、こすれてッ……あうっ、くっ！　こ、こすれあってる……ひぃっ、いひいっ！」",
+        "translation": "Ritsuko「Ư, ư ư, bên trong, cộm cộm, cọ xát... Ây da, ư! C, cọ xát vào nhau... Hức, ih ih!」"
+    },
+    {
+        "sentence": "[律子「]::あふっ、や、めてぇっ！　じゅ、順番に、ズブズブッて、し、しちゃやあっ……あふぅ、ひっ！　あんっ、はんんっ！」",
+        "translation": "Ritsuko「Ư ư, d, dừng lại đi mà...! T, từ từ thôi, cứ từ từ mà đút vào, ư ư... Ư hừ, hức! Ư, ư ư!」"
+    },
+    {
+        "sentence": "[律子「]::おぁっ、あぅううああああっ！！」",
+        "translation": "Ritsuko「Oaaaa, á á á á á!!」\n"
+    },
+    {
+        "sentence": "[律子「]::そんなにっ、ひっ、ふ、深くッ！　ンンッ！　ア、アナル、ダメぇっ、オマンコもっ……だ、ら、らめぇぇぇっ！！」",
+        "translation": "Ritsuko「K-không, sâu quá... Hức, hức, sâu quá...! Ư ư...! Â, hậu môn, không được, cả âm đạo nữa... K-không, k-không chịu được...!」\n"
+    },
+    {
+        "sentence": "[律子「]::あぁはっ、ニ、ニンジングリグリ、しないでぇっ、えっ！　アナルも、マンコもっ、え、えぐられちゃうっ！　やっ、やぁぁっ！」",
+        "translation": "Ritsuko「Aaa... Đ-đừng, đ-đừng có cà rốt xoay xoay nữa, ư! Cả hậu môn, cả âm đạo nữa, ư, sẽ bị khoét mất... Ư, ư ư!」\n"
+    },
+    {
+        "sentence": "[律子「]::あっあぁっ、だ、だってっ……ニンジンが、アナルっ、ズボズボするからぁっ……あンッ、ふぅ……あっはぁあン……」",
+        "translation": "Ritsuko「Á á à, k-kh-không... Tại, tại vì... Cà rốt, ở hậu môn, cứ đâm vào, đâm vào... Ư... phù... á haaa...」"
+    },
+    {
+        "sentence": "[律子「]::うぅっ、あっ、それはっ、あっ！　マ、マンコもっ、ズボッてっ！　ハッ、アァッ！　あゥンッ！　ひぃぁあアンッ！！」",
+        "translation": "Ritsuko「Ư ư, á, cái đó, á! Â, âm đạo cũng, chụt chụt...! Haa, aaaa! Ư ư ư! Hiiii aaaa!!」\n"
+    },
+    {
+        "sentence": "[律子「]::ハァ、アァァッ！　ダメッ、ダメ、なのッ！　そ、んなにッ！　されたらッ……わたしっ、ひっ、ぃいいっ！　もうッ……！！」",
+        "translation": "律子「Haa, aaaa! Không, không được mà! K-không được nhiều như vậy! Nếu cứ thế này... tôi, hức, íiii! Đủ rồi...!!」\n"
+    },
+    {
+        "sentence": "[律子「]::あぁっ！　はっ、ヒィイッ！　も、もうダメッ！　もうダメッ！　ア、アナルがっ、オマンコがッ！　イッ、ヒッ！　クゥゥゥッ……！！」",
+        "translation": "律子「Aaa! Haa, hiiii! K-không chịu nổi nữa! Không chịu nổi nữa! A, hậu môn, âm đạo...! I, hiii! Kuuuuu...!!」"
+    },
+    {
+        "sentence": "[律子「]::ひああっ！　はぁあああぁぁぁぁーーーーーっ！！」",
+        "translation": "律子「Hyaaa! Haaaaaaa!!」\n"
+    },
+    {
+        "sentence": "[律子「]::あふぁっ、あっふぅあっ！　はっ、あぁはあっ……」",
+        "translation": "律子「A... á... a...\n"
+    },
+    {
+        "sentence": "[律子「]::はぁ、はぁっ、はっ、はぁっ……」",
+        "translation": "律子「Haa, haa, ha... haa...」\n"
+    },
+    {
+        "sentence": "[律子「]::私、イッちゃった……はぁ、あぁっ……ニンジンで、犯されてッ……はン、あぁん……イ、イッちゃったのぉぉ……」",
+        "translation": "Ritsuko「Tôi... ra rồi... ha... a... bị cà rốt... xâm phạm... ưm... a... tôi, tôi ra mất rồi...」"
+    },
+    {
+        "sentence": "[律子「]::んふっ……ふっ、ふぅうんん……」",
+        "translation": "Ritsuko「Ư... ư... ư...」\n"
+    },
+    {
+        "sentence": "[律子「]::う、うん……わかったわぁ……」",
+        "translation": "Ritsuko「Ư, ừm... Tôi hiểu rồi...」"
+    },
+    {
+        "sentence": "[律子「]::あぁ、あっ！　あぁぁーーーーんっ！！」",
+        "translation": "Ritsuko「A... A! Aaaaaaa...!!」\n"
+    },
+    {
+        "sentence": "[律子「]::あぅふっ、あっ、あぁんっ！　アナルっ、ほじられてるぅっ……はんっ、あぅんんっ！　硬いのがっ、刺さってるのぉっ！！」",
+        "translation": "律子「Â... ư... A... aaaa...!! Hậu môn... bị ngoáy... ư... hức... Ư... ư... Cái vật cứng... đang đâm vào...!!」"
+    },
+    {
+        "sentence": "[律子「]::んっあぁっ！　あ、熱いわっ！　お、お尻が熱いのぉっ！」",
+        "translation": "Ritsuko「Ư... aaaa...! A, nóng quá...! Ô, cái mông tôi nó nóng quá...!!」"
+    },
+    {
+        "sentence": "[律子「]::硬い、ペニスがっ、お尻をエグッて……あふっ、ンンッ！　熱いっ、あっ、ハッ！　チンポでっ、熱くなっちゃうぅうんっ！！」",
+        "translation": "律子「Cứng quá, dương vật, đang khoét vào mông tôi... Ư... ư... Nóng quá, a... hộc...!! Cái dương vật, làm tôi nóng hết cả lên... ư... ư...!!」\n"
+    },
+    {
+        "sentence": "[律子「]::あんンッ、はぁンッ……お尻、いいのっ、あぁっ……お尻が、良くてッ、マンコも、ひくついちゃうっ！　あぁはんっ！」",
+        "translation": "律子「Ân... ưm... Ôi trời, cái mông, thích quá... Aaa... Cái mông thật tuyệt, cả cái lồn nữa, co rút hết cả rồi...! Aaa... ưm...!」\n"
+    },
+    {
+        "sentence": "[律子「]::んっ、んっンーー！　あんっ、はんっ！　はぅんんっ！！」",
+        "translation": "律子「Ư... ư... ư...!! Ân... hộc...!! Hự... ư...!!」\n"
+    },
+    {
+        "sentence": "[律子「]::はぁふっ、あふっ！　んぅっ、うっ……だ、だってぇっ……あっ、んんっ！　お尻を、あっ、うっ！　えぐらっ、れるからっ！」",
+        "translation": "律子「Hộc... hộc, ách... ách! Ư... ư... Đ, đ... tại... a... ưm... ưm! Cái mông, a... ư! Bị khoét... khoét sâu quá rồi...!」"
+    },
+    {
+        "sentence": "[律子「]::ペニスが、アナルを擦るのが……た、たまらないのぉっ！　ニンジンで、蓋してるのにっ……マンコから、マン汁溢れちゃうぅッ！」",
+        "translation": "律子「Cái dương vật, cọ xát vào hậu môn tôi... ư... thật không chịu nổi mà...! Tôi đã dùng cà rốt để bịt lại rồi mà... dâm dịch từ lồn vẫn cứ trào ra...!」\n"
+    },
+    {
+        "sentence": "[律子「]::あぁひあっ、はぁあんっ、んんっ！　掻き回してっ、もっと……してェッ！　ぶっといチンポでッ、もっと突いてぇぇぇっ……」",
+        "translation": "Ritsuko「Ah, hự... ha... ưm...! Xoáy mạnh vào đi, mạnh hơn nữa... nữa đi...! Với cái dương vật to lớn đó, đâm mạnh hơn nữa đi...!」\n"
+    },
+    {
+        "sentence": "[律子「]::きもち、いいのっ！　あ、アナルがっ、お尻の穴がッ！　突いてっ、えぐってっ！　犯してえぇっ……はぁああんっ……！」",
+        "translation": "Ritsuko「Ư... thích quá...! A, hậu môn, cái lỗ hậu của tôi...! Thọc vào đi, khoét sâu vào đi...! Làm nhục tôi đi... ha... a...!」"
+    },
+    {
+        "sentence": "[律子「]::はぁふっ！　あぁ、あぁあんんっ！！」",
+        "translation": "律子「Ha... hộc! A... a... á...!!!」\n"
+    },
+    {
+        "sentence": "[律子「]::はぁあはっ……ダ、ダメッ！　そこはっ、ハッ、アァッ……オ、オッパイは、ダメッ、ェッ……あぁあっ！」",
+        "translation": "律子「Ư... ư... không... chỗ đó... hự... a...! Ngực, ngực thì không, ư... a...！」"
+    },
+    {
+        "sentence": "[律子「]::やぁ、あぁんっ、オッパイ、ダメぇぇ……そんな、あんっ、アンッ！　揉まないでッ、あぁあんっ！」",
+        "translation": "Ritsuko「Ôi, á... ngực... không... đừng mà... Ôi... á... Á! Đừng xoa... á... á!」"
+    },
+    {
+        "sentence": "[律子「]::あふぅっ、くっ、んんーっ！　オッ、オッパイッ、ひぃあっ、あっ……感じるッ、あんンンーッ！」",
+        "translation": "Ritsuko「Â... ư... Kh... ư... ư... Ngực... ư... á... a... Cảm... thấy... á... ư... ư...!」\n"
+    },
+    {
+        "sentence": "[律子「]::それはっ、ハァッ、あンッ……ミルクッ、んっ、ふぅんっ！　ミルクが、いっぱい、つまってるのぉ……」",
+        "translation": "Ritsuko「Cái đó, ha... á... Sữa... ư... phù... Sữa... đầy... bên trong tôi...」"
+    },
+    {
+        "sentence": "[律子「]::ヒァッ！　ひゃっ、ああっ！」",
+        "translation": "Ritsuko「Hự... hự, a... a!」\n"
+    },
+    {
+        "sentence": "[律子「]::あぁ、はぁあんっ、ダッ、ダメぇっ！　乳首、いじったらっ……ミルク出ちゃうっ！　ミルクが、出ちゃうぅぅっ！」",
+        "translation": "Ritsuko「A... ha... ưm... Đ... đừng mà...! Đầu nhũ hoa, nếu cậu mà nghịch... sữa sẽ chảy ra...! Sữa, sẽ chảy ra mất...!」"
+    },
+    {
+        "sentence": "[律子「]::んぅ、ンンッ！　い、いやよぉっ……そ、そんなのっ！　オッパイ、出るなんてッ！　あふぅンッ！　はぁあんっ！」",
+        "translation": "Ritsuko「Ư... ư ư...! K... không... không muốn...! C... cái đó...! Ngực, chảy sữa ra mất...! A phù... ư...! Ha... ưm...!」"
+    },
+    {
+        "sentence": "[律子「]::あっ！　あぁんっ、あんっ！　あっはぁあんっ！」",
+        "translation": "Ritsuko「Á! A... ưm, ưm! A ha... ưm!」"
+    },
+    {
+        "sentence": "[律子「]::はぁっ、んぁああンッ！　そんなっ、奥まで突かれて……オッパイまでっ……あふっ、うぅんっ、揉まれ、たらァッ！」",
+        "translation": "Ritsuko「Haa... ư... áaa... ư...! Đ... đừng mà, đâm sâu quá rồi... đến cả ngực nữa... á... ư ư... bị xoa nắn...!」"
+    },
+    {
+        "sentence": "[律子「]::あふぅあんっ！　ダ、メッ！　あん、あっ！　ち、乳首がっ、痺れてッ！　はひっ、ひっ！　あぁ、ああっ！！」",
+        "translation": "Ritsuko「A phù... ư ư! Đ... đ... đừng mà! Ư... á! Ch... chóp ti, tê quá...! Hức... hức...! A... áaa!!」"
+    },
+    {
+        "sentence": "[律子「]::いぁひっ、ひゃぐっ、んンゥっ！　な、かでっ……こ、擦れてるッ！　ニンジンと、チンポが、擦れてッ……ウゥアアアッ！」",
+        "translation": "Ritsuko「Ư... á... ư... ư! Ư ư! Ở... bên trong... c... cọ xát...! Cà rốt với... dương vật, đang cọ xát...! Ư... áaaaaaa!」\n"
+    },
+    {
+        "sentence": "[律子「]::あぁっ、ひっ！　チンポが、よくてッ！　あぁあっ！　オ、オッパイが、ふくらむッ！　熱いのっ、のぼって、くるッ！　んんっ！」",
+        "translation": "Ritsuko「Ah... hức! Chim của cậu, sướng quá...! Ah... á! Ng... ngực tôi, căng lên...! Nóng quá... dâng lên... ưm...!」"
+    },
+    {
+        "sentence": "[律子「]::ふぅううっ！　で、出ちゃうッ！　もう、出ちゃうぅぅうっ！　ミルクがっ、お乳がっ！　デルッ！　出るゥゥゥゥゥーーーッ！！」",
+        "translation": "Ritsuko「Hộc... hộc...! Ra... ra mất...! Ôi, ra mất thôi...! Sữa... sữa...! Bắn...! Bắn raaaaaaa!!」\n"
+    },
+    {
+        "sentence": "[律子「]::はあはぁああぁぁーーーーーーーーっ……！！」",
+        "translation": "Ritsuko「Hộc... hộc... á... áaaaaaa...!!」"
+    },
+    {
+        "sentence": "[律子「]::あっあぁああっ、出てるっ、んんんっ！　わ、わたしっ……お乳、噴いてるっ！　ハァッ、ハァァンッ！」",
+        "translation": "Ritsuko「A... a... á... bắn rồi, ư... ư...! T... tôi... sữa, đang phun...! Hộc... hộc...!」"
+    },
+    {
+        "sentence": "[律子「]::んはぁっ、あああっ！　も、もうダメッ！　はっ、ひぃっ！　オ、オッパイ、それ以上っ、搾らないでっ……ええっ！」",
+        "translation": "Ritsuko「Ư... á... a...! K... không... không chịu được nữa...! Hộc... hic...! Ng... ngực, đừng... đừng vắt nữa...! Ư... ư!」"
+    },
+    {
+        "sentence": "[律子「]::ハァッ、ハァァ……あひ、ひぃ……はぁひぃぁぁぁ……」",
+        "translation": "Ritsuko「Hộc... hộc... a... hic...!」\n"
+    },
+    {
+        "sentence": "[律子「]::はひっ！？　ひぃいいいんっ！！」",
+        "translation": "Ritsuko「H... hức!? Hiiiiiiin...!」\n"
+    },
+    {
+        "sentence": "[律子「]::んいぃ、いいっ……まま、待って……お、お尻の……ひぃ、しっ……しげきっ……つ、強過ぎるぅぅッ！！」",
+        "translation": "Ritsuko「Ư... ư... thích quá... khoan đã... ư, ở... ở mông... hức... ư... kích thích... mạnh... mạnh quá rồi...!」\n"
+    },
+    {
+        "sentence": "[律子「]::んぃあっ！　あぃあっ！　あぐっ！　ふぃっ！　ひぃいっ！」",
+        "translation": "Ritsuko「Ư... á... Á... á... hự... phù... híc...!」"
+    },
+    {
+        "sentence": "[律子「]::あぅふぅんっ！　またっ、はぁっ！　そ、そんなにっ、オッ、オッパイを、揉んでッ！　あん、あぁんんっ！」",
+        "translation": "Ritsuko「Ư... ư... lại nữa rồi, hả...! Ư, ư... đừng mà, ư, ư... xoa... xoa ngực tôi nữa...! Ư... á... á...!」"
+    },
+    {
+        "sentence": "[律子「]::あやぁっ！　はわぁっ！　あふっ、んふうっ！　はぅふうっ！」",
+        "translation": "Ritsuko「A... á! Ha... á! Â... ư... Hự... ư!」\n"
+    },
+    {
+        "sentence": "[律子「]::はぁっ、あんっ、そうなのぉっ、ぉおんっ！　何度も、イッてっ！　ひぁっ！　あっ、もうぅ、何も、考えられないっ！」",
+        "translation": "Ritsuko「Hức, ưm, đúng vậy, ư ư...! Nhiều, nhiều lần rồi...! Híc! A, không, tôi không nghĩ được gì nữa rồi...!」\n"
+    },
+    {
+        "sentence": "[律子「]::いぅ、くっ！　うぅ、んんっ！　わた、しっ……はぁっ、あんっ、このままぁ、あっ……またっ、イキそうっ、うぅっ！」",
+        "translation": "Ritsuko「Ư... Khục...! Ư... ư...! Tôi... Tôi... Hức... Ưm... Cứ thế này... A...! Lại... sắp ra mất... ư...!」\n"
+    },
+    {
+        "sentence": "[律子「]::んんぅっ、そんなぁっ……あっ、はっ！」",
+        "translation": "Ritsuko「Ư... ư... Không thể nào... A, hộc...!」\n"
+    },
+    {
+        "sentence": "[律子「]::お、お尻の中っ、なんて出されたらっ、あっ、はぁっ……わたし、ぃいっ、また、イッちゃうぅっ……」",
+        "translation": "Ritsuko「Ư, nếu mà cậu bắn vào bên trong hậu môn tôi... a... hức... tôi, thích quá... lại, sắp ra nữa rồi...」"
+    },
+    {
+        "sentence": "[律子「]::あぅっ、んんあっ！　あっ、ダメッ！　ハァッ、あはぁっ！　あっ！！　ひぃあんっ！」",
+        "translation": "Ritsuko「Â... ưm a...! A... Không được...! Hộc... a ha...! A...! Hư... á...!」\n"
+    },
+    {
+        "sentence": "[律子「]::ハァッ、ンゥンッ！　も、うっ、ダメッ、えっ！　あっ！」",
+        "translation": "律子「Haa... Ư ư...! K... Không được... A...! A...!」\n"
+    },
+    {
+        "sentence": "[律子「]::お尻ッ、フゥッ、アッ！　マンコもっ、擦れてッ！　イヒィッ！　イッ、いちゃう……イッちゃうぅぅっ……！！」",
+        "translation": "律子「Mông... phù... a...! Âm đạo cũng... cọ xát...! Ihi...! Ư... tôi ra... tôi ra mất...!!」\n"
+    },
+    {
+        "sentence": "[律子「]::あひゃあっ、あへぇあっ！　あっ、ひっ、いいいっ！！」",
+        "translation": "律子「Ah... á, ah...! A... ư... sướng quá...!!」\n"
+    },
+    {
+        "sentence": "[律子「]::ひゃひっ、ひっ、ヒィイッ！　出てるッ、うっ、ンンッ！　あっついの、ドクドクッ、おひりの穴にっ、出てるぅうっ！」",
+        "translation": "Ritsuko「Hya... hức... Hiiii! Ra rồi, ư... ưm... Nóng quá, từng đợt từng đợt, bắn vào lỗ hậu của tôi, ra rồi... ư ư ư!」\n"
+    },
+    {
+        "sentence": "[律子「]::おぁっ、あへぁっ、ひゃぐっ！　にひぃいっ！　すごいっ、いっ、すごいのぉおっ！　お尻の奥が、あっついっ、熱いィィィッ……！！」",
+        "translation": "Ritsuko「Oa... a... á... hic! Nh... nhức nhối! Tuyệt vời, ư... tuyệt vời quá...!! Sâu bên trong hậu môn, nóng... nóng quá đi...!!」\n"
+    },
+    {
+        "sentence": "[律子「]::ハッ、ハァッ……ハァ……ァ……ぁぁぁぁぁ……」",
+        "translation": "Ritsuko「Hộc... ha... hộc... a... aaaaaaa...」\n"
+    },
+    {
+        "sentence": "[律子「]::あぁぁ……いっぱい……いっぱいイッちゃったぁ……」",
+        "translation": "Ritsuko「A... a... Tôi ra... ra nhiều quá...」"
+    },
+    {
+        "sentence": "[律子「]::ビュクビュク、ペニスから……お尻の、穴に……ザーメン注がれてっ……何回もっ……はぁ、あぁ……イッちゃったのぉお……」",
+        "translation": "Ritsuko「Bục... bục, từ dương vật... vào lỗ hậu của tôi... tinh dịch bắn vào... nhiều lần... ha... a... tôi... tôi ra mất thôi...」"
+    },
+    {
+        "sentence": "[律子「]::はぁ……あぁ……はっ……ぁ……」",
+        "translation": "Ritsuko「Haa... a... ha... a...」\n"
+    },
+    {
+        "sentence": "[律子「]::んはぁっ、あっ……」",
+        "translation": "Ritsuko「Hn... A...」"
+    },
+    {
+        "sentence": "[律子「]::そ、そんな……む、無理よ、今は無理っ……お、お願い、少し休ませてっ……あっ、あっ！？」",
+        "translation": "Ritsuko「K-không... k-không thể nào... k-không được, giờ không được... L-làm ơn, cho tôi nghỉ một chút đi... A... A!?」\n"
+    },
+    {
+        "sentence": "[律子「]::はぁっ、ひうぅ……くぅっ、はああっ……」",
+        "translation": "Ritsuko「Haa... hiuu... kuu... haaa...」"
+    },
+    {
+        "sentence": "[律子「]::はぁ、あぁあ……も、もうダメよ……こ、これ以上はっ、壊れちゃうっ……お願い、やめて……はぁ、はぁぁ……」",
+        "translation": "Ritsuko「Haa, aaaa... K-không... không chịu được nữa rồi... Hơn nữa thì... t-tôi hỏng mất... L-làm ơn, dừng lại đi... Haa, haaaa...」\n"
+    },
+    {
+        "sentence": "[律子「]::あぃひっ！　ひっ！　ダメェッ！　あぅっ、ダァメェッ……！！」",
+        "translation": "Ritsuko「Ư ư... Ư... Không được! Ư ư, không được mà...!!」\n"
+    },
+    {
+        "sentence": "[律子「]::ひぃっ、はひぃっ！　ひぃっ、ひぃぃぃっ！！」",
+        "translation": "Ritsuko「Hức, ha hức! Hức, hức hức!!」\n"
+    },
+    {
+        "sentence": "[律子「]::あひぃぃぃっ！？」",
+        "translation": "Ritsuko「Aa...!?」\n"
+    },
+    {
+        "sentence": "[律子「]::うはぁっ、あっ！　ビッ、ビクビクッ、させないでッ！　あふっ、あああっ！！」",
+        "translation": "Ritsuko「Ư... á! Đừng, đừng làm tôi run rẩy nữa! Ư... áaa!!」\n"
+    },
+    {
+        "sentence": "[律子「]::もう、ダメッ！　ほ、ほんとに、も、もうダメッ！　はぁっ、た、耐えられなひっ、ぎっ、かひっ、ひぃいっ……！」",
+        "translation": "Ritsuko「Không, không được nữa rồi! Thật, thật sự không được nữa rồi! Haa... không, không chịu được nữa rồi... ư... á... ư ư...!!」\n"
+    },
+    {
+        "sentence": "[律子「]::それはっ、はぁっ！　ぃひっ！　そ、はっ、あっ！　だ、からッ！　もうッ、ででっ、できなひっ、からはぁっ！！」",
+        "translation": "Ritsuko「Cái đó... hộc... á! Ư... ư... á! Kh... không, tại vì... Ư... Tôi... tôi không... không thể... nữa đâu... hộc...!!」\n"
+    },
+    {
+        "sentence": "[律子「]::ち、違うわよっ……そ、そんなんじゃないけど……無理……はぁ、はぁ……もう、無理なのよ……」",
+        "translation": "Ritsuko「Kh, không phải vậy đâu... Đ, đâu phải là như thế... Không được... Haa, haa... Tôi, tôi không chịu được nữa rồi...」"
+    },
+    {
+        "sentence": "[律子「]::ん、ぐっ……イッたばかりなのに……これ以上、イッたら、わたし、ヘンになるっ……おかしくなって、死んじゃう……」",
+        "translation": "Ritsuko「Ư... ư... Vừa mới ra xong mà... Nếu mà ra nữa... tôi... tôi sẽ lạ mất... Sẽ hỏng mất, chết mất...」"
+    },
+    {
+        "sentence": "[律子「]::だ、だからっ……お、お願いだから、休ませて……少し、経ったら、オマンコに、入れさせてあげる、からっ……」",
+        "translation": "Ritsuko「Đ, đừng mà... O, làm ơn... cho tôi nghỉ một chút đi... Một lát nữa thôi, tôi sẽ, cho cậu vào, âm đạo của tôi... nên là...」"
+    },
+    {
+        "sentence": "[律子「]::ひぃいっ！　ヒィイイィィィーーーッ！！」",
+        "translation": "律子「Híííííí! Híííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííí\nRitsuko「Ôi! Híííííííííííí!」\n"
+    },
+    {
+        "sentence": "[律子「]::あひっ、ひぃいやぁっ！　ゆ、許してッ！　あふっ、はひぃいっ！　許してッ、えぇえっ！！」",
+        "translation": "Ritsuko「Ah, ư ư…! Xin…xin cậu tha cho tôi! Ưm…ư ư…! Tha cho tôi đi…!」\n"
+    },
+    {
+        "sentence": "[律子「]::きぃはぁあっ、い、やあぁぁっ！！」",
+        "translation": "Ritsuko「Ư… Ư…! Ah…!」"
+    },
+    {
+        "sentence": "[律子「]::あひぃっ、ひっ、ひぃあっ！　ア、アソコが、えぐられるッ！　ふ、ひぃっ！　いやぁっ、アッ！　い、やぁあっ！！」",
+        "translation": "Ritsuko「Ah… ư…! Chỗ đó… chỗ đó của tôi bị khoét sâu rồi…! Ư…! Không…! Ah…! Ư…!」"
+    },
+    {
+        "sentence": "[律子「]::ダメェ、あぅ、ンンーーッ！　こ、壊れるッ、ひぐっ、うっ！　も、もうっ……わたしっ、壊れちゃうぅうっ！」",
+        "translation": "Ritsuko「Không… Ư… Ư…! Hỏng mất…! Hic…! Ư…! Không…! Tôi… tôi hỏng mất…!」"
+    },
+    {
+        "sentence": "[律子「]::あっはあっ！　あふぅんンッ！　は、はげしいわっ、ハッ！　はげし、過ぎるのッ！　ひぃっ、ハァッ！！」",
+        "translation": "Ritsuko「Á… á…! Ư… ư…! M… mạnh quá…! M… mạnh… mạnh quá rồi…! Hức…! Hộc…!」"
+    },
+    {
+        "sentence": "[律子「]::あぁンッ、ハッぁあんっ！　アンッ、あんぅうう……」",
+        "translation": "Ritsuko「Ah… ư…! Hộc… ah…! Ư… ư…」"
+    },
+    {
+        "sentence": "[律子「]::あぁっ、な、なにっ、コレッ！　はぁっ、あぁはんっ、すごいっ、ん……すごいっのぉっ！　あぅ、くっふぅんっ！」",
+        "translation": "Ritsuko「Ah… Cái, cái gì thế này…! Hộc… ah… Thật tuyệt… ư… tuyệt vời…! Ah… ư…!」\n"
+    },
+    {
+        "sentence": "[律子「]::んっ、はぁんっ！　か、感じるのぉっ、あぅっ、ふっ！　マンコっ、いいっ！　オマンコが、気持ちいいぃんっ！」",
+        "translation": "Ritsuko「Ư… Hộc…! C… cảm thấy rồi…! Ah… ư…! L…lỗ lồn… thích quá…! L…lỗ lồn, thật là sướng…!」"
+    },
+    {
+        "sentence": "[律子「]::あぃっ、ひぃうっ！　くっふっ、ふっ、クッ！！」",
+        "translation": "Ritsuko「Ah… ư…! Hức… ư…! Khục…!」\n"
+    },
+    {
+        "sentence": "[律子「]::ダ、ダメなのッ！　あ、はっ、や、やっぱり、と、止めてぇっ！」",
+        "translation": "Ritsuko「K… Không được…! A… Hộc… Ư… ư… dừng lại đi…!」"
+    },
+    {
+        "sentence": "[律子「]::くぃっ！　い、お、押し込まないでッ！　お、お腹を、押されたらっ……出ちゃうッ！　出ちゃうのぉッ！！」",
+        "translation": "Ritsuko「Khục…! K… Không, đừng… đừng có thúc sâu vào nữa…! B… bụng tôi, nếu mà bị thúc vào… sẽ… bắn mất…! Tôi bắn mất…!」"
+    },
+    {
+        "sentence": "[律子「]::んぐふっ、んっ！　そ、そうっ！　お、お尻の中のッ、あっついザーメンが、出そうッ！　も、漏れちゃいそうっ！」",
+        "translation": "Ritsuko「Ư… khực…! Ư…! Phải… đúng rồi…! T… trong hậu môn của tôi… Tinh dịch nóng hổi… sắp… bắn ra…! S… sắp trào ra mất…!」"
+    },
+    {
+        "sentence": "[律子「]::いやっ、おおぉ、押さないでぇっ！　ぜ、全部、出ちゃうッ！　お、お尻のがッ！　飛び出ちゃうゥゥッ！！」",
+        "translation": "Ritsuko「Không…! Ô… ôi, đừng mà, đừng đẩy nữa…! T… tất cả, sắp ra hết…! C… cái ở hậu môn…! Sắp bắn ra mất…!」"
+    },
+    {
+        "sentence": "[律子「]::んあっ！　あああああっーーーー……！！」",
+        "translation": "Ritsuko「Ư… á…! A… a… a…ーーーー……!!」\n"
+    },
+    {
+        "sentence": "[律子「]::くぅ……んんんんっ！　んぃっ、ひっ、くひぃぃぃっ！！」",
+        "translation": "Ritsuko「Ư… ư… ư…! Ư… ư… khục khục…!!」"
+    },
+    {
+        "sentence": "[律子「]::ひゃはああああああっ！！」",
+        "translation": "Ritsuko「Hya ha a a a a!!」\n"
+    },
+    {
+        "sentence": "[律子「]::ひぃあぁ、あぁぁ……で、出ちゃったぁ……お、お尻の中のチンポザーメンが、ぜ、全部、出ちゃったぁぁ……」",
+        "translation": "Ritsuko「H… a… a… ra… A… a… Tôi… Tôi ra mất rồi… Toàn bộ… toàn bộ tinh trùng dương vật trong… trong hậu môn của tôi… đã… đã bắn hết ra rồi…」"
+    },
+    {
+        "sentence": "[律子「]::はぁああ……えひぃ……ひっ、ひっ……」",
+        "translation": "Ritsuko「Haa a a… e hiii… hic, hic…」\n"
+    },
+    {
+        "sentence": "[律子「]::あ、かったぁいっ、ハッ、ハッ！　ま、また硬いニンジン入ってきたぁぁっ！」",
+        "translation": "Ritsuko「A… á… ưm… ưm! Lại… lại có củ cà rốt cứng ngắc chui vào nữa rồi…!」"
+    },
+    {
+        "sentence": "[律子「]::あぁっ、い、いいんっ！　お、美味しいっ、アナルが、ニンジン、美味しいのぉっ！」",
+        "translation": "Ritsuko「A… á… ưm… ưm! Ngon… ngon quá…! Hậu môn tôi… củ cà rốt… ngon quá…!」"
+    },
+    {
+        "sentence": "[律子「]::も、もっとぉっ、もっとしてぇっ！　マンコも、アナルもっ、もっと虐めてッ！　もっと、犯してえぇっ！！」",
+        "translation": "Ritsuko「Ư… ư… mạnh nữa đi… làm mạnh hơn nữa đi! Cái l** của tôi… cả cái lỗ đít nữa… hành hạ tôi mạnh hơn nữa đi! Mạnh hơn nữa… làm nhục tôi đi…!」\n"
+    },
+    {
+        "sentence": "[律子「]::あぁ、う、嬉しいッ！　あうっ、ひゃぁんっ！　今度はマンコに、チンポザーメン、くれるのねっ！」",
+        "translation": "Ritsuko「A… á… ư… ư… Tôi… tôi mừng quá! Ư… á… Cậu sẽ cho tinh trùng bắn vào l** của tôi lần nữa, đúng không!?」\n"
+    },
+    {
+        "sentence": "[律子「]::い、いいのぉっ、妊娠してもイイッ！　だ、だから、ちょうだいっ！　ザーメン、ちょうだぁいっ！」",
+        "translation": "Ritsuko「Ư… ư… cho… cho tôi có thai cũng được…! Vì… vì vậy… cho tôi đi…! Tinh trùng… cho tôi đi…!」"
+    },
+    {
+        "sentence": "[律子「]::あっつい、チンポザーメンを、ドポドポ注いでッ！　わたしの、おなかにっ、はぁ、あっ！　孕ませてぇえっ！」",
+        "translation": "Ritsuko「Nóng quá… đổ… đổ tinh trùng zamen của cậu vào người tôi đi…! Vào bụng tôi đi…! Hộc… a…! Làm tôi có thai đi…!」\n"
+    },
+    {
+        "sentence": "[律子「]::あひぃんっ！　はっひっ！　はぁっぁあああんっ！！」",
+        "translation": "Ritsuko「Ư… á… á…! Hộc… hộc…! A… a… a…!」"
+    },
+    {
+        "sentence": "[律子「]::す、ごおいぃっ！　くるっ、く、くるっ！　熱いの、いっ！　いっぱい、クルゥゥゥッ！！」",
+        "translation": "Ritsuko「S… sướng quá…! Vào… vào… vào sâu nữa đi…! Nóng quá…! Nhiều… nhiều nữa đi…!」"
+    },
+    {
+        "sentence": "[律子「]::チンポから、噴き出してッ！　へっ、えっ！　子宮に、ビチャビチャッ、かかってるっ、あんっ！　んんーーっ！！」",
+        "translation": "Ritsuko「Từ chim của cậu, phun ra đi…! Hức… ách…! Bắn vào… bắn đầy tử cung của tôi này…! Ư…! Ư… ư…!!」"
+    },
+    {
+        "sentence": "[律子「]::あはぁぁ……アフゥゥゥ……熱いわ……はぁ……マンコの奥が、チンポザーメンで……いっぱいになってるのぉぉ……」",
+        "translation": "Ritsuko「A… a… nóng quá… Ư… sâu bên trong âm đạo tôi, toàn là… toàn là tinh dịch của chim cậu… bắn đầy bên trong…」\n"
+    },
+    {
+        "sentence": "[律子「]::はぁぁ……はぁぁ、はぁ……はぁぁ……」",
+        "translation": "Ritsuko「Hộc… hộc… hộc… hộc…」"
+    },
+    {
+        "sentence": "[律子「]::うぅ、あぁ……イ、イカされた……アナルも、マンコも……数え切れないぐらい、イカされたぁぁ……」",
+        "translation": "Ritsuko「Ư… a… ư… sướng quá… Bắn… bắn vào tôi rồi… cả hậu môn lẫn âm đạo… đều bị bắn vào không biết bao nhiêu lần rồi… sướng quá đi mất…」"
+    },
+    {
+        "sentence": "[律子「]::はぁ、あ……は、はいぃぃ……」",
+        "translation": "Ritsuko「Hà… a… ư… vâng…」\n"
+    },
+    {
+        "sentence": "[律子「]::ど、奴隷……私は、どれい……」",
+        "translation": "Ritsuko「Đ… nô lệ… Tôi, là nô lệ…」\n"
+    },
+    {
+        "sentence": "[律子「]::はい、い……ご主人様……あぁ……私は、奴隷です……な、なんでも……命令、してください……」",
+        "translation": "Ritsuko「Vâng, ư… chủ… chủ nhân… a… Tôi… tôi là nô lệ… Cái… cái gì… cũng… xin hãy… ra lệnh… cho tôi…」"
+    },
+    {
+        "sentence": "[律子「]::ええ……早速だけど本題に入らせてもらうわ」",
+        "translation": "Ritsuko「À ừm... Tôi vào thẳng vấn đề luôn nhé」"
+    },
+    {
+        "sentence": "[律子「]::……っ！　きゃっ！？」",
+        "translation": "Ritsuko「...! Kyaa!?」"
+    },
+    {
+        "sentence": "[律子「]::あ、あなたがどうしてここにいるのよっ！？」",
+        "translation": "Ritsuko「Á, sao em lại ở đây!?」"
+    },
+    {
+        "sentence": "[律子「]::やっ、はなして……んっ、むぐ、ぐうっ！！」",
+        "translation": "Ritsuko「Không, thả tôi ra... Ư, ưm, ư...!!」\n"
+    },
+    {
+        "sentence": "[律子「]::……んむ……ん、んぐっ…？」",
+        "translation": "Ritsuko「……Ưm……ư, ư ư…?」\n"
+    },
+    {
+        "sentence": "[律子「]::あ、あぁっ！？」",
+        "translation": "Ritsuko「A, aaaa!?」\n"
+    },
+    {
+        "sentence": "[律子「]::いやぁ、あっ、なにするのっ！？」",
+        "translation": "Ritsuko「Không, á, em làm cái gì vậy!?」"
+    },
+    {
+        "sentence": "[律子「]::んっ、やぁっ……やだっ、あっ！」",
+        "translation": "Ritsuko「Ư… ư ư… không… đừng mà… á!」"
+    },
+    {
+        "sentence": "[律子「]::あぅっ、クッ、うぅっ！　い、痛いわっ……！」",
+        "translation": "Ritsuko「Ư… khục… ư… đau… đau quá…!」"
+    },
+    {
+        "sentence": "[律子「]::うっ、いやっ……はなしてっ！　はなしなさいっ！」",
+        "translation": "Ritsuko「Ư… không… bỏ tôi ra! Bỏ tôi ra ngay!」"
+    },
+    {
+        "sentence": "[律子「]::ひっ……あぁっ！！」",
+        "translation": "Ritsuko「Ư… á!」\n"
+    },
+    {
+        "sentence": "[律子「]::ひぃや……やっ、ぁぁ……お尻、ダメッ……そこはっ、さ、触らないでッ……」",
+        "translation": "Ritsuko「Hức… ư… á… đừng… đừng mà… mông… không được… chỗ đó… đừng, đừng chạm vào…」"
+    },
+    {
+        "sentence": "[律子「]::やめ、て……ダメ、ひっ……くっ！　お尻……しないで……」",
+        "translation": "Ritsuko「Đừng… không được… hức… ư… mông… đừng mà…」"
+    },
+    {
+        "sentence": "[律子「]::んぃっ、んぁっ！？」",
+        "translation": "Ritsuko「Ư… á!?」"
+    },
+    {
+        "sentence": "[律子「]::んっ、クゥッ……ん、んんーーーーーっ……！！」",
+        "translation": "Ritsuko「Ư… kh… ư… ư ư ư…!!」"
+    },
+    {
+        "sentence": "[律子「]::んぅ、ふっ、ふぅぅ……やだ、やぁ……ぬ、抜いてっ……抜きな、さいっ……！」",
+        "translation": "Ritsuko「Ư… phù… phù… không… đừng mà… lấy ra… lấy ra đi…!」"
+    },
+    {
+        "sentence": "[律子「]::んふっ、ふっ、ああっ……はっ、はぁっ、はっ、はぁぁっ……」",
+        "translation": "Ritsuko「Ngụm… khụ… aaaa… ha… ha… ha… haaaaa…」"
+    },
+    {
+        "sentence": "[律子「]::んはぅ……くっ、うっ……お、お尻……いやぁぁ……お願い、やめてぇっ……」",
+        "translation": "Ritsuko「Ư… ưm… khụ, ư… hậu môn… không… làm ơn, dừng lại đi…」"
+    },
+    {
+        "sentence": "[律子「]::はっ、あっ、ああ……い、や……はなし、てっ……あっ、ううっ、む、胸っ……そんなっ、揉まないでッ……ウゥッ……」",
+        "translation": "Ritsuko「Hộc, ách, a… Đừng… buông ra… Ách, ưư, ngực… Đừng có… nhào nặn như vậy… Ư…」"
+    },
+    {
+        "sentence": "[律子「]::お、お願い、やめて……本当に、やめなさいっ……」",
+        "translation": "Ritsuko「Ô, làm ơn, dừng lại…… Thật sự, dừng lại đi mà……」"
+    },
+    {
+        "sentence": "[律子「]::こんな、ところで……うっ、クッ……どうする、つもりなの？」",
+        "translation": "Ritsuko「Ở một nơi thế này sao… ưm, khụ… Cậu định làm gì đây?」"
+    },
+    {
+        "sentence": "[律子「]::……し、親切？」",
+        "translation": "Ritsuko「……Mà, lòng tốt sao?」"
+    },
+    {
+        "sentence": "[律子「]::あ、やっ……痛いわっ……そ、んな強く……ウッ……」",
+        "translation": "Ritsuko「Á, ừm…… Đau quá…… Đừng có… mạnh vậy…… Ư…」"
+    },
+    {
+        "sentence": "[律子「]::んっ！　んぁうっ……ぁっ、んくっ……んんううっ！」",
+        "translation": "Ritsuko「Ưm! Ưm aah... áh, ực... ưmmm!」"
+    },
+    {
+        "sentence": "[律子「]::あはぅっ、うっうぅぅっ！　んっ、うっ、くっ！　い、弄らないで……やめっ、だっ、だめぇっ……」",
+        "translation": "Ritsuko「Á, ưm… ưm ưm…! Ưm, ưm, ực! Đừng… đừng động vào tôi… Dừng lại, không, không được mà…」"
+    },
+    {
+        "sentence": "[律子「]::んぃっ、いっ！　ひぃぐっ……いいぃっ！」",
+        "translation": "Ritsuko「Ưm! Ừm! Hức... Ngon quá!」"
+    },
+    {
+        "sentence": "[律子「]::クッ……な、なんて下品な事をっ……」",
+        "translation": "Ritsuko「Khụ... Nói cái gì thô tục vậy chứ...」"
+    },
+    {
+        "sentence": "[律子「]::い、いい加減にしなさいっ！　はなしてっ……も、もうおしまいっ……！」",
+        "translation": "Ritsuko「Đ-Đủ rồi đó! Buông tôi ra... Đã... đã hết rồi mà...!」"
+    },
+    {
+        "sentence": "[律子「]::くっ……んんっ！　んあっ、んっくぅううっ！！」",
+        "translation": "Ritsuko「Khụ…… ưm! Ưm ưm, ưm! Ưm khu…!」"
+    },
+    {
+        "sentence": "[律子「]::ああっ！　あっあああーーーっ！！」",
+        "translation": "Ritsuko「ああっ！　あっあああーーーっ！！」"
+    },
+    {
+        "sentence": "[律子「]::いや、あ、ああ……そんな、しないでっ！　あっ、ああっ！」",
+        "translation": "Ritsuko「Không, a... ờ... Đừng có làm vậy! Á, aaaa!」"
+    },
+    {
+        "sentence": "[律子「]::ダメッ、やっ……強く、しちゃダメッ！　ひぃ、あっ……ち、乳首もっ、お尻もっ……ダッ、メェェーーッ……！」",
+        "translation": "Ritsuko「Đừng, a... Đừng làm mạnh như vậy! Hức, á... c-cả nhũ hoa... cả mông nữa... ĐỪNGG...!」"
+    },
+    {
+        "sentence": "[律子「]::あ、あぁん……やめてっ、ダメよっ……はん、あぁうん……」",
+        "translation": "Ritsuko「À, àaaann... Đừng mà, không được... Hức, àa ừm...」"
+    },
+    {
+        "sentence": "[律子「]::はぁ、はっ……お、お願いよ……本当にだめっ、やめてっ……あんっ、もうっ……やめ、なさいぃぃ……」",
+        "translation": "Ritsuko「Hah, hah... L-làm ơn đi... Thật sự không được đâu, dừng lại đi... Án, thôi mà... Dừng, lại đi mà...」"
+    },
+    {
+        "sentence": "[律子「]::わ、私は……いぃ、淫売、なんかじゃっ……」",
+        "translation": "Ritsuko「T-tôi... Đ-đâu phải là... đ-đồ gái điếm... chứ...」"
+    },
+    {
+        "sentence": "[律子「]::えっ、え……アァッ……！」",
+        "translation": "Ritsuko「Á, á... Aaaa...!」"
+    },
+    {
+        "sentence": "[律子「]::そ、んな……だ、だってっ……こんな、格好で……あんっ、ンッ……ど、どうしろって……あっ……言うの……？」",
+        "translation": "Ritsuko「K-không thể nào... T-tại vì... Với cái, dáng vẻ này... Án, ưm... B-bảo tôi... Á... phải làm gì...chứ...?」"
+    },
+    {
+        "sentence": "[律子「]::うっ……うぅ、そんな……」",
+        "translation": "Ritsuko「Ư... Ư... Đ-đâu thể...」"
+    },
+    {
+        "sentence": "[律子「]::くぅ……うっ、分かった、わ……本当に、それで……やめてくれるのね？」",
+        "translation": "Ritsuko「Ư... Ư, tôi hiểu rồi... Thật... Thật sự, nếu vậy... em sẽ dừng lại chứ?」\n"
+    },
+    {
+        "sentence": "[律子「]::じゃ、じゃあ……」",
+        "translation": "Ritsuko「Vậy, v-vậy thì......」"
+    },
+    {
+        "sentence": "[律子「]::はっ、あううっ……」",
+        "translation": "Ritsuko「Hộc... auu...」"
+    },
+    {
+        "sentence": "[律子「]::あ、熱い……お尻に……熱いのが当たって……」",
+        "translation": "Ritsuko「A, nóng quá... Ở mông tôi... có cái gì đó nóng quá chạm vào...」"
+    },
+    {
+        "sentence": "[律子「]::わ、分かったわよ……うぅ……」",
+        "translation": "Ritsuko「V-vâng, tôi hiểu rồi... ư...」"
+    },
+    {
+        "sentence": "[律子「]::やっ……やああっ！」",
+        "translation": "Ritsuko「Ư... Ư á!」"
+    },
+    {
+        "sentence": "[律子「]::い、いやだ……そんな動かさないで……」",
+        "translation": "Ritsuko「K-không... xin đừng di chuyển như vậy...」"
+    },
+    {
+        "sentence": "[律子「]::うぅ……う……すればいいんでしょ……」",
+        "translation": "Ritsuko「Ư... ư... tôi phải làm gì đây...」"
+    },
+    {
+        "sentence": "[律子「]::は……はぁ、はぁ……はっ……」",
+        "translation": "律子「H... hộc... hộc... hộc...」\n"
+    },
+    {
+        "sentence": "[律子「]::真面目にって……ちゃ、ちゃんとやってるでしょ？」",
+        "translation": "Ritsuko「Nghiêm túc á... thì, tôi vẫn đang làm rất nghiêm túc mà, phải không?」\n"
+    },
+    {
+        "sentence": "[律子「]::う、ううっ……そんな、バカにしてッ……」",
+        "translation": "Ritsuko「Đ... đ... đồ ngốc... Sao em lại xem thường tôi như thế hả...?」"
+    },
+    {
+        "sentence": "[律子「]::分かった、分かったわよっ！　これでいいんでしょっ！」",
+        "translation": "Ritsuko「Tôi hiểu rồi, tôi hiểu rồi mà! Như vậy được chưa hả!」"
+    },
+    {
+        "sentence": "[律子「]::どう、これで満足っ！？」",
+        "translation": "律子「Sao, như vậy em hài lòng chưa hả!?」\n"
+    },
+    {
+        "sentence": "[律子「]::いちいちうるさいわねっ……もうっ……！」",
+        "translation": "Ritsuko「Lúc nào em cũng cằn nhằn tôi thế……Thật là……！」\n"
+    },
+    {
+        "sentence": "[律子「]::……こ、これでいいの？」",
+        "translation": "Ritsuko「……T、Tôi làm vậy được chưa?」"
+    },
+    {
+        "sentence": "[律子「]::ふんっ…………」",
+        "translation": "Ritsuko「Hừm…………」"
+    },
+    {
+        "sentence": "[律子「]::はぁ、は……はぁ……早く、してね……」",
+        "translation": "Ritsuko「Hộc… hộc… nhanh… nhanh lên đi…」"
+    },
+    {
+        "sentence": "[律子「]::はぁっ……ふっ、やぁ……す、すごくビクついて……あぁ……」",
+        "translation": "Ritsuko「Haa… phù, ưm… em, em giật nảy lên… quá… ah…」\n"
+    },
+    {
+        "sentence": "[律子「]::んぅあ、はっ……そんなに……はっ、ふっ……お、お尻に……押しつけないで……はっ、はぁ……はぁ……」",
+        "translation": "Ritsuko「ưm…aha… đừng… đừng mạnh như vậy…aha… phù… đừng, đừng có mà… ấn vào… mông tôi…aha… ha… ha…」"
+    },
+    {
+        "sentence": "[律子「]::んっ、はっ……あぅっ！　んぅっ、くふぅん……」",
+        "translation": "Ritsuko「ưm… hộc… á… ư… ưm… khưư…」"
+    },
+    {
+        "sentence": "[律子「]::あはぁ……あっ……だ、だめぇ……やめてっ、あン……胸、あふっ……お尻の、穴も……ンンッ、ンゥ……」",
+        "translation": "Ritsuko「A…aha… á… đừng… đừng mà…… Ư… ngực, tràn ra…… lỗ, lỗ hậu… ư…ư…」"
+    },
+    {
+        "sentence": "[律子「]::そ、そう……言われ、ても……ハッ、ハァ……ふぅ、ああぁっ……お尻……ンッ、する、からっ……」",
+        "translation": "Ritsuko「Vâng, đúng… dù em có nói, thì… Hộc, ha… phù, a…aa… mông… ư… sẽ, sẽ làm…」"
+    },
+    {
+        "sentence": "[律子「]::はぁ、あぁン……アンッ、ンンッ……はふぅン……」",
+        "translation": "Ritsuko「Haa, a…aa… ư… ư ư… ha…fuuu…」"
+    },
+    {
+        "sentence": "[律子「]::あひぃっ、ひぃあっ！　あぅっ、くっ、うぅぅぅぅんっ……！」",
+        "translation": "Ritsuko「Ah… hức, hức… á! Ư… ư… ư ư ư…!」"
+    },
+    {
+        "sentence": "[律子「]::はぁっ……あっ、あっ……なに……な、なんなの、これは……」",
+        "translation": "Ritsuko「Haa… a… a… cái gì… c, cái gì vậy, cái này…」"
+    },
+    {
+        "sentence": "[律子「]::か、身体が、熱いの……あ、熱い……胸のおくが……な、なにかが……はっ、はぁ……込み上げてくるっ……」",
+        "translation": "Ritsuko「Cơ, cơ thể tôi, nóng quá… a, nóng quá… sâu trong ngực… có, có gì đó… hức, ha… trào lên…」"
+    },
+    {
+        "sentence": "[律子「]::あぅフッ！　あ、ンンッ！　だめっ……クッ、ふっ！　んンッ！」",
+        "translation": "Ritsuko「Ư… ấ! A, ư ư…! Không… khục, ấ! Ư ư…!」"
+    },
+    {
+        "sentence": "[律子「]::ち、くび……だめっ……えっ……ひっ！　はっ……い、じらないでっ……こ、こねないっ、でッ……ハァッ……！」",
+        "translation": "Ritsuko「Ch, nhũ hoa… không được… ư… hức! H… ư, đừng mà… k, không được nhào nặn… ư… haa…!」\n"
+    },
+    {
+        "sentence": "[律子「]::ああぁっ！　ああぁあぁぁぁっ！！」",
+        "translation": "Ritsuko「Aaaah! Aaaah! Aaaaah!!」\n"
+    },
+    {
+        "sentence": "[律子「]::ひぃっ、あぅあっ！　あンッ！　あンンンッ！！」",
+        "translation": "Ritsuko「Hức… ư… á! Ư…! Ư ư ư…!!」"
+    },
+    {
+        "sentence": "[律子「]::え……えっ……」",
+        "translation": "Ritsuko「Đ… Được…」"
+    },
+    {
+        "sentence": "[律子「]::なっ……な、なっ！　なにっ！？　なにこれっ！？」",
+        "translation": "Ritsuko「Sao… sao, sao thế! Cái gì vậy!? Cái gì đây!?」"
+    },
+    {
+        "sentence": "[律子「]::えっ、オ、オッパイ……？　な、なんで出てるのっ！？　えっ、ええっ……私、どうしてっ！？」",
+        "translation": "Ritsuko「Ơ, ngực...? Sao lại chảy ra vậy!? Ơ, ơ này... Tôi, sao lại thế này!?」"
+    },
+    {
+        "sentence": "[律子「]::ど、どういう事っ……なんなのよ、これはっ！？」",
+        "translation": "Ritsuko「Đ, đây là chuyện gì... là sao vậy hả!?」"
+    },
+    {
+        "sentence": "[律子「]::えぇっ！　な、なによそれ？　分からない、意味が分からないわっ！」",
+        "translation": "Ritsuko「Ơ! Cái quái gì vậy? Tôi không hiểu, tôi không hiểu cái gì cả!」"
+    },
+    {
+        "sentence": "[律子「]::えっ、ええっ！？」",
+        "translation": "Ritsuko「Ơ, ơ hả!?」"
+    },
+    {
+        "sentence": "[律子「]::ひっ、や、ああ……だめっ！　ちょ、ちょっと待ってよっ……アッ！　アゥッ！　こ、擦らないでッ……アアッ！！」",
+        "translation": "Ritsuko「Xin cậu, à... không... đừng mà! Khoan đã... Á! Ư! Đừng có chà xát vào đó chứ... Áaaaa!!」"
+    },
+    {
+        "sentence": "[律子「]::い、いやよっ……やめてっ、ま、待ってっ！　出さないでっ！」",
+        "translation": "Ritsuko「Không... đừng mà... khoan, khoan đã! Đừng có ra đấy!」"
+    },
+    {
+        "sentence": "[律子「]::あぁっ、いやぁっ！　やっ、いやはぁぁっ……！！」",
+        "translation": "Ritsuko「Á... không... đừng... không... á...!!」"
+    },
+    {
+        "sentence": "[律子「]::はうっ！　あぁううっ！　ハアアアッ……！！」",
+        "translation": "Ritsuko「Hả...! A... á...! Hả... á...!!」"
+    },
+    {
+        "sentence": "[律子「]::い、やあーーっ！　あ、あっつい、あついのがっ……お、お尻にかかってっ！　やっ、やああっ！！」",
+        "translation": "Ritsuko「Á... không...! Nóng... thứ nóng quá... dính... dính hết vào mông tôi rồi! Á... á... á...!!」"
+    },
+    {
+        "sentence": "[律子「]::ひぃやあ、いやよぉっ……あっ、か、かけないでッ！　あついのっ、お尻っ……かけないでぇぇっ……！」",
+        "translation": "Ritsuko「Á... không... đừng mà...! Ôi, nóng quá... mông tôi... đừng có bắn lên nữa đấấấu...!」"
+    },
+    {
+        "sentence": "[律子「]::あぅう……あ、あぁ……お尻が……あ、熱いぃぃ……」",
+        "translation": "Ritsuko「Ư ư... a, a... mông... nóng quá...»"
+    },
+    {
+        "sentence": "[律子「]::やぁ……や、やめてぇ……あっ、あぁ……これ以上、私を……汚さないで……」",
+        "translation": "Ritsuko「Không…… ư, dừng lại đi…… A, a…… Xin em, đừng…… làm nhơ nhuốc tôi thêm nữa……」"
+    },
+    {
+        "sentence": "[律子「]::ううぅう……いやぁぁ……やぁぁぁ…………」",
+        "translation": "Ritsuko「Ư... ư... không... á... á...」"
+    },
+    {
+        "sentence": "[律子「]::あぁ……どうして……こんな事に……」",
+        "translation": "Ritsuko「A... Tại sao... lại thành ra thế này...」"
+    },
+    {
+        "sentence": "[律子「]::うぅぅ…………」",
+        "translation": "Ritsuko「Ư...」"
+    },
+    {
+        "sentence": "[律子「]::ふぅうっ、あぅっ……くっ！　か、身体にかけるのっ……アッ！！」",
+        "translation": "Ritsuko「Hự... A... Ư... Khụ! K-Không, đừng... bắn vào người tôi... Á!!」"
+    },
+    {
+        "sentence": "[律子「]::そ、んなっ！　あぁっ、いやぁっ！　も、もうっ、中に、入ってるっ、なんてっ……あっ、ひあっ！　ああああっ！！」",
+        "translation": "Ritsuko「K-Không thể nào...! Á... Ôi không...! Đ-Đã, đã vào bên trong rồi... Cái gì chứ... Á, hự... Aaaaaaa!!」"
+    },
+    {
+        "sentence": "[律子「]::んふぁぁぁぁぁっ！？」",
+        "translation": "Ritsuko「Ư...ư...aaaaaa!?」"
+    },
+    {
+        "sentence": "[律子「]::あぁああっ！　いっやああああーーーーーっ……！！」",
+        "translation": "Ritsuko「Aa aaaaa! Iyaaaaaaa --------- tsu ...! ! 」"
+    },
+    {
+        "sentence": "[律子「]::やあ、か、かかってるっ！　熱いのっ、あっ！　せ、精液がっ、お尻っ、はううっ！　かかってるゥゥッ……！！」",
+        "translation": "Ritsuko「Ư, ư, dính, dính đầy rồi...! Nóng quá, á! T-tinh dịch, ở m-mông, hức hức...! Dính đầy rồiiiiii...!!」"
+    },
+    {
+        "sentence": "[律子「]::はあぁっ、あっ！　か、かけないでッ！　も、もう、かけないでェェ……あっ、ああ……お尻、ドロドロにぃぃぃ……」",
+        "translation": "Ritsuko「Haaah, á! Đừng, đừng bắn vào nữa! T-tôi, tôi không muốn bị bắn nữa đâuuuuu... á, aaah... mông của tôi, ướt sũng rồiiiiii...」"
+    },
+    {
+        "sentence": "[律子「]::はぁ……はぁ……ひ、ひどいわ……こんなに……私を……ぁぁぁ……汚す、なんて……」",
+        "translation": "Ritsuko「Haa... haa... K-kinh khủng quá... D-dơ bẩn... đến mức này... Aaaah... làm ô uế... tôi...」"
+    },
+    {
+        "sentence": "[律子「]::あなたみたいな人間に、これ以上、何も言う事はないわっ！」",
+        "translation": "Ritsuko「Tôi không còn gì để nói với loại người như em nữa!」\n"
+    },
+    {
+        "sentence": "[律子「]::あはぁっ、ああっ！　ま、またっ、ペニスがっ……あっ、あそこに、入ってきてっ……あ、あんっ、あぁンッ……」",
+        "translation": "Ritsuko「A... á... a...! Lại, lại nữa rồi, dương vật... a... ở, ở chỗ đó, đi vào rồi... a... ưm... á... ưm...」"
+    },
+    {
+        "sentence": "[律子「]::あぁ、ああっ、いいっ……い、いいのっ、あっ、あンッ……！」",
+        "translation": "Ritsuko「A... á... a... thích... th-thích quá... a... ưm...!」\n"
+    },
+    {
+        "sentence": "[律子「]::気持ち、いいっ、はンッ、あンンッ！　ペニスが、硬くてッ、あん、アンッ！　気持ちいい、のぉっ……あああ」",
+        "translation": "Ritsuko「Thật, thật tuyệt, ưm, á ưm! Dương vật, thật cứng... a...ưm... Thật tuyệt... aaaa」"
+    },
+    {
+        "sentence": "[律子「]::あんっ、あぁんんっ！　あぅ、い、いいっ！　ペニス、いいのっ、はんっ、ハァンッ……あぁあっ……んんっ……はぁあっ……！」",
+        "translation": "Ritsuko「ưm, á ưm! A... ư, thích! Dương vật, thích... hừ, HAAAA... a... á... ưm... hừ... a...!」"
+    },
+    {
+        "sentence": "[律子「]::はあぁっ、あぁあっ！　気持ちいいっ！　い、いいぃぃっ！　ふぁああっ……アソコが気持ちいいのぉっ……！」",
+        "translation": "Ritsuko「Haaahh, aahh! Thích quá! Ư, ư ư ư! Phaaahh... Chỗ đó của tôi thích quá... !」"
+    },
+    {
+        "sentence": "[律子「]::あっ…んんっ……っ…あっ……はぁっ……っ…あっ…っ……はぁっ……ぁっ…っ……っ……はぁンっ…っ……ぁあっ……！」",
+        "translation": "Ritsuko「A... ưm... ư... a... haa... ư... a... ư... haa... a... ư... ư... haa... ư... a... a...!」\n"
+    },
+    {
+        "sentence": "[律子「]::ハァッ、アァンッ！　いぁっ、あっああぁぁーーーーっ！！」",
+        "translation": "Ritsuko「Haa, aah! Ư ư, á á á!!!!!」\n"
+    },
+    {
+        "sentence": "[律子「]::あふぅぁっ！　はあぁああんっ！！」",
+        "translation": "Ritsuko「A... AAAAA!!!」"
+    },
+    {
+        "sentence": "[律子「]::は、あぁっ、す、すごいわっ……あんっ、んんっ！　あ、あっついの……熱いのがっ、入ってきてっ……」",
+        "translation": "Ritsuko「Ư, a... ư, tuyệt quá... Ân, ư ư! A, nóng quá... Cái nóng ấy, đang đi vào...」"
+    },
+    {
+        "sentence": "[律子「]::んっ、ふううんっ！　あ、熱いぃっ……アソコの中にっ、熱くて、ドロドロが、いっぱい……いぃっぱいぃ……」",
+        "translation": "Ritsuko「Ưm... phù... a, nóng quá... Bên trong chỗ kín của Tôi, nóng quá, chất lỏng dính dính, thật nhiều... thật nhiều...」"
+    },
+    {
+        "sentence": "[律子「]::ふ……あふ、あぁ……溢れてる……ぁぁぁ……」",
+        "translation": "Ritsuko「ư... a... a... Trào ra rồi... aaaaa...」"
+    },
+    {
+        "sentence": "[律子「]::はぁ……はぁぁ……私……たくさん、中に出されて……イッちゃった……イッちゃったのぉ……あぁぁぁ……」",
+        "translation": "Ritsuko「Hộc... hộc... Tôi... Tôi bị Em bắn đầy... bắn đầy bên trong... ra mất... ra mất thôi... aaaaa...」"
+    },
+    {
+        "sentence": "[律子「]::……っ！」拓也「おっ……」誰もいないだろうという先ほどまでの諦めと予想に反して、律子と鉢合わせした。律子「あ……ぅ……」俺の顔を見るなり、律子は金縛りにあったように身体の動きを止めた。ククク……こりゃあいい。周囲には人もいないし、こいつは絶好のチャンスだぜ。拓也「奇遇だな、こんな所で会うなんて……」俺は気安く声をかけながら、律子の背後へと回り込んだ。律子「ちょ、ちょっと……何をするのっ……」拓也「でかい声出すなよ、誰かに聞こえるぜ」尻に手を宛がい、スカートの上からその張りのある肉房をサワサワと撫でる。律子「ひあぁ、ぅっ……ダ、ダメよ……」いきなり尻を触られて、律子はビクッと身を跳ねさせた。拓也「ケチケチすんな、減るもんじゃないだろう？」律子「やめてっ……ぁっ……や……ぁぁ……」豊満な尻肉の感触を味わいながら、指先で尻の割れ目をくすぐるようにする。律子は嫌がる素振りを見せるものの、俺の手をどけようともしない。律子「本当に……はっ、ン……ダ、ダメ……ぁっ……やめ、て……」拓也「へっ、そんなイヤらしくケツを振りながら、やめてなんて言っても、誘ってるようにしか見えないぜ？」耳元で囁きながら、スカートの奥まで手を滑り込ませる。律子「ひぃあっ、あっ！　く……あぁんンッ！」ショーツの上から肛門付近を指先でもみほぐすように圧迫する。律子は目を閉じると、切なげに喉を震わせた。拓也「フフッ、相変わらず敏感なアナルだぜ」律子「ひぃっ……くっ……んっ、ふっ……ひやっ、だっ……だめっ……」自分で躾けたとはいえ、こうも食いつきがいいと驚いてしまう。されるがままの律子は、今にも大声で喘ぎそうなアナルの快感を、懸命に堪えているといった感じだ。拓也「そう言えば……なあ、律子」アナル弄りを続けるうちに、俺の頭をふと小さな疑問がよぎった。律子「は……はぁぁぁ……な、何なの？」指の動きを緩やかにすると、律子は大きく息を吐き出した。顔はすっかり上気して、額に薄っすらと汗が輝いている。拓也「いやな、ちょっと気になったんだが……」律子「……？」拓也「アナルで感じるって、いったいどんな感覚なんだ？」律子「えっ……！？」律子「ど、どんな感覚って……どういう、意味よ？」一瞬、驚いた後、律子は質問の意味が分かりかねるといった感じで、俺に尋ね返してきた。拓也「そのまんまの意味さ。ビリビリするとか、グッとくるとか、なんか色々あるだろ？」律子「し、知らないわっ……そんな事……」羞恥に頬を染めながら、弱々しく首を振る。拓也「ククク……別に俺はやましい意味で聞いてるんじゃないぜ。本当に気になるんだ」律子「そ、そう言われても……あぁっ、はっ……ほ、本当に分からない……」拓也「おいおい、分からないって事はないだろ？」律子「あぁっ……ハッ、はぁぅっんっ……」俺は強い口調で言うと、今度はショーツの隙間から強引に指をねじ入れた。直接、肛門に指が触れさせると、律子は大きく息を呑んだ。拓也「随分とおかしな事を言うじゃねえか、ええ？」律子「お、おかしいって……はぁくっ、ンッ……ァァァッ……！」指先をずぶりと挿入し、アナルの内側をほじくるように愛撫する。律子はますます声を昂ぶらせ、尻の谷間にじっとりと汗を滲ませた。拓也「今の感想を素直に言えばいいんだよ……ほれっ、ケツの穴をほじられて、どんな感じなんだ？」律子「それは……はっ、あぁ……あふっ……んンー……」律子「ひぃあっ……ひゃっ、アアァッ！」更に深く指を入れ、グリグリと奥まで捏ね回す。律子はピーンと背を反らし、鋭い感覚にピクピクと内腿を震わせた。拓也「それは、何なんだ？　さっさと教えろ」律子「はあぅっ、はっ……あっ、ぁ……わ、分からないって……言ってる、のに……」拓也「なーに言ってやがる。今、味わってる最中じゃねえか」律子「あァッ、ハッ……ァッ！　ンッ……アゥ、ゥゥゥッ……！！」俺は答えを急かすように、指の動きをいっそう激しくした。律子「そ、それは……ンッ……お、お尻がっ……ぅっ、あ……」拓也「お尻がどうなんだ？　ん？」遂に観念したか、律子は息も絶え絶えになりながら、アナルの快感を口走りそうになる。律子「あぁっ……」拓也「ちっ……またか……」その時、ちょうど近くの部室の扉が開き、学生達がゾロゾロと姿を現した。くそっ、毎回、もう少しのところで邪魔が入りやがる。これ以上、無茶は出来ないな……律子「ね、ねえ……」拓也「ああ。行っていいぞ」俺はアナルから指を抜き、律子の尻をパンと叩いた。律子「うぅっ……ぅぅっ……」律子は慌てて身を繕い、元来た方向に早足で戻っていった。拓也「……ったく」いつもの事ながら、タイミングの悪い学生どもだぜ。あと一息で、アナル弄りの感想が聞けそうだったのにな……俺は壁にもたれて腕を組み、目の前を通る学生の一団をやり過ごした。拓也「まあ、いいか」律子の仕上がりは上々だ。あの調子なら、いつでもアイツを可愛がってやれる。アナルの感想を聞くのは、また今度にしよう。拓也「いや……」考えてみれば、何もわざわざ感想を聞くなんて、まどろっこしい方法を選ぶ必要は無いな。直接、律子に教えてもらえば済む事じゃないか。……よし、次の機会があれば、律子先生にたっぷりとアナルの快感を実技で教えてもらうとしよう。拓也「まぁ、それはそれとして……」今は別の獲物を探すとするか。俺は気を取り直すと、他の場所に向かう事にした。",
+        "translation": "Ritsuko「……っ！」拓也「おっ……」誰もいないだろうという先ほどまでの諦めと予想に反して、律子と鉢合わせした。Ritsuko「あ……ぅ……」俺の顔を見るなり、律子は金縛りにあったように身体の動きを止めた。ククク……こりゃあいい。周囲には人もいないし、こいつは絶好のチャンスだぜ。拓也「奇遇だな、こんな所で会うなんて……」俺は気安く声をかけながら、律子の背後へと回り込んだ。Ritsuko「ちょ、ちょっと……何をするのっ……」拓也「でかい声出すなよ、誰かに聞こえるぜ」尻に手を宛がい、スカートの上からその張りのある肉房をサワサワと撫でる。Ritsuko「ひあぁ、ぅっ……ダ、ダメよ……」いきなり尻を触られて、律子はビクッと身を跳ねさせた。拓也「ケチケチすんな、減るもんじゃないだろう？」Ritsuko「やめてっ……ぁっ……や……ぁぁ……」豊満な尻肉の感触を味わいながら、指先で尻の割れ目をくすぐるようにする。律子は嫌がる素振りを見せるものの、俺の手をどけようともしない。Ritsuko「本当に……はっ、ン……ダ、ダメ……ぁっ……やめ、て……」拓也「へっ、そんなイヤらしくケツを振りながら、やめてなんて言っても、誘ってるようにしか見えないぜ？」耳元で囁きながら、スカートの奥まで手を滑り込ませる。Ritsuko「ひぃあっ、あっ！　く……あぁんンッ！」ショーツの上から肛門付近を指先でもみほぐすように圧迫する。律子は目を閉じると、切なげに喉を震わせた。拓也「フフッ、相変わらず敏感なアナルだぜ」Ritsuko「ひぃっ……くっ……んっ、ふっ……ひやっ、だっ……だめっ……」自分で躾けたとはいえ、こうも食いつきがいいと驚いてしまう。されるがままの律子は、今にも大声で喘ぎそうなアナルの快感を、懸命に堪えているといった感じだ。拓也「そう言えば……なあ、律子」アナル弄りを続けるうちに、俺の頭をふと小さな疑問がよぎった。Ritsuko「は……はぁぁぁ……な、何なの？」指の動きを緩やかにすると、律子は大きく息を吐き出した。顔はすっかり上気して、額に薄っすらと汗が輝いている。拓也「いやな、ちょっと気になったんだが……」Ritsuko「……？」拓也「アナルで感じるって、いったいどんな感覚なんだ？」Ritsuko「えっ……！？」Ritsuko「ど、どんな感覚って……どういう、意味よ？」一瞬、驚いた後、律子は質問の意味が分かりかねるといった感じで、俺に尋ね返してきた。拓也「そのまんまの意味さ。ビリビリするとか、グッとくるとか、なんか色々あるだろ？」Ritsuko「し、知らないわっ……そんな事……」羞恥に頬を染めながら、弱々しく首を振る。拓也「ククク……別に俺はやましい意味で聞いてるんじゃないぜ。本当に気になるんだ」Ritsuko「そ、そう言われても……あぁっ、はっ……ほ、本当に分からない……」拓也「おいおい、分からないって事はないだろ？」Ritsuko「あぁっ……ハッ、はぁぅっんっ……」俺は強い口調で言うと、今度はショーツの隙間から強引に指をねじ入れた。直接、肛門に指が触れさせると、律子は大きく息を呑んだ。拓也「随分とおかしな事を言うじゃねえか、ええ？」Ritsuko「お、おかしいって……はぁくっ、ンッ……ァァァッ……！」指先をずぶりと挿入し、アナルの内側をほじくるように愛撫する。律子はますます声を昂ぶらせ、尻の谷間にじっとりと汗を滲ませた。拓也「今の感想を素直に言えばいいんだよ……ほれっ、ケツの穴をほじられて、どんな感じなんだ？」Ritsuko「それは……はっ、あぁ……あふっ……んンー……」Ritsuko「ひぃあっ……ひゃっ、アアァッ！」更に深く指を入れ、グリグリと奥まで捏ね回す。律子はピーンと背を反らし、鋭い感覚にピクピクと内腿を震わせた。拓也「それは、何なんだ？　さっさと教えろ」Ritsuko「はあぅっ、はっ……あっ、ぁ……わ、分からないって……言ってる、のに……」拓也「なーに言ってやがる。今、味わってる最中じゃねえか」Ritsuko「あァッ、ハッ……ァッ！　ンッ……アゥ、ゥゥゥッ……！！」俺は答えを急かすように、指の動きをいっそう激しくした。Ritsuko「そ、それは……ンッ……お、お尻がっ……ぅっ、あ……」拓也「お尻がどうなんだ？　ん？」遂に観念したか、律子は息も絶え絶えになりながら、アナルの快感を口走りそうになる。Ritsuko「あぁっ……」拓也「ちっ……またか……」その時、ちょうど近くの部室の扉が開き、学生達がゾロゾロと姿を現した。くそっ、毎回、もう少しのところで邪魔が入りやがる。これ以上、無茶は出来ないな……Ritsuko「ね、ねえ……」拓也「ああ。行っていいぞ」俺はアナルから指を抜き、律子の尻をパンと叩いた。Ritsuko「うぅっ……ぅぅっ……」律子は慌てて身を繕い、元来た方向に早足で戻っていった。拓也「……ったく」いつもの事ながら、タイミングの悪い学生どもだぜ。あと一息で、アナル弄りの感想が聞けそうだったのにな……俺は壁にもたれて腕を組み、目の前を通る学生の一団をやり過ごした。拓也「まあ、いいか」律子の仕上がりは上々だ。あの調子なら、いつでもアイツを可愛がってやれる。アナルの感想を聞くのは、また今度にしよう。拓也「いや……」考えてみれば、何もわざわざ感想を聞くなんて、まどろっこしい方法を選ぶ必要は無いな。直接、律子に教えてもらえば済む事じゃないか。……よし、次の機会があれば、律子先生にたっぷりとアナルの快感を実技で教えてもらうとしよう。拓也「まぁ、それはそれとして……」今は別の獲物を探すとするか。俺は気を取り直すと、他の場所に向かう事にした。\n"
+    },
+    {
+        "sentence": "[律子「]::あ、あの……」",
+        "translation": "Ritsuko「À…ờ…」\n"
+    },
+    {
+        "sentence": "[律子「]::はい……でも、またこんな服を着て……」",
+        "translation": "律子「Vâng…nhưng mà, lại mặc cái bộ đồ này…」\n"
+    },
+    {
+        "sentence": "[律子「]::に、似合ってなんか……オッパイ……お尻も……こ、こんなに、ビチビチになっちゃってて……」",
+        "translation": "律子「Đâu, đâu có hợp gì đâu chứ... Ngực... cả mông nữa... c、cứ căng mẩy, nảy tưng tưng thế này...」\n"
+    },
+    {
+        "sentence": "[律子「]::いえ……ご主人様のお呼び出しですから……」",
+        "translation": "Ritsuko「Không... Vì ngài chủ nhân gọi em mà...」\n"
+    },
+    {
+        "sentence": "[律子「]::は、はい……ご主人様……」",
+        "translation": "Ritsuko「Vâng, ... vâng thưa ngài chủ nhân...」\n"
+    },
+    {
+        "sentence": "[律子「]::あ……そんな……わ、わたし……」",
+        "translation": "Ritsuko「A... Không... ư... em...」\n"
+    }
+]

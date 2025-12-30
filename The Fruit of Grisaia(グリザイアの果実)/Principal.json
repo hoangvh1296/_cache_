@@ -1,0 +1,1582 @@
+[
+  {
+    "sentence": "[Principal]::So? How are things? Are you used to the school yet?",
+    "translation": "【Hiệu trưởng】「Vậy đó? Mọi thứ thế nào rồi? Cậu đã quen với trường học chưa?」"
+  },
+  {
+    "sentence": "[Principal]::Is there some problem with our accommodations?",
+    "translation": "【Principal】「Có vấn đề gì với chỗ ở của chúng ta không?」"
+  },
+  {
+    "sentence": "[Principal]::Is that so?",
+    "translation": "【Principal】「Vậy sao?」"
+  },
+  {
+    "sentence": "[Principal]::...Not quite sure I follow.",
+    "translation": "【Principal】「...Tôi không chắc là mình hiểu rõ lắm...」"
+  },
+  {
+    "sentence": "[Principal]::That`s even less comprehensible...",
+    "translation": "【Principal】「Càng nghe càng không hiểu...」"
+  },
+  {
+    "sentence": "[Principal]::Uhm... is there more to this story about your pillow-raping friend?",
+    "translation": "【Principal】「Ừm... còn gì nữa không về câu chuyện của cái ông bạn hiếp dâm gối của cậu?」"
+  },
+  {
+    "sentence": "[Principal]::...That`s not what I was asking, thanks.",
+    "translation": "【Principal】「...Tôi không hỏi về chuyện đó, cảm ơn.」"
+  },
+  {
+    "sentence": "[Principal]::Mind if I get back to the point?",
+    "translation": "【Principal】「Tôi quay lại vấn đề chính được không?」"
+  },
+  {
+    "sentence": "[Principal]::The rest of the kids at this school all said pretty similar things when they first arrived here, you know.",
+    "translation": "【Principal】「Những đứa trẻ khác ở trường này cũng nói những điều tương tự khi mới đến đây, cậu biết đấy.」"
+  },
+  {
+    "sentence": "[Principal]::Just like you, the other students at this Academy all have their own complicated reasons for being here.",
+    "translation": "【Hiệu trưởng】\"Giống như cậu, những học sinh khác ở học viện này đều có những lý do phức tạp riêng để đến đây.\""
+  },
+  {
+    "sentence": "[Principal]::The reason this school was founded in the first place has no small connection to personal circumstances of that sort.",
+    "translation": "【Hiệu trưởng】\"Việc ngôi trường này được thành lập ngay từ đầu có liên hệ mật thiết với những hoàn cảnh cá nhân đặc biệt đấy.\""
+  },
+  {
+    "sentence": "[Principal]::Likewise, the reason that we`re operating with only six students is in large part because you`re all special cases, useful for a \"test run.\"",
+    "translation": "【Principal】「Tương tự, lý do mà tôi chỉ vận hành với sáu học sinh phần lớn là vì các cậu đều là những trường hợp đặc biệt, hữu ích cho một \"thử nghiệm\" mà thôi.」"
+  },
+  {
+    "sentence": "[Principal]::Forget about the students, we haven`t disclosed the exact details even to your lecturers.",
+    "translation": "【Principal】「Đừng nói đến các học sinh, tôi còn chưa tiết lộ chi tiết cụ thể cho cả giảng viên của cậu nữa là.」"
+  },
+  {
+    "sentence": "[Principal]::Some of our students have delicate situations that shouldn`t be clumsily meddled with. And some have things that need to be kept private to avoid major difficulties in their daily life.",
+    "translation": "【Hiệu trưởng】「Một vài học sinh của trường ta có những hoàn cảnh rất nhạy cảm, không nên tùy tiện can thiệp vào. Và một số khác có những bí mật cần được giữ kín để tránh những khó khăn lớn trong cuộc sống hàng ngày.」"
+  },
+  {
+    "sentence": "[Principal]::Our school policy is based on the principle of self-help, I suppose... By bringing together students with serious problems, we hope to nurture a mutually caring atmosphere, enhancing independent psychological recovery...",
+    "translation": "【Principal】「Tôi cho rằng... chính sách của trường ta dựa trên nguyên tắc tự lực. Bằng cách tập hợp những học sinh có vấn đề nghiêm trọng, chúng ta hy vọng sẽ nuôi dưỡng một bầu không khí quan tâm lẫn nhau, thúc đẩy quá trình phục hồi tâm lý độc lập...」"
+  },
+  {
+    "sentence": "[Principal]::That`s a very misleading way to put it. Rather than forcing \"help\" on our students from above, we`re trying to provide an education emphasizing the formation of bonds between peers...",
+    "translation": "【Principal】「Cậu diễn đạt như vậy rất dễ gây hiểu lầm đấy. Thay vì ép buộc \"sự giúp đỡ\" từ trên xuống, tôi đang cố gắng tạo ra một nền giáo dục nhấn mạnh vào việc hình thành mối liên kết giữa các bạn cùng trang lứa...」"
+  },
+  {
+    "sentence": "[Principal]::Goodness! What slander!",
+    "translation": "【Hiệu trưởng】「Trời ạ! Cậu vu khống tôi đấy à!」"
+  },
+  {
+    "sentence": "[Principal]::I won`t deny that we receive financial support from Sakaki-san and Irisu-san`s families, but it`s strictly above-board!",
+    "translation": "【Hiệu Trưởng】Tôi không phủ nhận việc chúng tôi nhận được hỗ trợ tài chính từ gia đình của Sakaki-san và Irisu-san, nhưng mọi thứ đều hoàn toàn minh bạch!"
+  },
+  {
+    "sentence": "[Principal]::It`s just that since our enrollment is so small, every individual student bears a large proportion of our expenses!",
+    "translation": "【Hiệu Trưởng】「Chỉ là vì số lượng học sinh của chúng ta quá ít, nên mỗi cá nhân các em đều phải gánh một phần chi phí rất lớn!」"
+  },
+  {
+    "sentence": "[Principal]::...Uhmm... Where were we?",
+    "translation": "【Hiệu Trưởng】\"...Ừm... Chúng ta đang nói đến đâu rồi nhỉ?\""
+  },
+  {
+    "sentence": "[Principal]::It`s not that I had anything urgent to discuss with you. I just wanted to know if you`d encountered any problems with your new life here, that`s all.",
+    "translation": "【Hiệu Trưởng】「Không phải là tôi có chuyện gì gấp cần bàn với cậu. Tôi chỉ muốn biết cậu có gặp vấn đề gì với cuộc sống mới ở đây không thôi.」"
+  },
+  {
+    "sentence": "[Principal]::But you have made friends, right? Are things going well on that front?",
+    "translation": "【Hiệu trưởng】\"Nhưng cậu cũng có bạn rồi đúng không? Mọi chuyện về mặt đó ổn cả chứ?\""
+  },
+  {
+    "sentence": "[Principal]::...Minor, are they? I have the impression that your \"communication\" with the others is somewhat warped, to be honest...",
+    "translation": "【Hiệu Trưởng】\"...Chỉ là nhỏ nhặt thôi sao? Thật lòng mà nói, tôi có cảm giác \"giao tiếp\" của cậu với những người khác hơi bị lệch lạc đấy...\""
+  },
+  {
+    "sentence": "[Principal]::...Why does every conversation I have with you turn out this way?",
+    "translation": "【Hiệu Trưởng】\"...Sao mỗi cuộc trò chuyện với cậu đều thành ra thế này vậy?\""
+  },
+  {
+    "sentence": "[Principal]::You can think whatever you want, but I didn`t invite you to this academy for such a mercenary reason. I`d like you to trust me on that.",
+    "translation": "【Hiệu trưởng】「Cậu nghĩ sao cũng được, nhưng tôi không mời cậu đến học viện này vì một mục đích vụ lợi như vậy đâu. Tôi mong cậu tin tôi về điều đó.」"
+  },
+  {
+    "sentence": "[Principal]::It is indeed.",
+    "translation": "【Hiệu Trưởng】「Đúng vậy.」"
+  },
+  {
+    "sentence": "[Principal]::But from what they tell me, it couldn`t possibly have gone that well if it was anyone else. If you hadn`t been there, I wouldn`t be sitting around drinking tea right now. Am I wrong?",
+    "translation": "【Principal】「Nhưng theo những gì tôi nghe được, nếu không phải là cậu thì mọi chuyện đã không thể diễn ra suôn sẻ đến vậy. Nếu cậu không ở đó, giờ này tôi đã chẳng thể ngồi đây uống trà rồi. Tôi nói có sai không?」"
+  },
+  {
+    "sentence": "[Principal]::Arbitrary as it may be, I believe what I believe. And either way, I don`t like leaving my debts unpaid.",
+    "translation": "【Principal】「Có thể là do tôi tự huyễn hoặc, nhưng tôi tin vào những gì mình tin. Dù sao đi nữa, tôi không thích để ai phải chịu ơn mình mà không trả.」"
+  },
+  {
+    "sentence": "[Principal]::I suppose it may be a little different from the \"normal school\" as you imagined it, and I won`t deny you have a lot of unusual classmates\\・",
+    "translation": "【Principal】「Tôi đoán nó có lẽ hơi khác so với cái \"trường học bình thường\" mà cậu hình dung, và tôi không phủ nhận rằng cậu có rất nhiều bạn cùng lớp khác thường.」"
+  },
+  {
+    "sentence": "[Principal]::But this is the most I can do for you. I`m sorry.",
+    "translation": "【Hiệu Trưởng】\"Nhưng tôi chỉ có thể giúp cậu đến đây thôi. Xin lỗi.\""
+  },
+  {
+    "sentence": "[Principal]::Yes, I suppose so. If you have any complaints, please do let me know. I`m not going to promise I can fix anything, but I will always consider what you have to say.",
+    "translation": "【Principal】「Ừ, tôi cho là vậy. Nếu cậu có bất kỳ phàn nàn nào, cứ nói với tôi nhé. Tôi không hứa sẽ sửa được gì đâu, nhưng tôi sẽ luôn cân nhắc những gì cậu nói.」"
+  },
+  {
+    "sentence": "[Principal]::Ah, that`s right. I actually wanted to ask you something while you`re here...",
+    "translation": "【Hiệu trưởng】À phải rồi. Nhân tiện cậu ở đây, tôi cũng muốn hỏi cậu một chuyện..."
+  },
+  {
+    "sentence": "[Principal]::What are your thoughts on the other students?",
+    "translation": "【Hiệu Trưởng】「Cậu nghĩ gì về những học sinh khác?」"
+  },
+  {
+    "sentence": "[Principal]::I`m not asking for a detailed analysis or anything... How should I put this...? Your opinions on the others?",
+    "translation": "【Hiệu trưởng】Tôi không yêu cầu cậu phải phân tích chi tiết gì đâu... Để tôi diễn đạt thế nào nhỉ...? Cậu nghĩ gì về những học sinh khác?"
+  },
+  {
+    "sentence": "[Principal]::I see... then how about Matsushima-san?",
+    "translation": "【Hiệu trưởng】Tôi hiểu rồi... thế còn Matsushima thì sao, cậu thấy em ấy thế nào?"
+  },
+  {
+    "sentence": "[Principal]::...I`m fairly sure she was just bleaching her hair. She needs to repeat that about once a month to maintain her color, but apparently the chemicals she uses are quite painful.",
+    "translation": "【Principal】「Tôi... tôi chắc là em ấy chỉ đang tẩy tóc thôi. Em ấy cần làm lại việc đó mỗi tháng một lần để giữ màu, nhưng hình như mấy hóa chất em ấy dùng khá là đau đó.」"
+  },
+  {
+    "sentence": "[Principal]::Well, I suppose it might not be the best thing for our public relations, but we`re a private school. It`s not like her hair is causing any particular problems with discipline...",
+    "translation": "【Principal】「Chà, tôi cho rằng nó có thể không phải là điều tốt nhất cho quan hệ công chúng của trường, nhưng chúng ta là trường tư mà. Đâu phải tóc tai của em ấy gây ra vấn đề gì về kỷ luật đâu...」"
+  },
+  {
+    "sentence": "[Principal]::...What do you mean?",
+    "translation": "【Principal】「...Ý cậu là sao?」"
+  },
+  {
+    "sentence": "[Principal]::Do you know why Matsushima-san bleaches her hair?",
+    "translation": "【Hiệu trưởng】Tôi hỏi cậu, cậu có biết vì sao Matsushima-san lại tẩy tóc không?"
+  },
+  {
+    "sentence": "[Principal]::What the heck is that? \"Tsundere?\"",
+    "translation": "【Hiệu trưởng】\"Tsundere\" cái khỉ gì thế hả cậu?"
+  },
+  {
+    "sentence": "[Principal]::......",
+    "translation": "【Principal】「...」"
+  },
+  {
+    "sentence": "[Principal]::...No, it`s more that you have some quite insightful observations... I`m a little surprised.",
+    "translation": "【Hiệu trưởng】\"...Không, đúng hơn là cậu có những nhận xét rất sâu sắc... Tôi hơi ngạc nhiên đấy.\""
+  },
+  {
+    "sentence": "[Principal]::Come to think of it, didn`t you have an older sister?",
+    "translation": "【Principal】「À phải rồi, hình như cậu có một chị gái thì phải?」"
+  },
+  {
+    "sentence": "[Principal]::Children with elder siblings tend to grow up by studying their example, which frequently leads to outstanding observational skills. Or so they say.",
+    "translation": "【Hiệu Trưởng】「Những đứa trẻ có anh chị thường lớn lên bằng cách học theo tấm gương của họ, điều này dẫn đến khả năng quan sát vượt trội. Nghe người ta nói vậy.」"
+  },
+  {
+    "sentence": "[Principal]::And? How about the others? Right, what are your thoughts on Komine-san?",
+    "translation": "【Hiệu Trưởng】「Thế còn những người khác thì sao? À phải rồi, cậu nghĩ gì về Komine-san?」"
+  },
+  {
+    "sentence": "[Principal]::...Hrmhrm... Yes, I think you`re right...",
+    "translation": "【Principal】「...Ừm... Tôi nghĩ cậu nói đúng...」"
+  },
+  {
+    "sentence": "[Principal]::No matter what you ask that girl, she`ll just say \"Certainly, I`ll take care of it,\" so it`s easy to get into the habit of asking her to deal with chores or odd jobs.",
+    "translation": "【Principal】「Cậu nhờ con bé làm gì nó cũng \"Chắc chắn rồi, tôi sẽ lo liệu\" ngay, nên dễ thành thói quen sai nó làm việc vặt lắm.」"
+  },
+  {
+    "sentence": "[Principal]::...You know how to hit me where it hurts...",
+    "translation": "【Principal】「...Cậu biết đúng chỗ đau của tôi đấy...」"
+  },
+  {
+    "sentence": "[Principal]::Yes, that`s right. I try to ask for an interview whenever there`s a convenient moment, and I have the students who are less comfortable talking submit diaries.",
+    "translation": "【Hiệu trưởng】\"Đúng vậy. Tôi cố gắng sắp xếp phỏng vấn bất cứ khi nào có thời gian, và những em không thoải mái nói chuyện thì tôi yêu cầu nộp nhật ký.\""
+  },
+  {
+    "sentence": "[Principal]::Well, I guess you could call it that...",
+    "translation": "【Hiệu trưởng】「Ừm, coi như là vậy đi...」"
+  },
+  {
+    "sentence": "[Principal]::You are indeed perceptive.",
+    "translation": "【Hiệu Trưởng】「Cậu quả là tinh ý.」"
+  },
+  {
+    "sentence": "[Principal]::It`s a little difficult to understand that girl, and she`ll frequently forget the topic halfway through the discussion\\・",
+    "translation": "【Principal】「Thật khó để hiểu con bé đó, mà nó lại còn hay quên mất chủ đề giữa chừng nữa chứ...」"
+  },
+  {
+    "sentence": "[Principal]::So I decided to have her put anything that comes to mind down on paper and hand it in.",
+    "translation": "【Principal】「Vậy nên tôi quyết định bảo em ấy viết hết những gì nghĩ ra lên giấy rồi nộp cho tôi.」"
+  },
+  {
+    "sentence": "[Principal]::I must say, it seems like you`ve gotten quite friendly with Irisu-san. That`s very unusual, you know?",
+    "translation": "【Hiệu Trưởng】「Tôi phải nói rằng, có vẻ như cậu đã trở nên khá thân thiện với Irisu-san rồi nhỉ. Điều đó thật khác thường đấy, cậu biết không?」"
+  },
+  {
+    "sentence": "[Principal]::You might not think it to look at her, but Irisu-san has a shyness of strangers significant enough to cause difficulties in her everyday life...",
+    "translation": "【Principal】「Nhìn con bé thế thôi, chứ Irisu-san nhút nhát với người lạ đến mức việc đó gây ra không ít khó khăn trong cuộc sống hằng ngày đấy...」"
+  },
+  {
+    "sentence": "[Principal]::...That really is a joke, yes...?",
+    "translation": "【Hiệu trưởng】\"...Cậu đang đùa thôi, đúng không...?\""
+  },
+  {
+    "sentence": "[Principal]::...That sounds like a pretty warped... or rather, a pretty mercenary basis for a relationship.",
+    "translation": "【Hiệu Trưởng】「...Nghe có vẻ... lệch lạc quá... Hay đúng hơn, là một nền tảng quá thực dụng cho một mối quan hệ.」"
+  },
+  {
+    "sentence": "[Principal]::You really don`t find this arrangement even slightly problematic?",
+    "translation": "【Hiệu Trưởng】Tôi thật sự thấy chuyện này có chút vấn đề đấy, cậu không thấy vậy sao?"
+  },
+  {
+    "sentence": "[Principal]::...Are we still talking about Irisu-san? Or is that a commentary about our future as a nation?",
+    "translation": "【Hiệu trưởng】\"...Chúng ta vẫn còn đang nói về Irisu-san sao? Hay đó là lời bình luận về tương lai của quốc gia ta vậy?\""
+  },
+  {
+    "sentence": "[Principal]::Heheh, just a joke. All right, last up would be Suou-san. Your thoughts?",
+    "translation": "【Hiệu Trưởng】\"Heheh, chỉ là đùa thôi. Được rồi, người cuối cùng là Suou-san. Cậu nghĩ sao?\""
+  },
+  {
+    "sentence": "[Principal]::I believe Suou-san herself said it was \"love at first sight,\" didn`t she?",
+    "translation": "【Principal】Tôi nhớ Suou-san từng nói đó là \"tình yêu từ cái nhìn đầu tiên,\" phải không cậu?"
+  },
+  {
+    "sentence": "[Principal]::...What kind...? Uhm... I`m pretty sure what you see is what you get?",
+    "translation": "【Principal】「...Loại người nào ư...? Ừm... Tôi nghĩ cậu thấy sao thì là vậy đấy?」"
+  },
+  {
+    "sentence": "[Principal]::She took a year-long leave of absence from her previous school, so she`s actually two years older than you.",
+    "translation": "【Principal】「Em ấy đã nghỉ học một năm ở trường trước, nên thực ra lớn hơn cậu tận hai tuổi đấy.」"
+  },
+  {
+    "sentence": "[Principal]::Please. She`s still young, that hardly matters.",
+    "translation": "【Hiệu Trưởng】「Thôi đi cậu. Em ấy còn trẻ, chuyện đó chẳng quan trọng đâu.」"
+  },
+  {
+    "sentence": "[Principal]::...Uhm... she was the second to arrive at the Academy, following Sakaki-san...",
+    "translation": "【Principal】「...Ờm... cô ấy là người thứ hai đến học viện này, sau Sakaki-san...」"
+  },
+  {
+    "sentence": "[Principal]::And the day after her luggage arrived at the dormitory, she arrives driving... what do you call it? You know, one of those \"choppers\" you always see the biker gangs riding in America.",
+    "translation": "【Principal】「Và rồi ngày hôm sau khi hành lý của con bé được chuyển đến ký túc xá, nó đến trên một chiếc... gọi là gì nhỉ? Cậu biết đấy, kiểu xe \"chopper\" mà mấy băng đảng biker ở Mỹ hay chạy ấy.」"
+  },
+  {
+    "sentence": "[Principal]::That was a shock. I was convinced we`d gotten a really wild one, but talk to her a little and anyone can see what a nice, normal girl she is, you know!?",
+    "translation": "【Hiệu Trưởng】「Lúc đó tôi đã rất sốc. Tôi cứ đinh ninh là mình tóm được một cô nàng quậy phá thứ thiệt, nhưng nói chuyện với em ấy một chút là ai cũng thấy em ấy là một cô gái tốt bụng, bình thường thôi mà, cậu biết đấy!?」"
+  },
+  {
+    "sentence": "[Principal]::Anyway, they`re all good kids, so please do try to get along with them.",
+    "translation": "【Hiệu Trưởng】「Dù sao thì, tụi nó đều là những đứa trẻ ngoan, nên cậu cố gắng hòa đồng với tụi nó nhé.」"
+  },
+  {
+    "sentence": "[Principal]::Yes, you`re free to leave. If there`s ever anything you`d like to consult me about, come by anytime.",
+    "translation": "【Principal】「Ừ, cậu có thể đi rồi. Nếu có bất cứ điều gì muốn hỏi ý kiến tôi, cứ đến bất cứ lúc nào nhé.」"
+  },
+  {
+    "sentence": "[Principal]::Ah, Komine-san. Do you have a moment?",
+    "translation": "【Hiệu trưởng】「À, Komine-san. Em có chút thời gian không?」"
+  },
+  {
+    "sentence": "[Principal]::If you don`t mind, I have a little favor to...",
+    "translation": "【Principal】「Komine-san, nếu em không phiền, cô có một việc nhỏ muốn nhờ...」"
+  },
+  {
+    "sentence": "[Principal]::Huh...?",
+    "translation": "【Hiệu trưởng】「Hả...?」"
+  },
+  {
+    "sentence": "[Principal]::...W-Why would Komine-san say something like that?",
+    "translation": "【Hiệu Trưởng】\"...T-Tại sao Komine-san lại nói thế chứ?\""
+  },
+  {
+    "sentence": "[Principal]::...Did I... do something to her?",
+    "translation": "【Hiệu Trưởng】\"...Cô... cô đã làm gì em ấy sao?\""
+  },
+  {
+    "sentence": "[Principal]::By train this time...? I see, so you`ll be coming from the station...",
+    "translation": "【Hiệu trưởng】\"Lần này đi tàu à...? Ra vậy, cậu sẽ đến từ nhà ga...\""
+  },
+  {
+    "sentence": "[Principal]::Certainly... Yes, I understand. Right on schedule, then. Yes, Yumiko-san is in the dormitory, so she won`t be at the school building...",
+    "translation": "【Hiệu trưởng】「Chắc chắn rồi... Vâng, tôi hiểu rồi. Đúng như dự kiến. Vâng, Yumiko đang ở trong ký túc xá, nên em ấy sẽ không có mặt ở khu học xá đâu ạ...」"
+  },
+  {
+    "sentence": "[Principal]::Ah, please excuse me, I seem to have a visitor... Yes. Of course. In thirty minutes, then. Goodbye...",
+    "translation": "【Principal】「À, xin lỗi mọi người, hình như tôi có khách... Vâng. Tất nhiên rồi. Vậy thì trong vòng ba mươi phút nữa nhé. Tạm biệt...」"
+  },
+  {
+    "sentence": "[Principal]::Come in.",
+    "translation": "【Hiệu Trưởng】「Mời vào.」"
+  },
+  {
+    "sentence": "[Principal]::...The fact that you`ve increased your opinion of my job over a single phone call feels more insulting than anything else.",
+    "translation": "【Principal】「...Việc cậu đánh giá cao công việc của tôi chỉ sau một cuộc điện thoại khiến tôi thấy bị xúc phạm hơn đấy.」"
+  },
+  {
+    "sentence": "[Principal]::...Very well. But would you please have the good manners to close the door first?",
+    "translation": "【Hiệu trưởng】「...Được thôi. Nhưng làm ơn, cậu có thể lịch sự đóng cửa lại trước được không?」"
+  },
+  {
+    "sentence": "[Principal]::You`re completely at home, aren`t you...",
+    "translation": "【Hiệu trưởng】「Cậu cứ tự nhiên như ở nhà vậy nhỉ...」"
+  },
+  {
+    "sentence": "[Principal]::All right, what did you want to discuss with me?",
+    "translation": "【Hiệu trưởng】「Được rồi, cậu muốn bàn chuyện gì với tôi?」"
+  },
+  {
+    "sentence": "[Principal]::\"Parent-teacher conference...?\" Ah, right. I see.",
+    "translation": "【Hiệu Trưởng】\"Họp phụ huynh...?\" À, ra vậy. Tôi hiểu rồi."
+  },
+  {
+    "sentence": "[Principal]::Even though it`s a day off...? Right.",
+    "translation": "【Hiệu Trưởng】\"Dù là ngày nghỉ... à?\""
+  },
+  {
+    "sentence": "[Principal]::Finally?",
+    "translation": "【Hiệu trưởng】「Cuối cùng là gì?」"
+  },
+  {
+    "sentence": "[Principal]::Suou-san and the others didn`t explain?",
+    "translation": "【Hiệu trưởng】「Suou-san và những người khác không giải thích với cậu à?」"
+  },
+  {
+    "sentence": "[Principal]::I see...",
+    "translation": "【Principal】「Tôi hiểu rồi...」"
+  },
+  {
+    "sentence": "[Principal]::I showed this to you on the day you entered this school, yes?",
+    "translation": "【Hiệu Trưởng】Tôi đã cho cậu xem cái này vào ngày cậu nhập học, phải không?"
+  },
+  {
+    "sentence": "[Principal]::That so? Then you probably skipped over this part, I suppose.",
+    "translation": "【Hiệu trưởng】\"Thật vậy sao? Vậy thì có lẽ cậu đã bỏ qua phần này rồi.\""
+  },
+  {
+    "sentence": "[Principal]::That`s correct. Mr. Sakaki Michiaki... Naturally, their family names are not the product of some freak coincidence.",
+    "translation": "【Hiệu Trưởng】「Đúng vậy. Ông Sakaki Michiaki... Đương nhiên, việc họ có cùng họ không phải là một sự trùng hợp ngẫu nhiên đâu.」"
+  },
+  {
+    "sentence": "[Principal]::He`s Sakaki-san`s father. He`s coming to inspect the school today.",
+    "translation": "【Hiệu Trưởng】「Ông ấy là cha của Sakaki-san. Hôm nay ông ấy sẽ đến trường để kiểm tra đấy.」"
+  },
+  {
+    "sentence": "[Principal]::How much do you know about Mr. Sakaki Michiaki?",
+    "translation": "【Principal】「Cậu biết gì về ông Sakaki Michiaki?」"
+  },
+  {
+    "sentence": "[Principal]::Unlike the media`s fabricated image, he`s actually a kind, friendly person... or something? Very common in fiction, but unfortunately, the reality isn`t quite as pretty...",
+    "translation": "【Principal】「Không giống như những gì truyền thông thêu dệt, ông ta thực ra là một người tốt bụng, thân thiện... hay đại loại thế? Điều này rất phổ biến trong tiểu thuyết, nhưng thật không may, thực tế thì không đẹp đẽ như vậy...」"
+  },
+  {
+    "sentence": "[Principal]::He`s pretty much exactly the sort of person the rumors would have you believe, but every once in a while he does visit his daughter`s school on a whim. On paper, I suppose he`s coming to spend some time with her, but...",
+    "translation": "【Principal】「Ông ta đúng là kiểu người như những lời đồn thổi miêu tả vậy, nhưng thỉnh thoảng ông ta cũng ghé thăm trường con gái mình một cách tùy hứng. Theo lý mà nói, tôi đoán ông ta đến để dành thời gian cho cô bé, nhưng mà...」"
+  },
+  {
+    "sentence": "[Principal]::They haven`t met face-to-face once since she came here, and he`s visited three times already.",
+    "translation": "【Principal】「Kể từ khi cô bé đến đây, ông ta còn chưa gặp mặt cô bé lần nào, vậy mà ông ta đã đến thăm ba lần rồi.」"
+  },
+  {
+    "sentence": "[Principal]::She... Sakaki-san actively refuses to see him.",
+    "translation": "【Hiệu trưởng】「Cô... Sakaki-san chủ động từ chối gặp ông ấy.」"
+  },
+  {
+    "sentence": "[Principal]::To explain that, I`d have to get into the \"circumstances\" surrounding the founding of this school, which I may have mentioned before. In the first place...",
+    "translation": "【Hiệu trưởng】「Để giải thích điều đó, tôi sẽ phải đi sâu vào 'hoàn cảnh' xung quanh việc thành lập ngôi trường này, thứ mà tôi có lẽ đã đề cập trước đây. Đầu tiên là...」"
+  },
+  {
+    "sentence": "[Principal]::...Whoops, they`ll be here soon.",
+    "translation": "【Principal】「...Ối, họ sắp đến rồi.」"
+  },
+  {
+    "sentence": "[Principal]::We can continue this discussion later... if you`d like.",
+    "translation": "【Hiệu trưởng】「Chúng ta có thể tiếp tục cuộc thảo luận này sau... nếu cậu muốn.」"
+  },
+  {
+    "sentence": "[Principal]::...I see. You`re unexpectedly considerate toward your classmates.",
+    "translation": "【Hiệu trưởng】「…Tôi hiểu rồi. Cậu bất ngờ chu đáo với bạn học của mình thật đấy.」"
+  },
+  {
+    "sentence": "[Principal]::I think Sakaki-san will most likely be on the roof of the dormitory today.",
+    "translation": "【Hiệu trưởng】「Tôi nghĩ hôm nay Sakaki-san có lẽ sẽ ở trên sân thượng của ký túc xá.」"
+  },
+  {
+    "sentence": "[Principal]::As I said before, she`s the one who refuses to meet with her father, but she doesn`t lock herself up in her room or disappear into town for his visits.",
+    "translation": "【Principal】「Như tôi đã nói, em ấy là người từ chối gặp cha mình, nhưng em ấy không tự nhốt mình trong phòng hay bỏ đi khắp nơi trong thị trấn khi ông ta đến thăm.」"
+  },
+  {
+    "sentence": "[Principal]::When her father is here, she`s always on the roof of the dorm, looking down to watch his perfunctory \"inspection\" of the school...",
+    "translation": "【Principal】「Khi cha cô bé đến, em ấy luôn ở trên sân thượng ký túc xá, nhìn xuống để xem màn \"kiểm tra\" chiếu lệ của ông ta đối với trường học...」"
+  },
+  {
+    "sentence": "[Principal]::No one else is going to be there for her right now. You know how she is. The other kids have a hard time getting close to her at the best of times, but when her father`s visiting she`s prickly as a porcupine...",
+    "translation": "【Hiệu trưởng】「Lúc này cũng chẳng còn ai khác ở bên cạnh cô bé đâu. Cậu biết cô bé mà. Ngay cả trong những lúc bình thường thì những đứa trẻ khác cũng khó lòng thân thiết với cô bé, nhưng khi bố cô bé đến thăm thì cô bé sẽ khó gần như một con nhím vậy...」"
+  },
+  {
+    "sentence": "[Principal]::But I hear you`ve been interacting with her lately.",
+    "translation": "【Principal】「Nhưng tôi nghe nói gần đây cậu có tương tác với em ấy.」"
+  },
+  {
+    "sentence": "[Principal]::Is that so...? Somehow, I got the idea you might show Sakaki-san a little kindness when she needs it...",
+    "translation": "【Principal】「Vậy sao...? Tôi cứ có cảm giác rằng cậu có thể sẽ đối xử tử tế hơn một chút với Sakaki-san khi em ấy cần...」"
+  },
+  {
+    "sentence": "[Principal]::Chairman, it`s been a while. A pleasure to see you again.",
+    "translation": "【Principal】「Chủ tịch, đã lâu không gặp. Rất vui được gặp lại ngài.」"
+  },
+  {
+    "sentence": "[Principal]::...Might I ask what brings you here today...?",
+    "translation": "【Principal】「...Tôi có thể hỏi điều gì đã đưa ngài đến đây hôm nay không?」"
+  },
+  {
+    "sentence": "[Principal]::...No, that`s not what I meant to imply...",
+    "translation": "【Hiệu trưởng】「...Không, đó không phải là điều tôi muốn ám chỉ...」"
+  },
+  {
+    "sentence": "[Principal]::...I... see.",
+    "translation": "【Principal】「...Tôi... hiểu.」"
+  },
+  {
+    "sentence": "[Principal]::...Uhm, I had tentatively decided a course of inspection, if you`d care to...",
+    "translation": "【Hiệu trưởng】「...Ừm, tôi đã tạm thời quyết định một lộ trình kiểm tra, nếu ngài quan tâm...」"
+  },
+  {
+    "sentence": "[Principal]::...Yes.",
+    "translation": "【Principal】「...Vâng.」"
+  },
+  {
+    "sentence": "[Principal]::All right, we`ve now more or less seen everything...",
+    "translation": "【Hiệu trưởng】「Được rồi, chúng ta cũng đã xem gần hết mọi thứ rồi nhỉ...」"
+  },
+  {
+    "sentence": "[Principal]::...Yes, I`m afraid so. Quite firmly...",
+    "translation": "【Principal】「... Vâng, tôi e là vậy. Một cách khá kiên quyết...」"
+  },
+  {
+    "sentence": "[Principal]::Wh-What on earth? Knock before you come in! And \"fun\"...? I wasn`t doing anything weird in here, for your information!",
+    "translation": "【Principal】「Gì thế...? Làm ơn gõ cửa trước khi vào! Với lại \"vui vẻ\"...? Tôi đang không làm gì kỳ lạ ở đây cả, để cậu biết!」"
+  },
+  {
+    "sentence": "[Principal]::Wha... Wait a second here. What are you talking about!?",
+    "translation": "【Principal】「Gì thế...? Khoan đã nào. Cậu đang nói cái gì vậy!?」"
+  },
+  {
+    "sentence": "[Principal]::Wha... Wait a second here. What are you talking about!? Don`t tell me... You were watching!?",
+    "translation": "【Principal】「Gì thế...? Khoan đã nào. Cậu đang nói cái gì vậy!? Đừng nói với tôi là... Cậu đã nhìn thấy!?」"
+  },
+  {
+    "sentence": "[Principal]::...You really were watching...",
+    "translation": "【Principal】「...Cậu... cậu thật sự đã nhìn thấy...」"
+  },
+  {
+    "sentence": "[Principal]::Are you trying to blackmail me!?",
+    "translation": "【Principal】「Cậu đang cố gắng tống tiền tôi sao!?」"
+  },
+  {
+    "sentence": "[Principal]::How rude can one person possibly be!? I am not THAT old yet, thank you very much!",
+    "translation": "【Principal】「Sao mà vô lễ thế!? Tôi chưa già đến mức đó đâu, cảm ơn rất nhiều nhé!」"
+  },
+  {
+    "sentence": "[Principal]::...Are you trying to compliment me or insult me? I`m genuinely curious.",
+    "translation": "【Principal】「...Cậu đang cố khen tôi hay sỉ nhục tôi vậy? Tôi thật sự tò mò.」"
+  },
+  {
+    "sentence": "[Principal]::...Hey, cut it out... You shouldn`t joke about things like that...",
+    "translation": "【Principal】「...Này, dừng lại đi... Cậu không nên đùa về mấy chuyện như vậy...」"
+  },
+  {
+    "sentence": "[Principal]::It really was a joke!?",
+    "translation": "【Principal】「...Đó thật sự là một trò đùa sao!?」"
+  },
+  {
+    "sentence": "[Principal]::...What the heck... Geez...",
+    "translation": "【Principal】「...Gì thế...? Trời ạ...」"
+  },
+  {
+    "sentence": "[Principal]::Hurry up and tell me what you want! I don`t have all day myself, all right!?",
+    "translation": "【Principal】「Nhanh lên và cho tôi biết cậu muốn gì đi! Tôi không có cả ngày đâu, được chứ!?」"
+  },
+  {
+    "sentence": "[Principal]::...The beach?",
+    "translation": "【Principal】「...Biển ư?」"
+  },
+  {
+    "sentence": "[Principal]::Well... I suppose...",
+    "translation": "【Principal】「Ừm... Tôi đoán vậy...」"
+  },
+  {
+    "sentence": "[Principal]::You want me to come...?",
+    "translation": "【Principal】「Cậu muốn tôi đi cùng ư...?」"
+  },
+  {
+    "sentence": "[Principal]::...Hmmm...",
+    "translation": "【Principal】「...Hừm...」"
+  },
+  {
+    "sentence": "[Principal]::...I didn`t... say anything yet, okay? But... I`m not sure there`s any reason for me to participate in an independently-planned student event...",
+    "translation": "【Principal】「...Tôi đã... chưa nói gì cả, được chứ? Nhưng... tôi không chắc có lý do gì để tôi phải tham gia vào một sự kiện do học sinh tự lên kế hoạch...」"
+  },
+  {
+    "sentence": "[Principal]::...With me...?",
+    "translation": "【Principal】「...Đi với tôi ư...?」"
+  },
+  {
+    "sentence": "[Principal]::...Fine, fine... When`s the trip...?",
+    "translation": "【Principal】「...Được rồi, được rồi... Chuyến đi là khi nào vậy...?」"
+  },
+  {
+    "sentence": "[Principal]::...You`re a little TOO good at sweet-talking older women, you know that? I feel like I`ve been taken for a bit of a ride here...",
+    "translation": "【Principal】「...Cậu giỏi dỗ ngon dỗ ngọt những người phụ nữ lớn tuổi hơn mình quá, cậu biết điều đó không? Tôi cảm thấy mình bị cậu lừa gạt một chút rồi đây...」"
+  },
+  {
+    "sentence": "[Principal]::...Forget it... I know what you`re getting at. Deceiving me as a woman at least means you`re treating me like a woman, right? Well, I suppose it`s too late to complain now. I`ll allow you to manipulate me this time.",
+    "translation": "【Principal】「...Thôi đi... Tôi biết cậu đang muốn gì rồi. Việc cậu lừa dối tôi với tư cách một người phụ nữ ít nhất cũng có nghĩa là cậu đang đối xử với tôi như một người phụ nữ, đúng không? Ừm, tôi đoán giờ thì phàn nàn cũng đã quá muộn rồi. Lần này tôi sẽ cho phép cậu thao túng tôi.」"
+  },
+  {
+    "sentence": "[Principal]::Yes, fine. I imagine that`s the reason you even bothered to ask me along in the first place.",
+    "translation": "【Principal】「Được rồi, được rồi. Tôi đoán đó là lý do cậu lại phải phiền phức mời tôi đi cùng ngay từ đầu.」"
+  },
+  {
+    "sentence": "[Principal]::You`re supposed to deny that. When you`re deceiving a woman, it`s only polite to keep deceiving her to the end.",
+    "translation": "【Principal】「Cậu đáng lẽ phải phủ nhận chuyện đó. Khi cậu lừa dối một người phụ nữ, việc tiếp tục lừa dối cô ấy đến cùng mới là lịch sự.」"
+  },
+  {
+    "sentence": "[Principal]::Uhm, hey, what`s all the fuss about?",
+    "translation": "【Hiệu trưởng】「Ờm, này, mọi người đang làm ồn chuyện gì vậy?」"
+  },
+  {
+    "sentence": "[Principal]::At the sound of the bell, the principal promptly cuts off the lesson and puts away her chalk.",
+    "translation": "【Hiệu Trưởng】\"Chuông vừa reo là tôi lập tức dừng bài giảng và cất phấn đi.\""
+  },
+  {
+    "sentence": "[Principal]::Oh, one last thing... We`re having music class this afternoon, so please make sure you head to the correct classroom.",
+    "translation": "【Hiệu Trưởng】\"À, còn một chuyện nữa... Chiều nay chúng ta có lớp âm nhạc, nên nhớ đến đúng phòng học đấy nhé.\""
+  },
+  {
+    "sentence": "[Principal]::Ooh, what`s all this? Just look at all these instruments. Are you starting a band or something?",
+    "translation": "【Cô】「Ôi, đây là gì vậy? Nhìn tất cả những nhạc cụ này xem. Các em đang lập ban nhạc hay sao?」"
+  },
+  {
+    "sentence": "[Principal]::The upcoming class...?",
+    "translation": "【Cô】「Buổi học sắp tới...?」"
+  },
+  {
+    "sentence": "[Principal]::The upcoming class...? Isn`t the fifth period music class a vocal chorus lesson?",
+    "translation": "【Cô】「Buổi học sắp tới...? Tiết thứ năm là giờ nhạc, lớp hát hợp xướng phải không?」"
+  },
+  {
+    "sentence": "[Principal]::Look, it`s right here in black and white, see?",
+    "translation": "【Cô】「Nhìn này, mọi thứ đều được ghi rõ ràng ở đây, em thấy chứ?」"
+  },
+  {
+    "sentence": "[Principal]::I don`t quite understand the situation... but I`m glad I could be of help, I suppose.",
+    "translation": "【Cô】「Cô cũng không hiểu rõ chuyện gì đang xảy ra... nhưng cô rất vui vì đã giúp được các em.」"
+  },
+  {
+    "sentence": "[Principal]::...I-Is that a fact?",
+    "translation": "【Cô】「...Th-Thật sao?」"
+  },
+  {
+    "sentence": "[Principal]::...C-Can we all just get along, please?",
+    "translation": "【Principal】「...C-Các em có thể hòa thuận với nhau được không?」"
+  },
+  {
+    "sentence": "[Principal]::Well? Is everyone ready to go?",
+    "translation": "【Hiệu Trưởng】Được rồi chứ? Mọi người đã sẵn sàng đi chưa?"
+  },
+  {
+    "sentence": "[Principal]::...That`s strange. Matsushima-san and Komine-san are one thing, but Amane-san should probably be back by now... I wonder if she ran into any trouble.",
+    "translation": "【Hiệu Trưởng】\"...Kỳ lạ thật. Matsushima-san và Komine-san thì không nói, nhưng Amane đáng lẽ phải về rồi mới phải... Không biết em ấy có gặp chuyện gì không nữa.\""
+  },
+  {
+    "sentence": "[Principal]::I assume she`s picking up her usual ride from the warehouse on the north side of the school grounds. It`s not particularly far...",
+    "translation": "【Hiệu Trưởng】Cô cho rằng em ấy đang lấy xe quen thuộc ở nhà kho phía bắc sân trường. Cũng không xa lắm..."
+  },
+  {
+    "sentence": "[Principal]::Let`s wait a little while longer. If she doesn`t come fairly soon, then yes, we should go see if anything`s the matter.",
+    "translation": "【Hiệu Trưởng】\"Vậy mình đợi thêm một lát nữa xem sao. Nếu em ấy không đến sớm thì đúng là chúng ta nên đi xem có chuyện gì không.\""
+  },
+  {
+    "sentence": "[Principal]::...What is this girl shouting about...?",
+    "translation": "【Hiệu Trưởng】\"...Em ấy đang la hét cái gì vậy...?\""
+  },
+  {
+    "sentence": "[Principal]::Huh? Yes, I don`t mind, of course...",
+    "translation": "【Principal】「Hả? Ừ, cô không phiền đâu, tất nhiên rồi...」"
+  },
+  {
+    "sentence": "[Principal]::Again with the transparent flattery...",
+    "translation": "【Principal】「Thôi nào, đừng tâng bốc lộ liễu thế chứ...」"
+  },
+  {
+    "sentence": "[Principal]::...Why do you feel the need to torment me?",
+    "translation": "【Principal】「...Sao cậu lại có ý định giày vò tôi chứ?」"
+  },
+  {
+    "sentence": "[Principal]::You are an irredeemably devious young man...",
+    "translation": "【Principal】「Cậu là một chàng trai xảo quyệt không thể cứu vãn được nữa...」"
+  },
+  {
+    "sentence": "[Principal]::Well, it seems your presence is requested elsewhere. Go on, why don`t you?",
+    "translation": "【Principal】「À, có vẻ như sự hiện diện của cậu đang được yêu cầu ở nơi khác. Đi đi, sao cậu không đi chứ?」"
+  },
+  {
+    "sentence": "[Principal]::No, I don`t think so. I`ll be looking after the things, so you just run along now.",
+    "translation": "【Principal】「Không, tôi không nghĩ vậy. Tôi sẽ lo liệu mọi việc, nên cậu cứ đi đi nhé.」"
+  },
+  {
+    "sentence": "[Principal]::Oh geez. Don`t talk like that to your teacher with such a straight face.",
+    "translation": "【Principal】「Trời ạ. Đừng nói chuyện với giáo viên của mình bằng cái bộ mặt nghiêm túc đó chứ.」"
+  },
+  {
+    "sentence": "[Principal]::To be honest, I can`t swim.",
+    "translation": "【Principal】「Thật lòng mà nói, tôi không biết bơi.」"
+  },
+  {
+    "sentence": "[Principal]::Thanks for the offer. Maybe next time.",
+    "translation": "【Principal】「Cảm ơn lời đề nghị của cậu. Có lẽ lần sau vậy.」"
+  },
+  {
+    "sentence": "[Principal]::Yeah. Have fun.",
+    "translation": "【Principal】「Ừm. Đi chơi vui vẻ nhé.」"
+  },
+  {
+    "sentence": "[Principal]::.............",
+    "translation": "【Principal】「...」"
+  },
+  {
+    "sentence": "[Principal]::...I`m lonely...",
+    "translation": "【Principal】「...Tôi cô đơn quá...」"
+  },
+  {
+    "sentence": "[Principal]::Hey, Sakaki-san. You`ve been reading the whole time... Aren`t you going to go into the water?",
+    "translation": "【Principal】「Này, Sakaki-san. Em đọc sách nãy giờ đấy... Em không xuống nước à?」"
+  },
+  {
+    "sentence": "[Principal]::Why? Are you waiting for someone to invite you?",
+    "translation": "【Principal】「Sao thế? Em đợi ai mời mới chịu xuống nước à?」"
+  },
+  {
+    "sentence": "[Principal]::But we came all the way out to the beach...",
+    "translation": "【Principal】「Nhưng chúng ta đã cất công ra đến bãi biển rồi mà...」"
+  },
+  {
+    "sentence": "[Principal]::I can`t swim. And at my age, I can hardly go practice my flutter kick with Irisu-san, now can I?",
+    "translation": "【Principal】「Cô có biết bơi đâu. Với lại ở cái tuổi này rồi, cô còn mặt mũi nào mà đi tập quạt chân với Irisu-san nữa chứ?」"
+  },
+  {
+    "sentence": "[Principal]::Yes, I suppose you could put it that way...",
+    "translation": "【Principal】「Ừ, em nói vậy cũng được...」"
+  },
+  {
+    "sentence": "[Principal]::...Psychological...? Do you have unpleasant memories involving the sea?",
+    "translation": "【Principal】「...Tâm lý...? Em có kỷ niệm không vui nào liên quan đến biển à?」"
+  },
+  {
+    "sentence": "[Principal]::Aaah... I kind of understand what you mean. But in that case, why didn`t you veto this trip to the beach when the topic first came up...?",
+    "translation": "【Principal】「Aaa... Cô hiểu ý em rồi. Nhưng nếu vậy, sao lúc đầu em không phản đối chuyến đi biển này...?」"
+  },
+  {
+    "sentence": "[Principal]::Opposing the idea by yourself and upsetting the group would have been unpleasant, and once it was decided, being left out also seemed an unattractive prospect... Something along those lines?",
+    "translation": "【Principal】「Phản đối một mình rồi làm mọi người mất hứng thì cũng khó xử, mà một khi đã quyết định rồi, bị bỏ lại một mình cũng chẳng vui vẻ gì... Đại loại thế phải không em?」"
+  },
+  {
+    "sentence": "[Principal]::Not at all. It`s just... when I look at you right now, it kind of feels like I`m seeing myself at your age. Brings back some embarrassing memories.",
+    "translation": "【Principal】「Không hề. Chỉ là... khi cô nhìn em bây giờ, cô có cảm giác như đang nhìn thấy chính mình ở độ tuổi của em vậy. Nhớ lại mấy kỷ niệm xấu hổ thời đó ghê.」"
+  },
+  {
+    "sentence": "[Principal]::I`m not laughing at you, am I? But, let`s see... Why don`t I teach you some secret words of power?",
+    "translation": "【Principal】「Cô không có cười em mà, phải không? Để xem nào... Hay là cô dạy cho em vài câu thần chú bí mật nhé?」"
+  },
+  {
+    "sentence": "[Principal]::Yes, quite potent indeed. A friend taught me these when I was still a student, but I never ended up being able to make use of them...",
+    "translation": "【Principal】「Ừ, linh nghiệm lắm đấy. Hồi cô còn là sinh viên, có một người bạn đã dạy cho cô, nhưng cuối cùng cô lại chẳng có cơ hội dùng đến chúng...」"
+  },
+  {
+    "sentence": "[Principal]::Correct. So how about you try them out in my stead?",
+    "translation": "【Principal】「Đúng vậy. Vậy em thử dùng chúng thay cô nhé?」"
+  },
+  {
+    "sentence": "[Principal]::We`re having a barbecue for dinner, right? Are you really okay by yourselves?",
+    "translation": "【Principal】「Chúng ta sẽ có tiệc nướng cho bữa tối phải không? Các em ở đây có ổn không đấy?」"
+  },
+  {
+    "sentence": "[Principal]::...The problem is, Suou-san... when you say that, it really doesn`t sound like a joke...",
+    "translation": "【Principal】「...Vấn đề là, Suou-san... khi em nói thế, nghe chẳng giống đùa chút nào...」"
+  },
+  {
+    "sentence": "[Principal]::Well... in retrospect, I suppose your services didn`t prove strictly necessary... but even so, having you as an escort was helpful from a PR perspective, let`s say.",
+    "translation": "【Hiệu trưởng】「Ừm… nhìn lại thì, tôi đoán là dịch vụ của cậu không hoàn toàn cần thiết… nhưng dù sao đi nữa, việc có cậu làm vệ sĩ cũng giúp ích về mặt PR, có thể nói như vậy.」"
+  },
+  {
+    "sentence": "[Principal]::You see, when you`re unmarried at my age, people tend to get rather suspicious about why... It`s unfortunately common for the interviews to veer away from the stated theme into more personal matters...",
+    "translation": "【Hiệu trưởng】「Cậu thấy đấy, khi tôi ở tuổi này mà vẫn chưa kết hôn, mọi người có xu hướng khá nghi ngờ về lý do... Thật không may, những buổi phỏng vấn thường hay lệch khỏi chủ đề đã định sẵn để đi vào những chuyện cá nhân hơn...」"
+  },
+  {
+    "sentence": "[Principal]::To be perfectly honest, I would say that might have been a good part of it, yes...",
+    "translation": "【Hiệu trưởng】「Thật lòng mà nói thì, tôi cho rằng đó cũng là một phần lý do chính, phải vậy không…」"
+  },
+  {
+    "sentence": "[Principal]::Geez... give me a break. I get plenty of that without you joining in.",
+    "translation": "【Hiệu trưởng】「Chà… buông tha cho tôi đi. Tôi đã đủ những thứ đó rồi mà không cần cậu tham gia vào nữa.」"
+  },
+  {
+    "sentence": "[Principal]::Geez... give me a break. I get plenty of that without you joining in. Here you go, hoffee`s done...",
+    "translation": "【Hiệu trưởng】「Chà… buông tha cho tôi đi. Tôi đã đủ những thứ đó rồi mà không cần cậu tham gia vào nữa. Đây, cà phê xong rồi đây…」"
+  },
+  {
+    "sentence": "[Principal]::Yes, it`s coffee! I just slurred the word a bit, okay? Why do you feel the need to mock me at every opportunity?",
+    "translation": "【Hiệu trưởng】「Đúng vậy, cà phê mà! Tôi chỉ lỡ nói vấp một chút thôi, được không? Sao cậu cứ phải châm chọc tôi mọi lúc mọi nơi vậy?」"
+  },
+  {
+    "sentence": "[Principal]::I was born with these mouth-marbles! I`m paying for your time today, you know? Show your employer some respect!",
+    "translation": "【Hiệu trưởng】「Tôi sinh ra đã có mấy cái cục vướng víu trong miệng này rồi! Hôm nay tôi trả tiền cho thời gian của cậu đấy, biết không? Hãy thể hiện sự tôn trọng với người thuê cậu đi!」"
+  },
+  {
+    "sentence": "[Principal]::Oh, don`t say that. I think it`s a good look for you. Stick around a little longer, why don`t you?",
+    "translation": "【Hiệu trưởng】「Ôi, đừng nói thế chứ. Tôi nghĩ nó rất hợp với cậu đấy. Ở lại thêm chút nữa đi, được không?」"
+  },
+  {
+    "sentence": "[Principal]::Goodness.",
+    "translation": "【Hiệu trưởng】「Ôi trời ơi...」"
+  },
+  {
+    "sentence": "[Principal]::Goodness. I`m almost flattered you even include me in that category. But why would you be worried about that?",
+    "translation": "【Hiệu trưởng】「Ôi trời. Tôi gần như cảm thấy vinh dự khi cậu xếp tôi vào hạng mục đó đấy. Nhưng sao cậu lại phải lo lắng về chuyện đó chứ?」"
+  },
+  {
+    "sentence": "[Principal]::Oh-hoh. My, my. And here I had you down as more of a \"no woman`s gonna tell me what to do!\" type. After all that time playing the bad boy, you turn out to be surprisingly timid at heart...",
+    "translation": "【Hiệu trưởng】「Ôi hô. Ôi trời. Thế mà tôi cứ tưởng cậu thuộc tuýp \"đéo con nào bảo tao phải làm gì!\" ấy chứ. Sau bao nhiêu thời gian tỏ ra nguy hiểm, hóa ra cậu lại nhát gan đến bất ngờ...」"
+  },
+  {
+    "sentence": "[Principal]::Wow... you sure don`t seem like you`d know the first thing about how to handle relationships, but you`re actually thinking this through pretty carefully...",
+    "translation": "【Hiệu trưởng】「Ôi... trông cậu chẳng giống người hiểu chút gì về cách xử lý các mối quan hệ, nhưng thực ra cậu đang suy nghĩ khá kỹ lưỡng đấy...」"
+  },
+  {
+    "sentence": "[Principal]::You`re more thoughtful than you let on. Ever considered becoming a school-teacher? You might be well-suited for the job.",
+    "translation": "【Principal】「Cậu tỏ ra chu đáo hơn vẻ bề ngoài đấy. Đã bao giờ nghĩ đến việc trở thành giáo viên chưa? Có lẽ cậu sẽ rất hợp với công việc đó đấy.」"
+  },
+  {
+    "sentence": "[Principal]::But I must say, I`m a liiittle surprised... You seem pretty darn serious about Suou-san.",
+    "translation": "【Principal】「Nhưng tôi phải nói, tôi hơi bất ngờ một chút... Cậu có vẻ cực kỳ nghiêm túc với Suou-san đấy.」"
+  },
+  {
+    "sentence": "[Principal]::What do you plan to do about your job?",
+    "translation": "【Principal】「Cậu định xử lý thế nào với công việc của mình?」"
+  },
+  {
+    "sentence": "[Principal]::So like I said, how about becoming a teacher? Working here should be quite the effective cover, don`t you think...?",
+    "translation": "【Principal】「Như tôi đã nói, sao không thử làm giáo viên nhỉ? Làm việc ở đây sẽ là vỏ bọc khá hiệu quả đấy, cậu không nghĩ vậy sao...?」"
+  },
+  {
+    "sentence": "[Principal]::If you take it seriously, I`ll certainly consider it seriously.",
+    "translation": "【Hiệu trưởng】「Nếu cậu nghiêm túc nhận lời, tôi chắc chắn sẽ xem xét nghiêm túc đấy.」"
+  },
+  {
+    "sentence": "[Principal]::PrincipalCertainly... Yes, I understand. Right on schedule, then. Yes, Yumiko-san is in the dormitory, so she won`t be at the school building...Certainly... Yes, I understand. Right on schedule, then. Yes, Yumiko-san is in the dormitory, so she won`t be at the school building...Certainly... Yes, I understand. Right on schedule, then. Yes, Yumiko-san is in the dormitory, so she won`t be at the school building...Certainly... Yes, I understand. Right on schedule, then. Yes, Yumiko-san is in the dormitory, so she won`t be at the school building...",
+    "translation": "【Principal】「Được rồi... Tôi hiểu. Đúng là theo đúng lịch trình rồi. Vâng, Yumiko-san đang ở trong ký túc xá, nên cô ấy sẽ không có ở tòa nhà trường học...」"
+  },
+  {
+    "sentence": "[Principal]::Ah, Kazami-kun. Just the person I wanted to see.",
+    "translation": "【Principal】「À, Kazami-kun. Đúng là ngài tôi muốn gặp.」"
+  },
+  {
+    "sentence": "[Principal]::I didn`t say anything like that.",
+    "translation": "【Principal】「Tôi có nói gì như vậy đâu.」"
+  },
+  {
+    "sentence": "[Principal]::Why does every conversation with you have to be such an exhausting experience...?",
+    "translation": "【Principal】「Sao mỗi lần nói chuyện với cậu tôi đều thấy mệt mỏi thế nhỉ...?」"
+  },
+  {
+    "sentence": "[Principal]::Haaah...",
+    "translation": "【Principal】「Haaah...」"
+  },
+  {
+    "sentence": "[Principal]::Yes... some teaching materials for our upcoming classes should have been delivered just now, and I was hoping you could help carry them inside.",
+    "translation": "【Principal】「Ừm... một số tài liệu giảng dạy cho các lớp học sắp tới của chúng ta vừa được giao đến, tôi hy vọng cậu có thể giúp tôi mang chúng vào trong.」"
+  },
+  {
+    "sentence": "[Principal]::That`s how things work lately. Even if you spend big on a new TV or washing machine, nobody`s going to install it for you unless you pay an extra fee.",
+    "translation": "【Principal】「Dạo này mọi thứ là thế đấy. Ngay cả khi cậu vung tiền mua TV hay máy giặt mới, cũng chẳng ai lắp đặt cho cậu đâu, trừ khi cậu trả thêm phí.」"
+  },
+  {
+    "sentence": "[Principal]::Precisely why the charity of kind-hearted students is so indispensable.",
+    "translation": "【Principal】「Đó chính xác là lý do tại sao lòng hảo tâm của những học sinh tốt bụng lại vô cùng cần thiết.」"
+  },
+  {
+    "sentence": "[Principal]::Oh...? You`re strangely obedient for once.",
+    "translation": "【Principal】「Ồ...? Lần này cậu ngoan ngoãn lạ thường đấy.」"
+  },
+  {
+    "sentence": "[Principal]::How did this young man become such a sadist...?",
+    "translation": "【Principal】「Sao cậu nhóc này lại trở thành một tên са са đến thế...?」"
+  },
+  {
+    "sentence": "[Principal]::Is that so? Congratulations to you.",
+    "translation": "【Principal】「Vậy sao? Chúc mừng cậu.」"
+  },
+  {
+    "sentence": "[Principal]::That`s a misguided preconception, plain and simple. A full range of healthy social relationships enables personal growth. I have no reason to oppose this.",
+    "translation": "【Principal】「Đó là một định kiến sai lầm, đơn giản là vậy. Một loạt các mối quan hệ xã hội lành mạnh sẽ tạo điều kiện cho sự phát triển cá nhân. Tôi không có lý do gì để phản đối điều đó cả.」"
+  },
+  {
+    "sentence": "[Principal]::If you conclude that`s the best thing for Komine-san, I won`t say anything.",
+    "translation": "【Principal】「Nếu cậu kết luận đó là điều tốt nhất cho Komine-san, tôi sẽ không nói gì cả.」"
+  },
+  {
+    "sentence": "[Principal]::Oh, a comparison to Harudera-san? How flattering.",
+    "translation": "【Principal】「Ồ, so sánh tôi với Harudera-san sao? Thật vinh dự quá.」"
+  },
+  {
+    "sentence": "[Principal]::That`s not it! That`s incredibly rude to her, for one thing... and all I meant was that she understands you better than anyone else!!",
+    "translation": "【Principal】「Không phải vậy! Đầu tiên, điều đó thật quá thất lễ với em ấy... mà tất cả những gì tôi muốn nói là em ấy hiểu cậu hơn bất kỳ ai khác!!」"
+  },
+  {
+    "sentence": "[Principal]::Anyway, I know you well enough to conclude you`re not the sort of person who`d do something like that.",
+    "translation": "Dù sao đi nữa, tôi biết cậu đủ rõ để kết luận rằng cậu không phải là kiểu người sẽ làm chuyện đó đâu."
+  },
+  {
+    "sentence": "[Principal]::Excuse me... Can you name my profession?",
+    "translation": "【Principal】「Xin lỗi... Cậu có thể gọi tên nghề nghiệp của tôi không?」"
+  },
+  {
+    "sentence": "[Principal]::Very well done.",
+    "translation": "【Principal】「Làm tốt lắm.」"
+  },
+  {
+    "sentence": "[Principal]::So, to be perfectly clear, I completely respect and value the independence of my students in matters like these.",
+    "translation": "【Principal】「Nói cho rõ ràng là, tôi hoàn toàn tôn trọng và coi trọng sự độc lập của học sinh trong những chuyện như thế này.」"
+  },
+  {
+    "sentence": "[Principal]::Oh? Rather rare to hear such uncertainty from you...",
+    "translation": "【Principal】「Ồ? Thật hiếm khi nghe thấy sự lưỡng lự như vậy từ cậu...」"
+  },
+  {
+    "sentence": "[Principal]::......",
+    "translation": "【Principal】「......」"
+  },
+  {
+    "sentence": "[Principal]::...I see.",
+    "translation": "【Principal】「...Tôi hiểu rồi.」"
+  },
+  {
+    "sentence": "[Principal]::You may not appreciate hearing this, but... I`m slightly relieved to hear you talk like that.",
+    "translation": "【Principal】「Cậu có thể không muốn nghe điều này, nhưng... tôi thấy nhẹ nhõm đôi chút khi nghe cậu nói như vậy.」"
+  },
+  {
+    "sentence": "[Principal]::Well, as a \"client\" who`s requested work from you, I suppose it should be a little unsettling...",
+    "translation": "【Principal】「Chà, với tư cách là một \"khách hàng\" đã yêu cầu cậu làm việc, tôi đoán điều đó hẳn là hơi bất an nhỉ...」"
+  },
+  {
+    "sentence": "[Principal]::But as a student... no, as a human being, you`re still a work in progress. You do know that, yes?",
+    "translation": "【Principal】「Nhưng với tư cách là một học sinh... không, là một con người, cậu vẫn chỉ là một tác phẩm đang dang dở. Cậu biết điều đó, đúng chứ?」"
+  },
+  {
+    "sentence": "[Principal]::It`s only natural that you`d feel anxious about something you`re attempting for the first time... But if you persist, if you keep on approaching others, I think that hole inside you will start to fill up. Bit by bit.",
+    "translation": "【Principal】「Cảm thấy lo lắng khi thử sức với điều gì đó lần đầu tiên là điều hiển nhiên thôi... Nhưng nếu cậu cứ kiên trì, nếu cậu cứ tiếp tục tiếp cận mọi người, tôi nghĩ cái lỗ hổng bên trong cậu sẽ dần được lấp đầy. Từng chút một vậy đó.」"
+  },
+  {
+    "sentence": "[Principal]::Uhm, excuse me... it may sound slightly corny, but I`m being serious here, you know?",
+    "translation": "【Principal】「Ừm, xin lỗi đã ngắt lời... Nghe có vẻ hơi sến súa, nhưng tôi đang nói thật đấy, cậu biết không?」"
+  },
+  {
+    "sentence": "[Principal]::I hope so...",
+    "translation": "【Principal】「Tôi cũng hy vọng là vậy...」"
+  },
+  {
+    "sentence": "[Principal]::I hope so... I`d like you to try and keep in mind that you`re currently in a place called a \"school.\"",
+    "translation": "【Principal】「Tôi cũng hy vọng là vậy... Tôi mong cậu hãy luôn ghi nhớ rằng mình đang ở một nơi gọi là \"trường học\".」"
+  },
+  {
+    "sentence": "[Principal]::A school comes with teachers, such as myself... and classmates, such as the girls.",
+    "translation": "【Principal】「Một ngôi trường sẽ có giáo viên, như tôi đây... và học sinh, như đám con gái kia.」"
+  },
+  {
+    "sentence": "[Principal]::So when you`re feeling uncertain, or simply don`t know what to do next, there`s no reason to muddle through it alone. Get help from the people around you. That`s what we`re here for, don`t you think?",
+    "translation": "【Principal】「Vậy nên khi cậu cảm thấy bất an, hay đơn giản là không biết phải làm gì tiếp theo, thì chẳng có lý do gì phải tự mình vật lộn cả. Hãy tìm sự giúp đỡ từ những người xung quanh. Đó là lý do chúng tôi ở đây, cậu không nghĩ vậy sao?」"
+  },
+  {
+    "sentence": "[Principal]::You`ve been at this academy for a while now, so... I assume you`ve noticed that those girls are surprisingly reliable, yes?",
+    "translation": "【Principal】「Cậu cũng ở học viện này được một thời gian rồi, nên... Tôi đoán cậu đã nhận ra đám con gái đó đáng tin cậy một cách đáng ngạc nhiên, phải không?」"
+  },
+  {
+    "sentence": "[Principal]::Judging from the expression on your face, I think you know what I`m talking about.",
+    "translation": "【Principal】「Nhìn vẻ mặt của cậu, tôi đoán là cậu biết tôi đang nói về chuyện gì.」"
+  },
+  {
+    "sentence": "[Principal]::Also, as it fortunately happens to be summer vacation at the moment... why not simply spend more time with Komine-san and see what happens? Perhaps you`ll find your answers in the natural course of things.",
+    "translation": "【Principal】「À mà, cũng may là hiện tại đang là nghỉ hè... sao cậu không thử dành nhiều thời gian hơn bên Komine-san xem sao? Biết đâu cậu sẽ tìm thấy câu trả lời của mình một cách tự nhiên nhất thì sao?」"
+  },
+  {
+    "sentence": "[Principal]::You may be a \"working student,\" but I assume you have enough time to spare for this, yes?",
+    "translation": "【Principal】「Cậu có thể là một \"học sinh vừa làm vừa học\", nhưng tôi đoán cậu vẫn có đủ thời gian rảnh cho chuyện này, đúng không?」"
+  },
+  {
+    "sentence": "[Principal]::What do you think? Even a teacher who could still pass for a student can be slightly useful every once in a while, yes?",
+    "translation": "【Principal】「Cậu nghĩ sao? Ngay cả một giáo viên trông vẫn còn giống học sinh cũng có thể hữu ích đôi chút vào lúc này, đúng không?」"
+  },
+  {
+    "sentence": "[Principal]::That`s the way. Do try to keep up that admirable spirit of humility.",
+    "translation": "【Principal】「Đúng là như vậy. Hãy cố gắng giữ vững tinh thần khiêm tốn đáng ngưỡng mộ đó nhé.」"
+  },
+  {
+    "sentence": "[Principal]::That`s a good attitude... There`s no need to overthink this.",
+    "translation": "【Principal】「Đó là một thái độ tốt... Không cần phải suy nghĩ quá nhiều đâu.」"
+  },
+  {
+    "sentence": "[Principal]::If you act with Komine-san in mind, you`re already quite a splendid boyfriend, in my opinion.",
+    "translation": "【Principal】「Nếu cậu hành động vì Komine-san, thì theo ý kiến của tôi, cậu đã là một người bạn trai tuyệt vời rồi.」"
+  },
+  {
+    "sentence": "[Principal]::...Hachoo!",
+    "translation": "【Principal】「...Hắt xì!」"
+  },
+  {
+    "sentence": "[Principal]::W-Who dares!? Who dares spread slander about my age!?",
+    "translation": "【Principal】「A-Ai dám!? Ai dám tung tin đồn nhảm về tuổi của Tôi hả!?」"
+  },
+  {
+    "sentence": "[Principal]::Aah, Kazami-kun. Just the man I wanted to see.",
+    "translation": "【Principal】「Aah, Kazami-kun. Đúng là cậu tôi đang muốn gặp.」"
+  },
+  {
+    "sentence": "[Principal]::Aww gee... Then I`ll just hafta come back when I`m bigger, I guess!",
+    "translation": "【Principal】「Ôi trời... Vậy thì tôi đành phải quay lại khi nào tôi lớn hơn thôi!」"
+  },
+  {
+    "sentence": "[Principal]::Oh c`mon, stop looking at me like I`ve grown a second head! I was just rolling with it, of course! A little payback for the constant teasing!",
+    "translation": "【Principal】「Ôi trời, thôi nào, đừng nhìn tôi như thể tôi mọc thêm cái đầu nữa vậy! Tôi chỉ hùa theo thôi mà! Một chút trả đũa vì mấy cậu cứ trêu tôi suốt thôi!」"
+  },
+  {
+    "sentence": "[Principal]::Argh... Why do you have to be such a bully, anyway?",
+    "translation": "【Principal】「Argh... Sao cậu cứ phải bắt nạt tôi thế hả?」"
+  },
+  {
+    "sentence": "[Principal]::Look, mister...",
+    "translation": "【Principal】「Nghe này, cậu...」"
+  },
+  {
+    "sentence": "[Principal]::Ah, that`s right...",
+    "translation": "【Principal】「À, đúng rồi...」"
+  },
+  {
+    "sentence": "[Principal]::Ah, that`s right... As a matter of fact, there`s something I wanted to tell you guys about before summer vacation ends. Seems like the others are all out at the moment, though.",
+    "translation": "【Principal】「À, đúng rồi... Thật ra, tôi có chuyện muốn nói với mấy cậu trước khi kỳ nghỉ hè kết thúc. Có vẻ như những người khác đều ra ngoài hết rồi.」"
+  },
+  {
+    "sentence": "[Principal]::Sorry for the sudden meeting, everybody.",
+    "translation": "【Principal】「Xin lỗi vì cuộc họp đột ngột này, mọi người.」"
+  },
+  {
+    "sentence": "[Principal]::W-Well then, where was I...?",
+    "translation": "【Principal】「W-Vậy thì, tôi đang nói đến đâu rồi nhỉ...?」"
+  },
+  {
+    "sentence": "[Principal]::W-Well then, where was I...? I`m sorry to say that this has nothing to do with extending summer vacation or closing the school.",
+    "translation": "【Principal】「W-Vậy thì, cô đang nói đến đâu rồi nhỉ...? Cô rất tiếc phải nói rằng chuyện này không liên quan gì đến việc kéo dài kỳ nghỉ hè hay đóng cửa trường cả.」"
+  },
+  {
+    "sentence": "[Principal]::In fact, I suppose it`ll be fairly sad tidings from your perspective.",
+    "translation": "【Principal】「Thật ra, cô cho rằng đó sẽ là một tin khá buồn từ góc độ của em.」"
+  },
+  {
+    "sentence": "[Principal]::You two are really bouncing off the walls today... I don`t think you were this manic before the break...",
+    "translation": "【Principal】「Hôm nay hai em thực sự quá khích đấy... Cô không nghĩ là hai em lại hưng phấn đến vậy trước kỳ nghỉ...」"
+  },
+  {
+    "sentence": "[Principal]::Okay, let`s cut right to the chase... As soon as the new term starts, we`re going to be holding a standardized achievement test.",
+    "translation": "【Principal】「Được rồi, chúng ta vào thẳng vấn đề nhé... Ngay khi học kỳ mới bắt đầu, chúng ta sẽ tổ chức một kỳ thi đánh giá thành tích chuẩn hóa.」"
+  },
+  {
+    "sentence": "[Principal]::Yes. This is a nationwide test, being held in every academic institution as the centerpiece of an investigation into scholastic achievement levels...",
+    "translation": "【Principal】「Đúng vậy. Đây là một kỳ thi trên toàn quốc, được tổ chức tại mọi cơ sở giáo dục như là trọng tâm của một cuộc điều tra về trình độ thành tích học tập...」"
+  },
+  {
+    "sentence": "[Principal]::Regardless of your school year, you`ll all be taking the same examination.",
+    "translation": "【Principal】「Bất kể năm học của các em là gì, tất cả các em đều sẽ phải làm cùng một bài kiểm tra.」"
+  },
+  {
+    "sentence": "[Principal]::To avoid creating an age advantage, the plan is to use questions based off earlier material that everyone`s already learned.",
+    "translation": "【Principal】「Để tránh tạo ra lợi thế về tuổi tác, kế hoạch là sử dụng các câu hỏi dựa trên tài liệu cũ mà mọi người đã học qua.」"
+  },
+  {
+    "sentence": "[Principal]::Hyaaah!?",
+    "translation": "【Principal】「Hyaaah!?」"
+  },
+  {
+    "sentence": "[Principal]::W-Well, I`m still comfortably in the \"maiden\" age range!",
+    "translation": "【Principal】「V-Vậy mà, cô vẫn còn thuộc trong khoảng tuổi \"thiếu nữ\" chứ!」"
+  },
+  {
+    "sentence": "[Principal]::W-Well, I`m still comfortably in the \"maiden\" age range! ...Probably.",
+    "translation": "【Principal】「V-Vậy mà, cô vẫn còn thuộc trong khoảng tuổi \"thiếu nữ\" chứ! ...Chắc vậy.」"
+  },
+  {
+    "sentence": "[Principal]::More importantly... knock when you`re visiting a woman`s room, all right!?",
+    "translation": "【Principal】「Quan trọng hơn... lần sau vào phòng con gái thì gõ cửa trước đi, hiểu chưa!?」"
+  },
+  {
+    "sentence": "[Principal]::Geez...",
+    "translation": "【Principal】「Chà...」"
+  },
+  {
+    "sentence": "[Principal]::...So, what do you need? I assume you didn`t stop by just to see my face, yes?",
+    "translation": "【Principal】「...Vậy cậu cần gì? Tôi đoán cậu không ghé qua đây chỉ để ngắm mặt tôi đâu, đúng không?」"
+  },
+  {
+    "sentence": "[Principal]::Y-You`ve got a girlfriend, you know? Taking me on a date would be cheating on Komine-san...",
+    "translation": "【Principal】「C-Cậu có bạn gái rồi, cậu biết chứ? Mời tôi đi hẹn hò sẽ là lừa dối Komine-san đấy...」"
+  },
+  {
+    "sentence": "[Principal]::I-I can`t let you do that...",
+    "translation": "【Principal】「T-Tôi không thể để cậu làm vậy...」"
+  },
+  {
+    "sentence": "[Principal]::...Well? What do you want, then?",
+    "translation": "【Principal】「...Vậy cậu muốn gì?」"
+  },
+  {
+    "sentence": "[Principal]::...A plan?",
+    "translation": "【Principal】「...Một kế hoạch?」"
+  },
+  {
+    "sentence": "[Principal]::Not the problem here! I was just at a loss for words, thanks to your completely insane nonsense!!",
+    "translation": "【Principal】「Không phải vấn đề ở đây! Tôi chỉ là không biết nói gì, là do mớ lời nhảm nhí hoàn toàn điên rồ của cậu đó!!」"
+  },
+  {
+    "sentence": "[Principal]::Well, yes... Knowing you, I didn`t really think you meant it as a joke... but that doesn`t make it any less crazy.",
+    "translation": "【Principal】「Ừm, đúng vậy... Biết cậu rồi, tôi thật sự không nghĩ cậu định nói đùa đâu... nhưng điều đó không làm nó bớt điên rồ chút nào.」"
+  },
+  {
+    "sentence": "[Principal]::And that achievement test I announced provided a suitable spark...?",
+    "translation": "【Principal】「Và bài kiểm tra thành tích mà tôi đã thông báo đã tạo ra một tia lửa phù hợp sao...?」"
+  },
+  {
+    "sentence": "[Principal]::Assistance...? It`s not like I announced the test with something like this in mind, you know?",
+    "translation": "【Principal】「Giúp đỡ sao...? Tôi không có ý định thông báo bài kiểm tra với mục đích như thế này đâu, cậu biết đấy?」"
+  },
+  {
+    "sentence": "[Principal]::That`s right. It`s impossible for me to even predict the full consequences of you two \"eliminating\" this test...",
+    "translation": "【Principal】「Đúng vậy. Tôi không thể nào lường trước được hết hậu quả của việc hai người \"xử lý\" bài kiểm tra này đâu...」"
+  },
+  {
+    "sentence": "[Principal]::That`s an unfair way of putting it... You know full well I can`t just refuse...",
+    "translation": "【Principal】「Đó là một cách nói không công bằng... Cậu biết rõ là tôi không thể từ chối được mà...」"
+  },
+  {
+    "sentence": "[Principal]::Can I really take you at your word on that?",
+    "translation": "【Principal】「Tôi có thể thực sự tin lời cậu nói về chuyện đó không?」"
+  },
+  {
+    "sentence": "[Principal]::...Very well then, Kazami-kun. You have my cooperation.",
+    "translation": "【Principal】「...Được rồi, Kazami-kun. Tôi sẽ hợp tác với cậu.」"
+  },
+  {
+    "sentence": "[Principal]::No need to worry yourself about me, thank you very much... You`ve got bigger problems right now. I may be the principal, but that doesn`t mean this school belongs to me. You do understand that, yes?",
+    "translation": "【Principal】「Cậu không cần phải lo lắng cho tôi đâu, cảm ơn rất nhiều... Giờ cậu có những vấn đề lớn hơn nhiều. Tôi có thể là hiệu trưởng, nhưng điều đó không có nghĩa là ngôi trường này thuộc về tôi. Cậu hiểu rõ điều đó, đúng chứ?」"
+  },
+  {
+    "sentence": "[Principal]::*Sigh*... So you say, but I expect you`ve cajoled Harudera-san into this as well.",
+    "translation": "【Principal】「*Thở dài*... Cậu nói vậy, nhưng tôi đoán cậu cũng đã dụ dỗ Harudera-san vào chuyện này rồi nhỉ.」"
+  },
+  {
+    "sentence": "[Principal]::Simple enough. If I were in your shoes, she`s the first one I`d ask for help.",
+    "translation": "【Principal】「Đơn giản thôi. Nếu tôi ở vào vị trí của cậu, thì cô ấy là người đầu tiên tôi sẽ nhờ giúp đỡ.」"
+  },
+  {
+    "sentence": "[Principal]::But I must say, it really is rather humiliating to dance so obediently on your strings... So much for my dignity as the older woman...",
+    "translation": "【Principal】「Nhưng tôi phải nói rằng, thật sự rất nhục nhã khi phải ngoan ngoãn nhảy múa theo sự điều khiển của cậu... Thật chẳng còn chút tôn nghiêm nào của người phụ nữ lớn tuổi hơn nữa...」"
+  },
+  {
+    "sentence": "[Principal]::Kazami-kun!!",
+    "translation": "【Principal】「Kazami-kun!!」"
+  },
+  {
+    "sentence": "[Principal]::I swear... Who on earth taught you to talk like that, anyway?",
+    "translation": "【Principal】「Tôi thề đấy... Rốt cuộc là ai đã dạy cho cậu cái cách nói chuyện đó vậy hả?」"
+  },
+  {
+    "sentence": "[Principal]::Your master... Kusakabe Asako-san, yes?",
+    "translation": "【Principal】「Sư phụ của cậu... Kusakabe Asako-san, đúng không?」"
+  },
+  {
+    "sentence": "[Principal]::I never met her myself, but I`ve heard a little from Harudera-san. Specifically, that she was an amazing person.",
+    "translation": "【Principal】「Tôi chưa từng gặp cô ấy, nhưng tôi có nghe Harudera-san kể đôi chút. Cụ thể là, cô ấy là một người phi thường.」"
+  },
+  {
+    "sentence": "[Principal]::Anyway, to return to the matter at hand... First of all, you need me to get the \"manga\" ready, yes?",
+    "translation": "【Principal】「Dù sao thì, quay lại vấn đề chính... Trước hết, cậu cần tôi chuẩn bị \"manga\", đúng không?」"
+  },
+  {
+    "sentence": "[Principal]::I have a friend in software development who used it once. Kind of stuck in my head.",
+    "translation": "【Principal】「Tôi có một người bạn làm về phát triển phần mềm đã từng dùng nó. Nó cứ vướng trong đầu tôi mãi.」"
+  },
+  {
+    "sentence": "[Principal]::Very well. I think I can have that ready by tomorrow, so stop by around the same time to pick it up.",
+    "translation": "【Principal】「Được rồi. Tôi nghĩ tôi có thể chuẩn bị xong vào ngày mai, nên cậu cứ ghé qua vào khoảng thời gian tương tự để lấy nhé.」"
+  },
+  {
+    "sentence": "[Principal]::Hmm, let`s see...",
+    "translation": "【Principal】「Hừm, để xem nào...」"
+  },
+  {
+    "sentence": "[Principal]::In that case, you can have the tool room overlooking the athletic grounds. It`s almost entirely empty at the moment.",
+    "translation": "【Principal】「Trong trường hợp đó, cậu có thể sử dụng phòng dụng cụ nhìn ra sân thể thao. Nó gần như hoàn toàn trống vào lúc này.」"
+  },
+  {
+    "sentence": "[Principal]::I assume you`re aware, but... when you`re repaying a woman`s present, a three-fold return is standard.",
+    "translation": "【Principal】「Tôi đoán cậu biết rồi, nhưng... khi đáp lại một món quà của phụ nữ, việc trả lại gấp ba là điều hiển nhiên.」"
+  },
+  {
+    "sentence": "[Principal]::...Allow me to explain.",
+    "translation": "【Principal】「...Để cô giải thích cho em.」"
+  },
+  {
+    "sentence": "[Principal]::Yes. Thanks to you and Harudera-san, there really wasn`t much for me to do.",
+    "translation": "【Principal】「Vâng. Nhờ có em và Harudera-san, cô thực sự không phải làm gì nhiều.」"
+  },
+  {
+    "sentence": "[Principal]::Yes. Of course, the blood drained from my face when he brought me the idea...",
+    "translation": "【Principal】「Vâng. Tất nhiên, máu đã rút khỏi mặt cô khi cậu ta đưa cho cô ý tưởng đó...」"
+  },
+  {
+    "sentence": "[Principal]::But Kazami-kun was very adamant, and made a persuasive argument that this would help Komine-san in a way nothing else could...",
+    "translation": "【Principal】「Nhưng Kazami-kun rất kiên quyết, và đã đưa ra một lập luận thuyết phục rằng điều này sẽ giúp Komine-san theo cách mà không điều gì khác có thể...」"
+  },
+  {
+    "sentence": "[Principal]::T-That`s absolutely not true! As an educator, I gave my cooperation entirely out of concern for my student`s future and\\・",
+    "translation": "【Principal】「T-Điều đó hoàn toàn không đúng! Với tư cách là một nhà giáo dục, cô đã hợp tác hoàn toàn vì lo lắng cho tương lai của học trò và\\・」"
+  },
+  {
+    "sentence": "[Principal]::W-Well... I don`t have any reason to panic. The matter in question took place with the full consent of society at large.",
+    "translation": "【Principal】「T-Thì... Cô không có lý do gì để hoảng loạn cả. Vấn đề đang bàn đã diễn ra với sự đồng thuận hoàn toàn của toàn xã hội.」"
+  },
+  {
+    "sentence": "[Principal]::It means exactly what it sounds like. The destruction of our school building was a lawfully performed demolition. We even notified the neighborhood beforehand...",
+    "translation": "【Principal】「Nó đúng như em nghe vậy đó. Việc phá dỡ tòa nhà trường học của chúng ta là một cuộc phá dỡ được thực hiện hợp pháp. Chúng ta thậm chí còn thông báo trước cho khu vực lân cận...」"
+  },
+  {
+    "sentence": "[Principal]::In other words, the destruction of our school was announced beforehand, and we simply carried it out according to schedule. Nothing to warrant that much attention.",
+    "translation": "【Principal】「Nói cách khác, việc phá hủy trường của chúng ta đã được thông báo trước, và chúng ta chỉ đơn giản là thực hiện nó theo đúng lịch trình. Không có gì đáng để gây chú ý đến vậy cả.」"
+  },
+  {
+    "sentence": "[Principal]::Most likely, yes.",
+    "translation": "【Principal】「Rất có thể là vậy.」"
+  },
+  {
+    "sentence": "[Principal]::Yes... I`m not fully aware of the details myself, but it seems a gag order was issued.",
+    "translation": "【Principal】「Vâng... Cô cũng không hoàn toàn nắm rõ chi tiết, nhưng dường như đã có lệnh bịt miệng được ban hành.」"
+  },
+  {
+    "sentence": "[Principal]::You have heard of this before, Sakaki-san... but after a certain demolition went wrong in 1992, virtually no large-scale building implosions of this sort have been performed in Japan...",
+    "translation": "【Principal】「Em đã từng nghe chuyện này rồi, Sakaki-san... nhưng sau một vụ phá dỡ gặp sự cố vào năm 1992, hầu như không có vụ nổ sập tòa nhà quy mô lớn nào kiểu này được thực hiện ở Nhật Bản...」"
+  },
+  {
+    "sentence": "[Principal]::Even the demolition of a single school might well have become politically sensitive news. In any case, there would have been disproportionate media presence.",
+    "translation": "【Principal】「Việc phá dỡ một trường học đơn lẻ cũng có thể đã trở thành một tin tức nhạy cảm về mặt chính trị. Dù sao đi nữa, hẳn đã có sự hiện diện quá mức của truyền thông.」"
+  },
+  {
+    "sentence": "[Principal]::Apparently our country found this prospect unpleasant enough to formally silence the press...",
+    "translation": "【Principal】「Rõ ràng là đất nước chúng ta thấy viễn cảnh này khó chịu đủ để chính thức bịt miệng báo chí...」"
+  },
+  {
+    "sentence": "[Principal]::Uh... why are you surprised? I assume you and Harudera-san instigated that in the first place.",
+    "translation": "【Principal】「Ừm... tại sao Em lại ngạc nhiên? Cô đoán rằng Em và Harudera-san đã gây ra chuyện đó ngay từ đầu.」"
+  },
+  {
+    "sentence": "[Principal]::Figured as much. I knew you two would take some sort of action on that front, but you`ve certainly exceeded my expectations...",
+    "translation": "【Principal】「Tôi đã đoán trước được. Tôi biết hai người sẽ có hành động gì đó về chuyện đó, nhưng hai người chắc chắn đã vượt quá mong đợi của tôi...」"
+  },
+  {
+    "sentence": "[Principal]::Mm, ahem!!",
+    "translation": "【Principal】「Mm, ahem!!」"
+  },
+  {
+    "sentence": "[Principal]::As the principal of this academy, I will not allow this dormitory to become a den of debauchery! Take your baths separately, please!",
+    "translation": "【Principal】「Với tư cách là hiệu trưởng của học viện này, tôi sẽ không cho phép ký túc xá này trở thành ổ trụy lạc! Hãy đi tắm riêng từng người một!」"
+  },
+  {
+    "sentence": "[Principal]::No, it is NOT! It`s an exercise of my moral responsibility as an educator!",
+    "translation": "【Principal】「Không, đó KHÔNG PHẢI! Đó là sự thực thi trách nhiệm đạo đức của Cô với tư cách là một nhà giáo dục!」"
+  },
+  {
+    "sentence": "[Principal]::...In any case, once you two have finished your baths, please have everyone gather here again.",
+    "translation": "【Principal】「Dù sao đi nữa, sau khi hai người tắm xong, xin hãy cho mọi người tập trung ở đây một lần nữa.」"
+  },
+  {
+    "sentence": "[Principal]::Once we`ve all calmed down a little, I`d like to explain the details regarding our temporary school facilities.",
+    "translation": "【Principal】「Sau khi tất cả chúng ta bình tĩnh lại một chút, Cô muốn giải thích chi tiết về các cơ sở tạm thời của trường chúng ta.」"
+  },
+  {
+    "sentence": "[Principal]::Well, of course. We may not have a building at the moment, but we can`t exactly stop learning, now can we?",
+    "translation": "【Principal】「Ừm, dĩ nhiên rồi. Tuy bây giờ chúng ta không có tòa nhà, nhưng không lẽ chúng ta có thể ngừng việc học, đúng không nào?」"
+  },
+  {
+    "sentence": "[Principal]::Just so you know, I put in quite a bit of effort to ensure we could begin classes right away.",
+    "translation": "【Principal】「Chỉ để Em biết, Cô đã nỗ lực khá nhiều để đảm bảo chúng ta có thể bắt đầu lớp học ngay lập tức.」"
+  },
+  {
+    "sentence": "[Principal]::That sort of attitude is exactly why cancelling lessons is not an option!",
+    "translation": "【Principal】「Thái độ đó chính là lý do tại sao việc hủy bỏ các bài học không phải là một lựa chọn!」"
+  },
+  {
+    "sentence": "[Principal]::...All right then, let`s wrap this up for the moment.",
+    "translation": "【Principal】「...Được rồi, tạm thời chúng ta kết thúc ở đây nhé.」"
+  },
+  {
+    "sentence": "[Principal]::What would that be, Sakaki-san?",
+    "translation": "【Principal】「Đó là gì vậy, Sakaki-san?」"
+  },
+  {
+    "sentence": "[Principal]::Well... I`d like to ask Komine-san first.",
+    "translation": "【Principal】「Ừm... Cô muốn hỏi Komine-san trước.」"
+  },
+  {
+    "sentence": "[Principal]::That`s right. Komine-san, do you still feel the need to prevent that achievement test from taking place?",
+    "translation": "【Principal】「Đúng vậy. Komine-san, em vẫn còn cảm thấy cần phải ngăn chặn bài kiểm tra năng lực đó diễn ra ư?」"
+  },
+  {
+    "sentence": "[Principal]::...Are you absolutely sure about that?",
+    "translation": "【Principal】「...Em có hoàn toàn chắc chắn về điều đó không?」"
+  },
+  {
+    "sentence": "[Principal]::...Komine-san certainly seems lively. Quite the dramatic change from a few days ago.",
+    "translation": "【Principal】「...Komine-san dạo này trông thật hoạt bát. Đúng là một sự thay đổi lớn so với vài ngày trước nhỉ.」"
+  },
+  {
+    "sentence": "[Principal]::You know, Kazami-kun, there`s something I`ve been meaning to bring up for a while now...",
+    "translation": "【Principal】「À này, Kazami-kun, có một chuyện tôi đã muốn nói với cậu một lúc rồi...」"
+  },
+  {
+    "sentence": "[Principal]::When we`re talking in a school-related setting, would you please be so kind as to call me \"Principal Tachibana\" like everyone else?",
+    "translation": "【Principal】「Khi chúng ta đang nói chuyện trong bối cảnh liên quan đến trường học, bạn có thể vui lòng gọi tôi là \"Hiệu trưởng Tachibana\" như mọi người khác được không?」"
+  },
+  {
+    "sentence": "[Principal]::This coming from a guy who just filled that vacancy...",
+    "translation": "【Principal】「Câu này lại xuất phát từ một người vừa mới lấp đầy vị trí đó...」"
+  },
+  {
+    "sentence": "[Principal]::No, I most certainly did not!",
+    "translation": "【Principal】「Không, tôi chắc chắn là không có!」"
+  },
+  {
+    "sentence": "[Principal]::W-Where`s this coming from, all of a sudden?",
+    "translation": "【Principal】「Cái gì đây, tự nhiên lại vậy chứ?」"
+  },
+  {
+    "sentence": "[Principal]::...I see. An admirable way of thinking.",
+    "translation": "【Principal】「Tôi hiểu. Một cách suy nghĩ đáng ngưỡng mộ.」"
+  },
+  {
+    "sentence": "[Principal]::But don`t let it bother you too much. I`m the one who volunteered my help, after all.",
+    "translation": "【Principal】「Nhưng đừng quá bận tâm về điều đó. Dù sao thì tôi cũng là người tình nguyện giúp đỡ mà.」"
+  },
+  {
+    "sentence": "[Principal]::And Komine-san`s problem has been successfully resolved, has it not?",
+    "translation": "【Principal】「Và vấn đề của Komine-san đã được giải quyết thành công rồi, đúng không?」"
+  },
+  {
+    "sentence": "[Principal]::And you`re the one who cut her loose, now aren`t you?",
+    "translation": "【Principal】「Và cậu chính là người đã giải thoát cho cô ấy, phải không?」"
+  },
+  {
+    "sentence": "[Principal]::What do you mean?",
+    "translation": "【Principal】「Ý cậu là sao?」"
+  },
+  {
+    "sentence": "[Principal]::Well, that`s true...",
+    "translation": "【Principal】「Ừm, đúng là vậy...」"
+  },
+  {
+    "sentence": "[Principal]::Ah, I see...",
+    "translation": "【Principal】「À, tôi hiểu rồi...」"
+  },
+  {
+    "sentence": "[Principal]::...Huh?",
+    "translation": "【Principal】「...Hả?」"
+  },
+  {
+    "sentence": "[Principal]::I never expected you to say something like that to me, Kazami-kun... I`m a little stunned...",
+    "translation": "【Principal】「Tôi không ngờ cậu lại nói điều đó với tôi, Kazami-kun... Tôi hơi sốc đấy...」"
+  },
+  {
+    "sentence": "[Principal]::I wonder why getting a pep talk from you tends to have exactly the opposite effect...",
+    "translation": "【Principal】「Tôi tự hỏi tại sao lời động viên từ cậu lại thường có tác dụng ngược lại...」"
+  },
+  {
+    "sentence": "[Principal]::Well then, I think it`s about time I got back to work.",
+    "translation": "【Principal】「Vậy thì, tôi nghĩ đã đến lúc tôi quay lại với công việc rồi.」"
+  },
+  {
+    "sentence": "[Principal]::You just leave everything to me.",
+    "translation": "【Principal】「Mọi chuyện cứ giao hết cho tôi đi.」"
+  },
+  {
+    "sentence": "[Principal]::...Ah, so this is where you were hiding. Your outdoor shoes were in the rack, but I couldn`t find you anywhere.",
+    "translation": "【Principal】「...À, ra là cậu trốn ở đây. Giày đi bên ngoài của cậu ở trên giá, nhưng tôi tìm mãi không thấy cậu đâu cả.」"
+  },
+  {
+    "sentence": "[Principal]::Geez... I believe I`ve mentioned it`s rude to call older women by their first name...",
+    "translation": "【Principal】「Trời ạ... Tôi tưởng Tôi đã nói là gọi người lớn tuổi bằng tên riêng là bất lịch sự rồi chứ...」"
+  },
+  {
+    "sentence": "[Principal]::That will absolutely never happen!",
+    "translation": "【Principal】「Điều đó tuyệt đối sẽ không bao giờ xảy ra!」"
+  },
+  {
+    "sentence": "[Principal]::Ah, yes, that`s right... Honestly, my conversations with you always get so hopelessly off-topic...",
+    "translation": "【Principal】「À, đúng rồi... Thật tình, những cuộc trò chuyện của Tôi với cậu lúc nào cũng lạc đề một cách vô vọng...」"
+  },
+  {
+    "sentence": "[Principal]::It`s a delivery. Addressed to you.",
+    "translation": "【Principal】「Đây là đồ chuyển phát nhanh. Gửi cho cậu đấy.」"
+  },
+  {
+    "sentence": "[Principal]::...I believe you`re capable of reading the label on your own.",
+    "translation": "【Principal】「...Tôi nghĩ cậu có khả năng tự đọc nhãn chứ.」"
+  },
+  {
+    "sentence": "[Principal]::That`s right. Akihiro-san is our Komine-san`s current legal guardian, as well as her paternal uncle.",
+    "translation": "【Principal】「Đúng vậy. Akihiro-san là người giám hộ hợp pháp hiện tại của Komine-san nhà Chúng ta, đồng thời cũng là chú ruột của Em ấy.」"
+  },
+  {
+    "sentence": "[Principal]::I don`t know the answer to either of those questions...",
+    "translation": "【Principal】「Tôi cũng không biết câu trả lời cho cả hai câu hỏi đó...」"
+  },
+  {
+    "sentence": "[Principal]::I was simply asked to hand that off to you, and to convey a verbal message.",
+    "translation": "【Principal】「Tôi chỉ được yêu cầu đưa nó cho Cậu, và truyền đạt một thông điệp bằng lời thôi.」"
+  },
+  {
+    "sentence": "[Principal]::Yes. Specifically, if you want to discuss the contents of this envelope, he`d like you to give him a call...",
+    "translation": "【Principal】「Đúng vậy. Cụ thể là, nếu Cậu muốn thảo luận về nội dung của phong bì này, Anh ta muốn Cậu gọi cho Anh ta...」"
+  },
+  {
+    "sentence": "[Principal]::Huh? I`d assumed... So you weren`t acquainted with him from when you and Komine-san knew each other as children?",
+    "translation": "【Principal】「Hả? Tôi cứ tưởng... Vậy Cậu không quen biết Anh ta từ hồi Cậu và Komine-san còn là bạn thời thơ ấu sao?」"
+  },
+  {
+    "sentence": "[Principal]::Principal...Ah, so this is where you were hiding. Your outdoor shoes were in the rack, but I couldn`t find you anywhere....Ah, so this is where you were hiding. Your outdoor shoes were in the rack, but I couldn`t find you anywhere....Ah, so this is where you were hiding. Your outdoor shoes were in the rack, but I couldn`t find you anywhere....Ah, so this is where you were hiding. Your outdoor shoes were in the rack, but I couldn`t find you anywhere.",
+    "translation": "【Principal】「Ồ, là đây sao? Thứ trưởng... Ồ, đây anh ta rồi. Giày chân anh ta ở giá nhưng tôi không tìm thấy anh ta đâu...\"  \n\n\n\n\n\n"
+  },
+  {
+    "sentence": "[Principal]::In that case... this really is a little odd.",
+    "translation": "【Principal】「Trong trường hợp đó... chuyện này thật sự hơi kỳ lạ.」\n"
+  },
+  {
+    "sentence": "[Principal]::Did something happen?",
+    "translation": "【Principal】「Có chuyện gì sao?」"
+  },
+  {
+    "sentence": "[Principal]::Ah, I see... That might explain why he`d want to talk with you.",
+    "translation": "【Principal】「À, ra vậy... Có lẽ điều đó giải thích tại sao Anh ta muốn nói chuyện với Cậu.」"
+  },
+  {
+    "sentence": "[Principal]::...What do you think? I can give you his phone number if you`re interested.",
+    "translation": "【Principal】「Cậu thấy sao? Nếu cậu hứng thú, Tôi có thể cho cậu số điện thoại của Anh ấy.」"
+  },
+  {
+    "sentence": "[Principal]::Is there some problem with our accommodations? If you need anything in particular, submit an application and we`ll...",
+    "translation": "【Principal】「Có vấn đề gì với chỗ ở của chúng ta không? Nếu cần bất cứ điều gì, hãy nộp đơn và chúng tôi sẽ… 」 \n"
+  },
+  {
+    "sentence": "[Principal]::Is that so? From what I`ve seen, it looks like you`re rather enjoying yourself.",
+    "translation": "【Principal】「Có phải vậy sao? Theo tôi thấy, cậu đang tận hưởng nó đấy chứ?」 \n"
+  },
+  {
+    "sentence": "[Principal]::...Excuse me, but what exactly are you doing?",
+    "translation": "【Principal】「...Xin lỗi, nhưng tôi xin hỏi là cậu đang làm cái gì vậy?」"
+  },
+  {
+    "sentence": "[Principal]::Really? Well, if you say so.",
+    "translation": "【Principal】「Vậy à? Nếu cậu nói vậy thì tôi cũng chịu thôi.」\n"
+  },
+  {
+    "sentence": "[Principal]::Huh!? Hold on, Kazami-kun! You didn`t do something to one of our girls, did you!?",
+    "translation": "【Principal】「Hả!? Khoan đã, Kazami-kun! Cậu không có làm gì mấy cô nàng của trường ta đấy chứ!?」"
+  },
+  {
+    "sentence": "[Principal]::Phew. I see... In that case, I wouldn`t worry too much. These things do happen when you`re young, right? I mean, if people went around taking responsibility for every thoughtless mistake, it`d be hard to get around town.",
+    "translation": "【Principal】「Phù. Tôi hiểu rồi... Trong trường hợp đó, tôi sẽ không lo lắng quá nhiều đâu. Mấy chuyện này cũng hay xảy ra khi còn trẻ mà, phải không? Ý tôi là, nếu ai cũng phải chịu trách nhiệm cho mọi sai lầm thiếu suy nghĩ thì khó mà sống yên ổn được.」"
+  },
+  {
+    "sentence": "[Principal]::The streets would be clogged up with men groveling in apology, you see.",
+    "translation": "【Principal】「Đường phố sẽ tắc nghẽn bởi những người đàn ông quỳ rạp xuống xin lỗi, cậu thấy đấy.」"
+  },
+  {
+    "sentence": "[Principal]::That`s just how it is. Anyway, when it comes to problems between a man and woman there`s usually at least a little fault on both sides. Or so you have to believe if you want to stay sane.",
+    "translation": "【Principal】「Đó là chuyện thường thôi mà. Dù sao thì, khi có vấn đề giữa đàn ông và phụ nữ, thường thì cả hai bên đều có lỗi một chút. Hoặc là cậu phải tin như vậy nếu muốn giữ được sự tỉnh táo.」"
+  },
+  {
+    "sentence": "[Principal]::Oh, if it isn`t Kazami-kun. What`s up? Need something? Or maybe you just wanted to see my face?",
+    "translation": "【Principal】「Ồ, không phải Kazami-kun sao. Có chuyện gì thế? Cậu cần gì à? Hay là chỉ muốn ngắm mặt tôi thôi?」"
+  },
+  {
+    "sentence": "[Principal]::Do I even want to know...? What the heck, geez...",
+    "translation": "【Principal】「Tôi có nên biết không đây...? Cái quái gì vậy, trời đất ơi...」"
+  },
+  {
+    "sentence": "[Principal]::That`s a joke...? All right then, explain the nature of your problem. Were you assigned some job where the provisioned equipment might prove insufficient?",
+    "translation": "【Principal】「Đó là trò đùa à...? Được rồi, vậy thì giải thích vấn đề của cậu đi. Có phải cậu được giao công việc nào mà thiết bị được cấp không đủ không?」"
+  },
+  {
+    "sentence": "[Principal]::...It`s a bit of a surprise to hear you even talking about a \"private life.\"",
+    "translation": "【Principal】「Nghe cậu nói về \"đời tư\" đã là một bất ngờ rồi đấy.」"
+  },
+  {
+    "sentence": "[Principal]::A cat? I thought I`d noticed a stray hanging around the campus lately... Is that your pet, Kazami-kun?",
+    "translation": "【Principal】「Một con mèo à? Tôi cứ tưởng tôi đã thấy một con mèo lạc quanh quẩn trong khuôn viên trường gần đây chứ... Đó là thú cưng của cậu sao, Kazami-kun?」"
+  },
+  {
+    "sentence": "[Principal]::Hehe. Maybe you could stick a homing device in its collar and play hide-and-go-seek.",
+    "translation": "【Principal】「Hehe. Hay là tôi gắn thiết bị định vị vào vòng cổ của nó rồi chơi trốn tìm nhỉ.」"
+  },
+  {
+    "sentence": "[Principal]::Hold on a second. Who`s going to be paying for this? I`m afraid our budget isn`t quite that flexible.",
+    "translation": "【Principal】「Khoan đã nào. Ai sẽ trả tiền cho việc này đây? Tôi e là ngân sách của chúng ta không được linh hoạt đến thế.」"
+  },
+  {
+    "sentence": "[Principal]::But since it`s you asking... as a personal favor, I`ll get you a five-in-one combination vaccine myself.",
+    "translation": "【Principal】「Nhưng vì cậu là người hỏi... như một đặc ân cá nhân, tôi sẽ tự mình lấy cho cậu một loại vắc-xin kết hợp năm trong một.」"
+  },
+  {
+    "sentence": "[Principal]::Please take care of the rest at a private veterinarian. Unlike you, I`m not a professional \"jack of all trades,\" remember?",
+    "translation": "【Principal】「Xin hãy tự mang phần còn lại đến bác sĩ thú y tư nhân. Không như cậu, tôi không phải là một người \"cái gì cũng biết\", nhớ chứ?」"
+  },
+  {
+    "sentence": "[Principal]::Hold on just one second here. Did you really go out of your way to come here just for that? Isn`t there something else you wanted to ask?",
+    "translation": "【Principal】「Khoan đã một chút đã nào. Có thật là cậu đã cất công đến đây chỉ vì chuyện đó thôi sao? Không phải là cậu còn muốn hỏi gì khác nữa à?」"
+  },
+  {
+    "sentence": "[Principal]::Matsushima-san, eh...? I thought it might have been something like that. Well, what have you learned about her so far, Kazami-kun?",
+    "translation": "【Principal】「Matsushima-san, hả...? Tôi đã nghĩ là chuyện gì đó kiểu như vậy rồi. Chà, cậu đã tìm hiểu được gì về em ấy rồi, Kazami-kun?」"
+  },
+  {
+    "sentence": "[Principal]::H-Hold on a second, Kazami-kun. Please tell me you weren`t up to any funny business in her room...",
+    "translation": "【Principal】「K-Khoan đã một chút, Kazami-kun. Làm ơn nói với tôi rằng cậu không làm chuyện gì mờ ám trong phòng em ấy đấy nhé...」"
+  },
+  {
+    "sentence": "[Principal]::Well, that`s fine, then. But do refrain from potentially problematic actions. You want a normal school life, right?",
+    "translation": "【Principal】「Vậy thì tốt thôi. Nhưng hãy kiềm chế những hành động có khả năng gây rắc rối đấy. Cậu muốn có một cuộc sống học đường bình thường, đúng không?」"
+  },
+  {
+    "sentence": "[Principal]::Anyway, I`m willing to tell you what I know about Matsushima-san, within reason... if you`re interested in knowing, of course.",
+    "translation": "【Principal】「Dù sao thì, tôi sẵn lòng kể cho cậu nghe những gì tôi biết về Matsushima-san, trong chừng mực hợp lý... nếu cậu hứng thú muốn biết, tất nhiên rồi.」"
+  },
+  {
+    "sentence": "[Principal]::Naturally. I don`t particularly like the phrase \"just between you and me,\" but I do trust you, Kazami-kun.",
+    "translation": "【Principal】「Đương nhiên rồi. Tôi không đặc biệt thích cụm từ \"chỉ giữa cậu và tôi thôi đâu,\" nhưng tôi tin tưởng cậu, Kazami-kun.」"
+  },
+  {
+    "sentence": "[Principal]::Seems like quite the energetic cat. Anyway, you were saying?",
+    "translation": "【Principal】「Có vẻ như một con mèo khá là năng động. Dù sao thì, cậu đang nói gì ấy nhỉ?」\n"
+  },
+  {
+    "sentence": "[Principal]::Oh, that so? Decided to remain a spectator, then? Well, if that`s what you want, it`s fine by me.",
+    "translation": "【Principal】「Ra vậy sao? Quyết định chỉ đứng xem thôi à? Chà, nếu đó là điều cậu muốn, thì tôi cũng không có ý kiến gì.」"
+  },
+  {
+    "sentence": "[Principal]::Yes, you should be. We somehow managed to handle this particular incident internally, but this is a very serious problem.",
+    "translation": "【Principal】「Ừ, cậu nên thế. Bằng cách nào đó tôi đã xoay sở để giải quyết vụ việc này nội bộ, nhưng đây là một vấn đề rất nghiêm trọng đấy.」"
+  },
+  {
+    "sentence": "[Principal]::*Sigh*... That`s not what I was trying to...",
+    "translation": "【Principal】「*Sigh*... Đó không phải là điều tôi đang cố gắng...」"
+  },
+  {
+    "sentence": "[Principal]::*Sigh*... That`s not what I was trying to... Mmm.",
+    "translation": "【Principal】「*Thở dài*... Đó không phải là điều tôi đang cố gắng muốn nói... Mmm.」"
+  },
+  {
+    "sentence": "[Principal]::...",
+    "translation": "【Principal】「...」\n"
+  },
+  {
+    "sentence": "[Principal]::...Yes, I think it`s fair to say something is wrong. Extremely wrong, in fact.",
+    "translation": "【Principal】「...Vâng, tôi nghĩ có thể nói rằng có điều gì đó không ổn. Thậm chí là cực kỳ không ổn.」\n"
+  },
+  {
+    "sentence": "[Principal]::\"Illness\" isn`t the issue. She attempted suicide.",
+    "translation": "【Principal】「\"Bệnh tật\" không phải là vấn đề. Em ấy đã tự tử.」"
+  },
+  {
+    "sentence": "[Principal]::...Yes. But I`m afraid it`s not exactly an \"all`s well that ends well\" situation. She smuggled in a large quantity of medication and washed them down with alcohol on the first day of her hospitalization.",
+    "translation": "【Principal】「...Vâng. Nhưng tôi e rằng không thể nói là mọi chuyện đã ổn thỏa cả rồi. Em ấy đã lén mang vào một lượng lớn thuốc và uống chúng với rượu ngay trong ngày đầu tiên nhập viện.」"
+  },
+  {
+    "sentence": "[Principal]::They pumped her stomach, but it seems they were too late. It was only the first day of her visit, so the staff was caught off-guard.",
+    "translation": "【Principal】「Người ta đã rửa ruột cho em ấy, nhưng có vẻ như đã quá muộn. Đó mới chỉ là ngày đầu tiên em ấy đến đây, nên nhân viên đã không kịp trở tay.」"
+  },
+  {
+    "sentence": "[Principal]::Temporary cardiopulmonary arrest resulted in severe general hypoxia. It`s entirely likely that she suffered permanent brain damage.",
+    "translation": "【Principal】「Ngừng tim phổi tạm thời đã dẫn đến tình trạng thiếu oxy nghiêm trọng trên diện rộng. Rất có thể em ấy đã bị tổn thương não vĩnh viễn.」"
+  },
+  {
+    "sentence": "[Principal]::Calm down.",
+    "translation": "【Principal】「Bình tĩnh nào.」"
+  },
+  {
+    "sentence": "[Principal]::I`m telling you to calm down. This isn`t like you.",
+    "translation": "【Principal】「Tôi bảo cậu bình tĩnh lại đi. Chuyện này không giống cậu chút nào.」"
+  },
+  {
+    "sentence": "[Principal]::Matsushima-san will be coming back to this school soon enough. I`ve consulted her parents about the situation... and it was decided that we`d continue to look after her here for the foreseeable future.",
+    "translation": "【Principal】「Matsushima-san sẽ sớm quay lại trường thôi. Tôi đã hỏi ý kiến bố mẹ em ấy về tình hình... và quyết định là chúng ta sẽ tiếp tục chăm sóc em ấy ở đây trong thời gian tới.」\n"
+  },
+  {
+    "sentence": "[Principal]::Exactly what it sounds like. She`s going to need a lot of attention, so they pushed her off onto us. Parents these days...",
+    "translation": "【Principal】「Đúng như những gì cậu nghe thấy đấy. Em ấy sẽ cần rất nhiều sự quan tâm, nên họ đẩy em ấy cho chúng ta. Bậc phụ huynh ngày nay...」"
+  },
+  {
+    "sentence": "[Principal]::Can you see that taxi outside? Your Alice seems to have returned. Hurry and welcome her home.",
+    "translation": "【Principal】「Cậu có thấy chiếc taxi ở ngoài kia không? Alice của cậu có vẻ đã về rồi đấy. Mau ra đón em ấy về nhà đi.」"
+  },
+  {
+    "sentence": "[Principal]::Aargh, honestly! What on earth is Kazami-kun thinking!? Bad enough to drag me into this, but Harudera-san too!?",
+    "translation": "【Principal】「Ái chà, thật là! Cậu Kazami đang nghĩ cái gì vậy hả!? Kéo cả tôi vào đây đã đành, giờ còn cả cô Harudera nữa!?」"
+  },
+  {
+    "sentence": "[Principal]::That`s right. I`ve heard about the situation. Aaargh, I swear... he knew I couldn`t refuse if he put it like that... Shameless! Are there any depths he won`t sink to...?",
+    "translation": "【Principal】「Đúng vậy. Tôi đã nghe qua chuyện này rồi. Aaa, thật là... hắn biết tỏng là tôi không thể từ chối nếu hắn nói kiểu đó mà... Vô liêm sỉ! Rốt cuộc hắn còn có thể trơ trẽn đến mức nào nữa...?」\n"
+  },
+  {
+    "sentence": "[Principal]::That`s right. I`ve heard about the situation. Aaargh, I swear... he knew I couldn`t refuse if he put it like that... Shameless! Are there any depths he won`t sink to...? ...I`ll never forgive him...",
+    "translation": "【Principal】「Đúng vậy. Cô đã nghe qua chuyện này rồi. Aaa, thật là... cậu ta biết tỏng là cô không thể từ chối nếu cậu ta nói kiểu đó mà... Vô liêm sỉ! Rốt cuộc cậu ta còn có thể trơ trẽn đến mức nào nữa...? ... Cô sẽ không bao giờ tha thứ cho cậu ta...」\n"
+  },
+  {
+    "sentence": "[Principal]::Huh? Oh, sorry about that. Don`t mind me, just get prepared for departure. Although in this case, changing into your shoes will be good enough.",
+    "translation": "【Principal】「Hả? Ồ, xin lỗi em. Đừng để ý đến cô, cứ chuẩn bị lên đường đi. Mặc dù trong trường hợp này, chỉ cần em xỏ giày vào là đủ rồi.」"
+  },
+  {
+    "sentence": "[Principal]::You won`t need a change of clothes or a passport. Since this isn`t a sight-seeing trip, you can leave the guidebook at home too, right?",
+    "translation": "【Principal】「Em không cần phải thay quần áo hay làm hộ chiếu đâu. Vì đây không phải là một chuyến du ngoạn ngắm cảnh, em cũng có thể để cuốn sách hướng dẫn ở nhà được rồi, phải không?」\n"
+  },
+  {
+    "sentence": "[Principal]::Sorry, but you`ll have to skip the amusement parks this time. I`m afraid we weren`t able to arrange that fun an itinerary on such short notice.",
+    "translation": "【Principal】「Xin lỗi, nhưng lần này em sẽ phải bỏ qua mấy cái công viên giải trí thôi. Cô e là chúng ta không thể sắp xếp một lịch trình vui vẻ như vậy trong thời gian ngắn được.」"
+  },
+  {
+    "sentence": "[Principal]::Uwaaaaaaah! Come on! I might have given permission, but that doesn`t mean you have to land in the front yard! Those flowers were just about to bloom!!",
+    "translation": "【Principal】「Uwaaaaaaah! Thôi nào! Tôi có cho phép thật đấy, nhưng không có nghĩa là cậu được phép hạ cánh ngay giữa sân trước chứ! Mấy khóm hoa sắp nở kia kìa!!」"
+  },
+  {
+    "sentence": "[Principal]::Look here, Kazami-kun! You know what`s going to happen when you get back, right!?",
+    "translation": "【Principal】「Nghe đây, Kazami-kun! Cậu biết chuyện gì sẽ xảy ra khi cậu quay lại rồi chứ hả!?」\n"
+  },
+  {
+    "sentence": "[Principal]::Gaaaaaaaaaaaaaah! I`ll get you for this!!",
+    "translation": "【Principal】「Gaaaaaaaaaaaaaah! Tôi sẽ trả thù chuyện này!!」"
+  },
+  {
+    "sentence": "[Principal]::All right. Let`s leave it at that for today.",
+    "translation": "【Principal】「Được rồi. Hôm nay chúng ta dừng ở đây thôi.」"
+  },
+  {
+    "sentence": "[Principal]::Whoever`s on day duty, please make sure to lock up the classroom and bring the key back!",
+    "translation": "【Principal】「Ai trực nhật hôm nay nhớ khóa cửa lớp và mang chìa khóa trả lại nhé!」"
+  }
+]

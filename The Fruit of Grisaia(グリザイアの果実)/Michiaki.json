@@ -1,0 +1,962 @@
+[
+    {
+        "sentence": "[Michiaki]::......",
+        "translation": "Michiaki「......」"
+    },
+    {
+        "sentence": "[Michiaki]::That`s enough.",
+        "translation": "Michiaki「Đủ rồi.」"
+    },
+    {
+        "sentence": "[Michiaki]::Harudera-san, wasn`t it...? Thank you for the update. I believe I now have a firm grasp on the recent developments in that ungrateful child`s social life.",
+        "translation": "Michiaki「Harudera-san, đúng không...? Cảm ơn cô đã cập nhật tình hình. Tôi tin là tôi đã nắm chắc được những diễn biến gần đây trong cuộc sống của con bé vô ơn đó.」"
+    },
+    {
+        "sentence": "[Michiaki]::Don`t be in such a hurry.",
+        "translation": "Michiaki「Đừng vội thế.」"
+    },
+    {
+        "sentence": "[Michiaki]::It seems that my intentions haven`t quite gotten across to you people.",
+        "translation": "Michiaki「Có vẻ như ý định của tôi vẫn chưa được các cô hiểu rõ cho lắm.」"
+    },
+    {
+        "sentence": "[Michiaki]::Allow me to clarify. I wasn`t asking your organization to carry out a mere character investigation of my daughter.",
+        "translation": "Michiaki「Cho phép Tôi làm rõ. Tôi không yêu cầu tổ chức của Cô thực hiện một cuộc điều tra đơn thuần về tính cách của con bé.」"
+    },
+    {
+        "sentence": "[Michiaki]::Are you really under the impression that I constructed that ridiculously large facility just to provide my daughter and a handful of other drop-outs with a carefree living environment?",
+        "translation": "Michiaki「Cô thực sự cho rằng Tôi đã xây dựng cái cơ sở vật chất lớn đến lố bịch đó chỉ để cung cấp cho con bé và một vài kẻ bỏ học khác một môi trường sống vô tư lự sao?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::I expect her to reflect on the idiotic stunt that nearly landed her in a courtroom. I want her to reform into an upright human being, prepared to join our East Beach Express Group. And I need this to happen as soon as possible.",
+        "translation": "Michiaki「Tôi kỳ vọng con bé sẽ tự kiểm điểm về cái trò hề ngu xuẩn suýt nữa đã lôi con bé ra tòa. Tôi muốn con bé cải tạo thành một con người đàng hoàng, chuẩn bị để gia nhập Tập đoàn East Beach Express của chúng tôi. Và tôi cần việc này phải diễn ra sớm nhất có thể.」"
+    },
+    {
+        "sentence": "[Michiaki]::But from what you`re telling me, the lot of them are idly enjoying a stress-free communal life, while Yumiko herself shows no sign whatsoever of repenting. I`ve waited long enough, and now I want results.",
+        "translation": "Michiaki「Nhưng theo những gì Cô nói với Tôi, bọn Con bé đang nhàn nhã tận hưởng một cuộc sống cộng đồng vô ưu vô lo, trong khi Yumiko thì chẳng có dấu hiệu gì là hối cải cả. Tôi đã chờ đủ lâu rồi, và giờ Tôi muốn có kết quả.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...For that purpose, I expect that investigator you people sent in... What was his name again?",
+        "translation": "Michiaki「Vì mục đích đó, Tôi kỳ vọng cái gã điều tra viên mà các Cô đã cử đến... Tên Cậu ta là gì ấy nhỉ?」"
+    },
+    {
+        "sentence": "[Michiaki]::Yes, right, that Kazami So-and-So individual. Since you have him in place, I expect you to make use of him to influence events in a more favorable direction.",
+        "translation": "Michiaki「Phải, đúng vậy, cái gã Kazami gì đó. Vì Cô đã bố trí Cậu ta ở đó, Tôi kỳ vọng Cô sẽ tận dụng Cậu ta để tác động đến các sự kiện theo một hướng có lợi hơn.」"
+    },
+    {
+        "sentence": "[Michiaki]::Specifically, I want Yumiko to correct her antisocial behavior, indicate her willingness to do as she`s told, and return home obediently.",
+        "translation": "Michiaki「Cụ thể, Tôi muốn Yumiko sửa chữa cái thói chống đối xã hội của Con bé, thể hiện sự sẵn lòng làm theo những gì được bảo, và ngoan ngoãn trở về nhà.」"
+    },
+    {
+        "sentence": "[Michiaki]::Harudera-san, listen carefully. This isn`t a mere family squabble.",
+        "translation": "Michiaki「Harudera-san, hãy nghe cho kỹ. Đây không phải là một cuộc cãi vã gia đình tầm thường.」"
+    },
+    {
+        "sentence": "[Michiaki]::Our East Beach Group has supported this country for one hundred years, and it is absolutely critical that we have a cornerstone for the next generation ready to smoothly inherit that tradition.",
+        "translation": "Michiaki「Harudera-san, hãy nghe cho kỹ. Đây không phải là một cuộc cãi vã gia đình tầm thường. Tập đoàn East Beach của Tôi đã hỗ trợ đất nước này cả trăm năm rồi, và việc có một nền tảng vững chắc cho thế hệ sau sẵn sàng thừa kế truyền thống đó một cách suôn sẻ là vô cùng quan trọng.」"
+    },
+    {
+        "sentence": "[Michiaki]::I doubt anyone would begrudge you a slight contribution of excess resources in pursuit of that goal.",
+        "translation": "Michiaki「Tôi nghi ngờ rằng sẽ chẳng ai trách Cô nếu Cô đóng góp chút ít nguồn lực dư thừa để theo đuổi mục tiêu đó đâu.」"
+    },
+    {
+        "sentence": "[Michiaki]::As I`m sure an individual of your stature must be aware... the taxes we pay, in combination with numerous voluntary \"gratuities,\" make those \"operations\" of yours a great deal easier to carry out.",
+        "translation": "Michiaki「Như Tôi chắc chắn một người có địa vị như Cô phải biết... các khoản thuế mà chúng ta phải trả, kết hợp với vô số \"tiền thưởng\" tự nguyện, giúp cho những \"hoạt động\" của Cô trở nên dễ dàng hơn rất nhiều.」"
+    },
+    {
+        "sentence": "[Michiaki]::...Oh, so you do understand? Well then, not to rush, but... do you have any clever ideas as to how we might encourage Yumiko to reform her conduct?",
+        "translation": "Michiaki「...Ồ, vậy Cô hiểu sao? Chà, không phải vội, nhưng... Cô có ý tưởng thông minh nào về cách chúng ta có thể khuyến khích Yumiko cải tạo hạnh kiểm của Con bé không?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Well then, how about this? I`ll arrange for Yumiko to be attacked. A constant sense of danger should snap her out of that tranquil indolence quickly enough.",
+        "translation": "Michiaki「Vậy thì sao về chuyện này? Tôi sẽ sắp xếp cho Yumiko bị tấn công. Một cảm giác nguy hiểm thường trực sẽ nhanh chóng kéo Con bé ra khỏi sự lười biếng an nhàn đó thôi.」"
+    },
+    {
+        "sentence": "[Michiaki]::Once she`s gained an appreciation for how frightening the world outside her sheltered bubble can be, I expect she`ll prove more receptive to my words. How about it? A good start, don`t you think?",
+        "translation": "Michiaki「Một khi Con bé đã thấu hiểu được thế giới bên ngoài vỏ bọc an toàn kia đáng sợ thế nào, Tôi tin là Con bé sẽ tiếp thu lời nói của Tôi dễ dàng hơn. Cô thấy sao? Một khởi đầu tốt, đúng không?」"
+    },
+    {
+        "sentence": "[Michiaki]::What`s the matter? Do you have an objection?",
+        "translation": "Michiaki「Sao thế? Cô có ý kiến gì à?」"
+    },
+    {
+        "sentence": "[Michiaki]::A proposal?",
+        "translation": "Michiaki「Một đề xuất sao?」"
+    },
+    {
+        "sentence": "[Michiaki]::What`re you talking about? How are we supposed to frighten her if she`s being protected?",
+        "translation": "Michiaki「Cô đang nói gì vậy? Chúng ta định dọa Con bé thế nào nếu Con bé được bảo vệ?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...I see. You`re saying it would add a greater sense of reality to the danger?",
+        "translation": "Michiaki「...Tôi hiểu rồi. Cô đang nói là nó sẽ làm tăng thêm cảm giác chân thực về sự nguy hiểm?」"
+    },
+    {
+        "sentence": "[Michiaki]::Very well. I`ll leave that element entirely to your discretion, Harudera-san.",
+        "translation": "Michiaki「Được thôi. Tôi sẽ hoàn toàn giao yếu tố đó cho Cô tùy ý quyết định, Harudera-san.」"
+    },
+    {
+        "sentence": "[Michiaki]::[Option]The_Sudden_ApproachYumiko*Sigh*...Uneasy_Balance_2Yumiko...*Sigh*Cross-Purposes",
+        "translation": "Michiaki「[Option]The_Sudden_ApproachYumiko*Sigh*...Uneasy_Balance_2Yumiko...*Sigh*Cross-Purposes」"
+    },
+    {
+        "sentence": "[Michiaki]::What on earth is the meaning of this!?",
+        "translation": "Michiaki「Rốt cuộc là ý gì đây!?」"
+    },
+    {
+        "sentence": "[Michiaki]::...I`m having a very hard time believing that.",
+        "translation": "Michiaki「Ta rất khó tin vào điều đó.」"
+    },
+    {
+        "sentence": "[Michiaki]::I think I explained that the purpose of this charade was to influence Yumiko`s feelings by convincing her she was in danger.",
+        "translation": "Michiaki「Ta nghĩ ta đã giải thích rằng mục đích của trò hề này là để tác động đến cảm xúc của Yumiko bằng cách thuyết phục con bé rằng con bé đang gặp nguy hiểm.」"
+    },
+    {
+        "sentence": "[Michiaki]::But not only is your pet dog refusing to play his part, he`s sabotaging the entire play. We needed him to fail as a bodyguard. Instead, it seems he`s flawlessly protecting the girl.",
+        "translation": "Michiaki「Không chỉ có con chó cưng của cô từ chối diễn vai của nó, mà nó còn phá hoại cả vở kịch. Chúng ta cần nó thất bại trong vai trò vệ sĩ. Thay vào đó, có vẻ như nó đang bảo vệ con bé một cách hoàn hảo.」"
+    },
+    {
+        "sentence": "[Michiaki]::Tell me, how is that supposed to turn Yumiko`s loyalty toward her family!? She`s obviously going to get attached to that dog of yours instead!",
+        "translation": "Michiaki「Nói ta nghe xem, như thế thì làm sao mà xoay chuyển được lòng trung thành của Yumiko dành cho gia đình con bé!? Con bé rõ ràng là sẽ gắn bó với con chó của cô hơn thôi!」"
+    },
+    {
+        "sentence": "[Michiaki]::Hmph. Coming from a dog of Akasaka pedigree, that`s somewhat less than convincing. I doubt there`s anything up to and including espionage you`re not \"capable\" of.",
+        "translation": "Michiaki「Hừ. Nghe từ miệng một con chó thuộc dòng dõi Akasaka thì có phần thiếu thuyết phục đấy. Ta nghi ngờ rằng không có việc gì, kể cả gián điệp, mà cô không \"có khả năng\" làm đâu.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::In any case, I can no longer trust you with this matter. Remove that \"Kazami Yuuji\" of yours from this operation immediately, and notify him to stay out this!",
+        "translation": "Michiaki「Dù sao thì, ta không thể tin tưởng cô trong chuyện này được nữa. Loại bỏ cái tên \"Kazami Yuuji\" của cô khỏi chiến dịch này ngay lập tức, và thông báo cho cậu ta tránh xa chuyện này ra!」"
+    },
+    {
+        "sentence": "[Michiaki]::[Option]The_Sudden_ApproachHaving successfully passed through the storm of frenzied, meaninglessCross-PurposesYumiko...*Sigh*Cross-Purposes",
+        "translation": "Michiaki「[Option]The_Sudden_ApproachHaving successfully passed through the storm of frenzied, meaninglessCross-PurposesYumiko...*Sigh*Cross-Purposes」"
+    },
+    {
+        "sentence": "[Michiaki]::...Do you have anything to say for yourself?",
+        "translation": "Michiaki「...Cô có gì để nói không?」"
+    },
+    {
+        "sentence": "[Michiaki]::Don`t play games with me! I told you to get that thug Kazami so-and-so out of the picture! Why is he still hanging around Yumiko!?",
+        "translation": "Michiaki「Đừng có giở trò với ta! Ta đã bảo cô dẹp cái tên côn đồ Kazami kia đi rồi mà! Tại sao cậu ta vẫn còn lảng vảng quanh Yumiko!?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::The man`s actively interfering with my plan! You call that \"absolutely nothing?\" Have you no shame whatsoever!?",
+        "translation": "Michiaki「Cái tên đó đang tích cực phá hoại kế hoạch của ta! Cô gọi đó là \"hoàn toàn không có gì\" sao? Cô không biết xấu hổ là gì à!?」"
+    },
+    {
+        "sentence": "[Michiaki]::...Then tell me, how exactly do you explain the current situation?",
+        "translation": "Michiaki「...Vậy thì nói ta nghe xem, cô giải thích tình hình hiện tại thế nào đây?」"
+    },
+    {
+        "sentence": "[Michiaki]::Even if that were the case, anyone with a shred of common sense would refuse!",
+        "translation": "Michiaki「Ngay cả khi đúng là như vậy, thì một người có chút lý trí cũng sẽ từ chối!」"
+    },
+    {
+        "sentence": "[Michiaki]::...Do you really think that child`s self-centered logic is going to satisfy me!?",
+        "translation": "Michiaki「...Cô thực sự nghĩ rằng cái logic ích kỷ trẻ con đó sẽ làm ta hài lòng sao!?」"
+    },
+    {
+        "sentence": "[Michiaki]::...That`s enough. Leave.",
+        "translation": "Michiaki「...Đủ rồi. Cút đi.」"
+    },
+    {
+        "sentence": "[Michiaki]::About the matter with my daughter... Ichigaya`s definitely acting strangely.",
+        "translation": "Michiaki「Về chuyện con gái ta... Ichigaya chắc chắn đang hành động rất lạ.」"
+    },
+    {
+        "sentence": "[Michiaki]::Gather some genuinely competent people. I want this taken care of, even if we have to get a little rough.",
+        "translation": "Michiaki「Tập hợp những người thực sự có năng lực lại cho ta. Ta muốn chuyện này được giải quyết, dù có phải dùng biện pháp mạnh.」"
+    },
+    {
+        "sentence": "[Michiaki]::Yes. If it comes to that, so be it. Do what has to be done.",
+        "translation": "Michiaki「Ừ. Nếu đến nước đó, thì cứ vậy đi. Cứ làm những gì cần phải làm.」"
+    },
+    {
+        "sentence": "[Michiaki]::Give this your highest priority. You can temporarily discontinue the attacks until your preparations are complete.",
+        "translation": "Michiaki「Ưu tiên việc này cho ta. Các cậu có thể tạm ngừng các cuộc tấn công cho đến khi chuẩn bị xong.」"
+    },
+    {
+        "sentence": "[Michiaki]::...It would have been wiser to do as you were told, Yumiko...",
+        "translation": "Michiaki「...Ngoan ngoãn nghe lời ta thì khôn ngoan hơn đấy, Yumiko...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Right.",
+        "translation": "Michiaki「Ừ.»"
+    },
+    {
+        "sentence": "[Michiaki]::I already ate. Honestly, why do you always feel the needto ask? What about my change of clothes?",
+        "translation": "Michiaki「Ta ăn rồi. Thật tình, sao cô lúc nào cũng phải hỏi thế? Còn quần áo để ta thay đâu?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Then bring them down immediately. I`ll be leaving inthirty minutes, so take the clothes to Kojima at theentrance.",
+        "translation": "Michiaki「Vậy thì mang xuống ngay đi. Ta sẽ đi trong ba mươi phút nữa, nên mang quần áo đến chỗ Kojima ở lối vào.」"
+    },
+    {
+        "sentence": "[Michiaki]::Yumiko! You`re back! You really have grown up...",
+        "translation": "Michiaki「Yumiko! Con về rồi à! Con thật sự đã lớn rồi...」"
+    },
+    {
+        "sentence": "[Michiaki]::What`s the matter? You don`t sound very energetic. Tiredout by the long car ride?",
+        "translation": "Michiaki「Sao thế? Cô nghe có vẻ không được khỏe lắm. Mệt mỏi vì đi xe đường dài à?」"
+    },
+    {
+        "sentence": "[Michiaki]::MichiakiYumiko! You`re back! You really have grown up...",
+        "translation": "Michiaki「Yumiko! Con về rồi à! Con... lớn thật rồi...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::What`sthematter?Youdon`tsoundveryenergetic.Tiredoutbythelongcarride?",
+        "translation": "Michiaki「Sao thế? Giọng con không có sức sống gì cả. Mệt vì đi xe đường dài à?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Right,ofcourse.Whateveryouwant,Yumiko.",
+        "translation": "Michiaki「Phải, tất nhiên rồi. Con muốn gì cũng được, Yumiko.」"
+    },
+    {
+        "sentence": "[Michiaki]::It`sbeenalongtimesincewe`vehadamealtogetherlikethis,hasn`tit?",
+        "translation": "Michiaki「Lâu lắm rồi chúng ta mới lại cùng nhau dùng bữa thế này, phải không?」"
+    },
+    {
+        "sentence": "[Michiaki]::Yourteachersarealreadysingingyourpraises.Yourresultsontheadmissionstestweresuperb.Itseemsthedifferenceinacademiclevelcomparedtoyouroldschoolshouldn`tbemuchofaproblem.",
+        "translation": "Michiaki「Các thầy cô đã hết lời khen ngợi con rồi. Kết quả bài kiểm tra đầu vào của con rất xuất sắc. Có vẻ như sự khác biệt về trình độ học vấn so với trường cũ của con không phải là vấn đề lớn đâu.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Yumiko,haveyoubeenlettingyourhairgrowoutallthistime?",
+        "translation": "Michiaki「Yumiko, dạo này con để tóc dài ra đấy à?」"
+    },
+    {
+        "sentence": "[Michiaki]::Isee.Ihavetosay,itreallysuitsyou.",
+        "translation": "Michiaki「Ta thấy. Ta phải nói rằng, nó thực sự rất hợp với con.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Yumiko...?",
+        "translation": "Michiaki「Yumiko...?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Hey!Whatwasinthatfood...!?",
+        "translation": "Michiaki「Này! Cái gì ở trong đồ ăn vậy hả...!?」"
+    },
+    {
+        "sentence": "[Michiaki]::Have you gotten used to your new school, Yumiko?",
+        "translation": "Michiaki「Con đã quen với trường mới chưa, Yumiko?」"
+    },
+    {
+        "sentence": "[Michiaki]::It must be a little nerve-wracking transferring in sosuddenly, but I`m sure you`ll make friends soon enough.Back in my day...",
+        "translation": "Michiaki「Chắc là có chút lo lắng khi con đột ngột chuyển trường như vậy, nhưng ta chắc chắn con sẽ sớm kết bạn thôi. Hồi ta còn trẻ...」"
+    },
+    {
+        "sentence": "[Michiaki]::Ah, but then again, I guess everything must be verydifferent these days. Sorry to lecture you, Yumiko.",
+        "translation": "Michiaki「À, nhưng mà, chắc hẳn mọi thứ bây giờ khác nhiều rồi. Xin lỗi vì đã lên lớp con, Yumiko.」"
+    },
+    {
+        "sentence": "[Michiaki]::Hm? What is it, Yumiko?",
+        "translation": "Michiaki「Hm? Sao thế, Yumiko?」"
+    },
+    {
+        "sentence": "[Michiaki]::You came up again today. A professor from Meguro MedicalSchool told everyone \"Sakaki-san`s daughter is cute as abutton and smart as a whip.\"",
+        "translation": "Michiaki「Hôm nay con lại được nhắc đến đấy. Một giáo sư từ trường Y Meguro nói với mọi người rằng \"Con gái của Sakaki-san vừa xinh xắn lại vừa thông minh.\"」\n"
+    },
+    {
+        "sentence": "[Michiaki]::It makes me very happy that you`ve grown up into such afine young lady, Yumiko.",
+        "translation": "Michiaki「Ta rất vui khi thấy con đã trưởng thành thành một thiếu nữ xinh đẹp như vậy, Yumiko à.」"
+    },
+    {
+        "sentence": "[Michiaki]::Tell me, Yumiko...",
+        "translation": "Michiaki「Nói cho ta nghe, Yumiko...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Is this about your mother...?",
+        "translation": "Michiaki「Chuyện này... có phải về mẹ của con...?」"
+    },
+    {
+        "sentence": "[Michiaki]::I was never sure if I should talk to you about it, but...I can`t expect you to understand if I don`t explainmyself, can I...?",
+        "translation": "Michiaki「Ta chưa bao giờ chắc chắn có nên nói với con về chuyện này không, nhưng... ta không thể mong con hiểu nếu ta không giải thích, phải không...?」"
+    },
+    {
+        "sentence": "[Michiaki]::It`s all right. I was in the wrong here...",
+        "translation": "Michiaki「Không sao đâu. Tại ta sai trước...」"
+    },
+    {
+        "sentence": "[Michiaki]::When the two of you left, I thought my heart was going tobreak... There were many times when I was ready to gotake you both back.",
+        "translation": "Michiaki「Khi hai người rời đi, ta tưởng chừng tim ta tan nát... Đã có rất nhiều lần ta sẵn sàng đi đón hai người về.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::But I was drowning in work, and I never found the courageto try.",
+        "translation": "Michiaki「Nhưng ta đã chết chìm trong công việc, và ta chưa bao giờ tìm thấy can đảm để thử.」"
+    },
+    {
+        "sentence": "[Michiaki]::I was lonely too... and there was so much going on at thecompany. I knew it was wrong, but I ended up betrayingyour mother.",
+        "translation": "Michiaki「Ta cũng cô đơn... và đã có quá nhiều chuyện xảy ra ở công ty. Ta biết là sai trái, nhưng cuối cùng ta đã phản bội mẹ con.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::When I heard about that magazine article, the first thingon my mind was protecting your mother from theconsequences of my mistake. So I sent over the lawyerright away, but...",
+        "translation": "Michiaki「Khi ta nghe về bài báo đó, điều đầu tiên ta nghĩ đến là bảo vệ mẹ con khỏi hậu quả từ sai lầm của ta. Nên ta đã lập tức cử luật sư đến, nhưng...」"
+    },
+    {
+        "sentence": "[Michiaki]::Yumiko.",
+        "translation": "Michiaki「Yumiko.」"
+    },
+    {
+        "sentence": "[Michiaki]::Do you think you could forgive me...?",
+        "translation": "Michiaki「Con nghĩ con có thể tha thứ cho ta...?」"
+    },
+    {
+        "sentence": "[Michiaki]::Hello there, Yumiko. I`m home.",
+        "translation": "Michiaki「Chào con, Yumiko. ta về rồi.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Hoh. That friend you were telling me about before?",
+        "translation": "Michiaki「Hoh. Cô bạn mà con kể ta nghe trước đây ấy à?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::You know, Yumiko...",
+        "translation": "Michiaki「Con biết không, Yumiko...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Once Misako gets better, why don`t the three of us take atrip abroad?",
+        "translation": "Michiaki「Một khi Misako khỏe hơn, sao ba chúng ta không đi du lịch nước ngoài nhỉ?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::I`ve always been so busy that I never really had thechance to do anything like that for you. Or maybe youhave something else in mind?",
+        "translation": "Michiaki「Ta luôn quá bận rộn nên chưa bao giờ thực sự có cơ hội làm điều gì đó như thế cho con. Hay là... con có điều gì khác trong đầu sao?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::An amusement park...? Come on, you can go to one of thoseany time you like.",
+        "translation": "Michiaki「Công viên giải trí...? Thôi đi, con muốn đi lúc nào mà chẳng được.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::I see... Well, all right. One of the companies in theconglomerate runs an amusement park. We can reserve itand have the whole place to ourselves.",
+        "translation": "Michiaki「Vậy à... Được thôi. Một trong những công ty thuộc tập đoàn có điều hành một công viên giải trí. Ta có thể đặt trước và có cả khu đó cho riêng chúng ta.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Haha. You really are a modest one, Yumiko...",
+        "translation": "Michiaki「Haha. Con đúng là khiêm tốn đấy, Yumiko...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Okay then. Once Misako... Mom gets better, let`s go to anamusement park. All three of us.",
+        "translation": "Michiaki「Được thôi. Một khi Misako... Mẹ khỏe hơn, ba chúng ta sẽ đi công viên giải trí. Cả ba người chúng ta.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...I see. So you managed to at least wound him, then? Next time, finish the job.",
+        "translation": "Michiaki「...Tôi hiểu. Vậy là cậu ta ít nhất cũng bị thương, hả? Lần tới, dứt điểm đi.」"
+    },
+    {
+        "sentence": "[Michiaki]::...Yes, if the man leaves you no other choice, I don`t care if he ends up dead. Get Yumiko into the car even if you have to shove her inside. Understood?",
+        "translation": "Michiaki「...Được. Nếu gã đàn ông đó không cho cậu lựa chọn nào khác, tôi không quan tâm việc hắn có kết cục thế nào. Đưa được Yumiko lên xe cho tôi, kể cả phải tống cổ nó vào. Rõ chưa?」"
+    },
+    {
+        "sentence": "[Michiaki]::...I won`t let anyone interfere. I`m going to make this happen...",
+        "translation": "Michiaki「...Mình sẽ không để bất kỳ kẻ nào can thiệp. Mình sẽ làm cho chuyện này xảy ra...」"
+    },
+    {
+        "sentence": "[Michiaki]::Just do as I say, Yumiko...",
+        "translation": "Michiaki「Cứ làm theo lời ta nói đi, Yumiko...」"
+    },
+    {
+        "sentence": "[Michiaki]::...Yes. Yes. Really, I can`t thank you enough, professor. I have complete confidence in your recommendation. Yes, my daughter has been longing for a proper education in English for some time, and it seemed the right moment...",
+        "translation": "Michiaki「...Vâng. Vâng. Thật sự, tôi không biết phải cảm ơn ngài thế nào cho đủ, thưa giáo sư. Tôi hoàn toàn tin tưởng vào lời giới thiệu của ngài. Vâng, con bé đã mong muốn được học hành tử tế bằng tiếng Anh từ lâu rồi, và có vẻ như đây là thời điểm thích hợp...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Oh, of course. I should be stopping by very soon to discuss Kadoma-san`s project, among other things... Yes, quite. I think it`s safe to expect some progress on that front as well...",
+        "translation": "Michiaki「Ồ, tất nhiên rồi. Tôi sẽ ghé qua sớm thôi để thảo luận về dự án của Kadoma-san, cùng với những việc khác nữa... Vâng, đúng vậy. Tôi nghĩ có thể mong đợi một số tiến triển ở mặt đó...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Yes. Well then, until next time... please excuse me.",
+        "translation": "Michiaki「...Vâng. Vậy thì, hẹn gặp lại ngài lần sau... xin phép cáo từ.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Enter.",
+        "translation": "Michiaki「Vào đi.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...What`s the situation?",
+        "translation": "Michiaki「...Tình hình thế nào?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::\"If all goes well\" isn`t good enough. Make it happen.",
+        "translation": "Michiaki「\"Nếu mọi việc suôn sẻ\" là chưa đủ. Phải đảm bảo nó xảy ra bằng được.」"
+    },
+    {
+        "sentence": "[Michiaki]::...What about that ex-military brat?",
+        "translation": "Michiaki「...Còn thằng nhóc cựu quân nhân đó thì sao?」"
+    },
+    {
+        "sentence": "[Michiaki]::...I see. Still, don`t let your guard down.",
+        "translation": "Michiaki「...Ta hiểu. Dù vậy, đừng lơ là cảnh giác.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...We shouldn`t have too many of these irritating insects swarming around her once she`s safely overseas.",
+        "translation": "Michiaki「...Khi con bé an toàn ở bên kia, ta không muốn đám ruồi nhặng đáng ghét đó bu lấy nó quá nhiều.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::You`re going to behave yourself from now on, Yumiko. For the Sakaki family`s sake as well as your own...",
+        "translation": "Michiaki「Từ giờ trở đi, con phải ngoan ngoãn đấy, Yumiko. Vì gia tộc Sakaki và cả bản thân con...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::\"She was kidnapped\" isn`t an explanation! I arranged a helicopter straight to the airplane, and this is what I get!? Are you people braindead!?",
+        "translation": "【Michiaki】「\"Con bé bị bắt cóc\" không phải là lời giải thích đâu! Ta đã cho trực thăng thẳng tới máy bay, và đây là cái ta nhận được ư!? Các ngươi bị ngu à!?」"
+    },
+    {
+        "sentence": "[Michiaki]::Preparing for the unexpected is your entire damn job, isn`t it!? Enough excuses! Get out there and bring her back, even if it`s the last thing you do!",
+        "translation": "【Michiaki】「Chuẩn bị cho những điều bất ngờ là toàn bộ công việc chết tiệt của cậu, đúng không hả!? Đủ mấy lời bào chữa rồi đấy! Đi ra ngoài đó và mang con bé về, dù có là điều cuối cùng cậu làm đi chăng nữa!」"
+    },
+    {
+        "sentence": "[Michiaki]::What the hell is going on inside that organization of yours!?",
+        "translation": "【Michiaki】「Cái quái quỷ gì đang xảy ra trong cái tổ chức của cô vậy!?」"
+    },
+    {
+        "sentence": "[Michiaki]::Catch him or kill him. I don`t care which, but get it done quickly! I want this taken care of before things get completely out of hand!",
+        "translation": "【Michiaki】「Bắt sống hoặc giết chết cậu ta. Ta không quan tâm là cái nào, nhưng hãy làm cho xong nhanh lên! Ta muốn chuyện này được xử lý dứt điểm trước khi mọi thứ trở nên hoàn toàn mất kiểm soát!」"
+    },
+    {
+        "sentence": "[Michiaki]::And what would that be?",
+        "translation": "【Michiaki】「Và đó là cái gì đây?」"
+    },
+    {
+        "sentence": "[Michiaki]::...You`re saying this knowing full well that it`s impossible, aren`t you?",
+        "translation": "【Michiaki】「...Cô nói vậy là biết thừa là không thể rồi, đúng không?」"
+    },
+    {
+        "sentence": "[Michiaki]::...This is a very important and delicate time for the company and myself. Any full-fledged police investigation would inevitably leak.",
+        "translation": "【Michiaki】「...Đây là thời điểm vô cùng quan trọng và nhạy cảm đối với công ty cũng như ta. Bất kỳ cuộc điều tra quy mô nào của cảnh sát chắc chắn sẽ bị rò rỉ.」"
+    },
+    {
+        "sentence": "[Michiaki]::We might be able to get a media blackout in place, but the rumors would still spread... And that`s simply not acceptable.",
+        "translation": "【Michiaki】「Chúng ta có thể dàn xếp để ém nhẹm vụ này trên truyền thông, nhưng tin đồn thì vẫn sẽ lan ra... Và điều đó, ta hoàn toàn không thể chấp nhận được.」"
+    },
+    {
+        "sentence": "[Michiaki]::Going to the police isn`t an option. Instead of lecturing me about things you don`t understand, start looking for a way to resolve this matter as soon as humanly possible!",
+        "translation": "【Michiaki】「Đi báo cảnh sát không phải là một lựa chọn. Thay vì giảng giải cho ta về những thứ mà cô không hiểu, hãy bắt đầu tìm cách giải quyết chuyện này càng sớm càng tốt đi!」"
+    },
+    {
+        "sentence": "[Michiaki]::In the first place, the man responsible for this is your subordinate, isn`t he!? Stop trying to pass the buck! Get out there and clean up the mess you made!",
+        "translation": "【Michiaki】「Nói gì thì nói, kẻ chịu trách nhiệm cho chuyện này chính là thuộc hạ của cô, có đúng không!? Đừng có đổ lỗi nữa! Đi ra ngoài và dọn dẹp cái mớ hỗn độn mà cô đã gây ra đi!」"
+    },
+    {
+        "sentence": "[Michiaki]::...I don`t care how hard you try. All I want is results.",
+        "translation": "【Michiaki】「...Ta không quan tâm cô cố gắng thế nào. Thứ ta muốn duy nhất là kết quả.」"
+    },
+    {
+        "sentence": "[Michiaki]::...Axe them.",
+        "translation": "Michiaki「...Chặt hết.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::I have no need for incompetents who can`t find a single lead after months of trying. Show them the door.",
+        "translation": "Michiaki「Ta không cần lũ vô dụng, mấy tháng trời mà đến một manh mối cũng không tìm ra. Tống cổ bọn chúng đi.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::I don`t care how much money it takes, so this time get me someone who knows what they`re doing. I want those two found, you understand me!?",
+        "translation": "Michiaki「Ta không cần biết tốn bao nhiêu tiền, lần này tìm cho ta kẻ nào biết việc. Ta muốn bọn chúng phải được tìm thấy, cậu hiểu ta chứ!?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...Hmph.",
+        "translation": "Michiaki「...Hừ.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...Been half a year now, hasn`t it? I suppose it`s hardly worth asking, but has your investigation made any progress?",
+        "translation": "Michiaki「...Đã nửa năm rồi nhỉ? Chắc cũng chẳng đáng hỏi, nhưng cuộc điều tra của cậu có tiến triển gì không?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...Pretty pathetic to have your own pet dog give you the slip. He`s disappeared so completely that I`m almost tempted to conclude you people might be guiding him behind the scenes.",
+        "translation": "Michiaki「...Thật thảm hại khi ngay cả con chó cưng cũng vuột khỏi tay cô. Nó biến mất không dấu vết đến nỗi ta gần như phát cáu lên mà cho rằng các người đang ngấm ngầm dẫn đường cho nó sau lưng ta đấy.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::A thorough internal investigation that has cleared you of all suspicion. Yes, I suppose we have little choice but to trust that evaluation.",
+        "translation": "Michiaki「Một cuộc điều tra nội bộ kỹ lưỡng đã chứng minh cô vô tội. Ừ, ta đoán chúng ta không còn lựa chọn nào khác ngoài việc tin vào kết quả đó.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...Was there anything else?",
+        "translation": "Michiaki「...Còn gì nữa không?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...This is from the Oosaka branch office. Excuse me a moment.",
+        "translation": "Michiaki「...Cái này là từ chi nhánh Oosaka. Xin phép cô một lát.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::I`m in the middle of something, save it for... What was that?",
+        "translation": "Michiaki「Ta đang dở việc, để sau... Cái gì thế?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::I`m in the middle of something, save it for... What was that? You think \"it wasn`t possible\" is an option!? Kneel down in front of the man`s house! I don`t care what you have to do, get me a clear commitment!",
+        "translation": "Michiaki「Ta đang dở việc, để sau... Cái gì thế? Anh cho rằng \"không thể\" là một lựa chọn đấy à!? Quỳ xuống trước cửa nhà hắn mà xin xỏ! Ta không cần biết anh phải làm gì, bằng mọi giá phải có được cam kết rõ ràng cho ta!」\n"
+    },
+    {
+        "sentence": "[Michiaki]::The entire structure is going to crumble unless we get that crafty old bastard on our side!",
+        "translation": "Michiaki「Toàn bộ cấu trúc sẽ sụp đổ trừ khi chúng ta có được lão già ranh ma đó về phe mình!」\n"
+    },
+    {
+        "sentence": "[Michiaki]::The entire structure is going to crumble unless we get that crafty old bastard on our side! Use the money and use your damn brain! Why do you think I handed you that wallet!? Get a move on!",
+        "translation": "Michiaki「Toàn bộ cấu trúc sẽ sụp đổ trừ khi chúng ta có được lão già ranh ma đó về phe mình! Dùng tiền đi, dùng cái đầu chết tiệt của anh nữa! Anh nghĩ ta đưa cái ví đó cho anh để làm gì hả!? Mau lên!」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...Is there something else you`d like to say?",
+        "translation": "Michiaki「...Cô còn gì muốn nói nữa sao?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::For some reason, as we get closer to the general meeting there`s been a good deal of suspicious movement in my vicinity...",
+        "translation": "Michiaki「Không hiểu sao, càng đến gần cuộc họp đại hội cổ đông, ta càng thấy có nhiều động tĩnh đáng ngờ xung quanh mình...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::There`s no point scuttling around behind the scenes, you know? We`re not idiots over here. I`ll know immediately if you try anything.",
+        "translation": "Michiaki「Đừng phí công giở trò sau lưng ta, cô biết chứ? Ở đây không ai ngốc cả. Cô động đậy gì là ta biết ngay.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Hmph. Very well, feel free to play dumb. Just keep in mind that we`ll respond in kind to any obvious meddling.",
+        "translation": "Michiaki「Hừ. Được thôi, cứ giả vờ ngây ngô đi. Nhưng nên nhớ, cô giở trò gì quá lố thì chúng ta cũng đáp trả tương tự đấy.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...No one`s going to take this away from me. No one...",
+        "translation": "Michiaki「...Sẽ không ai cướp được thứ này khỏi ta đâu. Không ai cả...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...A public telephone...? Who on earth...?",
+        "translation": "Michiaki「...Điện thoại công cộng...? Ai lại...」"
+    },
+    {
+        "sentence": "[Michiaki]::...Hello.",
+        "translation": "Michiaki「...Xin chào.」"
+    },
+    {
+        "sentence": "[Michiaki]::...They hung up?",
+        "translation": "Michiaki「...Bên kia cúp máy rồi ư?」"
+    },
+    {
+        "sentence": "[Michiaki]::...A public telephone... Could it be...!?",
+        "translation": "Michiaki「...Điện thoại công cộng... Chẳng lẽ...!?」"
+    },
+    {
+        "sentence": "[Michiaki]::Hello!? Immediately pull the records on the pay phone that just called! Yes, to my cell, of course! Are you even awake over there!?",
+        "translation": "Michiaki「Alo!? Lập tức tra cứu thông tin cuộc gọi từ cái điện thoại công cộng vừa rồi! Vâng, đến điện thoại di động của tôi, tất nhiên rồi! Bên kia vẫn còn thức đấy chứ!?」"
+    },
+    {
+        "sentence": "[Michiaki]::There`s a good chance it was Yumiko or that boy soldier of hers. Hurry up!",
+        "translation": "Michiaki「Khả năng cao là Yumiko hoặc tên lính của con bé. Nhanh lên!」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Finally throwing in the towel, eh, Yumiko...!?",
+        "translation": "Michiaki「Cuối cùng cũng chịu thua rồi hả, Yumiko...!?」"
+    },
+    {
+        "sentence": "[Michiaki]::Understood. Get on their trail, and don`t let them give you the slip this time!",
+        "translation": "Michiaki「Hiểu rồi. Bám theo bọn chúng đi, lần này đừng để bọn chúng trốn thoát!」\n"
+    },
+    {
+        "sentence": "[Michiaki]::I won`t let you get away, Yumiko...",
+        "translation": "Michiaki「Ta sẽ không để con thoát đâu, Yumiko...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::You`re going to listen to what I say and do as you`re told...!",
+        "translation": "Michiaki「Con sẽ nghe theo những gì ta nói và làm theo lời ta...!」\n"
+    },
+    {
+        "sentence": "[Michiaki]::g・...Who is this? And what time do you think it is? This had better be good...h・",
+        "translation": "Michiaki「Gì đây... Ai thế? Cậu có biết mấy giờ rồi không hả? Chuyện này tốt nhất là phải đáng giá...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::g・...What... was that...?h・",
+        "translation": "Michiaki「C... Cái... gì vừa xảy ra vậy...?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::g・Is that really you!? Where are you right now!? Answer me!h・",
+        "translation": "Michiaki「Có thật là cậu không!? Cậu đang ở đâu!? Trả lời ta!」\n"
+    },
+    {
+        "sentence": "[Michiaki]::g・The prison...?h・",
+        "translation": "Michiaki「G・...Nhà tù...?h・」\n"
+    },
+    {
+        "sentence": "[Michiaki]::g・...Mihama Academy!? You wandered brazenly back after all this time!?h・",
+        "translation": "Michiaki「G・...Học viện Mihama!? Cậu mặt dày dám vác xác trở về sau ngần ấy thời gian hả!?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::g・Shut up! Yumiko`s there as well, isn`t she...?h・",
+        "translation": "Michiaki「Im đi! Yumiko cũng ở đó đúng không...?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::g・......!!h・",
+        "translation": "Michiaki「G・......!!h・」\n"
+    },
+    {
+        "sentence": "[Michiaki]::g・...Ten AM...? Are you aware of what`s taking place tomorrow morning...?h・",
+        "translation": "Michiaki「G・...Mười giờ sáng...? Cậu có biết chuyện gì sẽ xảy ra vào sáng mai không đấy...?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Answer me, damn it! Hello!? Hello!?!",
+        "translation": "Michiaki「Trả lời ta, chết tiệt! Alo!? Alo!?!」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Kuh...!!",
+        "translation": "Michiaki「Khụ...!!」\n"
+    },
+    {
+        "sentence": "[Michiaki]::It`s me. We`re heading back to the company immediately! Yes, that`s right, there`s been a new development concerning Yumiko`s kidnapping. Also, make emergency contact with Ichigaya! Right now!",
+        "translation": "Michiaki「Là ta. Chúng ta quay lại công ty ngay lập tức! Đúng vậy, có một diễn biến mới liên quan đến vụ bắt cóc Yumiko. Liên lạc khẩn cấp với Ichigaya! Ngay bây giờ!」\n"
+    },
+    {
+        "sentence": "[Michiaki]::That`s right, Harudera. Get the Major General to drag that sly little spy over here!",
+        "translation": "Michiaki「Đúng đấy, Harudera. Bắt tên gián điệp ranh ma kia lôi xềnh xệch đến đây cho ta!」\n"
+    },
+    {
+        "sentence": "[Michiaki]::There`s a possibility this is connected to the general meeting tomorrow as well. Get moving before they can run away on us! Understood!?",
+        "translation": "Michiaki「Có khả năng chuyện này cũng liên quan đến cuộc họp toàn thể ngày mai. Mau lên trước khi bọn chúng kịp tẩu thoát! Rõ chưa!?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...You`re here.",
+        "translation": "Michiaki「Cậu ở đây rồi.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Kazami Yuuji`s gotten in touch.",
+        "translation": "Michiaki「Kazami Yuuji đã liên lạc rồi.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::That washed-up child soldier of yours actually had the nerve to threaten me... He demanded I personally visit that godforsaken city tomorrow morning to negotiate.",
+        "translation": "Michiaki「Cái thằng nhóc lính đánh thuê hết thời của cô dám cả gan đe dọa ta... Cậu ta còn đòi ta đích thân đến cái thành phố bỏ hoang đó vào sáng mai để đàm phán cơ đấy.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::You can spare me the song and dance, Harudera-san.",
+        "translation": "Michiaki「Khỏi phải diễn tuồng trước mặt ta, Harudera-san.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::You intend to play dumb until the bitter end, eh...? Well, no matter. For the time being, you`re going to sit in a corner and behave yourself until the matter`s resolved.",
+        "translation": "Michiaki「Cô định giả ngốc đến cùng đấy à...? Chà, cũng được thôi. Trước mắt, cô cứ ngồi im một góc và ngoan ngoãn cho đến khi mọi chuyện được giải quyết xong xuôi đi.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...Do it.",
+        "translation": "Michiaki「Làm đi.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::I have your superior`s authorization, of course. Officially, you`ve been invited to spend the night here. Feel free to say anything you want after the fact... I`ll make sure no one listens.",
+        "translation": "Michiaki「Tất nhiên, ta đã có sự cho phép của cấp trên cô rồi. Về mặt chính thức, cô được mời ở lại đây qua đêm đấy. Sau đó cô muốn nói gì cũng được... Ta sẽ đảm bảo không ai nghe thấy gì đâu.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...I don`t know what you people are planning, but I can`t allow the Sakaki family`s ambitions to be crushed by a petty rebellion like this. I`ll eliminate that soldier brat and take Yumiko back whether you like it or not.",
+        "translation": "Michiaki「...Ta không biết các người đang âm mưu cái gì, nhưng ta không thể để dã tâm của gia tộc Sakaki bị nghiền nát bởi một cuộc nổi loạn vặt vãnh như thế này được. Ta sẽ loại bỏ cái thằng nhóc lính tráng đó và mang Yumiko về, dù cô có thích hay không.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::You military types really are admirably loyal to your missions... It`s unfortunate that attitude didn`t rub off on your subordinate.",
+        "translation": "Michiaki「Mấy người nhà binh đúng là trung thành đáng ngưỡng mộ với nhiệm vụ được giao... Tiếc thật, cái đức tính đó lại chẳng lây sang được cho cấp dưới của cô.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::The woman might try to contact them somehow. Toss her in a basement where she won`t get any reception.",
+        "translation": "Michiaki「Cô gái đó có thể tìm cách liên lạc với bọn chúng đấy. Tống cô ta xuống cái hầm nào không có sóng ấy.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...Consider yourself lucky. At least you`ll be going home alive when this is over.",
+        "translation": "Michiaki「...Coi như cô may mắn đấy. Ít nhất thì khi chuyện này kết thúc, cô còn sống mà về nhà.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::That man... would no doubt have been a great deal more \"thorough\"...",
+        "translation": "Michiaki「Gã đàn ông đó... chắc chắn sẽ \"thấu đáo\" hơn nhiều đấy.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...You`re actually here. Rather foolhardy of you, I must say.",
+        "translation": "Michiaki「...Cậu thực sự đến đây rồi à. Phải nói là hơi liều lĩnh đấy.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::It`s been a while... Is it just my imagination, or have you lost a little weight?",
+        "translation": "Michiaki「Lâu rồi không gặp... Hay là ta nhìn nhầm, con ốm đi một chút thì phải?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Hah... Not that you appreciate it was all for your own good, clearly. But I suppose it hardly matters.",
+        "translation": "Michiaki「Hah... Xem ra con chẳng hề trân trọng việc ta làm tất cả vì lợi ích của con nhỉ. Nhưng ta đoán điều đó cũng chẳng còn quan trọng nữa.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::All right, Yumiko. I`m still willing to forgive you for the moment. Come back to me voluntarily, and I`ll show mercy to that man of yours...",
+        "translation": "Michiaki「Được thôi, Yumiko. Hiện tại ta vẫn sẵn lòng tha thứ cho con. Tự nguyện quay về với ta đi, ta sẽ nương tay với gã đàn ông của con...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Cry and beg for my forgiveness. Tell Dad how very sorry you are. That`s all I`m asking. Apologize right this instant, and you have my word this will end peacefully.",
+        "translation": "Michiaki「Khóc lóc van xin ta tha thứ đi. Nói với bố con đã hối hận đến mức nào. Ta chỉ yêu cầu có vậy thôi. Xin lỗi ngay lập tức đi, và ta hứa chuyện này sẽ kết thúc trong êm đẹp.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::What, you can`t trust your own father...?",
+        "translation": "Michiaki「Sao, con không tin bố mình à...?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Oh? Tell me, then, why are you here?",
+        "translation": "Michiaki「Ồ? Vậy thì nói ta nghe xem, con đến đây làm gì?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::That`s more than enough out of you!!",
+        "translation": "Michiaki「Con thôi đi là vừa rồi đấy!!」\n"
+    },
+    {
+        "sentence": "[Michiaki]::What would a child like you understand...!?",
+        "translation": "Michiaki「Con nít ranh như con thì hiểu cái gì chứ hả...!?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...I will not allow the mighty East Beach Group I inherited from my father to fall apart because of one selfish little girl.",
+        "translation": "Michiaki「Ta sẽ không để tập đoàn East Beach hùng mạnh mà ta thừa kế từ bố ta sụp đổ chỉ vì một con bé ích kỷ như con đâu.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::We`ll seize every worthless little company in our way and gather an army of pawns. We won`t stop growing until we can buy the country itself. That was my father`s dream, and I`m the same man he was...",
+        "translation": "Michiaki「Chúng ta sẽ thâu tóm mọi công ty nhỏ bé vô giá trị ngáng đường chúng ta, tập hợp một đội quân tốt thí. Chúng ta sẽ không ngừng bành trướng cho đến khi có thể mua cả đất nước này. Đó là giấc mơ của bố ta, và ta cũng là người đàn ông giống như bố...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::My father made me his puppet. He put his own spirit inside a younger vessel, protecting his enterprise from the depredations of time. I`ll follow in his footsteps. I`ll shape you into an even finer vessel.",
+        "translation": "Michiaki「Bố ta đã biến ta thành con rối của ông ta. Ông ta đặt linh hồn của mình vào một cái bình trẻ hơn, bảo vệ cơ nghiệp của mình khỏi sự tàn phá của thời gian. Ta sẽ đi theo bước chân của ông ấy. Ta sẽ nhào nặn con thành một cái bình còn tốt hơn nữa.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Weighed against that grand purpose, the individual will is utterly worthless. You can lecture me all you want about what \"really matters\"... but none of it means a thing to me!",
+        "translation": "Michiaki「So với mục đích cao cả đó, ý chí cá nhân chẳng đáng một xu. Con có thể rao giảng cho ta bao nhiêu tùy thích về những điều \"thực sự quan trọng\"... nhưng tất cả đều vô nghĩa đối với ta!」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Hmph. Another sheltered little girl wants to tell me what \"humanity\" is? I`m sick of it. Your mother was just as soft... Hardly surprising she fell apart instead of accepting reality.",
+        "translation": "Michiaki「Hmph. Lại một con bé được bao bọc kỹ càng khác muốn lên mặt dạy đời ta về cái gọi là \"nhân tính\" à? Ta phát ngán rồi. Mẹ con cũng mềm yếu như thế... Chẳng trách bà ta suy sụp thay vì chấp nhận thực tại.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::The woman was too close-minded to accept a minor personal concession for the sake of the company. I don`t see any reason that should trouble my conscience.",
+        "translation": "Michiaki「Người đàn bà đó quá thiển cận, không chịu nhượng bộ cá nhân nhỏ nhoi vì lợi ích của công ty. Ta chẳng thấy có lý do gì chuyện đó lại phải làm ta bận tâm cả.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::This is a waste of time. I`ll use force if I have to, but I`d prefer not to be rough. Get in the car...",
+        "translation": "Michiaki「Thật phí thời gian. Ta sẽ dùng vũ lực nếu cần, nhưng ta không muốn phải thô bạo đâu. Lên xe đi...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...Excuse me?",
+        "translation": "Michiaki「...Con nói gì cơ?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...Today... I see. So you people had a hand in that after all...",
+        "translation": "Michiaki「...Hôm nay... Ra vậy. Thì ra các người cũng nhúng tay vào chuyện này...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...That`s good, Yumiko. Very good. So you`ve been learning a little about the world, have you? That experience will be very valuable. Really, I never expected you to begin your studies all on your own!",
+        "translation": "Michiaki「...Tốt lắm, Yumiko. Rất tốt. Ra là con cũng học hỏi được chút ít về thế giới rồi nhỉ? Kinh nghiệm đó sẽ rất quý giá đấy. Thật sự, ta không ngờ con lại tự mình bắt đầu học hỏi đấy!」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Blustering? Don`t throw words like that around until you know they`re true. I`d recommend double-checking that \"reality\" of yours...",
+        "translation": "Michiaki「Mạnh miệng? Đừng có vội vàng dùng từ đó khi chưa chắc chắn. Ta khuyên con nên xem lại cái \"thực tế\" của con đi...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::I was quite aware you and that Ichigaya woman were plotting to stir up the opposition faction.",
+        "translation": "Michiaki「Ta thừa biết con với cái ả Ichigaya kia đang bày trò khích động phe đối lập mà.」"
+    },
+    {
+        "sentence": "[Michiaki]::...Well, I was a bit curious to see how far you`d manage to take this little children`s revolution of yours, but it seems you`re a quicker study than I thought!",
+        "translation": "Michiaki「Chà, ta cũng hơi tò mò muốn xem con có thể đưa cái trò cách mạng con nít này đi được đến đâu, ai ngờ con học nhanh hơn ta tưởng đấy!」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Once we straighten you out and get you attending a proper school, I think you`ll become quite useful in no time. Hahahaha...!!",
+        "translation": "Michiaki「Một khi ta nắn thẳng con lại, cho con đi học hành đàng hoàng, ta nghĩ chẳng mấy chốc con sẽ trở nên hữu dụng thôi. Hahaha...!!」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...All right. It`s well and truly over now. I suggest you resign yourself to a life dancing on my strings, Yumiko!",
+        "translation": "Michiaki「Được thôi. Mọi chuyện coi như xong xuôi rồi. Ta khuyên con nên an phận mà sống cuộc đời múa rối cho ta giật dây đi, Yumiko!」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Once you accept reality... I know. Perhaps I`ll permit you to keep that washed-up soldier brat over there as a sexual outlet?",
+        "translation": "Michiaki「Một khi con chấp nhận thực tế... Ta biết. Có lẽ ta sẽ cho phép con giữ lại thằng nhãi lính tráng hết thời kia để làm công cụ giải tỏa sinh lý?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::But of course, I`ll have to strip him of every shred of human dignity first...",
+        "translation": "Michiaki「Nhưng tất nhiên, ta sẽ phải tước đoạt hết mọi phẩm giá của hắn trước đã...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Hello there, private. Tell me, how long are you planning to just stand there? Don`t you have anything to say?",
+        "translation": "Michiaki「Chào cậu, anh lính quèn. Tính đứng đó đến bao giờ vậy? Không có gì để nói à?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Standing in the back while your woman does all the talking strikes me as more than a little pathetic, young man.",
+        "translation": "Michiaki「Đứng đằng sau để đàn bà của cậu lên tiếng hết thế kia, có vẻ hơi hèn đấy, chàng trai trẻ à.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...What now? Might as well go ahead and answer, for all the good it will do you. You won`t have that cell phone much longer in any...",
+        "translation": "Michiaki「...Giờ sao? Cứ việc trả lời đi, xem có ích gì không. Cậu cũng chẳng giữ được cái điện thoại đó lâu nữa đâu...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...What on earth are you babbling about?",
+        "translation": "Michiaki「...Cậu đang lảm nhảm cái quái gì vậy?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...My phone...?",
+        "translation": "Michiaki「...Điện thoại của ta...?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...! Why did you know that...!?",
+        "translation": "Michiaki「...! Sao cậu lại biết chuyện đó...?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...What...? Honestly, at a time like this... This had better be...",
+        "translation": "Michiaki「...Cái gì...? Thật tình, vào lúc thế này mà còn... Cái này tốt hơn hết là...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::M-Muramatsu... The Minister of Infrastructure...!?",
+        "translation": "Michiaki「M-Muramatsu... Bộ trưởng Bộ Cơ sở hạ tầng...!?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::H-Hello! Is that you, Minister Muramatsu? This is Sakaki, sir...!",
+        "translation": "Michiaki「A-Alo! Có phải ngài, Bộ trưởng Muramatsu đấy ạ? Tôi là Sakaki đây, thưa ngài...!」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Yes, I`m very sorry. We`re currently in the middle of that general meeting I discussed with you earlier...",
+        "translation": "Michiaki「Vâng, thành thật xin lỗi ngài. Chúng tôi hiện đang trong cuộc họp đại hội đồng mà tôi đã trao đổi với ngài trước đó...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Uh, what`s...?",
+        "translation": "Michiaki「à, vâng..?」"
+    },
+    {
+        "sentence": "[Michiaki]::Wha...!?",
+        "translation": "Michiaki「C-Cái gì...!?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::T-That`s not... W-What are you talking about, Minister!?!",
+        "translation": "Michiaki「Đ-Đâu có... N-Ngài đang nói cái gì vậy, Bộ trưởng!?!」\n"
+    },
+    {
+        "sentence": "[Michiaki]::W-Wait, M-Minister Muramatsu, please! What`s going on...!?!",
+        "translation": "Michiaki「Đ-Đợi đã, B-Bộ trưởng Muramatsu, xin ngài! Chuyện gì đang xảy ra vậy...?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Y-You people... Why is this... How could this possibly...!",
+        "translation": "Michiaki「B-Bọn mày... Tại sao lại thế này... Sao có thể...！」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Are you saying... those suspicious movements inside the opposition were merely a feint...!?",
+        "translation": "Michiaki「Mày nói... những động thái đáng ngờ bên phe đối lập chỉ là giả vờ thôi à...?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::This can`t... be...",
+        "translation": "Michiaki「Không... thể... nào...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...So it`s over...? Just like that... By a bunch of children, for christ`s sake... I wagered my life, threw everything away... and now...",
+        "translation": "Michiaki「...Vậy là hết thật rồi...? Chỉ vậy thôi sao...? Bởi một lũ nhóc ranh, mẹ kiếp... mình đã cược cả mạng sống, vứt bỏ mọi thứ... và giờ thì...?」"
+    },
+    {
+        "sentence": "[Michiaki]::You`re right on time. But I suppose I shouldn`t haveexpected any less from a military man.",
+        "translation": "Michiaki「Cậu đến đúng giờ thật. Cơ mà, ta cũng không nên mong đợi gì khác ở một quân nhân cả.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Very true... Time certainly does fly.",
+        "translation": "Michiaki「Đúng là vậy... Thời gian trôi nhanh thật.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::It`s been three years, hasn`t it? Not that I rememberyour face particularly well.",
+        "translation": "Michiaki「Ba năm rồi nhỉ? Không phải ta đặc biệt nhớ mặt cậu đâu đấy.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::What else can you expect from a man who`s lost his reasonto live? However sound the vessel of flesh and blood maybe, when there`s no will inside to animate it, a humanbeing`s nothing but a worthless animal... a machineserving no purpose but to consume food and excretewaste...",
+        "translation": "Michiaki「Một kẻ đã mất hết lý do để sống thì còn mong đợi gì hơn nữa chứ? Dù cho cái xác thịt này có lành lặn đến đâu, một khi ý chí bên trong đã lụi tàn, thì con người ta chẳng khác nào một loài cầm thú vô dụng... một cỗ máy chỉ biết ăn rồi thải...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Well then. You`re the one who called me here. Whatbusiness do you have with a sad specimen like myself?",
+        "translation": "Michiaki「Ra vậy. Cậu là người đã gọi ta đến đây. Một kẻ thảm hại như ta thì có việc gì mà cậu cần chứ?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::What a ridiculous thing to ask of an infamous monster.I`m not going to say anything you`d like to hear.",
+        "translation": "Michiaki「Thật nực cười khi cậu lại đòi hỏi điều đó từ một con quái vật khét tiếng. Ta sẽ không nói bất cứ điều gì mà cậu muốn nghe đâu.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Perhaps this is an attempt at easing your conscience overtaking everything away from me? Unfortunately, it`s athird-rate scenario. Come back when you`ve worked outsomething more plausible.",
+        "translation": "Michiaki「Có lẽ đây là một nỗ lực để cậu xoa dịu lương tâm đang muốn chiếm đoạt mọi thứ của ta sao? Tiếc thật, kịch bản hạng ba. Quay lại đây khi nào cậu nghĩ ra cái gì hợp lý hơn đi.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...Why do you...?",
+        "translation": "Michiaki「...Tại sao cậu...?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::That superior of yours... never tires of giving metrouble, does she?",
+        "translation": "Michiaki「Cấp trên của cậu... không bao giờ chán gây rắc rối cho ta nhỉ?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::You`re certainly a strange one. I`ve known my share ofbusybodies, but this is just absurd...",
+        "translation": "Michiaki「Cậu đúng là một kẻ kỳ lạ. Ta quen không ít kẻ hay lo chuyện bao đồng, nhưng thế này thì thật là... quá mức rồi.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...Do you know how old I was when my father gave me myfirst lesson in the way of the prince?",
+        "translation": "Michiaki「...Cậu có biết ta bao nhiêu tuổi khi bố ta dạy ta bài học đầu tiên về cách làm hoàng tử không?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::I was nine years old. The man took a child from his gamesand began lecturing him about money and the nature ofsociety...",
+        "translation": "Michiaki「Ta chín tuổi. Cái gã đó lôi một đứa trẻ ra khỏi trò chơi của nó rồi bắt đầu lên lớp về tiền bạc và bản chất của xã hội...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::I was terrified of my home. Returning from school wassheer agony...",
+        "translation": "Michiaki「Ta đã từng khiếp sợ ngôi nhà của mình. Mỗi lần đi học về là một cực hình...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::I think it was just after I`d entered college... That mansaid something to me that I`ve never forgotten.",
+        "translation": "Michiaki「Ta nghĩ là ngay sau khi ta vào đại học... Cái gã đó đã nói với ta một điều mà ta không bao giờ quên được.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::He said... \"You don`t need a self. Become my puppet.Continue my work even after I`m gone\"...",
+        "translation": "Michiaki「Ông ta nói... \"Con không cần bản ngã. Hãy trở thành con rối của ta. Tiếp tục công việc của ta ngay cả sau khi ta chết\"...」"
+    },
+    {
+        "sentence": "[Michiaki]::He crushed my sense of self. He made me into the perfectpuppet. And when the job was finally done... the mandied. Almost as if he`d been waiting for that moment...",
+        "translation": "Michiaki「Ông ta đã nghiền nát bản ngã của ta. Ông ta biến ta thành một con rối hoàn hảo. Và khi công việc cuối cùng cũng hoàn thành... thì cái gã đó chết. Gần như thể gã đã chờ đợi khoảnh khắc đó vậy...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...I assume you`ve heard much of the rest yourself. Allthat remained of \"me\" was a flawless copy of that man.",
+        "translation": "Michiaki「...Ta cho rằng cậu cũng đã nghe gần hết rồi nhỉ. Tất cả những gì còn lại của \"ta\" chỉ là một bản sao hoàn hảo của người đàn ông đó thôi.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::I was convinced that imitating him in all things wouldbring me conquest and glory... And so, Yumiko`s choiceswere simply incomprehensible to me.",
+        "translation": "Michiaki「Ta đã đinh ninh rằng việc bắt chước ông ta trong mọi thứ sẽ mang lại cho ta vinh quang và thành công... Bởi vậy, những lựa chọn của Yumiko hoàn toàn nằm ngoài tầm hiểu biết của ta.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Not that I really expected to accomplish anythingsignificant... But clinging to the faint hope of at leastunderstanding, I tried to retrace the life those twoled.",
+        "translation": "Michiaki「Không hẳn là ta thực sự mong đợi sẽ đạt được điều gì đó đáng kể... Nhưng vẫn bám víu vào hy vọng mong manh, ít nhất là để hiểu được, ta đã cố gắng lần theo cuộc đời mà hai người đó đã sống.」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...There was nothing there for me. My wife and daughterwere simply gone... I couldn`t speak to them, only stareat the void where they`d once been. And most terrible ofall, doing so didn`t even make me sad...",
+        "translation": "Michiaki「...Chẳng có gì ở đó cho ta cả. Vợ và con gái ta đơn giản là đã biến mất... Ta không thể nói chuyện với họ, chỉ có thể nhìn chằm chằm vào khoảng không nơi họ từng tồn tại. Và điều tồi tệ nhất là, làm như vậy thậm chí còn không khiến ta buồn...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Don`t you see? I was raised to believe that all otherhuman beings were worthless trash! That women were tools,objects, toys! And I thought I could understand theemotion of familial love!? Now, after all this time!?",
+        "translation": "Michiaki「Cậu không thấy sao? Ta lớn lên với niềm tin rằng tất cả những kẻ khác đều là rác rưởi vô giá trị! Rằng phụ nữ chỉ là công cụ, đồ vật, món đồ chơi! Vậy mà ta lại nghĩ rằng ta có thể hiểu được cái thứ tình cảm gia đình chết tiệt đó!? Giờ, sau ngần ấy thời gian!?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::I can`t... even feel regret...",
+        "translation": "Michiaki「Ta... thậm chí còn không cảm thấy hối hận...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::What...?",
+        "translation": "Michiaki「... Cái...?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Sorry... can`t say that I do...",
+        "translation": "Michiaki「Xin lỗi... ta không thể nói là ta hiểu...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::From now on...? I haven`t even thought about it. There`snothing left for me to do...",
+        "translation": "Michiaki「Từ giờ trở đi...? Ta còn chưa nghĩ đến. Ta chẳng còn gì để làm nữa...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::...Why would you want me to...?",
+        "translation": "Michiaki「...Tại sao cậu lại muốn ta...?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::......!",
+        "translation": "Michiaki「......!」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Make Yumiko...",
+        "translation": "Michiaki「...Để Yumiko...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Please... make Yumiko happy...",
+        "translation": "Michiaki「Xin... hãy làm cho Yumiko hạnh phúc...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Don`t let her end up like me... Give her a happy life, asa human being...!",
+        "translation": "Michiaki「Đừng để nó kết thúc như ta... Hãy cho con bé một cuộc sống hạnh phúc, như một con người...!」\n"
+    },
+    {
+        "sentence": "[Michiaki]::It`s all I`ll ever ask of you... my final request...!Please...",
+        "translation": "Michiaki「...Đây là tất cả những gì ta cầu xin cậu... lời thỉnh cầu cuối cùng của ta...! Xin cậu...」\n"
+    },
+    {
+        "sentence": "[Michiaki]::W-Why not...!?",
+        "translation": "Michiaki「...T-Tại sao lại không...?」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Yumiko... couldn`t possibly want that. The girl has nomother... no father... because of me! Because I`m apuppet, not a man...!",
+        "translation": "Michiaki「Yumiko... không thể nào muốn điều đó được. Con bé... không mẹ... không bố... vì ta! Vì ta là một con rối, không phải người đàn ông...!」\n"
+    },
+    {
+        "sentence": "[Michiaki]::Is that really...?",
+        "translation": "Michiaki「...Thật sao...?」\n"
+    }
+]

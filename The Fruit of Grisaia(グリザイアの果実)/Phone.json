@@ -1,0 +1,42 @@
+[
+  {
+    "sentence": "[Phone]::Why... Why do you think you`re alone?",
+    "translation": "Phone「Sao... Sao cậu lại nghĩ cậu cô đơn?」"
+  },
+  {
+    "sentence": "[Phone]::You have someone... who thinks of you as a friend. Whocares about you very much.",
+    "translation": "Phone「Cậu có một người... người mà nghĩ về cậu như một người bạn. Người mà quan tâm đến cậu rất nhiều.」"
+  },
+  {
+    "sentence": "[Phone]::So why do you keep trying to go off somewhere on yourown?",
+    "translation": "Phone「Vậy sao cậu cứ cố gắng đi đâu đó một mình vậy?」"
+  },
+  {
+    "sentence": "[Phone]::You don`t know how painful it is to be left behind, doyou? That`s why you keep trying to go away.",
+    "translation": "Phone「Cậu không biết bị bỏ lại đau đớn thế nào đâu, phải không? Vì thế nên cậu cứ luôn cố gắng bỏ đi đấy.」"
+  },
+  {
+    "sentence": "[Phone]::Everybody loses things. Being hated isn`t unusualeither.",
+    "translation": "Phone「Ai mà chẳng mất mát thứ gì đó. Bị ghét cũng không có gì lạ đâu.」"
+  },
+  {
+    "sentence": "[Phone]::I... love you... very much. So please... don`t goanywhere.",
+    "translation": "Phone「Tớ... yêu cậu... rất nhiều. Nên xin cậu... đừng đi đâu cả.」"
+  },
+  {
+    "sentence": "[Phone]::If you`re feeling sad right now...",
+    "translation": "Phone「Nếu giờ cậu đang thấy buồn...」"
+  },
+  {
+    "sentence": "[Phone]::Then let`s become happy together.",
+    "translation": "Phone「Vậy thì cùng nhau hạnh phúc nhé.」"
+  },
+  {
+    "sentence": "[Phone]::Come back here, and... let`s be together from now on...",
+    "translation": "Phone「Quay lại đây đi, và... từ giờ chúng ta sẽ bên nhau...」\n"
+  },
+  {
+    "sentence": "[Phone]::...Hello?",
+    "translation": "Phone「...Alo?」"
+  }
+]

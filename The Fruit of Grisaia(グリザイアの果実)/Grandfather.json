@@ -1,0 +1,50 @@
+[
+    {
+        "sentence": "[Grandfather]::How are you feeling, Misako?",
+        "translation": "Grandfather「Misako, con cảm thấy thế nào?」"
+    },
+    {
+        "sentence": "[Grandfather]::Yeah, welcome home...",
+        "translation": "Grandfather「Ừ, về nhà rồi đấy à...」"
+    },
+    {
+        "sentence": "[Grandfather]::Ah, yes... Hello there.",
+        "translation": "Grandfather「À, phải rồi... Chào con.」"
+    },
+    {
+        "sentence": "[Grandfather]::...Don`t talk like that.",
+        "translation": "Grandfather「Đừng có nói như thế.」"
+    },
+    {
+        "sentence": "[Grandfather]::Well, maybe I did, but...",
+        "translation": "Grandfather「Ừm, có lẽ tôi đã nói vậy, nhưng mà...」"
+    },
+    {
+        "sentence": "[Grandfather]::...You know as well as I do that Misako`s not strongenough for that now.",
+        "translation": "Grandfather「...Bà cũng biết rõ như tôi thôi, con bé Misako hiện giờ không đủ sức chịu đựng chuyện đó đâu.」"
+    },
+    {
+        "sentence": "[Grandfather]::The Sakaki family is paying for her living expenses,aren`t they? It`s fine.",
+        "translation": "Grandfather「Gia đình Sakaki đang chi trả sinh hoạt phí cho con bé, đúng không? Thế thì tốt thôi.」"
+    },
+    {
+        "sentence": "[Grandfather]::Do you have to put it like that!?",
+        "translation": "Grandfather「Nhất thiết phải nói kiểu đó sao!?」"
+    },
+    {
+        "sentence": "[Grandfather]::We`ll just have to tighten our belts and get throughthis. I`m sorry, but you`ll have to put up with it fornow.",
+        "translation": "Grandfather「Chúng ta sẽ phải thắt lưng buộc bụng và vượt qua chuyện này thôi. Tôi xin lỗi, nhưng bà phải chịu đựng điều đó trong lúc này.」\n"
+    },
+    {
+        "sentence": "[Grandfather]::Honestly... what did we do to deserve this...?",
+        "translation": "Grandfather「Thật tình mà nói... chúng ta đã làm gì để phải chịu đựng chuyện này...?」"
+    },
+    {
+        "sentence": "[Grandfather]::It`s certainly been a long and tangled road, but youdon`t have a thing to worry about anymore. I`m happy foryou.",
+        "translation": "Grandfather「Con đường này quả thật dài và rối rắm, nhưng cháu không cần phải lo lắng gì nữa cả. Ta rất mừng cho cháu.」"
+    },
+    {
+        "sentence": "[Grandfather]::Absolutely. It`s completely up to you, Yumiko.",
+        "translation": "Grandfather「Đương nhiên rồi. Hoàn toàn tùy thuộc vào cháu thôi, Yumiko à.」"
+    }
+]

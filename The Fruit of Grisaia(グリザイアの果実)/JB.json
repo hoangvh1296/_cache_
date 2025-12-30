@@ -1,0 +1,818 @@
+[
+    {
+        "sentence": "[JB]::...Well, here I am.",
+        "translation": "【JB】「...Ờm, tôi đây rồi.」"
+    },
+    {
+        "sentence": "[JB]::It certainly is rare for you to be the one calling for me. What`s this about? Maybe you`ve decided to call it quits on the whole student thing?",
+        "translation": "【JB】「Cậu gọi tôi thì đúng là hiếm thấy thật đấy. Chuyện gì vậy? Chẳng lẽ cậu đã chán ngấy cái kiếp học sinh rồi sao?」"
+    },
+    {
+        "sentence": "[JB]::The opposite?",
+        "translation": "【JB】「Ngược lại sao?」"
+    },
+    {
+        "sentence": "[JB]::......",
+        "translation": "【JB】「......」"
+    },
+    {
+        "sentence": "[JB]::Uhhhhm... for some reason, I have a really bad feeling about this.",
+        "translation": "【JB】「Uhhhhm... vì một lý do nào đó, tôi có cảm giác không lành về chuyện này lắm.」"
+    },
+    {
+        "sentence": "[JB]::Somehow, this compliment leaves me less than overjoyed...",
+        "translation": "【JB】「Không hiểu sao, lời khen này lại khiến tôi không vui vẻ lắm...」"
+    },
+    {
+        "sentence": "[JB]::Since you`re not denying it, I`m going to ask you point-blank. What do you \"absolutely have to do?\"",
+        "translation": "【JB】「Vì cậu không phủ nhận, nên tôi sẽ hỏi thẳng cậu. Cái gì mà cậu \"tuyệt đối phải làm\" vậy?」"
+    },
+    {
+        "sentence": "[JB]::...A favor?",
+        "translation": "【JB】「...Một ân huệ?」"
+    },
+    {
+        "sentence": "[JB]::The exact opposite, actually! Of all the insane... What on earth are you thinking?",
+        "translation": "【JB】「Hoàn toàn ngược lại mới đúng! Trong tất cả những chuyện điên rồ... Cậu đang thực sự nghĩ cái gì vậy?」"
+    },
+    {
+        "sentence": "[JB]::The \"relevant factors,\" he says... Look, I understand that you`re trying to help Sachi, but is it really necessary to go this far?",
+        "translation": "【JB】「\"Các yếu tố liên quan\", cậu ta nói à... Nghe này, tôi hiểu là cậu đang cố gắng giúp Sachi, nhưng việc này có thật sự cần thiết phải đi xa đến vậy không?」"
+    },
+    {
+        "sentence": "[JB]::Do you really think that`s going to convince me to go along with this foolishness?",
+        "translation": "【JB】「Cậu thật sự nghĩ điều đó sẽ thuyết phục tôi đi theo sự ngu ngốc này sao?」"
+    },
+    {
+        "sentence": "[JB]::Then I suppose you`ll just have to\\・",
+        "translation": "【JB】「Vậy thì tôi đoán cậu sẽ phải...」"
+    },
+    {
+        "sentence": "[JB]::...And you`re saying that`s Sachi?",
+        "translation": "【JB】「...Và cậu đang nói đó là Sachi sao?」"
+    },
+    {
+        "sentence": "[JB]::So that`s... your answer, huh?",
+        "translation": "【JB】「Vậy ra... đó là câu trả lời của cậu, hả?」"
+    },
+    {
+        "sentence": "[JB]::All right, I understand. You have whatever assistance I can offer.",
+        "translation": "【JB】「Được rồi, tôi hiểu rồi. Cậu có thể có bất cứ sự hỗ trợ nào mà tôi có thể cung cấp.」"
+    },
+    {
+        "sentence": "[JB]::Given that uncharacteristic little speech, it seems clear that you`re ready to accept the consequences of your actions...",
+        "translation": "【JB】「Với cái bài diễn văn nhỏ không giống ai kia, có vẻ rõ ràng là cậu đã sẵn sàng chấp nhận hậu quả từ hành động của mình rồi...」"
+    },
+    {
+        "sentence": "[JB]::And if Asako was here, she`d probably say \"When a man`s desperate enough to beg, a woman needs the backbone to shut her mouth and nod her head.\"",
+        "translation": "【JB】「Và nếu Asako ở đây, chắc hẳn sẽ nói \"Khi một người đàn ông đủ tuyệt vọng để van xin, một người phụ nữ cần phải đủ bản lĩnh để ngậm miệng và gật đầu.\"」"
+    },
+    {
+        "sentence": "[JB]::That said, even with Ichigaya and Akasaka`s support... there`s a limit to what I can pull off. Or cover up, for that matter.",
+        "translation": "【JB】「Dù vậy, ngay cả với sự hỗ trợ của Ichigaya và Akasaka... thì cũng có giới hạn cho những gì tôi có thể làm được. Hay che đậy, vì vấn đề đó.」"
+    },
+    {
+        "sentence": "[JB]::Figure out the rest...? Wait, do you have training in that field as well?",
+        "translation": "【JB】「Tự mình giải quyết phần còn lại...? Khoan, cậu còn được huấn luyện trong lĩnh vực đó nữa à?」"
+    },
+    {
+        "sentence": "[JB]::...Ah, true enough.",
+        "translation": "【JB】「...À, đúng thật.」"
+    },
+    {
+        "sentence": "[JB]::...!",
+        "translation": "【JB】「...!」"
+    },
+    {
+        "sentence": "[JB]::*Sigh*... Getting this from a guy who`s usually such a sarcastic little ass really throws me off my game...",
+        "translation": "【JB】「*Thở dài*... Nhận được lời này từ một người mà bình thường toàn nói móc mỉa như cậu thật sự khiến tôi mất hết cả hứng...」"
+    },
+    {
+        "sentence": "[JB]::...Well, I guess I`ll just chalk that one up as an attempt at giving your \"foster parent\" a little lip service.",
+        "translation": "【JB】「...Chà, tôi đoán tôi sẽ xem đó là một nỗ lực để nịnh nọt \"phụ huynh nuôi\" của cậu một chút thôi vậy.」"
+    },
+    {
+        "sentence": "[JB]::A helicopter ride...? What do you need those for?",
+        "translation": "【JB】「Đi máy bay trực thăng ư...? Cậu cần chúng để làm gì vậy?」"
+    },
+    {
+        "sentence": "[JB]::...Fine, I won`t ask. Just get in touch when you have an exact date and time. I`ll be giving you a call myself once our preparations are complete.",
+        "translation": "【JB】「...Được rồi, tôi sẽ không hỏi nữa. Cứ liên lạc với tôi khi cậu có ngày giờ chính xác nhé. Tôi sẽ tự mình gọi cho cậu khi các sự chuẩn bị của chúng ta hoàn tất.」"
+    },
+    {
+        "sentence": "[JB]::Well, that`s all right with me... but you`re talking like this is already a done deal. Sounds to me like you`re going to need a certain someone`s cooperation as well.",
+        "translation": "【JB】「...Được thôi, tôi không có ý kiến gì đâu... Nhưng cậu đang nói chuyện cứ như mọi chuyện đã đâu vào đấy rồi ấy. Nghe tôi nói này, cậu còn cần sự hợp tác của một ai đó nữa đấy.」"
+    },
+    {
+        "sentence": "[JB]::So? Is she on board?",
+        "translation": "【JB】「Vậy? Em ấy có đồng ý không?」"
+    },
+    {
+        "sentence": "[JB]::To-do list? Are you for real...? The plan sounded relatively fine-tuned at first, but you sure are taking a haphazard approach to some very fundamental problems...",
+        "translation": "【JB】「Danh sách việc cần làm ư? Cậu nói thật đấy à...? Ban đầu kế hoạch nghe có vẻ khá chi tiết rồi đấy, nhưng cậu lại đang tiếp cận một vài vấn đề cơ bản theo cách tùy tiện quá đấy...」"
+    },
+    {
+        "sentence": "[JB]::Very much like Asako`s way of doing things, come to think of it...",
+        "translation": "【JB】「Nghĩ lại thì... giống hệt cách làm việc của Asako nhỉ.」"
+    },
+    {
+        "sentence": "[JB]::...Yes, you do that. I`m looking forward to it.",
+        "translation": "【JB】「...Đúng vậy, cậu cứ làm thế đi. Tôi rất mong chờ điều đó.」"
+    },
+    {
+        "sentence": "[JB]::g・Morning, Yuuji. How`s Sachi?h・",
+        "translation": "【JB】「Chào buổi sáng, Yuuji. Sachi sao rồi?」"
+    },
+    {
+        "sentence": "[JB]::g・I see...h・",
+        "translation": "【JB】「Tôi hiểu rồi...」"
+    },
+    {
+        "sentence": "[JB]::g・Ah, right, right... It`s about the East Beach Express Group. I found something extremely interesting...h・",
+        "translation": "【JB】「À, đúng rồi, đúng rồi... Liên quan đến nhóm East Beach Express. Tôi tìm thấy thứ gì đó cực kỳ thú vị...」"
+    },
+    {
+        "sentence": "[JB]::g・It`ll take a little time before I have positive proof, but yes, I believe we can.h・",
+        "translation": "【JB】「Sẽ mất một chút thời gian trước khi tôi có bằng chứng xác thực, nhưng vâng, tôi tin là chúng ta có thể.」"
+    },
+    {
+        "sentence": "[JB]::g・I`ll send you the details by email later, so make sure to take a look.h・",
+        "translation": "【JB】「Tôi sẽ gửi chi tiết cho cậu qua email sau, nên nhớ xem nhé.」"
+    },
+    {
+        "sentence": "[JB]::g・I should be done with your other request soon as well...h・",
+        "translation": "【JB】「Tôi cũng sắp xong yêu cầu kia của cậu rồi...」"
+    },
+    {
+        "sentence": "[JB]::g・Incidentally, I also went ahead and got the stuff you`ll need to grow the \"vegetables\" for that soup of yours.h・",
+        "translation": "【JB】「À này, tôi cũng đã chuẩn bị xong mấy thứ cậu cần để trồng \"rau củ\" cho món súp của cậu rồi.」"
+    },
+    {
+        "sentence": "[JB]::g・It`s hardly a significant difference in the labor involved. Wasn`t more than a few extra clicks of the mouse, really.h・",
+        "translation": "【JB】「Việc đó hầu như không tốn nhiều công sức. Thật ra cũng chỉ hơn vài cái nhấp chuột thôi mà.」"
+    },
+    {
+        "sentence": "[JB]::g・Sure. The goods in question should be delivered before long, so make sure you`re there to accept them.h・",
+        "translation": "【JB】「Chắc chắn rồi. Hàng hóa đang được hỏi đến sẽ sớm được giao thôi, nên hãy chắc chắn rằng cậu sẽ có mặt để nhận chúng nhé.」"
+    },
+    {
+        "sentence": "[JB]::g・Hello. That you, Yuuji?h・",
+        "translation": "【JB】「g・Xin chào. Là Yuuji đó hả?h・」"
+    },
+    {
+        "sentence": "[JB]::g・Isn`t that a coincidence? There`s something I want to discuss with you as well.h・",
+        "translation": "【JB】「g・Thật trùng hợp làm sao? Tôi cũng có điều muốn thảo luận với cậu.h・」"
+    },
+    {
+        "sentence": "[JB]::g・...No, that shouldn`t be a problem.h・",
+        "translation": "【JB】「g・...Không, điều đó không có vấn đề gì đâu.h・」"
+    },
+    {
+        "sentence": "[JB]::...Here I am.",
+        "translation": "【JB】「Tôi đã đến đây.」"
+    },
+    {
+        "sentence": "[JB]::...As an accessory to the crime, I decided I should be around to watch the final moments of that poor school.",
+        "translation": "【JB】「...Với tư cách là kẻ đồng lõa trong vụ án, tôi quyết định mình nên có mặt để chứng kiến những khoảnh khắc cuối cùng của ngôi trường tội nghiệp đó.」"
+    },
+    {
+        "sentence": "[JB]::I assume you know that we don`t have quite that much time on our hands.",
+        "translation": "【JB】「Tôi cho rằng cậu biết rằng chúng ta không có nhiều thời gian đến thế đâu.」"
+    },
+    {
+        "sentence": "[JB]::...I`m going to leave now.",
+        "translation": "【JB】「...Tôi sẽ đi bây giờ đây.」"
+    },
+    {
+        "sentence": "[JB]::...Well? I assume this \"question\" of yours has something to do with this incident.",
+        "translation": "【JB】「...Vậy thì? Tôi cho rằng \"câu hỏi\" của cậu có liên quan đến vụ việc này.」"
+    },
+    {
+        "sentence": "[JB]::That`s right. The local and regional government, the news bureaus, the newspapers, the magazines... You name it, they`re muzzled.",
+        "translation": "【JB】「Đúng vậy. Chính quyền địa phương và khu vực, các cơ quan báo chí, báo giấy, tạp chí... Cứ gọi tên đi, tất cả đều bị bịt miệng.」"
+    },
+    {
+        "sentence": "[JB]::On paper, Nishizono`s a rival enterprise, the East Beach Group`s most ruthless competitor. But it seems they`re actually fairly friendly, to the point of passing each other work under the table...",
+        "translation": "【JB】「Trên danh nghĩa, Nishizono là một đối thủ cạnh tranh, kẻ cạnh tranh tàn nhẫn nhất của Tập đoàn East Beach. Nhưng có vẻ họ thực sự khá thân thiết, đến mức chuyển việc cho nhau một cách lén lút...」"
+    },
+    {
+        "sentence": "[JB]::Long story short, they`ve been in collusion for many years. Through systematic inflation of building costs, both were able to pocket a very nice cut of our generous government`s construction subsidies.",
+        "translation": "【JB】「Nói ngắn gọn thì họ đã thông đồng với nhau nhiều năm rồi. Bằng cách cố ý đội giá xây dựng, cả hai đều có thể bỏ túi một khoản kha khá từ trợ cấp xây dựng hào phóng của chính phủ chúng ta.」"
+    },
+    {
+        "sentence": "[JB]::Informing both parties of the existence of the incriminatory data, we used it as a pretext for demolishing Mihama Academy...",
+        "translation": "【JB】「Bằng cách thông báo cho cả hai bên về sự tồn tại của dữ liệu tố cáo, chúng tôi đã dùng nó như cái cớ để phá hủy Học viện Mihama...」"
+    },
+    {
+        "sentence": "[JB]::And as for the relevant societal authorities, we quietly submitted an application to bring down the building as a part of a private renovation plan.",
+        "translation": "【JB】「Và đối với các cơ quan chức năng xã hội có liên quan, chúng tôi đã lặng lẽ nộp đơn xin phá dỡ tòa nhà như một phần của kế hoạch cải tạo tư nhân.」"
+    },
+    {
+        "sentence": "[JB]::Then I suppose the \"general will\" of the Japanese people must have determined keeping this matter quiet was in its own best interest.",
+        "translation": "【JB】「Vậy thì tôi cho rằng 'ý chí chung' của người dân Nhật Bản hẳn đã xác định rằng việc giữ kín chuyện này là vì lợi ích tốt nhất của chính họ.」"
+    },
+    {
+        "sentence": "[JB]::Yes, I do. But I`m afraid it`s information you don`t have the right to know.",
+        "translation": "【JB】「Ừ, tôi biết. Nhưng tôi e rằng đó là thông tin mà cậu không có quyền được biết.」"
+    },
+    {
+        "sentence": "[JB]::You`re giving up fairly easy, considering you dragged me out here just to ask that question.",
+        "translation": "【JB】「Cậu từ bỏ khá dễ dàng đấy, xét đến việc cậu đã lôi tôi ra đây chỉ để hỏi câu đó.」"
+    },
+    {
+        "sentence": "[JB]::...Ah.",
+        "translation": "【JB】「...À.」"
+    },
+    {
+        "sentence": "[JB]::Well then, that`s more than enough of that, I think.",
+        "translation": "【JB】「Vậy thì, tôi nghĩ như vậy là quá đủ rồi.」"
+    },
+    {
+        "sentence": "[JB]::If you`re not going to ask again, there`s no need for me to stay on my guard.",
+        "translation": "【JB】「Nếu cậu không định hỏi lại nữa thì tôi không cần phải cảnh giác nữa.」"
+    },
+    {
+        "sentence": "[JB]::Also, as for Ichigaya`s disposition of this incident...",
+        "translation": "【JB】「Ngoài ra, về cách xử lý vụ việc này của Ichigaya...」"
+    },
+    {
+        "sentence": "[JB]::Officially, we have absolutely no knowledge of 9029 playing any role in this affair. You`re to stand by on acting reserve status, just as before.",
+        "translation": "【JB】「Chính thức thì, chúng tôi hoàn toàn không biết 9029 có vai trò gì trong vụ việc này. Cậu phải ở trong trạng thái dự bị, giống như trước đây.」"
+    },
+    {
+        "sentence": "[JB]::You really are well-behaved tonight. Knowing you, I was expecting a little more yapping.",
+        "translation": "【JB】「Tối nay cậu thật sự rất ngoan đấy. Biết tính cậu rồi, tôi còn tưởng sẽ bị cậu càu nhàu thêm vài câu nữa cơ.」"
+    },
+    {
+        "sentence": "[JB]::...Well, I`ll give you full marks for getting that close.",
+        "translation": "【JB】「...Chà, tôi sẽ cho cậu điểm tuyệt đối vì đã tiếp cận gần đến vậy.」"
+    },
+    {
+        "sentence": "[JB]::All right, I`ll give you a call the next time a job comes up. Get some rest for the moment, why don`t you?",
+        "translation": "【JB】「Được rồi, lần tới có việc gì tôi sẽ gọi cho cậu. Hiện tại thì nghỉ ngơi đi nhé?」"
+    },
+    {
+        "sentence": "[JB]::I`m willing to bet you barely slept while preparing that implosion of yours.",
+        "translation": "【JB】「Tôi dám chắc cậu hầu như không ngủ khi chuẩn bị vụ nổ đó của mình.」"
+    },
+    {
+        "sentence": "[JB]::...Thanks so much for the advice, dear.",
+        "translation": "【JB】「...Cảm ơn cậu rất nhiều vì lời khuyên, cưng ạ.」"
+    },
+    {
+        "sentence": "[JB]::Although she demonstrated a pronounced rejection impulse on first contact, the two have since established a comparatively cordial relationship. Continuing investigation should...",
+        "translation": "【JB】「Mặc dù em ấy đã thể hiện một sự từ chối rõ rệt khi mới tiếp xúc, nhưng hai người họ đã thiết lập được một mối quan hệ tương đối thân thiện. Việc tiếp tục điều tra nên...」\n"
+    },
+    {
+        "sentence": "[JB]::...All right.",
+        "translation": "【JB】「Được rồi, thưa ngài.」"
+    },
+    {
+        "sentence": "[JB]::I see. In that case, please allow me to excuse myself...",
+        "translation": "【JB】「Tôi hiểu rồi. Trong trường hợp đó, xin phép cho tôi được cáo lui...」\n"
+    },
+    {
+        "sentence": "[JB]::...Is there something else?",
+        "translation": "【JB】「...Ngài còn gì nữa sao?」"
+    },
+    {
+        "sentence": "[JB]::By which you mean... what, exactly?",
+        "translation": "【JB】「Ý ngài là... chính xác là gì ạ?」"
+    },
+    {
+        "sentence": "[JB]::It`s Kazami Yuuji. President Sakaki, allow me to reiterate that Kazami is not merely an investigator. He`s a student first and foremost, acting on our behalf in a private...",
+        "translation": "【JB】「Đó là Kazami Yuuji. Thưa ngài Chủ tịch Sakaki, cho phép Tôi nhắc lại rằng Kazami không chỉ đơn thuần là một điều tra viên. Cậu ta trước hết là một học sinh, hành động thay mặt cho chúng tôi trong một...」"
+    },
+    {
+        "sentence": "[JB]::...You may be under some misunderstanding in this regard, but our organization isn`t in the business of counselling. Or brainwashing.",
+        "translation": "【JB】「Ngài có thể đang hiểu lầm về điều này, nhưng tổ chức của chúng tôi không làm công việc tư vấn. Hay tẩy não đâu ạ.」"
+    },
+    {
+        "sentence": "[JB]::Naturally, we do occasionally engage in such things in the course of operations. But as I`m sure you can appreciate, even for a child of the Sakaki family, national assets can`t be used quite that freely in pursuit of personal interests...",
+        "translation": "【JB】「Đương nhiên, chúng tôi thỉnh thoảng cũng tham gia vào những chuyện như vậy trong quá trình làm nhiệm vụ. Nhưng như Ngài chắc cũng hiểu, ngay cả đối với một người con của gia tộc Sakaki, thì tài sản quốc gia cũng không thể được sử dụng một cách tự do như vậy để theo đuổi lợi ích cá nhân...」"
+    },
+    {
+        "sentence": "[JB]::...Outside of the very lowest ranks, there isn`t a single person in our organization who doesn`t appreciate the significance of your contributions, President Sakaki.",
+        "translation": "【JB】「...Ngoài những cấp bậc thấp nhất ra, không một ai trong tổ chức của chúng tôi không đánh giá cao ý nghĩa những đóng góp của Ngài, thưa Chủ tịch Sakaki.」\n"
+    },
+    {
+        "sentence": "[JB]::...That`s a rather sudden request, sir.",
+        "translation": "【JB】「...Đó là một yêu cầu khá đột ngột đấy, thưa Ngài.」"
+    },
+    {
+        "sentence": "[JB]::...No, we`ll support you in that strategy. I do have one additional proposal, however...",
+        "translation": "【JB】「...Không, chúng tôi sẽ ủng hộ chiến lược đó của Ngài. Tuy nhiên, Tôi có một đề xuất bổ sung...」"
+    },
+    {
+        "sentence": "[JB]::Yes. I`d like to have our investigator, Kazami Yuuji, act as your daughter`s bodyguard.",
+        "translation": "【JB】「Vâng. Tôi muốn điều tra viên của chúng tôi, Kazami Yuuji, làm vệ sĩ cho con gái của Ngài.」"
+    },
+    {
+        "sentence": "[JB]::Respectfully, a sudden threat out of nowhere would likely be more confusing than anything else. But by assigning her a bodyguard first, and slowly escalating an atmosphere of crisis...",
+        "translation": "【JB】「Với tất cả sự kính trọng, một mối đe dọa bất ngờ từ trên trời rơi xuống có lẽ sẽ gây hoang mang hơn bất cứ điều gì khác. Nhưng bằng cách chỉ định cho Em ấy một vệ sĩ trước, và từ từ leo thang một bầu không khí khủng hoảng...」"
+    },
+    {
+        "sentence": "[JB]::...Yes.",
+        "translation": "【JB】「...Vâng.」"
+    },
+    {
+        "sentence": "[JB]::Of course. Well then, please excuse me...",
+        "translation": "【JB】「Đương nhiên rồi. Vậy thì, xin phép Ngài...」"
+    },
+    {
+        "sentence": "[JB]::Michiaki......",
+        "translation": "【JB】「Michiaki......」"
+    },
+    {
+        "sentence": "[JB]::Yes. Sakaki Yumiko-san`s, specifically. You`re familiar with her, aren`t you?",
+        "translation": "【JB】「Đúng vậy. Đặc biệt là của Sakaki Yumiko-san. Cậu biết Em ấy, đúng không?」\n"
+    },
+    {
+        "sentence": "[JB]::Hmmm, no kidding. I was convinced you`d been learning all sorts of things...",
+        "translation": "【JB】「Ồ, thật á. Tôi cứ tưởng Cậu đã học được đủ thứ rồi chứ...」"
+    },
+    {
+        "sentence": "[JB]::...In that case, I suppose we`ll have to educate you somewhat. Here, these are the case materials.",
+        "translation": "【JB】「...Trong trường hợp đó, Tôi đoán Chúng ta sẽ phải dạy dỗ Cậu một chút rồi. Đây, đây là tài liệu vụ án.」"
+    },
+    {
+        "sentence": "[JB]::Indeed. She may be a normal classmate to you, but the circumstances surrounding her are tangled and potentially dangerous...",
+        "translation": "【JB】「Thật vậy. Em ấy có thể chỉ là một bạn cùng lớp bình thường đối với Cậu, nhưng những tình huống xung quanh Em ấy rất rối ren và có khả năng nguy hiểm...」"
+    },
+    {
+        "sentence": "[JB]::Numerous parties have their eyes on her as the only child of the East Beach Group`s president. And since the girl seems particularly fond of solitude, the risk of a potential kidnapping can no longer be ignored.",
+        "translation": "【JB】「Nhiều phe phái đang để mắt đến Em ấy với tư cách là con một của chủ tịch Tập đoàn East Beach. Và vì Cô nàng có vẻ đặc biệt thích sự cô đơn, nguy cơ bị bắt cóc tiềm ẩn không thể nào bỏ qua được nữa.」"
+    },
+    {
+        "sentence": "[JB]::She`d likely object to any elaborate measures. And even if we could assign ten random security police to look after her, I doubt they`d be worth one of you.",
+        "translation": "【JB】「Em ấy có lẽ sẽ phản đối bất kỳ biện pháp phức tạp nào. Và ngay cả khi chúng ta có thể điều động mười cảnh sát an ninh ngẫu nhiên để trông chừng Em ấy, Tôi e là Bọn họ cũng chẳng đáng giá bằng một mình Cậu đâu.」"
+    },
+    {
+        "sentence": "[JB]::I`m not in the habit of overestimating anyone.",
+        "translation": "【JB】「Tôi không có thói quen đánh giá cao ai quá đâu.」"
+    },
+    {
+        "sentence": "[JB]::I`m not in the habit of overestimating anyone. Kazami Yuuji. As of 1200 hours today, you`re to officially commence this duty. Should disturbances arise, you are authorized to suppress them with force.",
+        "translation": "【JB】「Tôi không có thói quen đánh giá cao ai quá đâu. Kazami Yuuji. Đúng 12 giờ hôm nay, Cậu sẽ chính thức bắt đầu nhiệm vụ này. Nếu có xáo trộn xảy ra, Cậu được phép dùng vũ lực trấn áp.」"
+    },
+    {
+        "sentence": "[JB]::We simply put the matter into practice just as you requested...",
+        "translation": "【JB】「Chúng tôi chỉ đơn giản là thực hiện việc đó như ngài yêu cầu thôi mà...」"
+    },
+    {
+        "sentence": "[JB]::Yes, that was our understanding.",
+        "translation": "【JB】「Vâng, đó là những gì chúng tôi đã hiểu.」"
+    },
+    {
+        "sentence": "[JB]::We`ve carried out your strategy to the letter. That said, we aren`t an acting troupe or a detective agency. Anticipating such subtle psychological details is beyond our capabilities.",
+        "translation": "【JB】「Chúng tôi đã thực hiện chiến lược của ngài một cách hoàn hảo. Tuy nhiên, chúng tôi không phải là một đoàn kịch hay một cơ quan thám tử. Dự đoán những chi tiết tâm lý tinh tế như vậy vượt quá khả năng của chúng tôi.」"
+    },
+    {
+        "sentence": "[JB]::...Understood.",
+        "translation": "【JB】「Hiểu rồi.」"
+    },
+    {
+        "sentence": "[JB]::g・...It`s exactly as I said. You heard me just fine, didn`t you?h・",
+        "translation": "【JB】「g・...Đúng như tôi đã nói. Cậu nghe rõ cả rồi, phải không?h・」"
+    },
+    {
+        "sentence": "[JB]::g・I`ll repeat that, just in case you didn`t quite catch it the first time. Kazami Yuuji, you`ve been removed from the role of Sakaki Yumiko`s bodyguard. As of this moment, you are not to involve yourself with this operation in any way.h・",
+        "translation": "【JB】「g・Tôi xin nhắc lại, phòng trường hợp cậu không nghe rõ lần đầu. Kazami Yuuji, cậu đã bị loại khỏi vai trò vệ sĩ của Sakaki Yumiko. Kể từ giờ phút này, cậu không được dính líu đến chiến dịch này dưới bất kỳ hình thức nào.h・」\n"
+    },
+    {
+        "sentence": "[JB]::g・...Was that clear enough for you?h・",
+        "translation": "【JB】「g・...Như vậy đã đủ rõ ràng cho cậu chưa?h・」"
+    },
+    {
+        "sentence": "[JB]::g・That`s correct. Not for this operation.h・",
+        "translation": "【JB】「g・Đúng vậy. Không phải cho chiến dịch này.h・」"
+    },
+    {
+        "sentence": "[JB]::g・No. You can butter me up all you want, but it`s not happening this time. There are some complicated circumstances involved... I`m sure you noticed that the whole thing was kind of fishy to begin with, yes?h・",
+        "translation": "【JB】「g・Không đâu. Cậu có nịnh tôi thế nào đi nữa thì lần này cũng không được đâu. Có vài chuyện phức tạp liên quan đến... Tôi chắc là cậu cũng nhận thấy ngay từ đầu chuyện này có gì đó sai sai rồi, đúng không?h・」\n"
+    },
+    {
+        "sentence": "[JB]::g・Listen, I just told you I can`t answer...h・",
+        "translation": "【JB】「g・Nghe này, tôi vừa mới nói với cậu là tôi không thể trả lời mà...h・」"
+    },
+    {
+        "sentence": "[JB]::g・Look here, Yuuji...h・",
+        "translation": "【JB】「g・Nghe này, Yuuji...h・」"
+    },
+    {
+        "sentence": "[JB]::g・.........h・",
+        "translation": "【JB】「g・.........h・」"
+    },
+    {
+        "sentence": "[JB]::g・...I can`t tell you anything more. But I will confirm that you have been officially ordered not to involve yourself with this operation any further.h・",
+        "translation": "【JB】「g・...Tôi không thể nói với cậu thêm gì nữa. Nhưng tôi xác nhận rằng cậu đã chính thức bị cấm không được dính líu gì thêm vào chiến dịch này.h・」"
+    },
+    {
+        "sentence": "[JB]::g・...I`m hanging up now.h・",
+        "translation": "【JB】「g・...Tôi cúp máy đây.h・」"
+    },
+    {
+        "sentence": "[JB]::g・You really need to work on your timing with that line...h・",
+        "translation": "【JB】「Cậu cần phải tập căn thời gian nói câu đó lại đấy...」"
+    },
+    {
+        "sentence": "[JB]::We have absolutely nothing to be ashamed of, sir.",
+        "translation": "【JB】「Chúng tôi tuyệt đối không có gì phải xấu hổ cả, thưa ngài.」"
+    },
+    {
+        "sentence": "[JB]::I formally informed Kazami Yuuji of his removal from this operation. And considering the strict regulations of our organization and the character of the individual involved, I don`t believe he would disobey those orders.",
+        "translation": "【JB】「Tôi đã chính thức thông báo cho Kazami Yuuji về việc cậu ta bị loại khỏi chiến dịch này. Và xét đến những quy định nghiêm ngặt của tổ chức chúng ta và tính cách của đối tượng liên quan, tôi không tin cậu ta sẽ không tuân lệnh đâu.」"
+    },
+    {
+        "sentence": "[JB]::This is only speculation on my part, but after I relieved Kazami Yuuji from his role, I think he may have informed Sakaki Yumiko of that decision.",
+        "translation": "【JB】「Đây chỉ là suy đoán từ phía tôi thôi, nhưng sau khi tôi loại Kazami Yuuji khỏi vai trò của cậu ta, tôi nghĩ cậu ta có thể đã thông báo quyết định đó cho Sakaki Yumiko.」"
+    },
+    {
+        "sentence": "[JB]::The most plausible scenario is that the news left Yumiko-san herself uneasy, leading her to recruit Kazami Yuuji as a bodyguard in a private capacity.",
+        "translation": "【JB】「Kịch bản hợp lý nhất là tin tức đó đã khiến chính Yumiko-san lo lắng, dẫn đến việc em ấy phải chiêu mộ Kazami Yuuji làm vệ sĩ theo diện riêng tư.」"
+    },
+    {
+        "sentence": "[JB]::That`s only \"common sense\" from your perspective, President Sakaki. I didn`t inquire about his own thoughts on the matter the other day, so it`s quite possible he interpreted the situation differently.",
+        "translation": "【JB】「Đó chỉ là \"lẽ thường\" từ góc nhìn của ngài, thưa Chủ tịch Sakaki. Hôm trước tôi đã không hỏi cậu ta nghĩ gì về chuyện này, nên rất có thể cậu ta đã hiểu tình hình theo một cách khác.」"
+    },
+    {
+        "sentence": "[JB]::Child or adult, we consider our orders absolute. And our promises.",
+        "translation": "【JB】「Dù là trẻ con hay người lớn, chúng tôi đều coi trọng tuyệt đối mệnh lệnh của mình. Và cả những lời hứa nữa.」"
+    },
+    {
+        "sentence": "[JB]::Certainly. Please excuse me.",
+        "translation": "【JB】「Chắc chắn rồi. Xin thứ lỗi cho tôi.」"
+    },
+    {
+        "sentence": "[JB]::Arrrrgh, he`s soooo lateeee...",
+        "translation": "【JB】「Arrrrgh, cậu ta trễ quá đi mất thôi...」"
+    },
+    {
+        "sentence": "[JB]::Hiiiii!",
+        "translation": "【JB】「Hiiiii!」"
+    },
+    {
+        "sentence": "[JB]::H-Hey! Hey now, c`mon!",
+        "translation": "【JB】「H-Hì! Này, dừng lại đi mà!」"
+    },
+    {
+        "sentence": "[JB]::What`s with the cold shoulder? I`ve been waiting a good hour, you know? How about at least acknowledging my existence? Hey, seriously!",
+        "translation": "【JB】「Sao lại lơ tôi thế hả? Tôi đợi cả tiếng đồng hồ rồi đấy, cậu biết không? Sao không ít nhất thì công nhận sự tồn tại của tôi đi chứ? Này, nghiêm túc đấy!」"
+    },
+    {
+        "sentence": "[JB]::...I`ve tolerated it up until now because of your distinguished efforts in the field, but this abusive language is completely unacceptable, Kazami Yuuji!",
+        "translation": "【JB】「...Tôi nhịn cậu tới giờ này là vì những đóng góp xuất sắc của cậu trong lĩnh vực đó, nhưng cái thứ ngôn từ lăng mạ này là hoàn toàn không thể chấp nhận được, Kazami Yuuji!」"
+    },
+    {
+        "sentence": "[JB]::...Next rotation, I`m definitely sending you to Afghanistan or Somalia. That`s not a threat; it`s a promise!",
+        "translation": "【JB】「...Lần luân chuyển tới, tôi chắc chắn sẽ gửi cậu đến Afghanistan hoặc Somalia. Đó không phải là lời đe dọa; đó là một lời hứa đấy!」"
+    },
+    {
+        "sentence": "[JB]::Uh... what`re you saying? You`re still...",
+        "translation": "【JB】「Ư... cậu đang nói gì vậy? Cậu vẫn còn...」\n"
+    },
+    {
+        "sentence": "[JB]::...You`re a student, so \"unemployed\" doesn`t seem quite the right word.",
+        "translation": "【JB】「...Cậu là học sinh, nên dùng từ \"thất nghiệp\" có vẻ không đúng lắm.」\n"
+    },
+    {
+        "sentence": "[JB]::In any case, we need to talk. Can you spare the time?",
+        "translation": "【JB】「Dù sao đi nữa, chúng ta cần nói chuyện. Cậu có thời gian không?」"
+    },
+    {
+        "sentence": "[JB]::Yes. Right now.",
+        "translation": "【JB】「Phải. Ngay bây giờ.」"
+    },
+    {
+        "sentence": "[JB]::Bwah...!? F-Forgettable blond...?",
+        "translation": "【JB】「Bwah...? T-Tóc vàng nhạt nhòa...?」\n"
+    },
+    {
+        "sentence": "[JB]::Forgettable...",
+        "translation": "【JB】「Nhạt nhòa...」"
+    },
+    {
+        "sentence": "[JB]::Am I really that forgettable...? I sorta thought I left a pretty strong impression...",
+        "translation": "【JB】「Tôi thật sự dễ quên đến thế sao...? Tôi cứ tưởng tôi đã để lại một ấn tượng khá mạnh mẽ chứ...」\n"
+    },
+    {
+        "sentence": "[JB]::I see. So she did ask you to serve as her bodyguard in a private capacity, eh?",
+        "translation": "【JB】「Ra vậy. Thế em ấy đã nhờ cậu làm vệ sĩ riêng à?」\n"
+    },
+    {
+        "sentence": "[JB]::Here, I made lunch. Want some?",
+        "translation": "【JB】「Đây, tôi làm bữa trưa này. Cậu muốn ăn không?」"
+    },
+    {
+        "sentence": "[JB]::...For your information, Yuuji, my cooking has improved a good bit since then... Uh, hey, at least say something before you start eating!",
+        "translation": "【JB】「...Này, cậu biết đấy, món ăn của tôi đã khá hơn nhiều rồi đấy... Ừm, ơ, này, ít ra cũng phải nói gì đó trước khi cậu ăn chứ!」"
+    },
+    {
+        "sentence": "[JB]::...Honestly.",
+        "translation": "【JB】「...Thật tình đấy。」"
+    },
+    {
+        "sentence": "[JB]::*Sigh*... Forget about it. Go ahead and eat, but listen to what I have to say.",
+        "translation": "【JB】「*Thở dài*... Thôi quên đi. Cứ ăn đi, nhưng nghe cho rõ tôi nói này.」"
+    },
+    {
+        "sentence": "[JB]::...You`re aware of the recent personnel change at the Ichigaya head office, yes?",
+        "translation": "【JB】「...Cậu biết về sự thay đổi nhân sự gần đây ở tổng bộ Ichigaya rồi chứ?」"
+    },
+    {
+        "sentence": "[JB]::Well, just another outcome of the usual power struggles.",
+        "translation": "【JB】「Ừm, chỉ là một kết quả khác của những cuộc đấu đá quyền lực thường thấy thôi mà.」"
+    },
+    {
+        "sentence": "[JB]::...But there was one slightly troublesome detail. Our new chief of staff, Major General Kadoma, happens to have a very close relationship with the MLIT. He`s personally connected to a number of private railway financiers.",
+        "translation": "【JB】「...Nhưng có một chi tiết hơi phiền phức. Chánh văn phòng mới của chúng ta, Thiếu tướng Kadoma, lại có mối quan hệ rất thân thiết với MLIT. Ông ta có mối liên hệ cá nhân với một số nhà tài trợ đường sắt tư nhân.」"
+    },
+    {
+        "sentence": "[JB]::The Major General actually stopped by our office right away. Unprecedented for such a bigshot to give underlings like us personal attention so soon after entering office. Must`ve been some good reason for that, I`d imagine.",
+        "translation": "【JB】「Thiếu tướng đích thân ghé văn phòng chúng ta ngay lập tức. Thật chưa từng có tiền lệ, một nhân vật tầm cỡ như vậy lại đích thân quan tâm đến đám thuộc hạ như chúng ta ngay sau khi nhậm chức. Chắc hẳn có lý do gì đó quan trọng lắm, tôi đoán vậy.」"
+    },
+    {
+        "sentence": "[JB]::...I wonder what it was.",
+        "translation": "【JB】「...Tôi tự hỏi đó là cái gì nhỉ.」"
+    },
+    {
+        "sentence": "[JB]::...Given my position, I can`t confirm or deny any of that.",
+        "translation": "【JB】「...Với chức vụ của mình, tôi không thể xác nhận hay phủ nhận bất cứ điều gì trong số đó.」"
+    },
+    {
+        "sentence": "[JB]::But I can say that the Major General brought up one Kazami Yuuji, and whether it might be best to have him moved inside a different yard with a taller fence.",
+        "translation": "【JB】「Nhưng tôi có thể nói rằng Thiếu tướng đã nhắc đến cái tên Kazami Yuuji, và liệu có lẽ tốt hơn là nên chuyển cậu ta vào một khu vườn khác có hàng rào cao hơn ấy。」"
+    },
+    {
+        "sentence": "[JB]::He said it with a laugh, so perhaps it was an attempt at a joke. But who knows what`s he actually thinking...",
+        "translation": "【JB】「Ông ta nói thế với giọng cười, có lẽ đó là một cách đùa cợt. Nhưng biết đâu được ông ta thực sự đang nghĩ gì...」"
+    },
+    {
+        "sentence": "[JB]::...Look, Yuuji. This seems to have become a matter of national interest. It`s not a situation you can control on your own.",
+        "translation": "【JB】「...Nghe này, Yuuji. Vấn đề này dường như đã trở thành mối quan tâm của cả quốc gia rồi. Đây không phải là tình huống cậu có thể tự mình kiểm soát được đâu.」"
+    },
+    {
+        "sentence": "[JB]::Leave your school and voluntarily cut off all contact with Sakaki Yumiko. If you don`t, I`ll probably be back with an order before too long.",
+        "translation": "【JB】「Cậu hãy bỏ học và tự nguyện cắt đứt mọi liên lạc với Sakaki Yumiko. Nếu không, tôi e là mình sẽ sớm quay lại với một mệnh lệnh nữa đây.」"
+    },
+    {
+        "sentence": "[JB]::...What`s that?",
+        "translation": "【JB】「...Cái gì vậy?」\n"
+    },
+    {
+        "sentence": "[JB]::Yes, that`s right. What about...",
+        "translation": "【JB】「...Đúng vậy. Còn về...」"
+    },
+    {
+        "sentence": "[JB]::...I assume you`re asking that question knowing that I can`t possibly answer it.",
+        "translation": "【JB】「...Tôi đoán là cậu đã biết trước tôi không thể nào trả lời câu hỏi đó rồi mới hỏi đúng không?」"
+    },
+    {
+        "sentence": "[JB]::Honestly...",
+        "translation": "【JB】「Thật lòng mà nói...」\n"
+    },
+    {
+        "sentence": "[JB]::...Are you really all right with this?",
+        "translation": "【JB】「...Cậu thực sự ổn với chuyện này chứ?」"
+    },
+    {
+        "sentence": "[JB]::Hey, Yuuji...",
+        "translation": "【JB】「Này, Yuuji...」"
+    },
+    {
+        "sentence": "[JB]::Are you in love with Yumiko, by any chance?",
+        "translation": "【JB】「Không lẽ cậu đang yêu Yumiko?」"
+    },
+    {
+        "sentence": "[JB]::Can you honestly and completely deny it?",
+        "translation": "【JB】「Cậu có thể thẳng thắn và hoàn toàn phủ nhận điều đó không?」"
+    },
+    {
+        "sentence": "[JB]::...Sympathy, is it...",
+        "translation": "【JB】「...Đồng cảm, là vậy sao...」"
+    },
+    {
+        "sentence": "[JB]::The surveillance is only going to intensify. Ichigaya will be scrutinizing you as well. Depending on the circumstances, you might end up picking a fight with the nation itself.",
+        "translation": "【JB】「Sự giám sát sẽ chỉ càng ngày càng gay gắt hơn thôi. Ichigaya cũng sẽ săm soi cậu đấy. Tùy tình huống, cậu có thể sẽ gây chiến với cả quốc gia đấy.」"
+    },
+    {
+        "sentence": "[JB]::...Think carefully, Yuuji. About yourself as well as her...",
+        "translation": "【JB】「Suy nghĩ cho kỹ vào, Yuuji. Về bản thân cậu cũng như về em ấy...」"
+    },
+    {
+        "sentence": "[JB]::...I sincerely apologize. We`re currently bringing all of our available resources to bear.",
+        "translation": "【JB】「...Tôi thành thật xin lỗi. Chúng tôi hiện đang dồn toàn bộ nguồn lực có thể để giải quyết vấn đề.」"
+    },
+    {
+        "sentence": "[JB]::...I do have one question, if that would be all right.",
+        "translation": "【JB】「...Tôi có một câu hỏi, nếu ngài không phiền.」"
+    },
+    {
+        "sentence": "[JB]::Why aren`t you notifying the police? This is a kidnapping. I`m sure a citizen of your stature has a few connections high in the ranks who would ensure the case is treated as a priority.",
+        "translation": "【JB】「Tại sao ngài không báo cảnh sát? Đây là vụ bắt cóc. Tôi chắc chắn một công dân có địa vị như ngài sẽ có vài mối quan hệ cao cấp, những người sẽ đảm bảo vụ án được ưu tiên xử lý.」"
+    },
+    {
+        "sentence": "[JB]::If you want the matter settled swiftly and surely, compared to relying on private investigators and our organization, that seems a much more...",
+        "translation": "【JB】「Nếu ngài muốn chuyện này được giải quyết nhanh chóng và chắc chắn, so với việc phải nhờ đến thám tử tư và tổ chức của chúng tôi, thì phương án đó có vẻ...」"
+    },
+    {
+        "sentence": "[JB]::...No, I genuinely don`t understand.",
+        "translation": "【JB】「...Tôi thực sự không hiểu.」"
+    },
+    {
+        "sentence": "[JB]::But, sir...",
+        "translation": "【JB】「Nhưng, thưa ngài...」"
+    },
+    {
+        "sentence": "[JB]::...Very well. We will do our utmost.",
+        "translation": "【JB】「...Được rồi. Chúng tôi sẽ cố gắng hết sức.」"
+    },
+    {
+        "sentence": "[JB]::g・...Well? Anything new on your end?h・",
+        "translation": "【JB】「...Sao nào? Bên cậu có gì mới không?」\n"
+    },
+    {
+        "sentence": "[JB]::g・You really sound like an old man sometimes. Hasn`t anyone at your job said anything? \"Talk like someone your age,\" maybe?h・",
+        "translation": "【JB】「Cậu đúng là đôi khi nghe như ông cụ non ấy. Không ai ở chỗ cậu nói gì à? Kiểu như \"Nói chuyện cho ra dáng tuổi cậu coi,\" chẳng hạn?」\n"
+    },
+    {
+        "sentence": "[JB]::g・...No paranormal skills were needed for that one. In any case, it seems you`re cheerful enough to make stupid jokes. Not bad by fugitive standards.h・",
+        "translation": "【JB】「...Không cần đến siêu năng lực gì ở đây cả. Dù sao thì, xem ra cậu cũng đủ vui vẻ để nói mấy câu đùa ngớ ngẩn đấy. Không tệ so với tiêu chuẩn của kẻ trốn chạy.」\n"
+    },
+    {
+        "sentence": "[JB]::g・...It`s the usual: an attempt to talk you out of this. There`s no point in dragging this out forever. You`d be wise to turn yourself in before things get rough.h・",
+        "translation": "【JB】「...Vẫn là chuyện cũ thôi: cố gắng khuyên cậu từ bỏ chuyện này. Kéo dài mãi cũng chẳng ích gì. Cậu nên tự ra đầu thú trước khi mọi chuyện trở nên tồi tệ hơn.」\n"
+    },
+    {
+        "sentence": "[JB]::g・Oh, but it`s never too late for a change, is it? I`ll even take care of cancelling your other contract.h・",
+        "translation": "【JB】「Ồ, nhưng không bao giờ là quá muộn để thay đổi, phải không? Tôi thậm chí sẽ lo việc hủy hợp đồng kia của cậu luôn.」\n"
+    },
+    {
+        "sentence": "[JB]::g・...That reminds me, what about that cactus you left behind in your room? I`m thinking it might be getting a little worm-eaten right about now.h・",
+        "translation": "【JB】「...Nhắc mới nhớ, cái cây xương rồng cậu bỏ lại trong phòng thế nào rồi? Chắc giờ mọt ăn gần hết rồi ấy nhỉ.」\n"
+    },
+    {
+        "sentence": "[JB]::g・Hmm? What`s wrong?h・",
+        "translation": "【JB】「g・Hmm? Sao thế?h・」\n"
+    },
+    {
+        "sentence": "[JB]::g・All right, if you say so. Give me a ring anytime if you happen to have a change of heart on the previous matter. Bye now.h・",
+        "translation": "【JB】「g・Được thôi, nếu cậu nói vậy. Có đổi ý về chuyện trước thì cứ gọi cho tôi bất cứ lúc nào nhé. Tạm biệt.h・」\n"
+    },
+    {
+        "sentence": "[JB]::...No. I`m very sorry to say we haven`t found any real clues...",
+        "translation": "【JB】「...Không. Rất tiếc phải nói rằng chúng tôi vẫn chưa tìm thấy manh mối thực sự nào cả...」\n"
+    },
+    {
+        "sentence": "[JB]::President Sakaki, we`ve already carried out\\・",
+        "translation": "【JB】「Thưa ngài Sakaki, chúng tôi đã tiến hành...」\n"
+    },
+    {
+        "sentence": "[JB]::...We`ve confirmed that Kazami Yuuji and Yumiko-san have destroyed their personal cell phones.",
+        "translation": "【JB】「...Chúng tôi đã xác nhận Yuuji và Yumiko-san đã phá hủy điện thoại cá nhân của bọn họ.」\n"
+    },
+    {
+        "sentence": "[JB]::Hypothetically, if they were to make contact with you, it would likely be through a public telephone. Should you receive any suspicious calls...",
+        "translation": "【JB】「Giả sử bọn họ liên lạc với ngài, rất có thể là qua điện thoại công cộng. Nếu ngài nhận được bất kỳ cuộc gọi đáng ngờ nào...」\n"
+    },
+    {
+        "sentence": "[JB]::...Please be on the lookout for any attempt at contact. Well then, I suppose I`ll be on my way.",
+        "translation": "【JB】「...Xin hãy để mắt đến bất kỳ nỗ lực liên lạc nào. Vậy thì, tôi cho là tôi nên đi đây.」\n"
+    },
+    {
+        "sentence": "[JB]::No, nothing at all...",
+        "translation": "【JB】「Không, hoàn toàn không có gì...」\n"
+    },
+    {
+        "sentence": "[JB]::I`m sorry, but what exactly are you referring to?",
+        "translation": "【JB】「Xin lỗi, nhưng ngài đang ám chỉ điều gì vậy?」\n"
+    },
+    {
+        "sentence": "[JB]::Please excuse me.",
+        "translation": "【JB】「Xin thứ lỗi cho tôi.」\n"
+    },
+    {
+        "sentence": "[JB]::g・I see. That`s unfortunate...h・",
+        "translation": "【JB】「Tôi hiểu rồi. Thật đáng tiếc...」\n"
+    },
+    {
+        "sentence": "[JB]::g・So how`re you doing out there? Eating proper meals? You are taking care of yourself, right?h・",
+        "translation": "【JB】「Ừm, cậu dạo này thế nào? Ăn uống đầy đủ chứ? Có tự chăm sóc bản thân không đấy?」\n"
+    },
+    {
+        "sentence": "[JB]::g・Oh? And what would that be...?h・",
+        "translation": "【JB】「Ồ? Đó là chuyện gì vậy...?」\n"
+    },
+    {
+        "sentence": "[JB]::g・......h・",
+        "translation": "【JB】「Ư... ưm...」\n"
+    },
+    {
+        "sentence": "[JB]::g・...I see. Well, that`s nice. I think it`s only natural.h・",
+        "translation": "【JB】「Ừ... tôi hiểu rồi. Vậy thì tốt. Tôi nghĩ đó là chuyện đương nhiên thôi mà.」\n"
+    },
+    {
+        "sentence": "[JB]::g・Yuuji, one more thing before you hang up, if that`s all right.h・",
+        "translation": "【JB】「Yuuji này, trước khi cậu cúp máy, tôi có thể xin thêm một chuyện nữa được không?」\n"
+    },
+    {
+        "sentence": "[JB]::g・Coexistence is a lovely thing... Just be careful about those spines. The cactus may not intend any harm, but don`t forget it`s a thorny, twisted little thing by nature.h・",
+        "translation": "【JB】「Cùng tồn tại là một điều tuyệt vời... Chỉ là cậu nên cẩn thận với mấy cái gai thôi. Xương rồng có thể không cố ý làm hại cậu, nhưng đừng quên bản chất nó là một thứ nhỏ bé đầy gai góc và vặn vẹo đấy.」\n"
+    },
+    {
+        "sentence": "[JB]::g・A little bluntness is called for under the circumstances. I doubt you`ve forgotten, but you`re a fugitive. Try to keep that in mind... Goodbye.h・",
+        "translation": "【JB】「Trong hoàn cảnh này, tôi nghĩ thẳng thắn một chút cũng không sao. Chắc cậu vẫn chưa quên đâu nhỉ, cậu đang trốn đấy. Nhớ kỹ điều đó... Tạm biệt.」\n"
+    },
+    {
+        "sentence": "[JB]::...Yes. Not that I particularly want to be, but I was told there`s something of an emergency.",
+        "translation": "【JB】「Ừ. Không hẳn là tôi muốn đâu, nhưng nghe bảo có chuyện khẩn cấp.」\n"
+    },
+    {
+        "sentence": "[JB]::Yes, I`ve been informed of the situation.",
+        "translation": "【JB】「Ừ, tôi được thông báo về tình hình rồi.」\n"
+    },
+    {
+        "sentence": "[JB]::I must apologize yet again for the actions of my former subordinate. I`ll proceed to the site immediately and attempt to negotiate a...",
+        "translation": "【JB】「Tôi lại phải xin lỗi ngài lần nữa vì hành động của cấp dưới cũ của tôi. Tôi sẽ đến địa điểm đó ngay lập tức và cố gắng thương lượng...」\n"
+    },
+    {
+        "sentence": "[JB]::...As I`ve repeatedly stated, I`m not involved in the kidnapping of your daughter in any way. Was the proof we`ve submitted to that effect insufficient somehow?",
+        "translation": "【JB】「...Như tôi đã nói đi nói lại rồi, tôi không hề liên quan đến vụ bắt cóc con gái ngài. Lẽ nào những bằng chứng chúng tôi cung cấp vẫn chưa đủ sao?」\n"
+    },
+    {
+        "sentence": "[JB]::...! President Sakaki, what is the meaning of this? You have no right to restrain me! This is an unjustified act of aggression against our...",
+        "translation": "【JB】「...! Thưa ngài Sakaki, ý ngài là sao? Ngài không có quyền giam giữ tôi! Đây là hành động xâm phạm vô lý đối với...」\n"
+    },
+    {
+        "sentence": "[JB]::...Unfortunately, sir, I don`t have the slightest idea what you`re talking about.",
+        "translation": "【JB】「...Thật không may, thưa ngài, tôi hoàn toàn không hiểu ngài đang nói gì.」\n"
+    },
+    {
+        "sentence": "[JB]::g・...Yes, that`s for sure.h・",
+        "translation": "【JB】「Ừ... chắc chắn rồi.」\n"
+    },
+    {
+        "sentence": "[JB]::g・This is about the \"last favor\" you asked of me threeyears ago. I`ve learned something.h・",
+        "translation": "【JB】「Chuyện về \"ân huệ cuối cùng\" cậu nhờ tôi ba năm trước ấy mà. Tôi đã biết được một vài điều.」\n"
+    },
+    {
+        "sentence": "[JB]::g・...Just to be clear, you might not be in for too much ofa happy ending here.h・",
+        "translation": "【JB】「...Để cậu rõ... có lẽ cậu sẽ không có một kết thúc có hậu đâu.」\n"
+    },
+    {
+        "sentence": "[JB]::g・Okay then...h・",
+        "translation": "【JB】「Được rồi...」\n"
+    },
+    {
+        "sentence": "[JB]::...Come in.",
+        "translation": "【JB】「Vào đi.」\n"
+    },
+    {
+        "sentence": "[JB]::Your report on the matter in question?",
+        "translation": "【JB】「Báo cáo của cô về vấn đề kia đâu?」\n"
+    },
+    {
+        "sentence": "[JB]::...Very well. Let`s hear it.",
+        "translation": "【JB】「Được thôi. Nói thử xem nào.」\n"
+    },
+    {
+        "sentence": "[JB]::What about Sakaki Michiaki`s movements?",
+        "translation": "【JB】「Còn động thái của Sakaki Michiaki thì sao?」\n"
+    },
+    {
+        "sentence": "[JB]::The man really should`ve contented himself to expand hispower in a way that didn`t threaten the nationalinterest. Once the wrong people found out about what hewas trying to pull, his fate was all but sealed.",
+        "translation": "【JB】「Lẽ ra người đàn ông đó nên tự hài lòng với việc mở rộng quyền lực của mình theo cách không đe dọa đến lợi ích quốc gia. Một khi những người không nên biết về những gì ông ta đang cố gắng thực hiện đã phát hiện ra, thì số phận của ông ta gần như đã được định đoạt.」\n"
+    },
+    {
+        "sentence": "[JB]::Ah, Major General Kadoma was certainly a bit of a foolhimself.",
+        "translation": "【JB】「À, Thiếu tướng Kadoma quả thật là một kẻ ngốc.」\n"
+    },
+    {
+        "sentence": "[JB]::He could very well have ended up a member of the Diet ifhe`d just kept his head down... But instead, thatridiculous mid-life crisis led him straight to anuntimely \"natural death.\"",
+        "translation": "【JB】「Hoàn toàn có thể là ông ta đã trở thành một thành viên của Quốc hội nếu biết giữ cái đầu lạnh... Nhưng thay vào đó, cuộc khủng hoảng tuổi trung niên lố bịch đó đã dẫn ông ta đến một cái \"chết tự nhiên\" non yểu.」\n"
+    },
+    {
+        "sentence": "[JB]::That harmless old man sounds like a nice safe choice.",
+        "translation": "【JB】「Người đàn ông lớn tuổi vô hại đó nghe có vẻ là một lựa chọn an toàn đấy.」\n"
+    },
+    {
+        "sentence": "[JB]::A pointless middle-management job like that is bestoccupied by a rubber stamp in human form. And when itcomes to this workplace in particular, an utter lack ofambition is ideal.",
+        "translation": "【JB】「Một công việc quản lý tầm trung vô nghĩa như vậy tốt nhất nên để một con dấu cao su đội lốt người đảm nhiệm. Và đặc biệt là ở cái nơi làm việc này, hoàn toàn không có tham vọng mới là lý tưởng.」\n"
+    },
+    {
+        "sentence": "[JB]::That`s right. Everything and everyone was in the palm oftheir hand from start to finish. Including those childrenwho actually confronted Sakaki Michiaki... and us.",
+        "translation": "【JB】「Đúng vậy. Mọi thứ và mọi người đều nằm trong lòng bàn tay của bọn họ từ đầu đến cuối. Kể cả những đứa trẻ đã đối đầu với Sakaki Michiaki... và cả chúng ta nữa.」\n"
+    },
+    {
+        "sentence": "[JB]::...Well, what can you do? He has a wife and child thesedays. Can`t expect him to go putting himself on the lineanymore. It was the right time...",
+        "translation": "【JB】「...Thì biết sao giờ? Cậu ta giờ có vợ có con rồi. Không thể mong cậu ta mạo hiểm thân mình nữa. Thời điểm đó là thích hợp rồi...」\n"
+    },
+    {
+        "sentence": "[JB]::...Is there some reason you`re staring at my face?",
+        "translation": "【JB】「...Cô nhìn mặt tôi chằm chằm như vậy... có lý do gì sao?」\n"
+    },
+    {
+        "sentence": "[JB]::...Kindly spare me the psychoanalysis, Chiara. Go make apot of coffee.",
+        "translation": "【JB】「Đừng phân tích tâm lý tôi nữa, Chiara. Đi pha một ấm cà phê đi.」\n"
+    }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "sentence": "[学生Ａ「]::……支倉先生、どうしたんだろ？」",
+    "translation": "【Student A】「…Cô Hazakura, sao vậy nhỉ?"
+  },
+  {
+    "sentence": "[学生Ａ「]::……ほら、やっぱり」",
+    "translation": "【Student A】「……Thấy chưa, tôi đã bảo mà.」\n"
+  },
+  {
+    "sentence": "[学生Ａ「]::……きっと、何かしたんだぜ……」",
+    "translation": "【[学生Ａ「]::】「...Chắc chắn là đã làm gì đó rồi...」"
+  },
+  {
+    "sentence": "[学生Ａ「]::……支倉先生、あんな所で何やってたんだろうなー？　外に行こうとしてたかと思ったら、すぐに引き返して物陰に隠れちゃって」",
+    "translation": "【[学生Ａ「]::】「...Cô Hasekura lúc nãy đang làm gì ở chỗ đó vậy nhỉ? Tưởng Cô ấy định ra ngoài chứ, ai dè lại quay vào rồi trốn vào chỗ khuất.」"
+  },
+  {
+    "sentence": "[学生Ａ「]::せ、先生！　どうしたんですかッ！？」",
+    "translation": "【[学生Ａ「]::】\"C-Cô giáo! Cô làm sao vậy ạ!?\""
+  },
+  {
+    "sentence": "[学生Ａ「]::で、でも……先生が……！？」",
+    "translation": "【[学生Ａ「]::】\"N-nhưng mà… Cô giáo…!?\""
+  },
+  {
+    "sentence": "[学生Ａ「]::おい、押すなよっ！」",
+    "translation": "【[学生Ａ「]::】「Này, đừng có xô đẩy!」"
+  },
+  {
+    "sentence": "[学生Ａ「]::はぁー……いつ見ても綺麗だなぁ、りっちゃん」",
+    "translation": "【[学生Ａ「]::】「Haizz... dù nhìn lúc nào cũng đẹp thật đấy, Ritsuko ạ.」"
+  },
+  {
+    "sentence": "[学生Ａ「]::なあ、りっちゃん、今日ヘンじゃないか？」",
+    "translation": "【[学生Ａ「]::】「Này, Ritsuko, hôm nay cô lạ lắm đấy à?」"
+  },
+  {
+    "sentence": "[学生Ａ「]::……やっぱりりっちゃん、ヘンだよな」",
+    "translation": "【[学生Ａ「]::】「...Thật sự thì Ritsuko, Cô ấy hơi lạ nhỉ.」"
+  },
+  {
+    "sentence": "[学生Ａ「]::でさぁ、あのバカ、なに言ったと…………は？」",
+    "translation": "【[学生Ａ「]::】「Này, cái thằng ngốc đó đã nói cái gì vậy nhỉ...?」"
+  },
+  {
+    "sentence": "[学生Ａ「]::しかも、このオンナ、おおおお、オトコ連れっ！？」",
+    "translation": "【[学生Ａ「]::】「Hơn nữa, con nhỏ này còn có cả đám đàn ông đi cùng nữa!」"
+  },
+  {
+    "sentence": "[学生Ａ「]::気にするなって、そりゃ無理だろっ！」",
+    "translation": "【[学生Ａ「]::】「Đừng có bận tâm, nhưng mà nói thế thì làm sao mà không bận tâm cho được chứ!」"
+  },
+  {
+    "sentence": "[学生Ａ「]::お～い、いい話を聞いたぜ～ッ！」",
+    "translation": "【[学生Ａ「]::】「Nàyyy, tao nghe được chuyện hay ho lắm đấy~!」"
+  },
+  {
+    "sentence": "[学生Ａ「]::次の数学の授業、先生が出張で来てないんだって！」",
+    "translation": "【[学生Ａ「]::】「Tiết Toán tiếp theo, nghe nói thầy giáo đi công tác vắng mặt đấy nhé！」"
+  },
+  {
+    "sentence": "[学生Ａ「]::自習になるらしいぜッ！」",
+    "translation": "【[学生Ａ「]::】「Nghe nói tiết này sẽ tự học đấy!」"
+  },
+  {
+    "sentence": "[学生Ａ「]::フフフ、いらっしゃ～い、マリアンちゃん～」",
+    "translation": "【Student A】「Fufufu, chào mừng nhé, Marian-chan~」"
+  },
+  {
+    "sentence": "[学生Ａ「]::フフ、実はそうなんですよ」",
+    "translation": "【Student A】：「Phù, thực ra là vậy đó.」"
+  },
+  {
+    "sentence": "[学生Ａ「]::い、いいんだよね？　ホントにいいんだよね？」",
+    "translation": "【Student A】「Ừm, ổn chứ? Thật sự là ổn chứ?」"
+  },
+  {
+    "sentence": "[学生Ａ「]::はーい……」",
+    "translation": "Student A「Vâng ạ...」"
+  },
+  {
+    "sentence": "[学生Ａ「]::あれ、先生……７４ページでいいんですか？」",
+    "translation": "【Student A】「Ơ, cô... trang 74 phải không ạ?」"
+  },
+  {
+    "sentence": "[学生Ａ「]::ここ、前にやりましたよ。７８ページじゃないんですか？」",
+    "translation": "Student A「Chỗ này, chúng ta đã làm rồi mà. Không phải là trang 78 sao?」"
+  },
+  {
+    "sentence": "[学生Ａ「]::はい……Ｅｎｇｌｉｓｈ　ｉｓ　ｔｈｅ　ｆｏｒｅｉｇｎ……」",
+    "translation": "Student A「Vâng... English is the foreign...」"
+  },
+  {
+    "sentence": "[学生Ａ「]::……ｍａｎｙ　ｃｈａｎｃｅｓ　ｔｏ　ｔａｌｋ……」",
+    "translation": "【Student A】「……ｍａｎｙ　ｃｈａｎｃｅｓ　ｔｏ　ｔａｌｋ……」\n"
+  },
+  {
+    "sentence": "[学生Ａ「]::……ｔｈｉｎｋ　ｌｅａｒｎｉｎｇ　Ｊａｐａｎｅｓｅ　ｉｓ　ｍｏｒｅ……」",
+    "translation": "【Student A】「……ｔｈｉｎｋ　ｌｅａｒｎｉｎｇ　Ｊａｐａｎｅｓｅ　ｉｓ　ｍｏｒｅ……」"
+  },
+  {
+    "sentence": "[学生Ａ「]::……ｆｏｒ　ｕｓ……あのー、先生？」",
+    "translation": "【Student A】「...for us... ừm, cô ơi?」"
+  },
+  {
+    "sentence": "[学生Ａ「]::その、まだ読むんですか？」",
+    "translation": "【Student A】「Ờm, em vẫn phải đọc tiếp ạ?」\n"
+  },
+  {
+    "sentence": "[学生Ａ「]::はい」",
+    "translation": "【Student A】「Vâng.」"
+  },
+  {
+    "sentence": "[学生Ａ「]::ケータイ？」",
+    "translation": "【Student A】「Điện thoại à?」"
+  },
+  {
+    "sentence": "[学生Ａ「]::けどさ、これってケータイか？　それにしては……」",
+    "translation": "【Student A】「Nhưng mà, cái này là điện thoại à? Nếu là điện thoại thì...」"
+  },
+  {
+    "sentence": "[学生Ａ「]::ええ、マジっすか？」",
+    "translation": "【Student A】「Ể, thật ạ?」"
+  },
+  {
+    "sentence": "[学生Ａ「]::うんうん。なんか顔も赤かったし、息も苦しそうだったし……」",
+    "translation": "【Student A】「Ừ ừ. Hình như mặt cô ấy cũng đỏ bừng, hơi thở cũng có vẻ khó khăn nữa...」"
+  },
+  {
+    "sentence": "[学生Ａ「]::それはそうと、あの変な音は何だったんだろな？」",
+    "translation": "【Student A】「Nhân tiện thì, không biết cái âm thanh kỳ lạ đó là gì nhỉ?」"
+  },
+  {
+    "sentence": "[学生Ａ「]::あれ……支倉先生」",
+    "translation": "【Student A】「Ơ... cô Shikura.」"
+  },
+  {
+    "sentence": "[学生Ａ「]::……何だ？」",
+    "translation": "【Student A】「……Cái gì vậy?」"
+  },
+  {
+    "sentence": "[学生Ａ「]::あ、ああ……そんな風に見えたけど……」",
+    "translation": "【Student A】：「À, ừm... Tớ đã thấy mọi thứ diễn ra như vậy...」"
+  },
+  {
+    "sentence": "[学生Ａ「]::うっそー！　マジでぇっ！？」",
+    "translation": "【Student A】「Không thể tin được! Thật á!?」\n"
+  },
+  {
+    "sentence": "[学生Ａ「]::キャー、先生！　キャーーーッ！！」",
+    "translation": "【Student A】「Á~, Cô ơi! Áááááááá!!」"
+  },
+  {
+    "sentence": "[学生Ａ「]::先生！　こんな所で何やってるんですかぁ！」",
+    "translation": "【Student A】「Cô ơi! Cô đang làm gì ở chỗ này vậy ạ!」\n"
+  },
+  {
+    "sentence": "[学生Ａ「]::きゃーーーっ！　葛西先生のカレシ！？　どんな人、どんな人！？」",
+    "translation": "【Student A】「Kyaaa! Bạn trai của cô Kasai!? Là người thế nào, là người thế nào!?」\n"
+  },
+  {
+    "sentence": "[学生Ａ「]::とか何とか言っちゃって、葛西先生みたいなカッコイイ女の人にカレシがいないなんて信じらんないっ！！」",
+    "translation": "【Student A】「Trời ơi, em không thể tin được là một người phụ nữ tuyệt vời như cô Kasai lại không có bạn trai đâu!!」\n"
+  }
+]

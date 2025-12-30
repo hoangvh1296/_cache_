@@ -1,0 +1,2582 @@
+[
+    {
+        "sentence": "[たまき「]::その顔、どうやらあたしの事は知っているみたいねっ！」",
+        "translation": "Tamaki「Nhìn cái mặt đó, có vẻ cậu đã biết tớ rồi nhỉ!」"
+    },
+    {
+        "sentence": "[たまき「]::なーら話は早いわ！」",
+        "translation": "Tamaki「Vậy thì nói chuyện cho nhanh nhé!」"
+    },
+    {
+        "sentence": "[たまき「]::あなたの喫煙現場は、バッチリこいつに収めさせてもらったわっ！」",
+        "translation": "Tamaki「Tôi đã ghi lại gọn gàng cảnh cậu đang hút thuốc bằng cái này rồi nhé!」"
+    },
+    {
+        "sentence": "[たまき「]::はん、とぼけたって無駄よ無駄っ！　なにせこのカメラに、あなたが煙草を咥えて火を点けようとしてるところが……」",
+        "translation": "Tamaki「Hừ, giả vờ ngây thơ cũng vô ích thôi! Bằng chứng là cái máy ảnh này đã ghi lại cảnh cậu ngậm thuốc lá và định châm lửa rồi đấy…」"
+    },
+    {
+        "sentence": "[たまき「]::……え、えええっ……？　あれ、なな、何で？」",
+        "translation": "【Tamaki「】「... Eh? Ơ, ơ, tại sao vậy?」"
+    },
+    {
+        "sentence": "[たまき「]::あれ？　あれれれれぇ？　ちゃんと見てたのに、写ってないよ……？」",
+        "translation": "Tamaki「Hả? Ủa? Rốt cuộc là sao vậy trời? Rõ ràng là tớ đã nhìn kỹ mà sao lại không có hình...」"
+    },
+    {
+        "sentence": "[たまき「]::ちょ、待ってよっ！　ど、どうして、どうして、どうしてぇぇぇーーっ！？」",
+        "translation": "Tamaki「Khoan đã! T-tại sao, tại sao, tại sao cơ chứhhh!?”"
+    },
+    {
+        "sentence": "[たまき「]::そんな……こ、これ、この三沢君がこっち見てる一枚だけ？」",
+        "translation": "【[たまき「]::】「Sao... sao lại thế này, chỉ có một tấm này là có Misawa-kun nhìn về phía này thôi sao?"
+    },
+    {
+        "sentence": "[たまき「]::う、うぅぅぅっ……な、何で、何でなのぉぉっ……！？」",
+        "translation": "【[たまき「]::】「Ư... ư... Tại sao, tại sao lại là như thế chứhhh!?”"
+    },
+    {
+        "sentence": "[たまき「]::そ、そんなぁぁぁ……」",
+        "translation": "【[たまき「]::】「S-sao lại có thể chứhhhh……」"
+    },
+    {
+        "sentence": "[たまき「]::う……うぅぅぅ……」",
+        "translation": "【[たまき「]::】「Ư... ư...」"
+    },
+    {
+        "sentence": "[たまき「]::……え？」",
+        "translation": "【[たまき「]::】「... Hả?」"
+    },
+    {
+        "sentence": "[たまき「]::え……あ……あああっ……？」",
+        "translation": "【[たまき「]::】「Ơ... Hả... Áaaaaa...??」"
+    },
+    {
+        "sentence": "[たまき「]::うぅぅ……み、見たなっ？　いいい、今っ、あたしのパンツ、見たなあああぁーーっ！？」",
+        "translation": "【[たまき「]::】「Ư... ừ... Cậu, cậu nhìn thấy rồi hả? N-Ngay bây giờ, quần lót của tớ, cậu nhìn thấy rồi đúng khônggggggーーっ!?」"
+    },
+    {
+        "sentence": "[たまき「]::あ……あうっ……う、うぅぅっ……」",
+        "translation": "【[たまき「]::】「A... Ư... Ưu...」"
+    },
+    {
+        "sentence": "[たまき「]::ふ、ふんっ……！　きょ、今日のところは、見逃してあげるわっ！！」",
+        "translation": "【[たまき「]::】「Hừ, hừm...! Hôm nay, hôm nay tôi sẽ tha cho cậu đó!!」"
+    },
+    {
+        "sentence": "[たまき「]::お、覚えてなさいよっ！　あたしは狙った獲物は絶っ対にっ、逃さないんだからっ！！」",
+        "translation": "【[たまき「]::】「Cậu, cậu nhớ lấy đó! Tớ là ai thì đã ngắm trúng con mồi là nhất định sẽ không bao giờ để vuột mất đâu!!」"
+    },
+    {
+        "sentence": "[たまき「]::あっ……」",
+        "translation": "Takami「Hả...」"
+    },
+    {
+        "sentence": "[たまき「]::ちゃぁ……気付かれちゃった」",
+        "translation": "Takami「Chà... bị phát hiện rồi」"
+    },
+    {
+        "sentence": "[たまき「]::ふふんっ……なかなかやるわね！」",
+        "translation": "Takami「Hừm... Cậu cũng khá đấy chứ!」"
+    },
+    {
+        "sentence": "[たまき「]::このあたしの尾行に気付くなんて。気配は消していたつもりだったんだけど？」",
+        "translation": "Takami「Cậu nhận ra tôi đang theo dõi cậu ư. Tôi đã cố gắng xóa hết dấu vết rồi mà?」"
+    },
+    {
+        "sentence": "[たまき「]::どうやら、あなたは今までのターゲットとはひと味違うみたいねっ！」",
+        "translation": "Takami「Xem ra, cậu có vẻ khác hẳn với những mục tiêu trước đây của tôi nhỉ!」"
+    },
+    {
+        "sentence": "[たまき「]::まあ、それでこそ、追いかけ甲斐があるってものだけどっ！」",
+        "translation": "Takami「Chà, có như vậy thì việc theo đuổi mới thú vị chứ nhỉ!」"
+    },
+    {
+        "sentence": "[たまき「]::お……お前……？」",
+        "translation": "Takami「C-Cậu...?」"
+    },
+    {
+        "sentence": "[たまき「]::ジャーナリストとはいえ人間よっ？　心証に響くような言葉遣いは避けた方が無難だと思うけど！」",
+        "translation": "Takami「Dù là nhà báo thì cũng là con người thôi nhỉ? Tớ nghĩ cậu nên tránh dùng những lời lẽ ảnh hưởng đến ấn tượng ban đầu thì hơn đấy!」"
+    },
+    {
+        "sentence": "[たまき「]::記者が取材対象を追いかけるのは、至極当然の事じゃない」",
+        "translation": "Takami「Việc nhà báo bám theo đối tượng phỏng vấn là điều hết sức hiển nhiên thôi mà.」"
+    },
+    {
+        "sentence": "[たまき「]::喫煙現場は撮れれば撮れたに越した事はないけど……」",
+        "translation": "Takami「Nếu có thể chụp được cảnh cậu hút thuốc thì càng tốt, nhưng mà...」"
+    },
+    {
+        "sentence": "[たまき「]::あたしが狙っているのは、そんなものじゃないのっ」",
+        "translation": "Takami「Thứ tôi nhắm tới không phải là thứ như vậy đâu!」"
+    },
+    {
+        "sentence": "[たまき「]::そんなの、あたしに分かる訳ないでしょ」",
+        "translation": "Takami「Sao tôi có thể biết được những chuyện đó chứ!」"
+    },
+    {
+        "sentence": "[たまき「]::分からないけど、とにかくっ！　あなたからは事件の匂いがするのよ！」",
+        "translation": "Takami「Tôi không biết, nhưng dù sao thì! Tôi ngửi thấy mùi vụ án từ cậu đấy!」"
+    },
+    {
+        "sentence": "[たまき「]::そうよ、そうっ！　あなたから濃厚に漂って来るのがビンビン感じ取れるの！」",
+        "translation": "Takami「Đúng vậy, đúng vậy! Tôi cảm nhận được nó đang tỏa ra nồng nàn từ cậu đấy!」"
+    },
+    {
+        "sentence": "[たまき「]::つまり！　あなたを追いかけ続けていれば、必ず大きなヤマに当たるって、あたしの報道者としての勘が声高に告げているのよっ！」",
+        "translation": "Takami「Nói cách khác! Trực giác của một nhà báo như tôi mách bảo rằng nếu tôi tiếp tục bám theo cậu, chắc chắn sẽ tìm ra manh mối lớn đấy!」"
+    },
+    {
+        "sentence": "[たまき「]::ふふふ、いまだかつて、この感覚に間違いが生じた事はないのよねっ」",
+        "translation": "Takami「Phù phù, trực giác này của tôi chưa từng sai sót bao giờ đâu nhé!」"
+    },
+    {
+        "sentence": "[たまき「]::だからあたしはその勘に従って、あなたを追うっ」",
+        "translation": "Takami「Vì vậy, tôi sẽ đi theo trực giác đó và bám theo cậu!」"
+    },
+    {
+        "sentence": "[たまき「]::一度標的としてロックオンされたからには、あたしからはもう逃げられないわよっ！」",
+        "translation": "Takami「Một khi đã nhắm trúng mục tiêu thì cậu không thể trốn khỏi tôi được đâu nhé!」"
+    },
+    {
+        "sentence": "[たまき「]::あなたの悪行ももはやこれまでっ！　覚悟なさいっ！！」",
+        "translation": "Takami「Những hành động tội lỗi của cậu đến đây là kết thúc rồi! Hãy chuẩn bị tinh thần đi!!」"
+    },
+    {
+        "sentence": "[たまき「]::……んっ？　……むむむ？」",
+        "translation": "Takami「……Hả? ……Ưm ưm ưm?」"
+    },
+    {
+        "sentence": "[たまき「]::尾行に気付かれちゃったし、今はこれ以上あなたを追いかけても無駄みたい」",
+        "translation": "Takami「Bị cậu phát hiện ra rồi, xem ra giờ mà tôi bám theo cậu nữa cũng vô ích thôi.」"
+    },
+    {
+        "sentence": "[たまき「]::あっちから別の事件の匂いがしてきたし、今回はこれで失礼させてもらうわ！」",
+        "translation": "Takami「Hình như có mùi vụ án khác từ đằng kia, lần này tôi xin phép đi trước đây!」"
+    },
+    {
+        "sentence": "[たまき「]::へっへーん。真実を追求する為なら、例え火の中でも水の中でも恐れず踏み込むのが、報道を司る記者というものよっ！」",
+        "translation": "Tamaki「Hế hế. Nếu đã là phóng viên theo đuổi sự thật thì dù có vào lửa hay xuống nước, chúng tôi cũng không hề e sợ lao vào, đó mới chính là nghề nhà báo, cậu biết không!」"
+    },
+    {
+        "sentence": "[たまき「]::ここなら逃げ場はないし、今度こそ特ダネをゲットしてみせるわ！」",
+        "translation": "Tamaki「Ở đây không có đường thoát đâu, lần này tôi nhất định sẽ lấy được tin nóng!」"
+    },
+    {
+        "sentence": "[たまき「]::スクープをゲットするためって言ってるじゃないの」",
+        "translation": "Takami「Tôi đã nói là để moi tin tức mà?」"
+    },
+    {
+        "sentence": "[たまき「]::う、うぅっ……そそ、それはっ……！」",
+        "translation": "Takami「Ư, ưm... Ch-chuyện đó là...!」"
+    },
+    {
+        "sentence": "[たまき「]::だけど、ほら、掃除のおばちゃんだって平気で入るでしょっ？　記者が男子トイレに入ってはいけないなんて法律は……」",
+        "translation": "Takami「Nhưng mà, cậu thấy đấy, mấy bà lao công cũng đâu có ngại vào đâu chứ? Đâu có luật nào cấm phóng viên vào nhà vệ sinh nam đâu mà...」"
+    },
+    {
+        "sentence": "[たまき「]::な、な、なっ……！　人を変態みたいに言わないでよぉ！」",
+        "translation": "Takami「N-n-này! Đừng có nói tôi giống kẻ biến thái chứ!」"
+    },
+    {
+        "sentence": "[たまき「]::ト、トイレというプライベートゾーンで一人になった時にこそ、あなたの本当の姿が見られるはず！」",
+        "translation": "Takami「Lúc cậu ở một mình trong không gian riêng tư như nhà vệ sinh mới chính là lúc tôi có thể thấy được bộ dạng thật sự của cậu!」"
+    },
+    {
+        "sentence": "[たまき「]::そう考えて、ここまで追いかけてきたのよっ！」",
+        "translation": "Takami「Tôi đã nghĩ như vậy nên mới đuổi theo đến tận đây đó!」"
+    },
+    {
+        "sentence": "[たまき「]::甘いわね。常識なんて真実を究明する報道記者にかかれば取るに足らない些細な障害でしかないのよっ！」",
+        "translation": "Takami「Non nớt quá nhỉ. Đối với một phóng viên điều tra tìm kiếm sự thật, cái gọi là lẽ thường tình ấy chẳng qua chỉ là một trở ngại nhỏ nhặt không đáng kể mà thôi!」"
+    },
+    {
+        "sentence": "[たまき「]::ああ、あたし達の事は気にしないで、どうぞ」",
+        "translation": "Takami「À, đừng bận tâm đến chuyện của tôi, cứ tự nhiên đi.」"
+    },
+    {
+        "sentence": "[たまき「]::見せ物じゃないわっ！　さっさと済ませて出ていってくれるっ？」",
+        "translation": "Takami「Tôi không phải là thứ để các người xem đâu! Mau làm xong việc của mình rồi cút đi cho tôi!」"
+    },
+    {
+        "sentence": "[たまき「]::……あ…………」",
+        "translation": "Takami「...A...」"
+    },
+    {
+        "sentence": "[たまき「]::勝手に部室に入り込んで、他人のファイルを盗み見るなんてサイテー！」",
+        "translation": "Tamaki「Việc tự tiện xông vào phòng câu lạc bộ, rồi còn lén xem trộm tài liệu của người khác nữa thì thật là tồi tệ!」"
+    },
+    {
+        "sentence": "[たまき「]::……っ……なんですってっ……！」",
+        "translation": "Tamaki「......Hả...... Cậu vừa nói gì cơ......！」"
+    },
+    {
+        "sentence": "[たまき「]::………………まぁ、いいわ」",
+        "translation": "Tamaki「......Thôi được rồi.」"
+    },
+    {
+        "sentence": "[たまき「]::せっかくあなたの方から来てくれたんだし、これって絶好の取材のチャンスよね」",
+        "translation": "Tamaki「Cậu đã đích thân đến đây rồi, đây đúng là cơ hội phỏng vấn tuyệt vời đó nhỉ.」"
+    },
+    {
+        "sentence": "[たまき「]::安心してよ、録音なんかしてないから」",
+        "translation": "Tamaki「Cậu cứ yên tâm đi, tôi không có ghi âm gì đâu.」"
+    },
+    {
+        "sentence": "[たまき「]::そのファイルの中を読んだんでしょ？　そこに書いてある通りよ」",
+        "translation": "Tamaki「Cậu đã đọc hết nội dung trong tập tài liệu đó rồi phải không? Nó đúng như những gì được viết ở đó đấy.」"
+    },
+    {
+        "sentence": "[たまき「]::いいわ、これまでの取材の成果、聞かせてあげるっ」",
+        "translation": "Tamaki「Được thôi, tôi sẽ kể cho cậu nghe kết quả những lần phỏng vấn trước đó của tôi.」"
+    },
+    {
+        "sentence": "[たまき「]::ある日、とある先生の様子が変化したのに気付いたあたしは、事件の匂いを嗅ぎ取って、彼女の事を調べ始めたの」",
+        "translation": "Tamaki「Một ngày nọ, tôi nhận thấy thái độ của một giáo viên có sự thay đổi, tôi đánh hơi thấy mùi của một vụ án và bắt đầu điều tra về cô ấy.」"
+    },
+    {
+        "sentence": "[たまき「]::調べている内に、あなたが関わっている事を知って、そっちも同時に調べ始めた」",
+        "translation": "Tamaki「Trong lúc tìm hiểu, tôi đã biết được việc cậu cũng có liên quan, nên tôi đã bắt đầu điều tra về chuyện đó đồng thời.」"
+    },
+    {
+        "sentence": "[たまき「]::更に調べを進めると、あなたと槙山先生が繋がって、先生達に何かをしている事が分かったのよ」",
+        "translation": "Tamaki「Khi tôi tiếp tục điều tra, tôi đã biết được rằng cậu và thầy Makiyama có liên quan với nhau, và cậu đang làm gì đó cho các giáo viên.」"
+    },
+    {
+        "sentence": "[たまき「]::まあ、今分かっているのはこれくらいね」",
+        "translation": "Tamaki「Ừm, hiện tại tôi chỉ biết được đến đây thôi.」"
+    },
+    {
+        "sentence": "[たまき「]::でも、すぐに真実を暴いてみせるわっ！」",
+        "translation": "Tamaki「Nhưng, tôi sẽ vạch trần sự thật ngay lập tức cho cậu xem!」"
+    },
+    {
+        "sentence": "[たまき「]::隠れた悪事を公表し、その罪を白日に晒すのは、真実を探求する報道記者として当然の役目だものねっ！」",
+        "translation": "Tamaki「Công khai những hành vi tội lỗi bị che giấu và phơi bày tội ác đó ra ánh sáng ban ngày, đó là vai trò hiển nhiên của một phóng viên điều tra đi tìm sự thật mà, đúng không!」"
+    },
+    {
+        "sentence": "[たまき「]::ええ、悪事よ。あたしの推測通りの事をあなたがやっているのなら、それは立派な犯罪だもの」",
+        "translation": "Tamaki「Đúng vậy, đó là hành vi tội lỗi. Nếu những gì cậu đang làm đúng như tôi suy đoán, thì đó là một tội ác đáng kể đấy.」"
+    },
+    {
+        "sentence": "[たまき「]::あなた一体、先生達に何をしているの？」",
+        "translation": "Tamaki「Nói cho tôi biết đi, cậu đang làm gì với các giáo viên vậy?」"
+    },
+    {
+        "sentence": "[たまき「]::あたしが思った通りの事を、あなた、本当にしてるの？」",
+        "translation": "Tamaki「Cậu đang làm chính xác những gì tôi đã nghĩ sao?」"
+    },
+    {
+        "sentence": "[たまき「]::なに？　聞こえない、もう一度言って……」",
+        "translation": "Tamaki「Gì cơ? Tôi không nghe rõ, nói lại lần nữa xem nào……」"
+    },
+    {
+        "sentence": "[たまき「]::ふふんっ、語るに落ちたわねっ！」",
+        "translation": "Tamaki「Hừm, cuối cùng cậu cũng lỡ lời rồi nhé!」"
+    },
+    {
+        "sentence": "[たまき「]::くらえっ！！」",
+        "translation": "Tamaki「Chịu đòn này!!」"
+    },
+    {
+        "sentence": "[たまき「]::えへへ～、目潰し成功っ！　じゃあねっ！」",
+        "translation": "Tamaki「Ehe~, kế hoạch làm mù mắt thành công rồi! Tạm biệt nhé!」"
+    },
+    {
+        "sentence": "[たまき「]::……あ、あれれ？　開かないっ？」",
+        "translation": "Tamaki「......Ơ, ơ kìa? Sao lại không mở được vậy?」"
+    },
+    {
+        "sentence": "[たまき「]::ししし、しまったーっ！？　逃げられないように鍵をかけてたのを忘れてたーっ！！」",
+        "translation": "Tamaki「Xí xí, chết tiệt rồi!? Tớ quên mất là tớ đã khóa cửa để không ai có thể chạy thoát ra ngoài được!」"
+    },
+    {
+        "sentence": "[たまき「]::えっ……！？　あ、ああっ！？」",
+        "translation": "Tamaki「Hả...!? A, áaahh!?」"
+    },
+    {
+        "sentence": "[たまき「]::こ、こらっ、何するのよっ！　放せっ、放せえぇぇぇーっ！！」",
+        "translation": "Tamaki「K-khoan đã, cậu làm cái quái gì vậy! Buông ra, buông tớ raaaa!!」"
+    },
+    {
+        "sentence": "[たまき「]::やっ、あっ……きゃああああああーーーーっ！！？」",
+        "translation": "Tamaki「Ơ, ơ... KYAaaaaaaaーーーーっ!!?」"
+    },
+    {
+        "sentence": "[たまき「]::やだっ、な、何するのよーーっ！？」",
+        "translation": "Tamaki「Ơ kìa, cậu định làm cái quái gì vậyyyy!?」"
+    },
+    {
+        "sentence": "[たまき「]::ああっ、こら、足掴むなぁっ！　あ、やだ、やめてっ！　足広げさせないでっ、あ、あああーっ！？」",
+        "translation": "Tamaki「Áaaah, này, đừng có nắm chân tớ! Ơ, không, dừng lại đi! Đừng có bắt tớ dạng chân ra, a, aaaahhhh!?」"
+    },
+    {
+        "sentence": "[たまき「]::やだ、やめてーっ！　なんてかっこさせるのよぉーっ！」",
+        "translation": "Tamaki「Không, cậu dừng lại đi mà! Sao cậu lại làm tớ trông... khốn nạn thế chứuuu!」"
+    },
+    {
+        "sentence": "[たまき「]::や、やだやだやだっ、見ないでよーっ！　この変態ぃぃっ！」",
+        "translation": "Tamaki「Không, không, không mà! Đừng có nhìn! Đồ biến thái!」"
+    },
+    {
+        "sentence": "[たまき「]::ちょ、ちょっと、ほんとにやめてーっ！　見ないで、覗かないでってばぁっ！　ああっ、手を放してーーっ！」",
+        "translation": "Tamaki「Này, thôi đi mà! Thật đó, đừng mà! Đừng có nhìn, đừng có ngó nghiêng nữa! Aaa, buông tay ra đi mà!」"
+    },
+    {
+        "sentence": "[たまき「]::あっ、制服掴んで、な、何しようって言うのぉっ！？」",
+        "translation": "Tamaki「Á, túm áo đồng phục Tôi làm gì thế hả!? Cậu... Cậu định làm gì hả!?」"
+    },
+    {
+        "sentence": "[たまき「]::あぁっ！　いやぁぁぁっ！　ま、捲るなぁ、この馬鹿っ、すけべぇっ、変態ーーーっ！」",
+        "translation": "Tamaki「Aaa! Ư ư ư! Đừng, đừng có kéo nữa mà, đồ ngốc, đồ dâm dê, đồ biến thái kiaaaaa!」"
+    },
+    {
+        "sentence": "[たまき「]::ああもうっ、放してっ！　放してよぉっ！　変態っ、犯罪者ぁっ！」",
+        "translation": "Tamaki「Aaa! Buông ra! Buông Tôi ra! Đồ biến thái, đồ tội phạm!」"
+    },
+    {
+        "sentence": "[たまき「]::な、ななな……！？」",
+        "translation": "Tamaki「K-K-K-Không thể nào……!?」"
+    },
+    {
+        "sentence": "[たまき「]::うぅっ、うるさい！　む、胸の事は、言わないでよっ！」",
+        "translation": "Tamaki「Ư, ồn quá đi! C-Cậu đừng có nói về chuyện ngực của Tôi nữa!」"
+    },
+    {
+        "sentence": "[たまき「]::……っ……そ、それは……その……」",
+        "translation": "Tamaki「...Cái... Cái đó... đó là...」"
+    },
+    {
+        "sentence": "[たまき「]::えっ……？　な、何……！？」",
+        "translation": "Tamaki「Hả...? C-Cái gì...?!?」"
+    },
+    {
+        "sentence": "[たまき「]::くあっ、あああーっ……！？」",
+        "translation": "Tamaki「Khụ... Aaaaaaah...!?」"
+    },
+    {
+        "sentence": "[たまき「]::いやぁっ！　み、見ないでっ……見ないでぇぇっ！」",
+        "translation": "Tamaki「Ư ư ư! Đ-Đừng nhìn Tôi... Đừng nhìn màaaaa!」"
+    },
+    {
+        "sentence": "[たまき「]::いや……いやぁぁ……もうやめてぇ……」",
+        "translation": "Takami「Không……không mà……dừng lại đi……」"
+    },
+    {
+        "sentence": "[たまき「]::あ、ああぁ……やぁ……か、返して……ブラジャー返してぇ……」",
+        "translation": "Tamaki「A, aaaa... Yaah... T-Trả lại... Trả lại áo lót cho Tôi đi mà...」"
+    },
+    {
+        "sentence": "[たまき「]::あぅ……う……うぅぅぅ…………」",
+        "translation": "Tamaki「Ư... ư... uuuu....」"
+    },
+    {
+        "sentence": "[たまき「]::くぅぅっ……！　あう……うぅっ……い、痛いよぉ……」",
+        "translation": "Tamaki「Ưuu... ! Aww... Ưuu... Đ-Đau quáaa....」"
+    },
+    {
+        "sentence": "[たまき「]::あっ、ああ……男の、へ、変態男の手が、あたしの胸に、触ってるぅ……」",
+        "translation": "Takami「Á... a... Bàn tay của gã đàn ông, của tên biến thái, đang chạm vào ngực Mình...」\n"
+    },
+    {
+        "sentence": "[たまき「]::やぁ……いやぁ……さ、触らないでっ……手を、放してよぉ……」",
+        "translation": "Tamaki「Yaah... Ư ư ư... Đ-Đừng chạm vào Tôi... Buông tay ra đi mà...」"
+    },
+    {
+        "sentence": "[たまき「]::ひぅんっ……！？　んぅっ……ん……！」",
+        "translation": "Tamaki「Ư ư ư...!? Ưm... ưm...!」"
+    },
+    {
+        "sentence": "[たまき「]::やあっ、あ、ああっ……そ、それ、そこダメぇっ……！」",
+        "translation": "Tamaki「Yaaa... Ah, ahhh... K-Không, chỗ đó không được đâuuu...!」"
+    },
+    {
+        "sentence": "[たまき「]::ひゃうっ……うぅ……んっ……」",
+        "translation": "Tamaki「Hiu...! Uuuu... Ưm...!」"
+    },
+    {
+        "sentence": "[たまき「]::やめて……んぅっ……さ、先っぽ弄るの……は、ダメぇっ……」",
+        "translation": "Takami「Dừng lại đi……Ưm... Đừng, đừng có mà nghịch cái đầu ti của Tôi……K-Không được mà……」"
+    },
+    {
+        "sentence": "[たまき「]::ひぅっ……っ……だめだって、言ってるのにぃ……くぅ……ん、んーっ……」",
+        "translation": "Tamaki「Ưưư... ư... Tôi đã nói là không được mà... Ưm... ưm ưm...!」"
+    },
+    {
+        "sentence": "[たまき「]::んあっ……はぁっ……ああっ……いや……いやぁ……」",
+        "translation": "Tamaki「Ư... ! Haa... Aaa... Không... Không mà...」"
+    },
+    {
+        "sentence": "[たまき「]::ひんっ……あぁ……ピリピリ、しちゃうぅ……ん、はあぁぁっ……」",
+        "translation": "Tamaki「Ư... Ưm... Ahh... Da Tôi nóng ran lên rồi ạ... Ưm, haaaahh...!」"
+    },
+    {
+        "sentence": "[たまき「]::くひぁっ……！　つ、摘まないでっ、ああっ……し、痺れるぅ……んう、ぅんんっ……！」",
+        "translation": "Tamaki「Kh-khụ... ! Đ-Đừng có véo Tôi nữa, aaaa... T-Tôi bị tê rồi ạ... Ưm, ựm ựm...!」"
+    },
+    {
+        "sentence": "[たまき「]::はぁ、はぁっ……えっ……あっ、な、何……っ？」",
+        "translation": "Tamaki「Haa... Haa... Ể...? A, c-cái gì...!?」"
+    },
+    {
+        "sentence": "[たまき「]::んきゃあぁぁっ！？」",
+        "translation": "Tamaki「Á á á á á á á á!!?」"
+    },
+    {
+        "sentence": "[たまき「]::ひゃっ！　や、やだやだぁっ、触らないでよーーっ！　やああーっ！」",
+        "translation": "Takami「Hự! Kh-không, không được mà, đừng có sờ vào tôiーーっ! Áaaaaーっ!」"
+    },
+    {
+        "sentence": "[たまき「]::んひっ、ひいぃっ……！　やめてってばぁ……くぁ……あんっ……」",
+        "translation": "Takami「Hự! Khụ, khụ khụ! ... Tôi đã bảo cậu dừng lại mà... Á... Ưm...」"
+    },
+    {
+        "sentence": "[たまき「]::あぁっ……ん……し、知らないわよぉ、そんな事ぉ……う、うぅーっ……」",
+        "translation": "Takami「Á... Ưm... T-tôi có biết cái gì đâu mà... Ư... ưm...」"
+    },
+    {
+        "sentence": "[たまき「]::や、やぁぁっ……い、いやらしい言い方、しないでよー」",
+        "translation": "Takami「Khoan, không được! Đ-đừng có nói năng kiểu ám muội như vậy!」"
+    },
+    {
+        "sentence": "[たまき「]::んひゃっ……あっ、あああっ！」",
+        "translation": "Takami「Ng-ngya! ... Á, áaaa!」"
+    },
+    {
+        "sentence": "[たまき「]::ひぅっ、うっ……ああぁっ、ひ、こ、腰がっ……変になるぅっ……！」",
+        "translation": "Takami「Hự, ư... Aaaa, h-hông, hông tôi... đang trở nên kỳ lạ mất rồi...!」"
+    },
+    {
+        "sentence": "[たまき「]::んんぅっ……！　や、やだぁ……もう弄くらないでっ、あ、ああんっ、その指やだよぉっ……！」",
+        "translation": "Takami「Ưmm...! K-không được... đừng có nghịch nữa, a, aaa, ngón tay đó không được đâu...!」"
+    },
+    {
+        "sentence": "[たまき「]::ああっ……んあっ、あーっ……！？　あ、頭の中、白くなっ……てく……！　やっ、あ、はううぅうううぅぅーーっ！！」",
+        "translation": "Takami「Aaa... Ưa... Aa...!? A, trong đầu tôi... trắng xóa mất rồi...! Ưa, a, hauuuuuuuuuuu!!」"
+    },
+    {
+        "sentence": "[たまき「]::はぁっ……はー……はーっ……！」",
+        "translation": "Takami「Haa... haa... haaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::な、なに……いまの……？　い、意識がどこかへ飛んでいっちゃった、みたいに、なって……」",
+        "translation": "Takami「G-gì... vừa rồi...? Hình như... t-tôi vừa mất ý thức một lúc, như thể tâm trí bay đi đâu mất ấy...」"
+    },
+    {
+        "sentence": "[たまき「]::い、イク……？　あたし……イっちゃった……の……？」",
+        "translation": "Takami「Ư, lên đỉnh...? Tôi... đã lên đỉnh rồi... sao...?」"
+    },
+    {
+        "sentence": "[たまき「]::はぁぁ……うぅ……い……いんらんー……？　めす……？」",
+        "translation": "Takami「Haaa... Ư... T-tôi... dâm đãng...? Con cái...?」"
+    },
+    {
+        "sentence": "[たまき「]::いやっ、いやいやいやぁぁっ！？」",
+        "translation": "Takami「Không, không không không đời nào!?」"
+    },
+    {
+        "sentence": "[たまき「]::い、いやよぉっ、そんなのーっ！　あなたと、変態犯罪者となんて、したくないぃぃぃっ！」",
+        "translation": "Takami「K-không, tôi không muốn! Tôi không muốn làm chuyện đó với cậu, cũng không muốn làm với tên biến thái tội phạm như cậu đâuuuuuu!」\n"
+    },
+    {
+        "sentence": "[たまき「]::あぎぃぃっ！　んぐっ、ひっ、や、やめてっ、入れないでぇっ、だめぇぇーーーーっ！！」",
+        "translation": "Takami「Aaaa! Ưg, hí, đ-đừng, đừng cho vào, không đời nàoaaaaaaaa!」"
+    },
+    {
+        "sentence": "[たまき「]::うあっ、あーっ！　やだぁっ、やだぁぁーっ！　あ、熱いのが、んぅっ、くっ、あたしの中に、は、入ってくるぅーっ……！！」",
+        "translation": "Takami「Ưa, aaa! Không đời nào, không đời nàoaaaa! A, thứ nóng hổi, ưn, khụ, đang, chui, vào trong người tôi rồi...!!」"
+    },
+    {
+        "sentence": "[たまき「]::ひぐぅっ！？　うぁっ、あぁぁっ……！　あぎゃぁああああぁぁぁぁーーっ！？」",
+        "translation": "Takami「Hííí!? Uaaa, aaaa...! Aaaaaaaa aaaaaaaa aaaaaaaa-!?」"
+    },
+    {
+        "sentence": "[たまき「]::いたいぃぃっ！　やめてっ、うぅぅっ……っ……や、やめてよぉっ！」",
+        "translation": "Takami「Đau quáaaaa! Dừng lại đi, uuuuu... Dừng, dừng lại đi mà!」"
+    },
+    {
+        "sentence": "[たまき「]::ぐひぃっ……！　うっ、く……そんな……のっ……知りたくな、いっ……！」",
+        "translation": "Takami「Gưh...! Ư, kh... không... tôi không muốn biết...!」"
+    },
+    {
+        "sentence": "[たまき「]::ぎはあっ、っ、あああっ！？　い、痛いよぉぉっ……！　入れないで、これ以上入れないでぇっ！　うぅ、あっぐぅぅっ……っ！」",
+        "translation": "Takami「Gyaaaa, a, aaaa!? Đ-đau quá đấấu...! Đừng cho vào nữa, đừng có cho vào nữa đấấu! Uuu, aguuuu...!」"
+    },
+    {
+        "sentence": "[たまき「]::いいい、痛いっ、痛いのぉっ！　はぁぁっ、っ、あああっ……！」",
+        "translation": "Takami「Không, đau quá, đau quá đi mấttt! Haaa, a, aaaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::お、大きすぎてっ、く、苦し……！　あぐぅっ！　うっ、も、もう、入らないよぉぉぉっ！」",
+        "translation": "Takami「Ớ, to quá, đau, khó chịu quá...! Aгуу! Ư, không, không vào được nữa đâuuuuu!」"
+    },
+    {
+        "sentence": "[たまき「]::あっぐぅぅぅーーーっ！　うっ、うぅーっ……！」",
+        "translation": "Takami「Aguuuuuuu! Ư, uuuuu...!」"
+    },
+    {
+        "sentence": "[たまき「]::んぎっ、ふ、ふかっ、深いぃっ……！　身体の、お、奥まで……太いのが、突き刺さって……るよぉぉっ……！」",
+        "translation": "Takami「Ưn, ph-phập, sâu quá...! Thứ to lớn này đang đâm xuyên... vào tận sâu bên trong... người tôi đấấấu...!」"
+    },
+    {
+        "sentence": "[たまき「]::ぎぃっ、く、苦しくてっ……ぅぁ、い、息できな……ぐうっ、うぅっ、ああっ……！」",
+        "translation": "Takami「Gư... khụ... khó thở quá... Ưa, thở, không thở được... Gu... uuu... aaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::ぎゃひぃぃぃっ！？　ぎゃあうっ、うあぁっ、いたいぃぃっ！　う、動か、ないでぇっ！」",
+        "translation": "Takami「Gyaaaah!? Gyaaa, uaaa, đau quá đấấấu! Đ-đừng có, đừng có cử động màaa!」"
+    },
+    {
+        "sentence": "[たまき「]::うぐぅっ、うぅっ……っ！　やぁっ、広げ、ない、でっ……さ、裂けちゃ、うよっ……！　抜いてっ、もう抜いてぇぇっ……！」",
+        "translation": "Takami「Ư... ư... ư...! Ư... đừng, đừng có banh ra... nó, nó rách mất... Rút ra đi, rút ra đi màaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::あぐぐぅっ！　ぐうっ……！　くはぁっ、うっ、んぐっ、うううぅぅぅっ……！」",
+        "translation": "Takami「Ư... á... Ư... ư... ! Khó thở quá... Ư... ư ư ư... !」"
+    },
+    {
+        "sentence": "[たまき「]::ぎひっ……っ……いぃぃっ……！　うぐっ、だ、だめぇ……い、痛いっ……痛いよぉっ……！」",
+        "translation": "Takami「Ư...Ư ư...! Đau quáaaa...! Ư... Không, không được mà... Đau... Đau quá đi mất...!」"
+    },
+    {
+        "sentence": "[たまき「]::かはっ……ああっ……！　うぅっ、ぅっ、ぐぅっ……！」",
+        "translation": "Takami「Khụ... Ahh...! Ưm, ư, grrr...!」"
+    },
+    {
+        "sentence": "[たまき「]::あ、ああああっ……！？」",
+        "translation": "Takami「Á, ÁAAAA...!?!」"
+    },
+    {
+        "sentence": "[たまき「]::うあ、うあああーん……！　う、うそ……後ろから犯されて、っ、なんてっ……こんなの嘘よぉっ……」",
+        "translation": "Takami「Ưaa, ưaaaaaan...! K-Không thể nào... Bị địt từ phía sau, t-thật sao... Chuyện này không thể nào là sự thật đượcぉぉっ...!」"
+    },
+    {
+        "sentence": "[たまき「]::えっぐっ、ぐっ……ひ、酷い……酷いぃぃ……酷すぎるよぉ……」",
+        "translation": "Takami「Ư...Ư... Quá tồi... Tồi tệ quá đi mất... Tệ quá đi thôi...」"
+    },
+    {
+        "sentence": "[たまき「]::グスッ……あぐっ、えっ、えっ……ックッ……！」",
+        "translation": "Takami「Hức... Ư... Ưm... Ưm... Khụ...！」"
+    },
+    {
+        "sentence": "[たまき「]::ひぐぅぅぅーーっ……！？」",
+        "translation": "Takami「Hự...! Ư...!?!」"
+    },
+    {
+        "sentence": "[たまき「]::うぐぁっ……あぁっ……うぅぅっ……！」",
+        "translation": "Takami「Ưggh... Ahh...! Ưuuu...!」"
+    },
+    {
+        "sentence": "[たまき「]::あうっ……いたっ……っぐ、い、痛いっ……痛いぃっ……！」",
+        "translation": "Takami「Ây da... Đau quá... Ư, ừ, Đau quá...! Đau quá đi mất...!」"
+    },
+    {
+        "sentence": "[たまき「]::ひぃぃ、うえっく……う、動かないでぇ……えくっ……せ、せめて、っ、ゆっくりぃぃっ……！」",
+        "translation": "Takami「Híc... Ực... Đ-Đừng có động đậy nữa mà... Khụ... Ít nhất thì... cứ từ từ lại đi...!」"
+    },
+    {
+        "sentence": "[たまき「]::うあっ……うぅぅ……や、やめてぇ……っ、もう許してぇ……」",
+        "translation": "Takami「Ư... Ư... Ư... Dừng... dừng lại đi mà... xin cậu... xin cậu tha cho tôi đi mà...」"
+    },
+    {
+        "sentence": "[たまき「]::か、硬くて……うええっ、太いのが……ヒック……中で、う、動くの、っ、痛いのよぉぉ……！」",
+        "translation": "Takami「C-Cứng quá... Ưee... Cái thứ to lớn này... Hức... Đ-Đang cử động bên trong, đ-đau quá đi mấtぉぉ...!」"
+    },
+    {
+        "sentence": "[たまき「]::ひっ、ひいぃいいぃっ！？　い、いだいぃっ、痛いよおおおっ！　やああぁーーっ！」",
+        "translation": "Takami「Híc, Híc! Đ-Đau quá! Đau quá đi mất! Aaaaaaaaah!」"
+    },
+    {
+        "sentence": "[たまき「]::うわぁぁんっ！　えっ、ええっくっ、い、痛いのぉっ！　お腹の中、痛いのぉぉっ！　えっぐっ、うぐっ、い、痛いぃぃーっ！」",
+        "translation": "Takami「Uwaaa! Hức! Hic, đau quá đi... Bên trong bụng tôi, đau quá... Hic, hức, đ-đau quá đi...!」"
+    },
+    {
+        "sentence": "[たまき「]::えぇぇーんっ！　ど、どうして、ひぐぅ、やめてくれないのよぉーーっ！　わああぁぁぁんっ！」",
+        "translation": "Takami「Eoeee... T-Tại sao, hức, sao cậu không chịu dừng lại vậy hảaa...! Oa-aaaaaann!」"
+    },
+    {
+        "sentence": "[たまき「]::ぐひぁぁっ！　えっく、えっく、ううぅっ、やめてっ、止まってええぇぇぇっ！」",
+        "translation": "Takami「Guhyaaa! Ưc, ực, uuu... Dừng lại đi... Dừng lại đi màaaa!」"
+    },
+    {
+        "sentence": "[たまき「]::うえっぐ、えぐっ……！　こ、これだけやったら、ひぐっ、も、もう、いいでしょぉーっ！」",
+        "translation": "Takami「Ư... ư... hức... hức...! C, chỉ cần nhiêu đây thôi... hức, t-tôi, xin cậu, được rồi chứ...!?」"
+    },
+    {
+        "sentence": "[たまき「]::ぐひぃっ、ひいーっ！　うぐぇ、や、やだ、もうやだぁぁっ！　許して、お願い許してぇぇーーっ！」",
+        "translation": "Takami「Hức... hức... Guhíí, hiiii! Ưghoe, kh-không, tôi không muốn nữa đâu... Ôn xin cậu, xin cậu tha cho tôi đi màaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::あぎゃっ、うあっ、あああーっ……！　う、嘘っ、そんなっ、ひぐぅっ、事っ、し、したらぁっ……！？」",
+        "translation": "Tamaki「Agyaa, Uaaa, Aaaah...! K-khô... không thể nào, làm... làm thế... hức... sẽ...」"
+    },
+    {
+        "sentence": "[たまき「]::やだぁ、そんなの……！　んぅっ、あぐっ、赤ちゃん、でき、ちゃうよ、やぁ、やだよぉっ……！」",
+        "translation": "Tamaki「Không, không được... Ugh, ahh, sẽ có... em bé mất, không, không muốn mà...!」"
+    },
+    {
+        "sentence": "[たまき「]::んぐっ、うっ、うぅぅっ！　い、いやっ！　いやいやいやぁぁぁっ！　放してぇっ、ひぐっ、妊娠なんていやよぉぉっ！」",
+        "translation": "Tamaki「Ưng... Ưu... Ưrrr... Không! Không không khôngggg! Buông tôi ra đi, hức... Tôi không muốn có thai đâuuuu!」"
+    },
+    {
+        "sentence": "[たまき「]::くひぃぃっ、っ、ひいいっ！　だ、だめぇぇっ！　赤ちゃんなんてっ、絶対だめぇーーっ！」",
+        "translation": "Tamaki「Hức, hức... Ahhh! K-không... Không được mà! Có em bé... tuyệt đối không được màaaa!」"
+    },
+    {
+        "sentence": "[たまき「]::あぐっ！　ひうっ！　やああぁっ、な、中で、大きくなってるぅっ！？」",
+        "translation": "Tamaki「Ngah! Hiiu! YAaaah, n-nó... nó đang lớn lên bên trong rồi nàyyyy!?」"
+    },
+    {
+        "sentence": "[たまき「]::んぐっ、うっ、そんなっ、あっ、あああっ！　やだぁっ、だめぇっ、妊娠っ、妊娠させないでぇぇーーっ！」",
+        "translation": "Tamaki「Ưng... ực... không... không thể nào... Á! Aaaah! Không, không muốn! Không được đâu! Mang thai... Đừng có làm tôi mang thai màaaa!」"
+    },
+    {
+        "sentence": "[たまき「]::やだああぁぁっ！　ゆ、許してぇっ、赤ちゃん、いやああぁっ！　だめぇぇっ、妊娠、許してえええぇぇぇーーーっ！」",
+        "translation": "Tamaki「Khônggggg! Cứu tôi với! Đừng, đừng mà! Em bé... Khônggggg! Không, không được! Tôi không muốn mang thai đâuuuuuuuuuu!」"
+    },
+    {
+        "sentence": "[たまき「]::やあああーっ！？　待ってっ、待ってぇぇーっ！　やめてぇっ、抜いてからにしてぇっ！　お願いよおぉぉぉーっ！」",
+        "translation": "Tamaki「YAaaah!? Đợi đã, đợi tôi với! Dừng lại đi, làm xong rồi hãy tính! Làm ơn đi màaaaaaa!」"
+    },
+    {
+        "sentence": "[たまき「]::あああっ！？　い、いやあああぁぁぁぁぁーーーっ！！？」",
+        "translation": "Tamaki「Áaaaa!? Kh-không, khôngggg!!」"
+    },
+    {
+        "sentence": "[たまき「]::ああああーーっ！？」",
+        "translation": "Tamaki「Aaaaaaaah!?」"
+    },
+    {
+        "sentence": "[たまき「]::だめっ、だめえええーっ！　赤ちゃんできちゃうよおぉぉぉぉーっ！？」",
+        "translation": "Tamaki「Không! Không không khôngggg! Tôi sẽ có em bé mấtttttt!? 」"
+    },
+    {
+        "sentence": "[たまき「]::やああーっ！　先っぽ、から、な、何か、出てるぅぅっ！　熱いのっ、奥に、ぶつかって、きてるよーーっ！」",
+        "translation": "Tamaki「YAaaah! Đ-đầu cậu... có gì đó đang chảy ra nàyyyy! Nóng quá, nó đang chạm vào sâu bên trong rồi nàyyyy!」"
+    },
+    {
+        "sentence": "[たまき「]::きゃああうっ……！　ううっ、も、もう、止めてぇっ……！　出すの、止めてよぉっ……！」",
+        "translation": "Tamaki「Kyaaaaaah...! Ưm... làm ơn, làm ơn dừng lại đi...! Đừng xuất tinh nữa màaaaaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::あうっ、ぐっ、ううーっ……あ、熱いの……沁みる、よぉっ……ああっ、あああっ……」",
+        "translation": "Takami「Ư... Ưm... Ưaaaa... A, nóng quá... Thấm sâu vào rồi... Aaa, aaaaa...」"
+    },
+    {
+        "sentence": "[たまき「]::あ、あああうっ……！　や、やだぁ……もう抜いて、早く抜いてぇっ……！」",
+        "translation": "Tamaki「A, aaaa ư...! K-không... Rút ra đi, rút ra nhanh lên đi màaaaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::うっ、うーっ、早く、しないと、赤ちゃん、赤ちゃん、できちゃうよぉ……」",
+        "translation": "Takami「Ư... ưaaa... Nhanh lên, không nhanh lên thì... em bé... em bé sẽ được tạo ra mất thôiiii...」"
+    },
+    {
+        "sentence": "[たまき「]::ひいっ、っ、いたぁいっ……！　ああっ、いやっ、いやっ、いやあぁぁぁっ……！」",
+        "translation": "Takami「Ư... ưaaa... đau quá...! Aaa, không... không... không đượccc...!」"
+    },
+    {
+        "sentence": "[たまき「]::う、うああ……！　やだぁ……妊娠やだよぉぉ……うぅぅっ……うううう……」",
+        "translation": "Takami「Ư, uaaa...! Không muốn... Tôi không muốn có thai đâuuuu... Hự... hưưưư...」"
+    },
+    {
+        "sentence": "[たまき「]::あぅ……く……っ……ぅぅぅ……ぅ……」",
+        "translation": "Tamaki「Hức...ức...ưưư...ư...」"
+    },
+    {
+        "sentence": "[たまき「]::……うぅ……っ……あ……ぁぁ……」",
+        "translation": "Tamaki「...Ư...ư... A... Aaaaa...」"
+    },
+    {
+        "sentence": "[たまき「]::…………ぅ……ぅっ…………」",
+        "translation": "Takami「...Ư...Ư...」"
+    },
+    {
+        "sentence": "[たまき「]::…………ひっ……！」",
+        "translation": "Takami「......Hức...！」"
+    },
+    {
+        "sentence": "[たまき「]::うぁっ…………」",
+        "translation": "Tamaki「Ư... ưm...!」"
+    },
+    {
+        "sentence": "[たまき「]::あ、う……っ……ぅぅ……」",
+        "translation": "Takami「A, ư... ưm... ừuuu...」"
+    },
+    {
+        "sentence": "[たまき「]::く……ぅ……な……何の用……よ……」",
+        "translation": "Takami「ưm…… ư… Tại sao… cậu lại đến đây… vậy…」"
+    },
+    {
+        "sentence": "[たまき「]::……ひっ…………」",
+        "translation": "Takami「......Hức...！」"
+    },
+    {
+        "sentence": "[たまき「]::うぅっ……う……汚らしい目で、見ないで……」",
+        "translation": "Takami「Ư... ưm... Đừng nhìn tôi bằng đôi mắt dơ bẩn đó...」"
+    },
+    {
+        "sentence": "[たまき「]::……っ……う……うるさ……」",
+        "translation": "Takami「......Hức... ưm... Ồn ào quá...」"
+    },
+    {
+        "sentence": "[たまき「]::し……調べ……？」",
+        "translation": "Takami「...C-Cuộc điều tra... sao...?」"
+    },
+    {
+        "sentence": "[たまき「]::…………あ……っ……」",
+        "translation": "Takami「......A... ưm...」"
+    },
+    {
+        "sentence": "[たまき「]::そ、それは……その……こ……これから……調べる……のよ」",
+        "translation": "Tamaki「C-Cái đó... ừm... T-Tôi... sẽ điều tra... từ bây giờ...」"
+    },
+    {
+        "sentence": "[たまき「]::そ、そんな事して……何になるのよっ……」",
+        "translation": "Tamaki「Làm cái chuyện đó... thì được gì chứ...」"
+    },
+    {
+        "sentence": "[たまき「]::っ！　……な…………な……」",
+        "translation": "Takami「 ưm!...... Cậu... cậu...」"
+    },
+    {
+        "sentence": "[たまき「]::そ……そんな……そんなの……ひ、卑怯よ……ひどすぎるっ……」",
+        "translation": "Takami「Kh... Không... Không thể nào... Đó... Đó là đồ hèn hạ... Quá tàn nhẫn...」"
+    },
+    {
+        "sentence": "[たまき「]::くぅ……ぅ……あぅぅ……」",
+        "translation": "Takami「Ưm... ưm... Aưm...」"
+    },
+    {
+        "sentence": "[たまき「]::…………え……？」",
+        "translation": "Takami「......Hả...?」"
+    },
+    {
+        "sentence": "[たまき「]::う……うううっ……」",
+        "translation": "Takami「Ư... ưm...」"
+    },
+    {
+        "sentence": "[たまき「]::ふぇ……え……？」",
+        "translation": "Takami「Hả...? Gì cơ...?」"
+    },
+    {
+        "sentence": "[たまき「]::えうっ、ううっ……そんな、そんなぁ……グス、グスッ、えぇぇーん……」",
+        "translation": "Tamaki「Ư... ưm... Không... Không thể nào... Hức, hức, Huhu...」"
+    },
+    {
+        "sentence": "[たまき「]::ふえっ、えっぐっ……ぐっ……えっ、えええっ……！」",
+        "translation": "Takami「Hu... Hức... Ưm... Ưm... Hả, Hảááááá...!」"
+    },
+    {
+        "sentence": "[たまき「]::あう……ぅっ……う……うぅぅぅ……」",
+        "translation": "Takami「A... Ưm... Ư... Ưmmm...」"
+    },
+    {
+        "sentence": "[たまき「]::…………あっ……！？」",
+        "translation": "Takami「...A...?!!」"
+    },
+    {
+        "sentence": "[たまき「]::うぅぅ……う……はぁぁぁぁぁ……」",
+        "translation": "Takami「Ưừm... ư... Haaahhhh...」"
+    },
+    {
+        "sentence": "[たまき「]::きゃあああーーっ！？」",
+        "translation": "Takami「Kyahhhhhhh—!?」"
+    },
+    {
+        "sentence": "[たまき「]::あっ……！」",
+        "translation": "Takami「Á...！」"
+    },
+    {
+        "sentence": "[たまき「]::い、やああぁぁぁぁーーーっ！！」",
+        "translation": "Takami「I, Yaaaaaaaah—!!」"
+    },
+    {
+        "sentence": "[たまき「]::はぅっ……うっ……はっ……はっ……」",
+        "translation": "Takami「Hau... Ư... Ha... Ha...」"
+    },
+    {
+        "sentence": "[たまき「]::いやーっ、いやーっ！　来ないでぇぇっ！」",
+        "translation": "Takami「Khônggg! Khônggg! Đừng có lại đâyyyy!」"
+    },
+    {
+        "sentence": "[たまき「]::やだやだやだぁぁーーっ！」",
+        "translation": "Takami「Khônggg! Khônggg! Khôngggg!」"
+    },
+    {
+        "sentence": "[たまき「]::きゃあっ！？」",
+        "translation": "Takami「Kyah!?」"
+    },
+    {
+        "sentence": "[たまき「]::やっ、やだっ、放してーっ！」",
+        "translation": "Takami「Khônggg! Buông tôi raaa!」"
+    },
+    {
+        "sentence": "[たまき「]::やーっ！　だめっ、だめだってばぁぁーっ……！」",
+        "translation": "Tamaki「Áaa! Khônggg, không cho phép đâuuuu...!」"
+    },
+    {
+        "sentence": "[たまき「]::うぅっ……いやぁ…………」",
+        "translation": "Takami「Ư... Khônggg...」"
+    },
+    {
+        "sentence": "[たまき「]::うぅっ……っ……そんなに、み、見ないでよぉ……あぅぅぅ……」",
+        "translation": "Tamaki「Ư... ứ... Đừng... đừng nhìn tôi như vậyyyy... Awwuuu...」"
+    },
+    {
+        "sentence": "[たまき「]::あう……う……うぅぅぅ……」",
+        "translation": "Takami「Áuu... Ư... Ưuuu...」"
+    },
+    {
+        "sentence": "[たまき「]::……わ、分かんない」",
+        "translation": "Takami「... Tôi... tôi không biết nữa」"
+    },
+    {
+        "sentence": "[たまき「]::わ、分かんないものは、分かんないのよぉ……気が付いたら、こ、こうなってたんだもん……」",
+        "translation": "Takami「Cái gì không biết thì tôi không biếtiii... Tự dưng đến lúc nhận ra thì nó đã thành ra thế này rồi mà...」"
+    },
+    {
+        "sentence": "[たまき「]::そそ、そんな訳ないでしょっ！　ほんとにいつの間にかこうなってたのっ！」",
+        "translation": "Tamaki「Kh... không thể nào đâu! Thật sự đến lúc nào không hay thì nó đã thành ra thế này rồi mà...!」"
+    },
+    {
+        "sentence": "[たまき「]::あ、あうう……」",
+        "translation": "Takami「Á, áuu...」"
+    },
+    {
+        "sentence": "[たまき「]::……っ、きゃああっ！？」",
+        "translation": "Tamaki「...Hức, Áaaaaaaah!?」"
+    },
+    {
+        "sentence": "[たまき「]::ちょ、ちょっと、やだぁ……こんな所で何する気なのよぉぉ……？」",
+        "translation": "Takami「Khoan, khoan đã, không được đâu……Cậu định làm gì tôi ở đây vậyyyy……?」"
+    },
+    {
+        "sentence": "[たまき「]::きゃっ、きゃああああぁーーっ！？」",
+        "translation": "Takami「Á! Áaaaaaaahhhh!?」"
+    },
+    {
+        "sentence": "[たまき「]::ああっ……あうっ……うぅ……うーーー……」",
+        "translation": "Takami「Aaaah... Ugh... Uuu... Uuuuー...」"
+    },
+    {
+        "sentence": "[たまき「]::ひっ、いいい、いやぁーっ！？　み、見ないで、見ないでっ……！」",
+        "translation": "Takami「Híc, ứ ư, khôngggg!? Đừng, đừng nhìn tôi mà!……!」"
+    },
+    {
+        "sentence": "[たまき「]::……っ……！　あ……ああ……っ」",
+        "translation": "Takami「...Hức...! A... Aaaah...!」"
+    },
+    {
+        "sentence": "[たまき「]::うぅぅぅっ……！　あう……ぅぅっ……」",
+        "translation": "Tamaki「Ưmmm... Á... Ưmmm...」"
+    },
+    {
+        "sentence": "[たまき「]::あぁぁ……っ……いや……いやぁぁ……」",
+        "translation": "Takami「Aaa... Không... Không màaa...」"
+    },
+    {
+        "sentence": "[たまき「]::うぅ……ま、まだ、だめなの……？　こ、こんな所でオッパイ出してるなんて、は、恥ずかしすぎるよぉ……」",
+        "translation": "Takami「Ư... Vẫn... vẫn chưa được sao...? T-Tôi, lại phải khoe ngực ở cái nơi này, thật... thật quá xấu hổ đi mà...」"
+    },
+    {
+        "sentence": "[たまき「]::あぅぅぅ……だ、誰かに見られちゃう……も、もう、もう許してよーっ……」",
+        "translation": "Takami「Ư ư ư... K-Không lẽ, bị ai đó thấy mất... H-hết rồi, hết rồi, tha cho tôi đi mà...」"
+    },
+    {
+        "sentence": "[たまき「]::あっ……！？　だ、だって……だって……いきなりだったからぁ……大きいのなんて、持ってなかったんだもん……」",
+        "translation": "Takami「Á...!? L-Là bởi vì... bởi vì... đột ngột quá màaa... Tôi, tôi đâu có cái lớn như vậy chứoo...」"
+    },
+    {
+        "sentence": "[たまき「]::そ、それは……その……う……うぅっ……」",
+        "translation": "Takami「C-Cái đó thì... Thì... Ư... Ư...」"
+    },
+    {
+        "sentence": "[たまき「]::あ、あうぅぅぅっ……」",
+        "translation": "Takami「A, á á á...」"
+    },
+    {
+        "sentence": "[たまき「]::え……？　む、胸で……気持ち、よく……？」",
+        "translation": "Takami「Hả...? Ưm, bằng ngực... làm cậu, thấy thoải mái...?」"
+    },
+    {
+        "sentence": "[たまき「]::…………う……うぅぅ……」",
+        "translation": "Takami「............Ư...ư ư...」"
+    },
+    {
+        "sentence": "[たまき「]::ひっ……！？　あ、熱っ……熱いよぉ……それに、ドクドクいってるぅ……気持ち悪いよぉぉ……」",
+        "translation": "Takami「Hức...!? A, nóng... Nóng quá đi... Hơn nữa, nó còn đang đập thình thịch nữa... Ghê quá đi...」"
+    },
+    {
+        "sentence": "[たまき「]::も、もうやだ……っ……！　うぅぅっ、こんなの、触りたくないよぉぉっ……！」",
+        "translation": "Takami「T-Tôi không chịu nữa đâu... Hức... Chán quá rồi... Ư ư ư, tôi không muốn chạm vào cái thứ này đâuuuu...!」"
+    },
+    {
+        "sentence": "[たまき「]::やぁぁっ……！　な、なに、あたしに、何させるつもりなのぉぉっ……？」",
+        "translation": "Tamaki「Á á á á...! C-Cái gì vậy, cậu định bắt tôi làm gì đâyyyyy...!」"
+    },
+    {
+        "sentence": "[たまき「]::ひぃぃっ！？　いやっ、か、皮が動いてるぅ、気持ち悪いぃぃっ……！」",
+        "translation": "Takami「Híííí...!? Không, k-không, da nó đang động đậy, ghê tởm quá đi... !」"
+    },
+    {
+        "sentence": "[たまき「]::ああっ、こ、こんな、こんなのやだよぉっ！　いやっ、オチンチン、いやぁぁぁぁっ……！」",
+        "translation": "Takami「Á á á, t-thứ này, tôi không muốn đâuuuu! Không, dương vật, khônggggggg...!」"
+    },
+    {
+        "sentence": "[たまき「]::あ、あっ、そんなっ……む、無理矢理ぃぃっ！？　だ、だめぇっ……！　オチンチンいやぁっ、オチンチン擦らせないでよーーっ！」",
+        "translation": "Takami「A, ớ, không... Đừng có, đừng có cưỡng ép mà!! Không được mà...!! Dương vật, tôi không muốn!! Đừng có chà dương vật vào người tôi raaa!!」"
+    },
+    {
+        "sentence": "[たまき「]::ああうーーっ！　うひぃっ、ひっ……いやぁっ！　こ、こんなグロいので、っ、オッパイつつかないでよぉぉぉーっ！」",
+        "translation": "Tamaki「Á á á á...! Hức hức, hức... Khôngggg! Đ-Đừng có dùng thứ kinh tởm này, mà, mà chọc vào ngực tôi raaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::ひゃうううっ……！？　オ、オッパイ潰れちゃっ……んんぅっ、あっ、あぁぁっ……！」",
+        "translation": "Takami「Hyaaaa...!? N-Ngực tôi... sắp bị bóp nát rồi... Unnn, a, aaaah...!」"
+    },
+    {
+        "sentence": "[たまき「]::んひっ……！　あっ……んっ、んんぅぅ……」",
+        "translation": "Takami「hức... ! A... ừm, ừm ưuu...」"
+    },
+    {
+        "sentence": "[たまき「]::あううっ……う、嬉しくなんか……っ、ひうぅんっ……！？　あぁっ……んあぁぁっ……」",
+        "translation": "Takami「Ư... Tôi không thấy vui chút nào hết... Hức... Ư ư ư...!? Aaa... Unnn aaaah...!」"
+    },
+    {
+        "sentence": "[たまき「]::はうぅっ！　ち、乳首、だめぇぇっ……！　うっ、んぅ、あぁぁっ……！」",
+        "translation": "Takami「Háuuu! T-Đầu ti, không được màaa...! Ư, ừm, áááá...!」"
+    },
+    {
+        "sentence": "[たまき「]::あぁぁっ……！　はあぁんっ……あっ……あっ……！」",
+        "translation": "Takami「Áááá...! Haaaan... Á... Á... !」"
+    },
+    {
+        "sentence": "[たまき「]::ああぁん……っ……変な、感じっ！　いや、何、これぇっ……ああっ、んぁあっ……！」",
+        "translation": "Takami「Á á á... Ư ư... Cảm giác lạ quá! Khoan, cái gì thế nàyyyy... Á á á... ư aaaah...!」"
+    },
+    {
+        "sentence": "[たまき「]::んくっ、うっ……ああんっ……ふぁぁっ、い、いい……ち、乳首いいよぉっ……！」",
+        "translation": "Takami「Ư... Ư... Á á á... Á á á, s-sướng... Đầu ti, sướng quá đi mất...!」"
+    },
+    {
+        "sentence": "[たまき「]::ひああぁっ、ちち、ちがっ！　あぁんっ、あはっ、よ、よくなんて、ないよぉっ……！」",
+        "translation": "Takami「Hiaaa! Kh-Không! Aaaa... Aha... T-Tôi... tôi không có... không hề dễ chịu chút nào đâuuu...!」"
+    },
+    {
+        "sentence": "[たまき「]::も、もうやめてっ、ふあんっ、あっ、オ、オチンチンで、乳首擦らないでぇぇぇーっ！」",
+        "translation": "Takami「D-Dừng lại đi mà, sợ quá... Á, đừng có dùng dương vật chà xát đầu ti của tôi nữaaa!」"
+    },
+    {
+        "sentence": "[たまき「]::あはぁっ、んぁっ……ああっ……！　し、知らないよぉっ……はぅっ……んひぁっ……あっ……ああーっ……！」",
+        "translation": "Takami「Á á á, ừm... Á á á...! T-Tôi không biết đâuuu...! Ha... Ư... Á á á...!」"
+    },
+    {
+        "sentence": "[たまき「]::はぁうっ！　んっ、んっ、んっ……！　こ、これで、あぁんっ……はあぁっ……いい、の……？」",
+        "translation": "Takami「Háuuu! Ưm, ưm, ưm...! C-Với cái này, á á á... Haaah... Tốt... rồi ạ...?」"
+    },
+    {
+        "sentence": "[たまき「]::はあっ……ああっ……あぁぁんっ……！　オ、オチンチン、太いよぉ……んぅっ、んっ……！」",
+        "translation": "Takami「Haa... Á... Áááán...! D-Dương vật, to quáaa... Ưm, ưm...!」"
+    },
+    {
+        "sentence": "[たまき「]::ひゃはぁぁっ……！　て、手を押したらっ……尖った、先っぽが、あんん、い、勢いよく……乳首にぶつかって、くるのぉっ！」",
+        "translation": "Takami「Hyaaa! T-Tôi ấn tay vào thế là...! Đầu nhọn, cái phần đầu ấy, á á á, nó va mạnh... vào đầu ti của tôiyyy!」"
+    },
+    {
+        "sentence": "[たまき「]::あはぁっ……あっ、ああんっ……！　あううっ、こんなっ、ど、どうしてぇっ……？」",
+        "translation": "Takami「Á á á... Á... Á á á...! Ư aaaa, sao... sao lại thế nàyyyy...?」"
+    },
+    {
+        "sentence": "[たまき「]::そ、それにっ、乳首、ピリピリしてぇっ……！　はんっ、あっ、ああぁぁっ！」",
+        "translation": "Takami「T-Thế rồi, đầu ti của tôi cứ ngứa ran cả lên... Hức, á, áááá...!」"
+    },
+    {
+        "sentence": "[たまき「]::あぁんっ！　はあっ、ふあぁぁっ！　あ、あたしっ、変になっちゃうよぉっ！」",
+        "translation": "Takami「Á á á! Haa! Fuaaa! T-Tôi... tôi sắp biến thành người khác mất rồi!」"
+    },
+    {
+        "sentence": "[たまき「]::だ、だめぇぇ！　だめだめだめぇーっ！　こ、これ以上は、許してぇぇっ、乳首もう許してえええっ！」",
+        "translation": "Takami「K-Khônggg! Không không khônggg! T-Thêm nữa là tôi không chịu đượccc! Đầu ti, làm ơn tha cho nó đi màaaa!」"
+    },
+    {
+        "sentence": "[たまき「]::ひいいいっ！？　ああぁぁっ！　だめぇっ、いやぁっ、つ、つつかないで、乳首抉らないでえぇぇぇーーっ！」",
+        "translation": "Takami「Hiii!? Á á á! Khônggg! Đừng! Đừng có động vào, đừng có chà xát đầu ti của tôiii!」"
+    },
+    {
+        "sentence": "[たまき「]::ひっ、あっ、ひゃああーっ！　ああっ！　ダメ、もうダメええぇーーっ！」",
+        "translation": "Takami「Hic, á, hyaaaa! Á á! Không, không thể nữa rồiiiiii!」"
+    },
+    {
+        "sentence": "[たまき「]::うああっ！　あっ、来るぅぅっ、来ちゃうっ！　ああっ、ひゃああああああーーーーーっ！！」",
+        "translation": "Takami「Á á á! Á, sắp rồi, sắp đến rồi! Á á á, Hyaaaaaaーーーーー!!」"
+    },
+    {
+        "sentence": "[たまき「]::あああっ、やあああああぁぁぁぁーーーーんっ！！」",
+        "translation": "Takami「Á á á, Ya-ya-ya-ya-yaaaaaaaーーーーーnnn!!」"
+    },
+    {
+        "sentence": "[たまき「]::あひぃぃっ！　乳首が、へ、変だよぉっ！　乳首が変になっちゃてるよおおーっ！　ああっ、あああぁぁぁぁぁーーっ……！！」",
+        "translation": "Takami「Á á! Đầu ti của tôi, nó, nó kỳ lạ lắm! Đầu ti của tôi biến dạng rồi đóoo! Á á, Á á á á áーーーー...!」"
+    },
+    {
+        "sentence": "[たまき「]::あぁっ……えっ？　え、ええええぇーーっ！？」",
+        "translation": "Takami「Á á... Ơ? Ơ, ơーーーーーーっ!?」"
+    },
+    {
+        "sentence": "[たまき「]::な、何よこれぇっ！　なんで、なんで、あたしの胸からっ、お、お乳が出てるのぉっ！？　どうなってるのよおおっ！？」",
+        "translation": "Takami「C-Cái gì thế nàyyyy! Sao mà, sao mà, từ ngực của tôi, sữa lại chảy raaaa!? Chuyện quái quỷ gì đang xảy ra vậy hảaaaa!?」"
+    },
+    {
+        "sentence": "[たまき「]::はひあっ……！　んあっ、あああっ……！」",
+        "translation": "Takami「Á á! Á, á á á...!」"
+    },
+    {
+        "sentence": "[たまき「]::ふぁぁっ……っ……んぅっ……！　あんっ……あぁっ……ぬるぬるチンチンがっ、擦れてっ……！　はあぁぁっ……！」",
+        "translation": "Takami「Phàaa... Ưm... Ưm ưm...! Ưm... Á á... Dương vật ướt át này, nó cọ xát... Haaa...」"
+    },
+    {
+        "sentence": "[たまき「]::うぅぅ……え、あ？　ちょっと、やだ、何する気なのぉ？」",
+        "translation": "Takami「Uuuuh... Ơ? Khoan đã, không được đâu, cậu định làm gì vậyyyy?」"
+    },
+    {
+        "sentence": "[たまき「]::うあっ、や……んっ、んんっ……これで、いいのぉ？」",
+        "translation": "Takami「Ư... Ư... Ưm... Thế này, có ổn không ạ...?」"
+    },
+    {
+        "sentence": "[たまき「]::あぁ……あぁ……っ……んんぅっ……んー……」",
+        "translation": "Takami「Á á... Á á... Ưm... Ưm ưm... Ưm...」"
+    },
+    {
+        "sentence": "[たまき「]::んぅっ、あぁっ……やっ、太いのっ、あたしの手の中で、ビクビクして、膨れてくるよぉぉぉ……！」",
+        "translation": "Takami「Ưm ưm, á á... Ưm, cái to quá, nó đang run rẩy trong tay tôi, rồi cứ phình to raaaaaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::やああぁぁ……なに、何なのー？　出るのー？　いやらしいお汁、あたしの胸に、出しちゃうのぉぉぉっ……？」",
+        "translation": "Takami「Á á á á... Gì vậy, là gì thế hả?? Cậu định cho ra sao?? Dòng nước bẩn thỉu ấy, cậu định cho chảy hết lên ngực tôi saooooooo...??」"
+    },
+    {
+        "sentence": "[たまき「]::きゃっ、きゃああああぁぁぁぁーーーーっ！？」",
+        "translation": "Takami「Kya! Kyaaaaaaááááーーーーっ!?」"
+    },
+    {
+        "sentence": "[たまき「]::あああっ、っ、やあだぁぁっ！？　あうっ、うーっ！　ち、乳首、熱いっ、熱いよぉーっ！」",
+        "translation": "Takami「Á á á, không không, ghét quá đi mất!? Ư, ừm! T-ti, nóng quá, nóng quá đi thôi ạ!」"
+    },
+    {
+        "sentence": "[たまき「]::うあっ、あーーーっ！　かけないでぇぇっ、オッパイに、乳首にぃぃ、熱いの、かけないでぇぇーっ！」",
+        "translation": "Takami「Ưaak! Áaaaaaah! Đừng có bắn lên màaa, lên cặp núi đôi của tôi, lên nhũ hoa của tôi đi, nóng quá, đừng có bắn lên màaa!」"
+    },
+    {
+        "sentence": "[たまき「]::違うぅぅっ！　ああっ、あっ、ち、違うううううーーっ！」",
+        "translation": "Takami「Sai rồi! Á á, á, saiiiiiiiiiiiii rồi!」"
+    },
+    {
+        "sentence": "[たまき「]::ひっ、ひぃぃぃっ！？　やああっ、熱いのがっ、胸の中に、入ってきてるぅぅぅーーーっ！！」",
+        "translation": "Takami「Híc, híc híc!? Á á á, nóng quá, nó đang chui vào ngực tôi rồi ưm ưm ưmーーーっ!!」"
+    },
+    {
+        "sentence": "[たまき「]::うううっ、やだぁっ、やだよぉぉっ！　精液噴いちゃうぅぅっ！　あうっ、ああっ、あっあああぁぁぁぁーーっ……！！」",
+        "translation": "Takami「Ưm ưm, không không, không muốn đâuuu! Tinh dịch của cậu sắp bắn ra rồi! Á, á, ááááááーーーっ……!!」"
+    },
+    {
+        "sentence": "[たまき「]::はーっ……はーっ……はーっ……あぁ、はぁぁぁぁ……」",
+        "translation": "Takami「Haa... Haa... Haa... Aa, haaaaaa...」"
+    },
+    {
+        "sentence": "[たまき「]::あっ……ああ、ああああ……？」",
+        "translation": "Takami「Á... À, àaaaa...?」"
+    },
+    {
+        "sentence": "[たまき「]::あぁぅ、あたしの、オッパイが、うっ、ミルクまみれに、なっちゃってるよぉ……う、うぅっ、ううぅぅぅーーっ……」",
+        "translation": "Takami「Á á á, cặp núi đôi của tôi, ưm, ướt sũng hết cả sữa rồi ạ... Ư, ưm, ưm ưm ưmーーーっ……」"
+    },
+    {
+        "sentence": "[たまき「]::あぅっ……うっく……うっくっ……ふぇぇぇぇ……」",
+        "translation": "Takami「Á á á... Ưm... Ưm... Ưm ưm ưm...」"
+    },
+    {
+        "sentence": "[たまき「]::うえっく……うくっ…………ひぐ……うっ……うっ……」",
+        "translation": "Takami「Ưm... Ưm... Hức... Ưm... Ưm...」"
+    },
+    {
+        "sentence": "[たまき「]::きゃぁ……！　や、やだあっ……」",
+        "translation": "Takami「Á... á...! Không... không được...!」"
+    },
+    {
+        "sentence": "[たまき「]::はうっ……っ……うぅぅっ……」",
+        "translation": "Takami「Hự... ư... ư...」"
+    },
+    {
+        "sentence": "[たまき「]::ん……あぁっ……オ、オッパイ……さ、触らない……でぇ……」",
+        "translation": "Takami「Ư... á... Ngực... C... cậu đừng chạm vào...」"
+    },
+    {
+        "sentence": "[たまき「]::はぁっ……だ、ダメ、ダメだよ……んっ……あ……あぁぁ……」",
+        "translation": "Takami「Haa... K-không, không được mà... Ư... A... Aaa...」"
+    },
+    {
+        "sentence": "[たまき「]::ひゃう……ぅんっ……つ、強い、よ……あぁ……あんっ……」",
+        "translation": "Takami「Hyya... ư... Mạnh quá... A... á...」"
+    },
+    {
+        "sentence": "[たまき「]::あぁぁ……んぅっ……う、うぅっ……つ、付けようとしたけど、ん、胸のサイズが違いすぎて、収まらなかったの……」",
+        "translation": "Takami「A... a... ư... ư... Tôi... tôi đã cố gắng đeo nó vào nhưng... ừm... kích cỡ ngực khác biệt quá... nên không vừa...」"
+    },
+    {
+        "sentence": "[たまき「]::あんぅっ……！　う……うぅっ……は……あぁぁっ……」",
+        "translation": "Takami「Ư... ư...! Ư... ư...! Ha... a... a...!」"
+    },
+    {
+        "sentence": "[たまき「]::ふひぃ……んぅっ……そ、そんなの、っ、し、知らないわよぉぉ……」",
+        "translation": "Takami「Ư... ư... T-Tôi... tôi không biết gì về chuyện đó đâu...」"
+    },
+    {
+        "sentence": "[たまき「]::はぁんっ……！　あっ、ああっ……ふあ……ああぁっ……」",
+        "translation": "Takami「Haa...! A... a... Ưa... Aaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::んんっ……はぁっ……！　あぁ……やあん、な、何……それぇ……？」",
+        "translation": "Takami「Ư... ư...! A...! A... không... cái gì... cái đó là gì thế...?」"
+    },
+    {
+        "sentence": "[たまき「]::ひっ！　あひぃぃぃっ……！？」",
+        "translation": "Takami「Hí! A hí í í...!?」"
+    },
+    {
+        "sentence": "[たまき「]::ああっ、ちょ、な、なにっ、何これぇっ！？　や、やだぁっ、何入れてるのよぉぉっ……！？」",
+        "translation": "Takami「Aaaah, ch-chuyện gì, cái gì thế này!? Không, không được đâu, cậu đang cho cái gì vào người tôi thếee...!?」"
+    },
+    {
+        "sentence": "[たまき「]::んん、うぅぅっ……んっ……！　やぁ、やぁぁっ……冷たいっ、し……トロトロしてて、き、気持ち悪いよぉ」",
+        "translation": "Takami「Ư... ư ư... ư...! K-không, khôôông... lạnh quá... lại còn... trơn nhớt nữa, ghê tởm quá đi...」"
+    },
+    {
+        "sentence": "[たまき「]::はうううっ……うぅっ……も、もういいでしょぉ……？　もう、この変なお水、入れないでよぉぉぉ……」",
+        "translation": "Takami「Hức... ư ư... Thôi, đủ rồi mà... Đừng... đừng đổ thứ nước kỳ quái này vào nữa mà...」"
+    },
+    {
+        "sentence": "[たまき「]::うあっ、そ、そんなぁぁ……！？　くああっ、っ、んぅぅっ、ん、んんーっ……！」",
+        "translation": "Takami「Uah, s-sao có thể...!? Kuaaa, ực, ư... ư ư... ư ư ư...！」"
+    },
+    {
+        "sentence": "[たまき「]::んあぁぁ……あぁ……はあぁぁ……うぅ、き、気持ち悪いぃぃ……」",
+        "translation": "Takami「Ư a a a... a a... ha a a... ư, g-gê tởm quá đi...\""
+    },
+    {
+        "sentence": "[たまき「]::ひゃあんっ……！？」",
+        "translation": "Takami「Hyaaa...!?」"
+    },
+    {
+        "sentence": "[たまき「]::あ、あなたが……早く、来いって……」",
+        "translation": "Tamaki「À, cậu... Cậu bảo tôi đến nhanh mà...」"
+    },
+    {
+        "sentence": "[たまき「]::あ……うっ……っ……あぅぅ～……」",
+        "translation": "Tamaki「À... Ưm... Ư... Àuuu...」"
+    },
+    {
+        "sentence": "[たまき「]::ううぅ……く……ぅぅっ……」",
+        "translation": "Tamaki「Ưu... Ưm... Ưu...」"
+    },
+    {
+        "sentence": "[たまき「]::あぅぅ……ぅ……何で……こんな格好、させるの？」",
+        "translation": "Tamaki「Àuuu... Ức... Sao... lại bắt tôi mặc bộ dạng này chứ?」"
+    },
+    {
+        "sentence": "[たまき「]::な……ななな、何がおかしいのよ……」",
+        "translation": "Tamaki「N-này... có gì buồn cười hả...」"
+    },
+    {
+        "sentence": "[たまき「]::……え……っ……な、なんで……そんな事、知ってるのよお……」",
+        "translation": "Tamaki「...Hả...? Sao... sao cậu lại biết chuyện đó...?」"
+    },
+    {
+        "sentence": "[たまき「]::うぅっ……あぅぅぅ……」",
+        "translation": "Tamaki「Ư... Ưuu...」"
+    },
+    {
+        "sentence": "[たまき「]::……ぅ……っ……」",
+        "translation": "Tamaki「...Ư...ức...」"
+    },
+    {
+        "sentence": "[たまき「]::…………ふぇぇ……？」",
+        "translation": "Tamaki「...Ph-Phế...?」"
+    },
+    {
+        "sentence": "[たまき「]::あぅぅ……な、何する気なの……？」",
+        "translation": "Tamaki「Ưuu... C-Cậu định làm gì vậy...?」"
+    },
+    {
+        "sentence": "[たまき「]::ひいぁっ、つ、冷たいってばぁ……んひっ……あ、ああぁぁっ……」",
+        "translation": "Takami「A... a... lạnh quá đi mà... ư hí... a... a a a a...」"
+    },
+    {
+        "sentence": "[たまき「]::ひぁっ……っ、あぅぅ……て、手がぁ……中で、滑ってるぅぅ……」",
+        "translation": "Takami「Hyaaa... ư ư... T-Tay của cậu... ở trong, trơn trượt quá...」"
+    },
+    {
+        "sentence": "[たまき「]::き、気に入ってなんか……あっ……んあっ……うぅぅっ……」",
+        "translation": "Takami「Đ-Đâu có... thích gì chứ... Ah... Ư... Ư ư...」"
+    },
+    {
+        "sentence": "[たまき「]::ふひっ、あんっ……や、た、谷間が……ぬるぬる擦れて……はぁっ、あぁんっ……！」",
+        "translation": "Takami「Phù phù, ân... Ây, k-khe ngực... trơn tuột cọ xát... haaa, áaa...！」"
+    },
+    {
+        "sentence": "[たまき「]::やぁぁっ……変、これ、変だよぉ……手が、ぴったり、ひっついてるのに……そのまま滑って、きて……」",
+        "translation": "Takami「Aaa... Kì lạ, cái này, lạ quá... Tay của cậu, dính chặt, nhưng mà... cứ thế trượt, tới...」"
+    },
+    {
+        "sentence": "[たまき「]::あふっ……うぁっ……あっ……な、なんか……身体の中を、直接、撫でられてる、みたいっ……」",
+        "translation": "Takami「Áff... Ưaa... Á... C-Cái gì vậy... Cứ như... Cậu đang chạm vào tận sâu bên trong cơ thể tôi vậy...」"
+    },
+    {
+        "sentence": "[たまき「]::ひぃっ！？　ひあっ、あ、ああぁーーんっ……！」",
+        "translation": "Takami「Hítt!? Hí, á, áaaaannh...!」"
+    },
+    {
+        "sentence": "[たまき「]::やああぁぁ……！　ああっ、そ、そこ、ダメぇぇ……！」",
+        "translation": "Takami「Yaààà... ! Áh, ch-chỗ đó, không đượcdd... !」"
+    },
+    {
+        "sentence": "[たまき「]::あうっ……ん……うぅっ……！　う……うぅぅぅ……そ、それは……っ」",
+        "translation": "Takami「Áu... Ưm... Ưu... ! Ư... Ưuuu... C-Cái đó... !」"
+    },
+    {
+        "sentence": "[たまき「]::くひあぁぁぁーーーっ！？　はくっ、くっ、ああっ、あーーっ……！」",
+        "translation": "Takami「Kuhiaaaaaaa—!? Hak, ku, aah, aah...!」"
+    },
+    {
+        "sentence": "[たまき「]::ダメ、ほんとにダメなのぉぉっ……！　そ、そうやって、そこを、ニュルニュルするの、だけは、やめてぇぇぇ……」",
+        "translation": "Takami「Không được, thật sự không được màaaa...! C-Cậu, đừng có, đừng có làm cái kiểu đó, luồn lách ở đó, làm ơn dừng lại đi màaaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::あふっ、うっ、んひぃっ……！　ああぁっ、や、やだってばぁぁっ……！　も、もうヌルヌルの指で、触らないでぇっ……！」",
+        "translation": "Takami「Ưm, ư... Ư... ! Ah... Ah... Xin cậu, xin cậu đấy màaaa...! Đ-Đừng có dùng mấy ngón tay nhớp nhúa đó chạm vào tôi nữa màaaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::ち、ちくび……乳首ぃぃ……！　乳首を、そうやって、んぅ、ニュルニュルって、されると、っ、感じ、ちゃうのぉぉぉ……！」",
+        "translation": "Takami「Ch、chắc là…… núm vú…… núm vú của tôi……! Nếu mà, cứ, cứ dùng cái kiểu đó, ư、ưm、xoắn xoắn lấy núm vú của tôi, thì、thì tôi sẽ, cảm、cảm thấy、thấy sướng mất thôiiiii……！」\n"
+    },
+    {
+        "sentence": "[たまき「]::きひぃぃぃっ！？　んくぁっ、あっ、あひぃぃっ！　だ、だめだめだめぇぇっ、搾らないでよーーっ！」",
+        "translation": "Takami「Kíhííííí!? Nguah, á, áhííí! K-Không, không, không được đâuuuu, đừng có vắt kiệt tôi ra chứuuu!」"
+    },
+    {
+        "sentence": "[たまき「]::いやあっ、乳首、だめなのーーっ！　はっ、ああぅっ、や、やめてええーっ！　ああんっ、ああーっ！」",
+        "translation": "Takami「Khônggg, núm vú, không được màーーっ！　Hự, aaaa, k-không, dừng lại đi màーーっ！　Aaa, aaaa！」\n"
+    },
+    {
+        "sentence": "[たまき「]::いやぁーっ！　はぁんっ、あんっ、や、やだー、もう許してぇっ！　乳首虐めないでえーーーーっ！！」",
+        "translation": "Takami「Ááá! Haannh, annh, k-không, tớ không muốn nữa đâu, làm ơn tha cho tớ đi! Đừng có hành hạ nhũ hoa của tớ nữa điiiiii!!!!」"
+    },
+    {
+        "sentence": "[たまき「]::ふああぁっ、ああぁーーっ……！？　だ、だめぇっ……いやぁっ、もう、いやああぁぁぁーーっ……！」",
+        "translation": "Takami「Fuaaa, aaaa…!? K-Không, không được… Ưaaa, thôi mà, không muốn nữa đâuuuuu…!」"
+    },
+    {
+        "sentence": "[たまき「]::ダメぇぇっ、んあっ、やあっ……！　乳首、弄くられるとぉっ、感じちゃうのぉ……！」",
+        "translation": "Takami「Kh-Khônggg… ưm… á…! Núm vú, bị cậu trêu chọc… là tôi lại thấy… thích thú…!」"
+    },
+    {
+        "sentence": "[たまき「]::か、感じすぎて、はんっ、っ、ああぁっ……！　み、オッパイ、ひぅっ、ん、で、出ちゃいそう、だから……ダメなのぉぉぉ……！」",
+        "translation": "Takami「C-Cảm giác quá… hah… ư… aaaa…! Ngực, hức… ư… sắp, sắp ra mất… nên… không được màaaaa…!」"
+    },
+    {
+        "sentence": "[たまき「]::はううっ……そ、そうよぉぉっ……！　胸の中、熱いの、溜まってきてるのっ……！」",
+        "translation": "Takami「Ư… ư… đúng, đúng vậy…! Bên trong ngực tôi, nóng quá, đang dâng lên…!」"
+    },
+    {
+        "sentence": "[たまき「]::はあぁっ、んっ、んっ……！　だ、だから、やめてっ、やめてっ……ひぅっ、ん、も、もう、許してぇぇぇ……！」",
+        "translation": "Takami「Haaa… ư… ư…! K-Không, nên dừng lại đi… dừng lại đi… Hic… ư… xin, xin cậu tha cho tôi đi màaaaa…!」"
+    },
+    {
+        "sentence": "[たまき「]::あひぃっ……！　ひあっ……ああぁぁんっ！　ダメぇっ、いやあっ、来ちゃうっ！　お乳が、オッパイが来ちゃうよぉぉっ！」",
+        "translation": "Takami「Á…! Ư…! Ah… aaaa…! Không được… ư ư… sắp ra mất…! Ngực, ngực tôi sắp phun ra mất thôi…!」"
+    },
+    {
+        "sentence": "[たまき「]::やああぁんっ！　ダメっ、もうダメーーっ！　イっちゃうっ！　イって、オッパイ噴いちゃう、お乳出ちゃうーっ！」",
+        "translation": "Takami「Aaa…! Không… không được… hết chịu nổi rồi…! S-sắp ra mất…! Ra mất thôi… ngực sắp phun trào rồi…!」"
+    },
+    {
+        "sentence": "[たまき「]::やああああーーっ！　イクぅぅっ！　ああっ、オッパイ出るっ、ミルクが出ちゃうよおぉぉぉぉーーっ！？」",
+        "translation": "Takami「Á á á á…! S-sướng quá…! Ah… ngực tôi, sữa sắp phun ra mất thôi…!」"
+    },
+    {
+        "sentence": "[たまき「]::きゃはあああーーっ！？　ひあああっ、ああぁぁーーーっ……！！」",
+        "translation": "Takami「Á á á á á á á...!? Hí á á á, a a a a a a á á á...!!」"
+    },
+    {
+        "sentence": "[たまき「]::う、うぅ……イヤなのに……だめなのにぃ……お乳、出しちゃった、よぉ……うぅぅ……」",
+        "translation": "Takami「Ư... ư... Rõ ràng là không muốn mà... Rõ ràng là không được mà... Sữa... sữa chảy ra rồi... ư ư ư...」"
+    },
+    {
+        "sentence": "[たまき「]::んぁ……ぁ……ふぁぁ…………？」",
+        "translation": "Takami「Ưm... ừm... hả...?」"
+    },
+    {
+        "sentence": "[たまき「]::んはぁぁぁっ……！？　んぁっ……やぁんっ……！」",
+        "translation": "Takami「Ưm... aaaaaaah...!? Ưm... Aaaah...!」"
+    },
+    {
+        "sentence": "[たまき「]::ああっ、あぁぁっ……！　だ、ダメだよぉ……ミ、ミルク、出た、ばっかりなのに、んはぁっ、そ、そんな事したらぁぁっ……！」",
+        "translation": "Takami「A... aaaa...! Không... không được đâu... Sữa... sữa mới vừa ra xong mà, ưa...! Làm... làm thế thì...!」"
+    },
+    {
+        "sentence": "[たまき「]::はうっ、うっ……！　ま、またぁっ……またミルクっ、噴いちゃうようぅぅぅっ……！」",
+        "translation": "Takami「Hả... ư...! Lại... lại nữa rồi... Lại bắn ra sữa mất thôi...!」"
+    },
+    {
+        "sentence": "[たまき「]::きゃふぅっ！　ううっ、んあぁぁっ！　そ、そんなに強くっ、ひうっ、ああっ、も、揉まないで、よぉぉっ！」",
+        "translation": "Takami「Kya... fuuu! Ư... ưaaaa! Đ... đừng mạnh thế, hii... aaa... đ... đừng bóp nữa, mà...!」"
+    },
+    {
+        "sentence": "[たまき「]::はあっ、あああーっ！　や、やめてぇっ！　やめてええっ！　ああんっ、あっ、やああっ、もうっ、揉まないれええぇっ！」",
+        "translation": "Takami「Hả... aaaa! Dừ... dừng lại đi! Dừng lại đi! Aaa, a, aaa, thôi, đừng có bóp nữa!」"
+    },
+    {
+        "sentence": "[たまき「]::あひああぁぁーっ！？　ああぅっ、あぁっ、手が、擦れてきちゃうぅぅっ！　だめええっ、いやーっ、は、放してよおおっ！」",
+        "translation": "Takami「Áaaaaa!? Ư... aaaa! Tay cậu cứ cọ xát vào làm tôi rát hết cả lên mất thôi! Không được đâu! Đừng mà! B... buông tôi ra đi mà!」"
+    },
+    {
+        "sentence": "[たまき「]::はひゃああっ！　ダメェッ、出る出る出るぅぅっ！　母乳噴いちゃうううううーーーっ！」",
+        "translation": "Takami「Hả... hí aaaa! Không được... không được... sữa... sữa chảy ra mất! Sữa mẹ... sữa mẹ bắn ra mất thôi!」"
+    },
+    {
+        "sentence": "[たまき「]::はああぁぁんっ、ああーっ！　い、イクううーーっ、噴くううーーっ！」",
+        "translation": "Takami「Haaa... aaaa! Tôi... tôi ra mất! Phun... phun mất rồi!」"
+    },
+    {
+        "sentence": "[たまき「]::んひいいいいぃーーーーっ！？　噴いてるうううっ、あたしオッパイからミルク噴いてるよおおおおーーーっ！！」",
+        "translation": "Takami「Hí aaaaaaaa!? Sữa... sữa đang phun ra! Tôi đang phun sữa từ ngực ra này aaaaaa!」"
+    },
+    {
+        "sentence": "[たまき「]::出るぅっ、出るぅっ！　出てるうぅぅぅーっ！　やあああっ、オッパイミルク止まらないよおおーーーっ！！」",
+        "translation": "Takami「Ra rồi, ra rồi! Đang ra mất thôi! Aaaa, sữa từ ngực tôi không ngừng chảy ra mất thôi aaaaaa!」"
+    },
+    {
+        "sentence": "[たまき「]::やだああぁぁーーっ！　止まってっ、止まってぇっ！　いやあああああーーーっ！」",
+        "translation": "Takami「Không, không, aaaaaaaa! Dừng lại đi, dừng lại đi! A, không, aaaaaaaa!」"
+    },
+    {
+        "sentence": "[たまき「]::はふっ……！　はぁっ……はぁ……はぁぁぁ……」",
+        "translation": "Takami「Hả... hả... hả... haaaaa...」"
+    },
+    {
+        "sentence": "[たまき「]::あうっ……う……ぁ……オ、オッパイ、萎んじゃう……」",
+        "translation": "Takami「Á... ư... a... Ngực... ngực tôi xẹp mất rồi...」"
+    },
+    {
+        "sentence": "[たまき「]::……んんぅ……ふあ……はぁ……ぁ…………」",
+        "translation": "Takami「...Ưmm... Ưa... Hả... A......」"
+    },
+    {
+        "sentence": "[たまき「]::ふぇ……ぇ…………？」",
+        "translation": "Takami「Hả... hả...?」"
+    },
+    {
+        "sentence": "[たまき「]::はぅ……ぅ……あぅぅ…………」",
+        "translation": "Takami「Hả... ư... a... a......」"
+    },
+    {
+        "sentence": "[たまき「]::んひっ！　ひっ、あんうううぅぅぅぅっ……！」",
+        "translation": "Takami「Ư hí! Hí... a... ưuuuuuuuuu...!」"
+    },
+    {
+        "sentence": "[たまき「]::はあうっ、ううーっ！　し、知らないよぉ……あふぅぅっ……！」",
+        "translation": "Takami「Hả... ư... ư...! T-Tôi không biết đâu... a phùùùù...!」"
+    },
+    {
+        "sentence": "[たまき「]::あ、熱いのがっ、ああんっ……！　太いのがぁぁっ、アソコに、アソコに、グチグチって、は、入って、くるよぉぉっ……！」",
+        "translation": "Takami「A, nóng quá... Ư...ư...! Cái vật to lớn... a...a...! Ở chỗ đó, ở chỗ đó, cứ xoắn lấy, ư, đang vào, vào sâu hơn... a...a...!」\n"
+    },
+    {
+        "sentence": "[たまき「]::くあっ、あうぅっ……！　んんっ、んーっ、ひあああーーんっ！！」",
+        "translation": "Takami「Ọc! A... ưuuu...! Nnn... nnn... Hiiiiaaaaaan!!」"
+    },
+    {
+        "sentence": "[たまき「]::はあっ、あぁぁんっ……！　い、いや、熱いのっ、身体の奥に、埋まってるぅっ……ひうぅっ、んんぁぁぁっ……！」",
+        "translation": "Takami「Haa... aaaaaan...! Kh-Không, nóng quá! Nó đang... đang chôn sâu trong cơ thể tôi... húu, ừnnnnaaaaaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::きゃふうっ！　あんっ、あはあぁぁっ！　な、中がぁ、ずるずるぅ、こ、擦られるよおおっ……！　んひゃあぁっ……！」",
+        "translation": "Takami「Kya fuu! Anh, a haaa! B-Bên trong, trượt trượt, nó đang... đang cọ xát... ừaaah! Nnhyaaaah...!」"
+    },
+    {
+        "sentence": "[たまき「]::んひいぃっ！　そ、そんな事、言わないでぇっ……ああぁうっ、っ、んんっ……！　ああっ、はあああぁぁぁっ……！」",
+        "translation": "Takami「Nhii! C-Cậu đừng có nói mấy lời như vậy... Aaaah, ứ, nnn...! Aaaahh, haaaaaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::ひぐぐぅっ！　あうぅっ、ぅっ、んぅぅっ……！　か、感じて、なんか、ないよぉっ……！」",
+        "translation": "Takami「Hígu gùuu! Auuu, ứ, nnnnuuu...! T-Tôi... tôi không cảm thấy gì cả... ứu...!」"
+    },
+    {
+        "sentence": "[たまき「]::んうううっ！　ひゃうぅっ……うぅぅっ、くっ……ああぅっ……うーっ……！」",
+        "translation": "Takami「Nguuugg! Hyauuuu...! Uuuu, hức... Aaaauuu...! Uuu...!」"
+    },
+    {
+        "sentence": "[たまき「]::き、気持ち良く、なんてっ……んぅぅっ、くうっ、な、ないぃぃっ……！　オチンチン、なんて、いらないよぉぉーっ……！」",
+        "translation": "Takami「K-Không... sướng gì hết, không đời nào... ư hư... hức, k-không cần... Cái đó của cậu... Tôi không cần đâu...」"
+    },
+    {
+        "sentence": "[たまき「]::嘘じゃないぃぃっ……！　いらないのぉっ、チンチンいらないぃっ！　抜いてぇーっ、いらないから、抜いてええっ！」",
+        "translation": "Tamaki「Tôi không nói dối đâuuu...! Tôi không muốn nó đâuuu, tôi không muốn cái dương vật đó đâuuu! Rút ra đi mà, tôi không muốn nó đâu, rút ra đi màaa!」"
+    },
+    {
+        "sentence": "[たまき「]::きゃはああっ！　あっ、だめぇっ、だめよぉぉっ！　突かないでっ、突かないでええーっ！　ああっ、はあっ、ああーーんっ！」",
+        "translation": "Takami「Áhh! Á, không được! Không được màaa! Đừng đâm nữa, đừng đâm nữa màaa! Aaa, hự, aaa-n!」"
+    },
+    {
+        "sentence": "[たまき「]::んくあっ！　あっ、うっ、あうぅぅぅっ！　と、止まらないぃぃっ！　エッチな、エッチな声が出ちゃうぅぅぅっ！」",
+        "translation": "Tamaki「N-Nngk! Ư, ừm, a-awwwuuu! T-Tôi không dừng lại được nữaaa! Những tiếng kêu dâm đãng, những tiếng kêu dâm đãng cứ thoát ra mất thôi!」"
+    },
+    {
+        "sentence": "[たまき「]::んひいいっ！　こ、腰、回しちゃやだよおっ！　んんぅっ、きゃあっ、さ、裂けるぅっ！　入り口が、裂けちゃうよおーーっ！」",
+        "translation": "Tamaki「Nnn! Kh-Không! Đừng có xoay hông của tôi mà! Nnnn, K-Kyaa, T-Tôi sắp rách mất rồi! Âm hộ của tôi sắp rách ra mất rồiーーー!」"
+    },
+    {
+        "sentence": "[たまき「]::くああっ、はぁっ、あーーっ！　はひぃぃっ！？　そ、そこっ！？　そこダメェーーーっ！」",
+        "translation": "Tamaki「Kyaaaa, hự, aaa! Hifii?! C-Chỗ đó á!? Chỗ đó không được đâuuuu!」"
+    },
+    {
+        "sentence": "[たまき「]::ひゃふああーっ！？　あんぅっ、あはあぁっ！　そこおおっ、そこいやあっ！　そこばっかり擦らないでーーっ！」",
+        "translation": "Takami「Hyafuah!?! Nngh, ahah! Chỗ đó, đừng có cọ vào chỗ đó! Đừng có cọ vào chỗ đó hoài màaa!」"
+    },
+    {
+        "sentence": "[たまき「]::ひぎぃっ、ひあああーーっ！　そ、そんな、こと、したらぁっ、か、感じちゃうぅっ！　感じ過ぎちゃうよおぉぉぉっ！」",
+        "translation": "Takami「Hyaa, hyaaaa! K-Không, nếu mà, làm thế, t-tôi sẽ, cảm thấy mất! S-Sướng quá mất thôi ớ ớ ớ!」"
+    },
+    {
+        "sentence": "[たまき「]::んひぃっ、ダメっ、ダメぇぇーーっ！　漏れるうぅっ、また、オッパイミルクが、漏れちゃううううーーっ！？」",
+        "translation": "Tamaki「Nngh! Không! Khôngggg! Sắp chảy ra rồi! Sữa từ ngực tôi, sữa của tôi lại chảy ra mất rồi!」"
+    },
+    {
+        "sentence": "[たまき「]::いやああーーっ！　ああっ、あああぁぁーーっ！　ミ、ミルク、出ちゃってるぅぅっ！　こぼれちゃってるよおおおっ！！」",
+        "translation": "Tamaki「Iyaaaa! Aahh, aaaahhh! S-Sữa, sữa đang chảy ra rồi! Nó đang chảy hết ra ngoài rồi nàyyyyyy!!」"
+    },
+    {
+        "sentence": "[たまき「]::はひっ、ひーっ！　やだああっ！　もう、んぁっ、つ、突かないでぇぇっ！　ひいっ、ひいいいぃぃーーっ！」",
+        "translation": "Takami「Hí hí, hí! Không, không đâu! Thôi, nnngh, đừng, đừng có đâm nữa đêeeee! Hí, híiiiiiiii!」"
+    },
+    {
+        "sentence": "[たまき「]::んああっ、はうっ、っ、うううっ！　い、いやあっ、オッパイの中にっ、お乳がどんどんっ、溜まってきてるよおぉぉっ！」",
+        "translation": "Tamaki「Nnngh! Haau! M-Mu... Uuuugh! T-Tidak, tidak! Bên trong ngực, sữa đang ngày càng chảy nhiều raaa!»"
+    },
+    {
+        "sentence": "[たまき「]::ああんっ、はあっ、や、やだっ、やだあーーっ！　ミルクがタプタプいってるうぅっ！」",
+        "translation": "Tamaki「Aaaannh, haahh, T-Tidak, tidak! Khônggggg! Sữa đang căng đầy hết rồi ạaaa!」"
+    },
+    {
+        "sentence": "[たまき「]::はううっ、く、苦しいよおおっ！　んひっ、ひぃっ、ミルク、いらないぃぃっ！　いらないよおおおーーっ！」",
+        "translation": "Tamaki「Hauuu, đ-đau quá đi mất! Nnh, hí! Sữa, tôi không cần nữa đâuuu! Tôi không cần nữa đâuuuuuuuu!」"
+    },
+    {
+        "sentence": "[たまき「]::え、えええーーっ！？　ああっ、きゃはああぁぁぁーーっ！？」",
+        "translation": "Takami「Ơ, ƠƠƠ!? Aaahh, KYAAAAAAAaaaaa!?」"
+    },
+    {
+        "sentence": "[たまき「]::くひいぃぃっ！？　ち、違うぅぅっ！　ひぐっ、うううっ、あ、あたし、牛じゃないよおおっ！？」",
+        "translation": "Tamaki「Khụyyyy!? K-Không phải! Hức, ư ư ư, t-tôi... tôi không phải là bò sữa đâuuuu!?」"
+    },
+    {
+        "sentence": "[たまき「]::い、いやあぁぁぁーーっ！　そんな事、い、言わないでぇぇっ！　あはぁっ、ああぁぁんっ！　う、牛いやあああーーっ！！」",
+        "translation": "Takami「K-Không, khônggg! Xin cậu, đừng nói thế mà! Ahaa, aaaaahn! Ư, bò... Tôi không phải bò sữa đâuuuuu!!」"
+    },
+    {
+        "sentence": "[たまき「]::ふひいいぃっ！　出るううぅぅっ！　ふ、太いオチンチンで、中、擦られてえ、オッパイ搾られるとぉっ、ミルク出るのぉっ！」",
+        "translation": "Takami「Fuhyiiii! Ra rồi, ra ồ ồ ồ! Ư ư, bị chà xát bên trong bằng cái dương vật to, rồi bị vắt sữa nữa, sữa cứ tuôn raaa!」"
+    },
+    {
+        "sentence": "[たまき「]::へ、変態オッパイから、くひああっ、ああーっ！　お、お乳、いっぱい出ちゃうよおおーーっ！」",
+        "translation": "Takami「Hể, từ cái cặp vú biến thái này, khụhiaaa, aaaa! Ư, sữa, sữa ra nhiều quá điiiiii!」"
+    },
+    {
+        "sentence": "[たまき「]::ああっ、っ、あっあああっ！　オ、オマ、オマンコぉぉっ！　オマンコ突かれるの、気持ちいいのおおーーっ！」",
+        "translation": "Takami「Aaaa, a, aaaaaa! L-Lồn, lồn ơiiii! Bị thọc vào lồn, sướng quá đi thôôôôi!」"
+    },
+    {
+        "sentence": "[たまき「]::はああんっ！　ふああっ、ああーーっ！　よ、よすぎて、んひぃっ、ひっ、あ、頭が変になるううぅぅぅーーっ！」",
+        "translation": "Takami「Haaahn! Fuahh, aaaaaah! S-Sướng quá, ứm, ự, a, đầu óc tôi sắp biến thành cái gì đó mất rồiiiiiiiii!」"
+    },
+    {
+        "sentence": "[たまき「]::ひゃひいぃっ！　うはあっ、くああーっ！　く、来るうっ！　んはああっ、き、来ちゃうよおおーーっ！！」",
+        "translation": "Takami「HyaHii! Uwah, kuaaah! S-Sắp raa! Nhaaah, t-tôi sắp ra rồi đâyyyyy!!」"
+    },
+    {
+        "sentence": "[たまき「]::そ、そんなぁっ！？　だ、ダメぇ、中になんて出したらぁっ、そんな事したら、赤ちゃん出来ちゃうううぅぅーーっ！」",
+        "translation": "Takami「K-Không thể nào!? K-Không, không được! Không được bắn vào trong! Nếu làm vậy, tôi sẽ có em bé mấtttttt!」"
+    },
+    {
+        "sentence": "[たまき「]::やああああっ！　に、妊娠なんてやだぁっ！　困るよおっ！　赤ちゃんなんて産めないーーーっ！！」",
+        "translation": "Takami「Aaahhh! T-Tôi không muốn có thai! Sẽ rắc rối lắm! Tôi không thể sinh con đượcーーーー!!」"
+    },
+    {
+        "sentence": "[たまき「]::くひいぃっ！　あふぅっ、んっ、んーっ！　ダメっ、ダメっ、妊娠ダメええぇぇぇぇぇーーーっ！！」",
+        "translation": "Takami「Khư hự! Aah, ưm, ưm! Không được, không được, tôi không muốn có thaiiiiiiiiiiiiiiii!!」"
+    },
+    {
+        "sentence": "[たまき「]::んああっ！　だめっ！　ゆ、許してぇっ！　中出し許してええーーっ！　い、いやあああああぁぁぁぁぁぁーーーーっ！？」",
+        "translation": "Takami「Ng... Ngô! Không! Xin... xin cậu tha cho tôi! Xin cậu đừng bắn vào trong màaaaa! K-Khônnnnngggggggggggggggggggggg!!!!」"
+    },
+    {
+        "sentence": "[たまき「]::きゃはああああああぁぁぁぁぁぁーーっ！！？」",
+        "translation": "Takami「Kyaaaaaaaaaaaaaaaaaaaaーーーっ!!?」"
+    },
+    {
+        "sentence": "[たまき「]::やああーーっ！　で、出てるぅぅっ、熱いの、な、中で、出てるよおぉぉっ……！　ああっ、ああああーっ……！」",
+        "translation": "Takami「Aaaaaa! Nó... nó đang ra nèee, nóng quá, ở... ở bên trong, nó đang ra đâyyyy...! Aaa, aaaaaaaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::あうぅっ……う……うぅぅぅぅ……」",
+        "translation": "Takami「A...a...a...aaaaaaa……」"
+    },
+    {
+        "sentence": "[たまき「]::うぁ……入って……きちゃった……よぉ……あ、赤ちゃんの素が……いっぱい、いっぱい、あたしの中に入ってきちゃったぁ……」",
+        "translation": "Takami「Ưa... Vào rồi... vào hết rồi... Á, nhân tố em bé... nhiều, nhiều lắm, đã vào hết trong người tôi rồi...」"
+    },
+    {
+        "sentence": "[たまき「]::あぁ……ぅ…………ぅぅっ…………」",
+        "translation": "Takami「A... ư... ư...」"
+    },
+    {
+        "sentence": "[たまき「]::うぅぅ……ぁぁ……ぁ……っ……」",
+        "translation": "Takami「Ư... Aaa... A... Hức...」"
+    },
+    {
+        "sentence": "[たまき「]::あ……」",
+        "translation": "Takami「A…」"
+    },
+    {
+        "sentence": "[たまき「]::……うぅ……ぅ……」",
+        "translation": "Takami「……Hức……ư……」"
+    },
+    {
+        "sentence": "[たまき「]::……え…………？」",
+        "translation": "Takami「……Hả…………?」"
+    },
+    {
+        "sentence": "[たまき「]::そ……その……」",
+        "translation": "Takami「T… Tôi…」"
+    },
+    {
+        "sentence": "[たまき「]::だ、誰もいない所を……探してたの……」",
+        "translation": "Takami「T… Tôi… đang tìm một nơi không có ai…」"
+    },
+    {
+        "sentence": "[たまき「]::最近、周りの人の目が凄く気になるの……特に男の人の目が……」",
+        "translation": "Takami「Dạo này, tôi cảm thấy cực kỳ để tâm đến ánh mắt của mọi người xung quanh… đặc biệt là ánh mắt của đàn ông…」"
+    },
+    {
+        "sentence": "[たまき「]::いつもジッと見られてるみたいで……落ち着かないし、何だか怖いのよ……」",
+        "translation": "Takami「...Lúc nào cũng có cảm giác như bị nhìn chằm chằm... khiến tôi không yên tâm, mà còn thấy sợ hãi nữa...」"
+    },
+    {
+        "sentence": "[たまき「]::だから、その……誰もいない所に逃げてきたの……」",
+        "translation": "Takami「...Vì vậy, tôi... tôi đã trốn đến một nơi không có ai cả...」"
+    },
+    {
+        "sentence": "[たまき「]::あぅぅ……うぅ…………」",
+        "translation": "Takami「...Aaa... Uuu...」"
+    },
+    {
+        "sentence": "[たまき「]::あ……」たまきは俺を見て怯えを孕んだ声を漏らすも、前のように逃げ出そうとしたりはしなかった。",
+        "translation": "Takami「……” Tôi nhìn cậu, lùi lại, giọng run rẩy. Nhưng không giống như trước, tôi không hề định chạy đi."
+    },
+    {
+        "sentence": "[たまき「]::そ……そんなの、無理だよ……」",
+        "translation": "Takami「...T-Thứ đó... tôi không thể làm được...」"
+    },
+    {
+        "sentence": "[たまき「]::で、でもぉ……こんな……急になんて……」",
+        "translation": "Takami「Nhưng... nhưng mà... đột nhiên lại thế này...」"
+    },
+    {
+        "sentence": "[たまき「]::うう……そ、それとこれとは……違うのよぉ…………」",
+        "translation": "Takami「Ưu... cái này... với cái kia... là khác nhau màaaaaa.........」"
+    },
+    {
+        "sentence": "[たまき「]::あうぅ……っ…………」",
+        "translation": "Takami「Auuu......!」"
+    },
+    {
+        "sentence": "[たまき「]::……はぁ……ぅ……う～…………」",
+        "translation": "Takami「......Haah......Uuu......Uuuu...........」"
+    },
+    {
+        "sentence": "[たまき「]::…………あ……三沢君……」",
+        "translation": "Takami「……Á……Misawa-kun……」"
+    },
+    {
+        "sentence": "[たまき「]::う……うぅ……な、何か用なのぉ……？」",
+        "translation": "Tamaki「Ư……ưm……c-cậu tìm tôi có việc gì sao……?」"
+    },
+    {
+        "sentence": "[たまき「]::……く、下らなくなんかないもん。ほんとに嫌なんだから……」",
+        "translation": "Takami「……Hức, không có vớ vẩn gì hết. Tôi thật sự ghét mà……」"
+    },
+    {
+        "sentence": "[たまき「]::さっきだってね……化学の授業中に阿部先生が、チラチラあたしの方見てたのよ……」",
+        "translation": "Takami「Thậm chí lúc nãy… lúc giờ học Hóa, thầy Abe cứ liếc nhìn tôi mãi…」"
+    },
+    {
+        "sentence": "[たまき「]::しかも、何回も当てられちゃって、みんながあたしをじろじろ見て……何だか、頭がおかしくなりそうだったんだから……」",
+        "translation": "Takami「Hơn nữa, tôi còn bị gọi tên biết bao nhiêu lần, mọi người cứ nhìn chằm chằm vào tôi… Cứ thế này, tôi sắp phát điên mất thôi……」"
+    },
+    {
+        "sentence": "[たまき「]::みんな、最初の頃より、どんどん露骨に見るようになってきたし……ほんとに辛いの……」",
+        "translation": "Takami「Mọi người nhìn tôi ngày càng lộ liễu hơn so với lúc đầu… Thật sự rất khó chịu…」"
+    },
+    {
+        "sentence": "[たまき「]::あ、あのね……その……な、なんとか、元の大きさに……戻せないの……？」",
+        "translation": "Takami「À… ừm… vậy… có… có cách nào… để nó… trở lại kích thước ban đầu… không……?」"
+    },
+    {
+        "sentence": "[たまき「]::……そ……そんなぁ……」",
+        "translation": "Takami「…Kh…Không thể nào……」"
+    },
+    {
+        "sentence": "[たまき「]::も、もしかして、あたし、一生……このままなの？」",
+        "translation": "Takami「Chẳng lẽ… tôi… suốt đời… thế này sao…？」"
+    },
+    {
+        "sentence": "[たまき「]::うぅぅ……気にしないなんて……無理だよぉ…………」",
+        "translation": "Takami「Ưrrr… Bảo tôi không để tâm thì… thật là bất khả thi mà…」"
+    },
+    {
+        "sentence": "[たまき「]::……はふぅ…………」",
+        "translation": "Tamaki「……Haaah…………」"
+    },
+    {
+        "sentence": "[たまき「]::……さ、真田先生……」",
+        "translation": "Tamaki「……Th-thầy Sanada……」"
+    },
+    {
+        "sentence": "[たまき「]::…………」",
+        "translation": "Tamaki「…………」"
+    },
+    {
+        "sentence": "[たまき「]::……はぁ…………」",
+        "translation": "Tamaki「……Haa……」"
+    },
+    {
+        "sentence": "[たまき「]::あっ…………！」",
+        "translation": "Tamaki「Ah……!」"
+    },
+    {
+        "sentence": "[たまき「]::な……何も話してない……」",
+        "translation": "Tamaki「……T-tôi… tôi không nói gì cả…」"
+    },
+    {
+        "sentence": "[たまき「]::ただ、その……最近元気が無いみたいだけど悩み事でもあるのか、って……聞かれただけ」",
+        "translation": "Tamaki「Chỉ là... ừm... Thầy ấy hỏi tôi dạo gần đây trông không được vui lắm, có chuyện gì phiền lòng không thôi.」"
+    },
+    {
+        "sentence": "[たまき「]::な、何も……言える事じゃないから、黙ってた」",
+        "translation": "Tamaki「T-Tôi… Tôi không nói gì cả… Vì đó là chuyện không thể nói ra được, nên tôi đã im lặng.」"
+    },
+    {
+        "sentence": "[たまき「]::そうしたら、その……真田先生が『悩みがあるなら、私でなくても構わないから誰かに相談しなさい』って言って行っちゃったの」",
+        "translation": "Tamaki「Rồi sau đó, ừm... Thầy Sanada đã nói là 'Nếu con có chuyện gì phiền lòng, không nhất thiết phải là tôi, cứ tìm ai đó mà tâm sự' rồi thầy ấy đi mất.」"
+    },
+    {
+        "sentence": "[たまき「]::あ……あのぉ……？」",
+        "translation": "Tamaki「A… Alo ạ…？」"
+    },
+    {
+        "sentence": "[たまき「]::きゃっ……！　な、なにっ……？」",
+        "translation": "Tamaki「Kya... Cái gì vậy...?」"
+    },
+    {
+        "sentence": "[たまき「]::あうぅ……ぅ……」",
+        "translation": "Tamaki「Auuu... uuu...」"
+    },
+    {
+        "sentence": "[たまき「]::う……うう……」",
+        "translation": "Tamaki「Ư... Ưu...」"
+    },
+    {
+        "sentence": "[たまき「]::あ、あたし、何もしてないよ……？」",
+        "translation": "Tamaki「À, tôi... tôi có làm gì đâu... ạ...?」"
+    },
+    {
+        "sentence": "[たまき「]::あう……う…………」",
+        "translation": "Tamaki「Auuu... uuu...」"
+    },
+    {
+        "sentence": "[たまき「]::そんな事……言われても……こんなのっ……」",
+        "translation": "Tamaki「Những chuyện... như vậy... dù cậu có nói... tôi cũng... không làm được...」"
+    },
+    {
+        "sentence": "[たまき「]::な……なに？　それ……？」",
+        "translation": "Tamaki「...Cái...cái gì vậy...?」"
+    },
+    {
+        "sentence": "[たまき「]::何言ってるの……？　いきなりこんなの着ろって……おかしいよっ……」",
+        "translation": "Tamaki「...Cậu đang nói cái gì vậy...? Tự nhiên bắt tôi mặc cái này... Thật là kỳ quái!」"
+    },
+    {
+        "sentence": "[たまき「]::い、いやっ……！　こ、こんなの着たら……胸が目立っちゃうよぉぉっ！」",
+        "translation": "Tamaki「K-không... ! T-tôi mà mặc cái này... ngực tôi sẽ lộ ra mất thôi!」"
+    },
+    {
+        "sentence": "[たまき「]::あ……あううう……」",
+        "translation": "Tamaki「A... Awww...」"
+    },
+    {
+        "sentence": "[たまき「]::うぅ……わ、分かったよぉ……」",
+        "translation": "Tamaki「...Ư... T-tôi... tôi hiểu rồi...」"
+    },
+    {
+        "sentence": "[たまき「]::ど、どこで……着替えたら……」",
+        "translation": "Tamaki「T-tôi... tôi nên thay đồ ở đâu đây...?」"
+    },
+    {
+        "sentence": "[たまき「]::そ、そんなぁぁ……」",
+        "translation": "Tamaki「K-không thể nào đâu...」"
+    },
+    {
+        "sentence": "[たまき「]::ここで着替えるなんて……無理だよーっ……」",
+        "translation": "Tamaki「Ở đây để thay đồ ư... Không thể nào đâuuuu...!」"
+    },
+    {
+        "sentence": "[たまき「]::ううぅ……わ、分かったから……怒らないでぇ……」",
+        "translation": "Tamaki「Ưuuu... T-tôi... tôi hiểu rồi mà... Đừng giận tôi nữa mà...」"
+    },
+    {
+        "sentence": "[たまき「]::こ……これで良い？」",
+        "translation": "Tamaki「T-tôi... thế này được chưa?」"
+    },
+    {
+        "sentence": "[たまき「]::や、やぁぁ……」",
+        "translation": "Tamaki「Ư, ưaaa……」"
+    },
+    {
+        "sentence": "[たまき「]::きゃうっ……！？」",
+        "translation": "Tamaki「Kya~...!?」"
+    },
+    {
+        "sentence": "[たまき「]::あ、あうう～っ……」",
+        "translation": "Tamaki「A, á~~...」"
+    },
+    {
+        "sentence": "[たまき「]::う、うん……」",
+        "translation": "Tamaki「Ư, ừm……」"
+    },
+    {
+        "sentence": "[たまき「]::え……？　あ……」",
+        "translation": "Tamaki「Ể...? A...」"
+    },
+    {
+        "sentence": "[たまき「]::そ……それで……何をするの……？」",
+        "translation": "Tamaki「V-Vậy thì... Cậu định làm gì...?」"
+    },
+    {
+        "sentence": "[たまき「]::ぱ、ぱいず……り……？」",
+        "translation": "Takami「P-Pai... Pai zuri...?」"
+    },
+    {
+        "sentence": "[たまき「]::あうぅぅ……こ、これで……いいの……？」",
+        "translation": "Tamaki「Á... Áaaa... Th-Thế này... có được không...?」"
+    },
+    {
+        "sentence": "[たまき「]::…………うぅぅ……あ、熱いよぉ……オチンチンが……胸の中で、すごく、ビクビクしてる……」",
+        "translation": "Tamaki「...Ư ư... A, nóng quá... Cái dương vật... đang run run, rung lên rất mạnh trong ngực tôi...」"
+    },
+    {
+        "sentence": "[たまき「]::ふえっ……ああ……わ、わざと、跳ねさせないでよぉ……」",
+        "translation": "Takami「Hử... A... Đ... đừng có cố tình làm nó giật lên chứ...」"
+    },
+    {
+        "sentence": "[たまき「]::え……えと……そのぉ……どうしたら、いいの？」",
+        "translation": "Takami「Ư... ừm... cái đó... tôi... phải làm sao đây?」"
+    },
+    {
+        "sentence": "[たまき「]::き、きとう……って……？」",
+        "translation": "Takami「Đ... đầu buồi... ư...?」"
+    },
+    {
+        "sentence": "[たまき「]::こ、ここを舐めながら……胸を動かしたら、いいって事……？」",
+        "translation": "Takami「À... ý... ý là liếm chỗ này... rồi làm cho ngực tôi chuyển động thì là được đúng không...?」"
+    },
+    {
+        "sentence": "[たまき「]::はぁ……はぁ…………ん、ちゅ……」",
+        "translation": "Takami「Haa... Haa... Ư, chụt...」"
+    },
+    {
+        "sentence": "[たまき「]::ふあ……う、うぅ……」",
+        "translation": "Takami「Haa... Ư, ư...」"
+    },
+    {
+        "sentence": "[たまき「]::ううぅ……ちゅ……ちる……ちゅぱ、ちぱ……」",
+        "translation": "Takami「Ưuuu... chụt... chụt... chụt... chụt...」"
+    },
+    {
+        "sentence": "[たまき「]::ふむっ……える……ぅ……これれ、いい……？」",
+        "translation": "Takami「Hừm... ướt... ư... Thế này là được... phải không...?」"
+    },
+    {
+        "sentence": "[たまき「]::んふっ……！　ん……ちく……ちゅ……はぁぅっ……！」",
+        "translation": "Takami「Nnff...! Ư... chụt... chụt... Haaútt...!」"
+    },
+    {
+        "sentence": "[たまき「]::ら、らって……チュパ……む……胸が……胸に硬いの挟んでる……から……んんっ……」",
+        "translation": "Takami「T-tại... chụt... ưm... ngực... ngực đang kẹp cái thứ cứng đó vào... nên... ưn...」"
+    },
+    {
+        "sentence": "[たまき「]::ちくび、が……んっ……こすれるぉ……うむぅ……ふう、ううー……」",
+        "translation": "Takami「Nhũ hoa... đang... ưn... cọ xát... Ừm... phù, ư ư...」"
+    },
+    {
+        "sentence": "[たまき「]::んんぅ……ちぷぅ……ちぱ……ん、ふあっ……！　ん……あぁ、む……」",
+        "translation": "Takami「Ưm... chụt... chụt... ưm, f-fá...! Ưm... àa, ừm...」"
+    },
+    {
+        "sentence": "[たまき「]::あううっ……！　えぅ……ん……ちぱ……チュ……む、ふあぁっ……」",
+        "translation": "Takami「Auuu...! Eugh... ừm... chụt... Chụt... ưm, fuuahh...!」"
+    },
+    {
+        "sentence": "[たまき「]::んんっ……こ、こう……？　あんっ……ふぁ……っ……あぅっ……」",
+        "translation": "Takami「Ưm... c-cái này... sao...? Ưn... faa... áuu...」"
+    },
+    {
+        "sentence": "[たまき「]::は、はい……チロチロ……んっ……ちぷ……えぁ……れるぅぅ……」",
+        "translation": "Takami「Vâng, vâng... chụt chụt... ưm... chụt... E-a... L-làm ơn...」"
+    },
+    {
+        "sentence": "[たまき「]::う、うぅ……んぷぅ……んぢゅ……ひあっ……ん……ぢゅぷぁ……えるるーっ……！」",
+        "translation": "Takami「Ư, ư... ưm... ưm... hia... ưm... chụt... ư hư...！」"
+    },
+    {
+        "sentence": "[たまき「]::んああっ……！？　あっ、や、やだぁ……！？」",
+        "translation": "Takami「Ưng ah...! Ảa, kh-không muốn...!」"
+    },
+    {
+        "sentence": "[たまき「]::ちょ、ちょっと、やだよぉっ！　こんなところ撮らないでぇっ……！」",
+        "translation": "Takami「Ơ, ơ, không muốn đâu mà! Đừng chụp kiểu này chứ...!」"
+    },
+    {
+        "sentence": "[たまき「]::あうっ……ぅ……うううっ……」",
+        "translation": "Takami「Ứ... ư... ừm...」"
+    },
+    {
+        "sentence": "[たまき「]::んっ……んん……ちゅっ……れろ……れろ……」",
+        "translation": "Takami「Ưng... ưm... chụt... mút... mút...」"
+    },
+    {
+        "sentence": "[たまき「]::ふむぅ……んっ、だ、だってぇ……んぁ……むっ……れるぅ……」",
+        "translation": "Takami「Ừm... Ưng, n-nhưng mà... Ư... ừm... mút... mút...」"
+    },
+    {
+        "sentence": "[たまき「]::ひゃあう……！　う、うう……ん……んっ……」",
+        "translation": "Takami「Ứ... ư! U-ừm... ưm... ưm...」"
+    },
+    {
+        "sentence": "[たまき「]::あううっ……んっ……はぁ、ん、うぅっ……そんな事、ちゅぷっ、ちゅく……い、言わないでぇ……」",
+        "translation": "Takami「Ư ư... Ưm... Haa, ưm, uuu... Đừng nói... chụp, chụt... những chuyện như thế nữa mà...」"
+    },
+    {
+        "sentence": "[たまき「]::うう……は、恥ずかしいよぉ……んんっ……ぁ……ちろっ、ちろろ……写真はいやぁ……」",
+        "translation": "Takami「Ư ư... Thật là xấu hổ quá mà... Ưm ừm... A... chụt, chụt chụt... Chụp ảnh thì tôi không thích đâu...」"
+    },
+    {
+        "sentence": "[たまき「]::んうー……む、胸……ん、自分で、揉んでる、みたいで……あぁむ、んぢゅ……」",
+        "translation": "Takami「Ư ừ... Ừm, ngực... Ưm, như thể là, tôi đang tự mình, xoa bóp ấy... A ừm, nhụ...」"
+    },
+    {
+        "sentence": "[たまき「]::オチンチンが熱くて……んぁっ、ふぅ……あたしの胸も、ちぱ、んるぅ……あ、熱く、なっちゃってるのぉ……」",
+        "translation": "Takami「Con chim của cậu nóng quá... ưm... phù... ngực của tôi cũng, chụt, nhũ... a, cũng nóng... mất rồi...」"
+    },
+    {
+        "sentence": "[たまき「]::ふむぁぁ……や、やあ、硬いのっ、胸の中で……び、ビクって……跳ねたぁ……んっ、はぁぁんっ……！」",
+        "translation": "Takami「Ư...ư... A, a... Cứng quá... ở trong ngực tôi... B, bịch một tiếng... Nảy lên... ư... ha... a...!」"
+    },
+    {
+        "sentence": "[たまき「]::ひううっ……い、いや、いやぁ……んっ、み、見せないれぇ……ふむ……んーっ……」",
+        "translation": "Takami「Ư ư... K-không, không mà... Ưm, đừng có... nhìn tôi mà... Hừm... ưm...」"
+    },
+    {
+        "sentence": "[たまき「]::は、はあぅっ……んぶっ……れるぅ……ぢゅぅ……れるろぉ……んぁっ、あ、あぁんっ……んっ……」",
+        "translation": "Takami「H-huhu... n-nhũn nhão... dính... chùn... chụt... N-nhúm... Aaa... ưm... ưm...」"
+    },
+    {
+        "sentence": "[たまき「]::ぢゅぱぁ……える……あぁ、むぅ……へ、変だよぉっ……あ、頭がぼーって、なってきちゃってるぅ」",
+        "translation": "Takami「Chù pa... Ê... Aaa, ưm... Hể, lạ quá... A, đầu tôi cứ ong ong, bắt đầu choáng váng rồi...」"
+    },
+    {
+        "sentence": "[たまき「]::オッパイで、んぁっ、恥ずかしい事、してるの……はふっ、んぢ……写真に撮られて、頭の中真っ白になっちゃってるよぉっ……」",
+        "translation": "Takami「Tôi đang làm chuyện xấu hổ với ngực của mình... Hộc... dính... Bị chụp ảnh lại rồi, đầu óc tôi trống rỗng hết cả...」"
+    },
+    {
+        "sentence": "[たまき「]::わ、分かんないぃ……んんっ、はぁんっ、あ、頭もオッパイも熱くって、何も分かんないよぉぉっ……！」",
+        "translation": "Takami「T-tôi không hiểu... Ưm, aaaa... A, cả đầu và ngực tôi đều nóng ran, tôi không hiểu gì hết nữaぉぉ...！」"
+    },
+    {
+        "sentence": "[たまき「]::あふっ……ん、ちゅぱ、ちゅぱっ……あはっ、んあっ、あぁむっ……ぢゅぅ……」",
+        "translation": "Takami「Ah... ưm, chụt, chụt... A ha, ưm ah, ừm mừm... Chụt chụttt...」"
+    },
+    {
+        "sentence": "[たまき「]::う、うん……んぅっ、ああっ……！　はんぅ、こんな、感じで、んあっあぁん……い、いい？」",
+        "translation": "Takami「Ư, ừm... ưm, aaaa... hừm, kiểu này, ưm ahhh... ổn, ổn chứ?」"
+    },
+    {
+        "sentence": "[たまき「]::んんっ、ふああっ？　オチンチンが、んむぅ、ちぱぁ……ふ、太くなってきたよぉっ……」",
+        "translation": "Takami「Ưm... hửm? Dương vật, ừm, chụt... nó, nó đang to ra kìaぉぉ...」"
+    },
+    {
+        "sentence": "[たまき「]::あたしの、んむぁ、あぁ、ぢゅっ……ん、オッパイ、気持ち、いいのぉ？」",
+        "translation": "Takami「Ngực tôi, ừm, áaaa, chụt... ưm, ngực tôi, đang thấy phê lắm hảぉ?」"
+    },
+    {
+        "sentence": "[たまき「]::う、うぅぅ……ご、ご主人……ご主人様……」",
+        "translation": "Takami「Ư, ưm... Chủ, chủ nhân... Chủ nhân...」"
+    },
+    {
+        "sentence": "[たまき「]::ああっ、ご主人様っ、ご主人様ぁぁっ……！　んあっ、ひゃむっ、んぢぅっ……！」",
+        "translation": "Takami「Áaaaa, Chủ nhân, Chủ nhân àaaaaa...! Ưm, ực, ừm...！」"
+    },
+    {
+        "sentence": "[たまき「]::はうっ、んあっ、ご主人様のオチンチン、すごいぃっ……！　硬くて、熱くてっ……んあぅっ、き、気持ちいい、よぉっ！」",
+        "translation": "Takami「Ưh, ực, aaaaa... Dương vật của chủ nhân, đỉnh quá đi mất...! Cứng quá, nóng quá đi mất... Ưm, ừm, thích quá, sướng quá đi mấtぉぉ...!」"
+    },
+    {
+        "sentence": "[たまき「]::んぅっ、ちゅくっ、ちゅぱっ……！　あっ、あぁぁっ、頭、ヘンになっちゃうぅ……ふむぅっ、んんっ、あっ、はぁぁーんっ……！」",
+        "translation": "Takami「Ưm, chụt, chụt... Á, áaaa, đầu óc tôi, cứ thế này thì loạn mất thôi... Ưm, ừm, á, háaaaaan...!」"
+    },
+    {
+        "sentence": "[たまき「]::は、はいっ、ご主人様っ……！　んっ、んぅっ……！　あはっ！　ああっ、あぁんっ……！」",
+        "translation": "Takami「Vâng, vâng ạ, Chủ nhân...! Ưm, ưm...! A ha! Aaaa, aaaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::くひっ！　ひいいっ！？　あっ、ああっ！　や、やだっ、来ちゃうっ、オッパイ来ちゃうっ！　んあっ、はあぁっ！」",
+        "translation": "Takami「Cực! Hihihi!? Á, á! Không, không, sắp tới rồi, sắp tới rồi ở ngực! Ưm, hảaaah!」"
+    },
+    {
+        "sentence": "[たまき「]::ひはぁぁっ！　あっああんっ！　こ、このまま、んちゃ、んぅ、ちぷぁっ！　し、してたらぁ、オッパイミルクが、出ちゃうよぉっ！」",
+        "translation": "Takami「Híi híaaa! Á àaaan! Cứ, cứ thế này, ực, ực, chụt pa! N, nếu cứ thế này, sữa ti sẽ ra mất thôi ơooi!」"
+    },
+    {
+        "sentence": "[たまき「]::ふむあぁぁっ！　あぅっ、はああんっ……！　んぅっ、ちゅぷ、れるぅ、んっ、んんんぅぅっ！」",
+        "translation": "Takami「Ưm, áaaaa! Ưm, háaaaaan...! Ưm, chụt, chụt... Ưm, ừm, ừm, ừm, ừm!」"
+    },
+    {
+        "sentence": "[たまき「]::ああっ……オッパイきちゃう、でちゃうのっ……ああっ……んんっ、熱いの、オッパイの中が熱くてっ……ふぁああっ……！」",
+        "translation": "Takami「Áaaa... ngực tôi sắp ra, sắp chảy ra rồi... Áaa... ừm, nóng quá, bên trong ngực nóng quá... Phaaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::ひいっ！？　んっ、ひゃぁっ、ああぁぁっ！　れろぉっ、ぁ、むるぁっ、で、れちゃうっ！　ミルクれちゃううううーーーっ！！」",
+        "translation": "Takami「Hí!?!? Ưm, hyaaaah, aaaaaah! Reroooh, à, murahh, sắp ra rồi! Sữa sắp ra rồi ơooi!!!」"
+    },
+    {
+        "sentence": "[たまき「]::ひゃはあっ！？　あっああああああぁぁぁーーーーっ！！」",
+        "translation": "Takami「Hya haah!? Aaaaaaaaahーーーーっ!!」"
+    },
+    {
+        "sentence": "[たまき「]::あひいぃぃぃっ！　出てるぅっ！　ご主人様のチンチンにぃっ、オッパイミルクかけちゃってるうぅぅっ！」",
+        "translation": "Takami「Ah, ư ư ư! Ra rồi! Sữa ngực bắn đầy vào chim của chủ nhân rồi ư ư ư!」"
+    },
+    {
+        "sentence": "[たまき「]::ふひゃぁぁぁっ……！　はあ、はあっ……オッパイ、噴いちゃったよぉぉ……」",
+        "translation": "Takami「Phù hàaaaa...! Hả, hả... Ngực, ngực tôi phun ra mất rồi ơiiii...」"
+    },
+    {
+        "sentence": "[たまき「]::あふっ……ン、ふぁ、ふぁーい……！　んんっ……んぅっ、ちぱっ……ちゅっ……むああぁっ……」",
+        "translation": "Takami「Àhụ... Ừm, phà, phàiii...! Ưm ừm... Ừm ừ, chịch... Chụt... Muaaaaah...」"
+    },
+    {
+        "sentence": "[たまき「]::んあっ、ふあっ、ああぁぁんっ……！　すごいぃぃ、い、いっぱいすべるぅっ！　あふぁっ、ああぁっ……！」",
+        "translation": "Takami「Ng-nngh, fuahh, aaaaaaaahn...! Tuyệt vời quáaa, nó, nó trơn tuột hết cả rồi ơiii! Afah, aaaaah...!」"
+    },
+    {
+        "sentence": "[たまき「]::ぁあっ……ぬるぬるしてる……ミルクでオチンチンとオッパイニュルンってするのっ……」",
+        "translation": "Takami「Áh... nhờn nhờn quá... sữa mẹ đang làm ướt chim của cậu và ti của tôi ơiii...」"
+    },
+    {
+        "sentence": "[たまき「]::はあうっ、んっ、ああっ……！　ニュ、ニュルニュル、ニュルニュルぅっ……！　オッパイ、ニュルニュルだよぉぉぉ……！」",
+        "translation": "Takami「Haa u... ừm, aaaaaah...! N... nhờn nhờn, nhờn nhờn quá đi mất... Ti, ti của tôi nhờn nhờn rồi ơiiii...!」"
+    },
+    {
+        "sentence": "[たまき「]::んんぁっ、ああむっ……ん、チュパっ！　ミルクかかった、ご主人様のオチンチン、おいひいよぉっ……！」",
+        "translation": "Takami「Ưm nhă, aah ngậm... ưm, chụt! Sữa dính vào rồi, chim của chủ nhân ngon quáaa...！」"
+    },
+    {
+        "sentence": "[たまき「]::むあぁぁっ、あんっ……あ、ああっ！　ご、ご主人様のオチンチンっ、お、大きくなって、先っぽから、何か出てきたぁぁ……！」",
+        "translation": "Takami「Muaaaaah, ừm... À, àaaah! C-chim của chủ nhân, nó, nó lớn lên rồi, và từ chóp có thứ gì đó đang chảy raaaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::ああぁ、ご、ご主人様、ご主人様ぁぁっ……！　ぺろぉっ、ちるぅっ……！　ん、むぢゅっ、ひあっ、あっあああっ……！」",
+        "translation": "Takami「Aaaa, ch-chủ nhân, chủ nhân ơiiii...! Liếm nào, rớt rồiiii...! Ưm, chụt, hiaaaa, a... aaaaaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::は、はいっ……く、くらはいっ、チンチンミルク、いっぱいぃっ、かけてくらさいぃっ！」",
+        "translation": "Takami「V-Vâng ạ...! Cho, cho em với, sữa chim, cho thật nhiều vào ạaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::んぢゅぅ、れるぅぅぅ……んっ、んっ、はあぁんっ……！　ちぷぁぁっ……！」",
+        "translation": "Takami「Ưmm, rướt rướt rồiii... ưm, ưm, haaaan...! Chụt chụt...!」"
+    },
+    {
+        "sentence": "[たまき「]::くふぅぅぅぅっ！　んうっ！　あたひっ、また、ミルク噴いちゃってるぅっ！　んっ、あうううぅぅっ……！」",
+        "translation": "Takami「Kufuuu... Ư ư! Tôi, tôi lại phun sữa rồi...! Ưm, aaaaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::は、はひっ、はひぃっ！　んんぅっ！　ああっ、はぁんっ……んぅっ、あっ、ああーっ！」",
+        "translation": "Takami「Ha, ha hí, ha hí! Ưmm! Aa, haaa... ưm, a, aaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::くひあっ、ミルクいっぱい、ニュルニュルして、あはぁっ、硬いのっ、胸の中れぇっ、おろってるよぉっ！　んひゃああぁっ！」",
+        "translation": "Takami「Ư... á... sữa đầy trong ngực tôi, nhớp nháp, ah... cứng quá, sâu trong ngực tôi... đang quậy lên... ư ư ớ ớ...!」"
+    },
+    {
+        "sentence": "[たまき「]::ふひぃっ！　いいっ！　いいぃっ！　んぁっ、ぢゅぷあっ！　ああんっ！　はあっ！　ああっ、ああああーーっ！」",
+        "translation": "Takami「Ư hí! Đã quá! Đã quá! Ưa, chụp ạ! Aaa! Haa! A, aaaaaa—!」"
+    },
+    {
+        "sentence": "[たまき「]::あひゃぅっ！　うううぅっ！　そ、そんなに突かれたらっ、また噴いちゃうっ！　んあっ、ああっ、く、来るぅっ、噴くうぅぅーーっ！！」",
+        "translation": "Takami「A hyaa! Uuuu! Bị, bị chọc mạnh như thế thì em lại phun ra mất! Ngaa, aaa, sắp, sắp ra rồi, em phun ra đâyyyyy!!」"
+    },
+    {
+        "sentence": "[たまき「]::ひぅっ……ふぁあっ、ちょうだい、オチンチンミルクっ……んんぶっ……いっぱ、オチンチンから出してっ！　かけてぇっ……！」",
+        "translation": "Takami「Ư... phà... cho em đi, sữa từ cây cột ạ... ưm... nhiều, hãy cho thật nhiều từ cây cột ra! Phun lên người em đi...!」"
+    },
+    {
+        "sentence": "[たまき「]::くひゃああぁぁーっ！　ふ、噴くっ、あたひぃ、オッパイミルク噴いちゃううぅぅっ！　あっ、あっ、あひいぃぃぃぃーーーーっ！？」",
+        "translation": "Takami「Kuhhyaaaa! Ph... Phun... tôi... tôi phun cả sữa ngực mất thôi...! A... A... Ahiiiiiii!?」\n"
+    },
+    {
+        "sentence": "[たまき「]::ぷああぁーーっ！？　あぷぅっ、んぐぅっ、いっぴゃい、かかってくるぅっ！　ああっ、くひゃあああああああーーーーっ！！」",
+        "translation": "Takami「Pu-aaaaa!? Ấp-ư, ừm, nhiều quá, Chủ nhân tới rồi! Aaa, kuyaaaaaaaaaaaa—!!」"
+    },
+    {
+        "sentence": "[たまき「]::むぷあっ！　あふっ、ち、チンチンが、んぶっ！　あぷぷっ！　む、胸の中で暴れてぇっ、熱いミルク、いっぱい出してるよぉぉっ……！」",
+        "translation": "Takami「Ưm-a! Ưf, cây, cây cột đó, ưm! Ưp-ưp! Muốn, muốn nó quậy trong ngực emm, sữa nóng, chảy ra thật nhiều rồi ạaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::あはぁぁ……あ、あっつい、チンチンミルクあっついよぉぉ……」",
+        "translation": "Takami「Aaah... nóng quá, nóng quá, sữa từ cây cột nóng quá ạaa...」"
+    },
+    {
+        "sentence": "[たまき「]::くぷっ……んっ……ふあ……あああ……」",
+        "translation": "Takami「Ưm... ừm... phà... aaaa...」"
+    },
+    {
+        "sentence": "[たまき「]::んふぅ……ふぁぁ……ご主人様のセーシ……いっぱいかけられて、う、うれひいれすぅ……あぁ……はぁぁ……」",
+        "translation": "Takami「Ưm... Phà... Tinh dịch của Chủ nhân... bị bắn đầy người, em, em vui quá ạ... A... Haaa...」"
+    },
+    {
+        "sentence": "[たまき「]::ふあ……あ……ぁぁ……」",
+        "translation": "Takami「Phù...a...áà...」"
+    },
+    {
+        "sentence": "[たまき「]::あぁ……ぅ…………は……はい……」",
+        "translation": "Takami「A... ư... ha... vâng...」"
+    },
+    {
+        "sentence": "[たまき「]::………………」",
+        "translation": "Tamaki「………………」"
+    },
+    {
+        "sentence": "[たまき「]::あ、あうう……？」",
+        "translation": "Tamaki「…À, ưm…？」"
+    },
+    {
+        "sentence": "[たまき「]::う……うん……」",
+        "translation": "Tamaki「Ư……Ừm……」"
+    },
+    {
+        "sentence": "[たまき「]::……きょ、今日は……なに？」",
+        "translation": "Tamaki「……Hôm, hôm nay……là gì ạ?」"
+    },
+    {
+        "sentence": "[たまき「]::そ、そんなんじゃ……ないよぉ……」",
+        "translation": "Tamaki「K-không phải… vậy đâu ạ…」"
+    },
+    {
+        "sentence": "[たまき「]::……あ……う……こ、これって……」",
+        "translation": "Tamaki「……Ư…… ưm…… c-chuyện này là……」"
+    },
+    {
+        "sentence": "[たまき「]::こ……こんなの……イヤだよぉ……」",
+        "translation": "Tamaki「C-cái... cái này... Tôi không muốn đâu ạ...」"
+    },
+    {
+        "sentence": "[たまき「]::そ、それは……」",
+        "translation": "Tamaki「C-cái đó là……」"
+    },
+    {
+        "sentence": "[たまき「]::わ、分かったよぉ……」",
+        "translation": "Tamaki「V-vâng, tôi hiểu rồi ạ…」"
+    },
+    {
+        "sentence": "[たまき「]::あう……ぅ……うぅぅぅ…………」",
+        "translation": "Tamaki「Ư… ừ… ừuuuuu…………」"
+    },
+    {
+        "sentence": "[たまき「]::こ、これ……この服は何なの……？」",
+        "translation": "Tamaki「C-cái này… bộ đồ này là gì vậy ạ…？」"
+    },
+    {
+        "sentence": "[たまき「]::え……？　アニメのヒロイン……？」",
+        "translation": "Tamaki「Ơ… ơ…? Nữ chính anime… ạ…?」"
+    },
+    {
+        "sentence": "[たまき「]::な……何でそんな衣装をあたしが……」",
+        "translation": "Tamaki「N-nhưng... tại sao tôi lại phải mặc bộ đồ như thế này...?」"
+    },
+    {
+        "sentence": "[たまき「]::え…………？」",
+        "translation": "Tamaki「Ơ… ơ… gì cơ...?」"
+    },
+    {
+        "sentence": "[たまき「]::リ……リクエスト？　リクエストって……どういう……？」",
+        "translation": "Tamaki「...Yêu cầu? Yêu cầu... là sao...?」"
+    },
+    {
+        "sentence": "[たまき「]::えっ……？　あ、あああっ……！？」",
+        "translation": "Tamaki「Hả...? A-àaaaaaah...!?」"
+    },
+    {
+        "sentence": "[たまき「]::うあ……ああああ…………」",
+        "translation": "Tamaki「Uaa... Aaaaaaa...」"
+    },
+    {
+        "sentence": "[たまき「]::な、なな……なに……その人達……？」",
+        "translation": "Tamaki「N-n-n... những người đó là ai...?」"
+    },
+    {
+        "sentence": "[たまき「]::あ、アニメ……同好会……？」",
+        "translation": "Tamaki「À... câu lạc bộ... nghiên cứu anime...?」"
+    },
+    {
+        "sentence": "[たまき「]::……ひっ…………！」",
+        "translation": "Tamaki「……Hức……!」"
+    },
+    {
+        "sentence": "[たまき「]::う……ううう……」",
+        "translation": "Tamaki「Ư... ư ư...」"
+    },
+    {
+        "sentence": "[たまき「]::そ、そんな訳ない……こんなの、絶対イヤだよぉ……」",
+        "translation": "Tamaki「K-không thể nào... Tôi tuyệt đối không muốn chuyện này đâu...」"
+    },
+    {
+        "sentence": "[たまき「]::うぅっ……い、いやっ……いやだってばぁっ……」",
+        "translation": "Tamaki「Ư... ư, không... tôi không muốn đâuuu...」"
+    },
+    {
+        "sentence": "[たまき「]::ひっ……ひぃぃ…………っ」",
+        "translation": "Tamaki「...Hức... hikhiii.........!」"
+    },
+    {
+        "sentence": "[たまき「]::い、いや……いや……来ないで……近寄らないでぇっ！」",
+        "translation": "Tamaki「K-không... không... Đừng đến... Đừng lại gần tôi mà!」"
+    },
+    {
+        "sentence": "[たまき「]::い、いやあああああぁぁぁぁぁーーーーーっ！！」",
+        "translation": "Tamaki「Không... Khôngooooo!!!」"
+    },
+    {
+        "sentence": "[たまき「]::やだぁぁぁーっ！　放してっ、放してええーーーっ！」",
+        "translation": "Tamaki「Khônggggg! Thả tôi ra, thả tôi raaaaaa!!!」"
+    },
+    {
+        "sentence": "[たまき「]::きゃああっ！？　やだっ、やだああぁぁぁーーっ！？」",
+        "translation": "Takami「Áaa! Không, khôngggggggggg!」"
+    },
+    {
+        "sentence": "[たまき「]::い、痛いぃ……痛いよぉっ……！　やめてぇっ……！　揉まないでよおぉぉぉっ！」",
+        "translation": "Takami「Đau... đau quá đi...! Dừng lại đi...! Đừng có bóp nữa màaaaaa!」"
+    },
+    {
+        "sentence": "[たまき「]::いやああーーーっ！　見ないでっ、言わないでよぉぉぉっ……！」",
+        "translation": "Takami「Yaaaaaaaa! Đừng nhìn, đừng nói màaaaaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::やだああぁぁっ！　んくっ、い、痛いっ……乱暴すぎ、だよぉっ！　も、もう揉まないでっ！　もう放してえぇぇーーっ！」",
+        "translation": "Takami「Yaaaaaaaa! Nức, Đau... Cậu mạnh bạo quá đấy! Đừng có nhào nặn nữa! Thả tôi ra đi màaaaaaa!」"
+    },
+    {
+        "sentence": "[たまき「]::や、やだーーっ！　匂い嗅がないでぇっ！」",
+        "translation": "Takami「Y-Yadaaaa! Đừng ngửi mà!」"
+    },
+    {
+        "sentence": "[たまき「]::きゃああっ！　どこ触ってるのぉっ！　やめてええぇーーっ！」",
+        "translation": "Takami「Kyaaaaa! Cậu đang chạm vào đâu thế hả! Dừng lại đi màaaaaaa!」"
+    },
+    {
+        "sentence": "[たまき「]::ああーっ！　た、助けてぇーっ！　こ、こんなのいやああぁぁぁぁーーっ！！」",
+        "translation": "Takami「Aaaah! C-Cứu tôi với! T-Tôi không muốn thế nàyyyyyyyy!!」"
+    },
+    {
+        "sentence": "[たまき「]::い、いやっ、いやだよぉっ……！　こんな、っ……あっ、やだぁっ！　へ、変な人達に触られるなんてぇぇっ！」",
+        "translation": "Takami「Kh-Không, không được đâuuuu...! Như thế này, ặc... Áaaa, tôi không muốn! Bị những kẻ lạ mặt chạm vào thế nàaaaaayyyy!」"
+    },
+    {
+        "sentence": "[たまき「]::そ、そんな事ないよぉぉっ！　ああっ、どこ触ってっ、い、いやって言ってるじゃないのぉっ！」",
+        "translation": "Takami「K-Không có chuyện đó đâuuuu! Aaah, cậu đang chạm vào đâu thế hả, t-tôi đã bảo là không màaaaaaa!」"
+    },
+    {
+        "sentence": "[たまき「]::ひああっ！　や、やだやだあぁぁっ！　その汚い手をどけてぇっ、放してええぇーーーっ！　」",
+        "translation": "Takami「Hiaaaah! Kh-Không, khôngggggg! Bỏ cái tay bẩn thỉu đó ra đi, thả tôi raaaaaaa!」"
+    },
+    {
+        "sentence": "[たまき「]::や、やだ、ちょっとっ、あなた、何言ってるのーーっ！？」",
+        "translation": "Takami「Kh-Không, không, khoan đã, cậu đang nói cái gì vậyーーっ!?」"
+    },
+    {
+        "sentence": "[たまき「]::きゃあああああーーーっ！？　い、いやあぁぁぁぁぁぁーーーっ！？」",
+        "translation": "Takami「Aaaaaa! Khônggggggg!」"
+    },
+    {
+        "sentence": "[たまき「]::やだやだやだああぁっ！　み、見ないでーっ！　オッパイ見ないでよおおおーーっ！」",
+        "translation": "Takami「Không không khônggg! Đừng có nhìn tôi! Đừng có nhìn ngực tôieeeee!」"
+    },
+    {
+        "sentence": "[たまき「]::いやぁ……もうやめてぇ……何でこんな事するのよぉ……」",
+        "translation": "Takami「Aaaah... làm ơn dừng lại đi... Tại sao Mấy Người lại làm vậy chứ...」"
+    },
+    {
+        "sentence": "[たまき「]::あうぅぅぅ……そ、そんなの……訳分かんないよぉぉ……」",
+        "translation": "Takami「Ưmmm… Chuyện… chuyện đó… tôi không hiểu gì cảaaa…」"
+    },
+    {
+        "sentence": "[たまき「]::ふええぇぇっ……あ、あたしの身体を、玩具にしないでよぉ……ああぅ、も、もういやー……」",
+        "translation": "Takami「Phùuuuu… A, đừng biến cơ thể của tôi thành đồ chơi của Mấy Người mà… Aaaaugh, tôi, tôi không muốn nữa rồi…」"
+    },
+    {
+        "sentence": "[たまき「]::う、ううっ……！　も、もうっ、いい加減に、してえええぇーーーーっ！！」",
+        "translation": "Takami「Ư, ưuu…! T-tôi… đủ rồi, làm ơn dừng lại điiiiiiiiii!!」"
+    },
+    {
+        "sentence": "[たまき「]::えっ！？　ちょ、ちょっと、やだ……ななな、何する気……」",
+        "translation": "Takami「Hả!? K-khoan đã, không… c-c-cậu định làm gì…」"
+    },
+    {
+        "sentence": "[たまき「]::きゃううううーーーっ！？　いやぁっ、やだっ、やだああっ！」",
+        "translation": "Takami「Kyaaaaaa!! Không, không, tôi không muốn, không muốn nữa!」"
+    },
+    {
+        "sentence": "[たまき「]::手がっ、手がいっぱい這い回ってるうぅぅっ！　ああっ、やぁっ！　オッパイ、そんなに揉まないでっ……ん、んぅぅっ……！」",
+        "translation": "Takami「Tay, tay của cậu chạm khắp người tôi rồi ưuuu! Ahh, không! Đừng có bóp ngực tôi mạnh thế… ưm, ưuu…!」"
+    },
+    {
+        "sentence": "[たまき「]::んひいいっ！？　あ、あううっ……んぅっ……！　や、やだぁぁ……ち、乳首いやぁぁっ、許してぇーーっ……！」",
+        "translation": "Tamaki「Ể!? Ưm... Aaa... Ưm...!! T-tôi không muốn đâuuuu... Đ-đầu ti của tôi... tha cho tôi đi màaa...!!」"
+    },
+    {
+        "sentence": "[たまき「]::やぁあーっ！　あ、そこ……そこはだめだよぅっ、ああっ、うぅっ……撫でないでぇっ……！　んああっ……！」",
+        "translation": "Tamaki「Kyaaaaah! A, ơ kìa... ở đó... không được đâuuuu, aahh, uuuu... Đừng có sờ mó nữaaaa...! Nnngh...!!」"
+    },
+    {
+        "sentence": "[たまき「]::きゃあああーーっ！？　ちょ、ちょっとぉ、どこ触ってるのよぉっ！　ああっ、やだっ、そこは許してぇっ！」",
+        "translation": "Tamaki「Kyaaaaah!? N-Này, cậu đang chạm vào đâu vậy hả?! Aahh, không, xin cậu đấy, chỗ đó thì tha cho tôi đi!!!」"
+    },
+    {
+        "sentence": "[たまき「]::く、くひぃぃっ！　だ、だめえっ、お、お尻の穴っ、触らないでぇーーっ！」",
+        "translation": "Tamaki「K-khíiiiii! K-không được, đừng, đừng có chạm vào lỗ hậu môn của tôiiiiii!」"
+    },
+    {
+        "sentence": "[たまき「]::いやーーっ！　そ、そんな汚い事言わないでよぉっ……ひああっ、い、入れないでっ、そこに、指っ、入れないでぇぇぇーーっ！」",
+        "translation": "Tamaki「Khoonggg! Đ-đừng nói mấy chuyện bẩn thỉu như thế nữa đâuuuu... Aaaa, đ-đừng, đừng cho ngón tay vào đóaaaaa!」"
+    },
+    {
+        "sentence": "[たまき「]::ふあぅっ、んっ、こ、こんな……あぁっ……て、手がいっぱいで……っ」",
+        "translation": "Tamaki「Phu... Ứm, thế, thế này... Aah... Mấy người... tay của Mấy Người đầy hết cả rồi...！」"
+    },
+    {
+        "sentence": "[たまき「]::んひっ……うっ……か、身体中、変な人達に、撫でられてるなんてっ……いやっ、いやなのにぃぃっ……あんんぅっ！」",
+        "translation": "Tamaki「Nghi-nhíc... ư... Khắp, khắp người tôi, bị những kẻ lạ mặt xoa bóp... Không, tôi không muốn màaaaaa... Aaaannnnhuuuh!」"
+    },
+    {
+        "sentence": "[たまき「]::ふあぁんっ……んっ……あはっ……あぁぁ……あ、あたしに、触ってる手、すごく熱い、よ……んあっ……」",
+        "translation": "Tamaki「Fuaaan... ngg... Aha... Aaaah... A-cái tay đang chạm vào tôi, nóng quá, cậu ơi... Ngg-ahh...」"
+    },
+    {
+        "sentence": "[たまき「]::あうぅ、ここの人達の、息……生臭くて、イヤなのに……あんぅっ、かけられると、あ、頭、ぼーっとなってきちゃ……う……よ……」",
+        "translation": "Tamaki「Ưuuu, hơi thở của Mấy Người ở đây... tanh quá, tôi ghét... nhưng mà, khi bị làm thế này, a, đầu óc tôi cứ ong ong cả lên... ứm...」"
+    },
+    {
+        "sentence": "[たまき「]::あうっ、んぅっ……そ、そんなんじゃ……きゃふぅっ！　んっ、あっ、ああぁっ……ないって……ああっ、ああんっ……！」",
+        "translation": "Takami「Aah, nngh… với… với cách đó thì… Kyafuu! Nngh, ah, aaaah… không được… aah, aaah…!」"
+    },
+    {
+        "sentence": "[たまき「]::あはぁああっ、だめ、だめだよぅっ……それ以上オッパイ揉まれたらっ……あひっ……ひぃんっ……んぁああ、出ちゃうっ……！」",
+        "translation": "Takami「Aaaah, không, không được đâu… Nếu Mấy Người còn xoa ngực Tôi nữa… Ah, hhi… hiiin… Nnnnngaaaa, sắp ra rồi…!」"
+    },
+    {
+        "sentence": "[たまき「]::はあぁっ、あぁぁんっ……！　やだやだっ、だめっ、だめよーっ！　そんなに揉んだらっ、出ちゃう、出ちゃううぅーーっ！！」",
+        "translation": "Takami「Haaah, aaahn…! Không, không được, không cho phép đâu! Nếu Mấy Người cứ xoa mạnh như vậy, nó sẽ ra, nó sẽ ra mấtーー!!」"
+    },
+    {
+        "sentence": "[たまき「]::あっあああああぁぁぁぁーーーっ！？」",
+        "translation": "Takami「Aah, aaaahhhhhhーーーh!?」"
+    },
+    {
+        "sentence": "[たまき「]::くあっ、あっ、ひあぁぁぁーっ！　あ、ああっ、やめてっ、今は触らないでぇぇーーっ！」",
+        "translation": "Tamaki「Ư, ừ, ư, hic! A, aaaa, đừng, đừng có chạm vào Tôi bây giờーーっ！」"
+    },
+    {
+        "sentence": "[たまき「]::あっ、ひゃあああっ！？　きゃああっ、で、出るうーっ！？　い、いっぱい、お乳いっぱい出ちゃってるよぉぉぉーーっ！」",
+        "translation": "Takami「Á, ái dà?! Aaaah, sắp ra rồi hả?! N-Nhiều lắm, sữa của Tôi ra nhiều lắm rồi đóoooーー!」"
+    },
+    {
+        "sentence": "[たまき「]::はふぅぅぅぅ……う……うぅぅぅ……」",
+        "translation": "Takami「Haaahhhh…… Uh…… Uuuuh……」"
+    },
+    {
+        "sentence": "[たまき「]::あ、あうぅぅっ……いやぁ……み、見られちゃったぁぁ……」",
+        "translation": "Tamaki「A, aaaaa…… Không…… M-Mình đã bị nhìn thấy rồi màaaa……」"
+    },
+    {
+        "sentence": "[たまき「]::み……オッパイから……ミルク、噴いちゃうとこ……みんなに……見られちゃったよぉぉぉっ……」",
+        "translation": "Takami「Ư... chỗ sữa... từ ngực Tôi... phun ra... bị mọi người... nhìn thấy hết rồi đóooooo......」"
+    },
+    {
+        "sentence": "[たまき「]::んああっ！　はんんっ、んんぅぅーーっ！」",
+        "translation": "Takami「Ưn aaaa! Hnnn, hnnngggggーーっ！」"
+    },
+    {
+        "sentence": "[たまき「]::ああ、やぁぁん……は、入ってきたぁ……おっきくてカチカチのオチンチン、奥まで、入ってきちゃったよぉ」",
+        "translation": "Tamaki「Áa, ưnn… Đã… đã vào rồi… Cái dương vật to và cứng ngắc, nó đã vào tới bên trong rồi…」"
+    },
+    {
+        "sentence": "[たまき「]::あふぅっ、んんっ……！　あぁっ……オマンコの中、擦られるぅ……あ……熱いよぉ……んっ……んっ……！」",
+        "translation": "Takami「Áaaa, ưnnn…! Áaa… Bên trong âm đạo của Tôi đang bị cọ xát… Á… Nóng quáaaa… Ưnn… Ưnnn…!」"
+    },
+    {
+        "sentence": "[たまき「]::んあっ……あぁっ……だ、だって……んっ……だってぇぇ……」",
+        "translation": "Takami「Ưn a… Áa… Đ-đáng lẽ… ưn… Đáng lẽeee…」"
+    },
+    {
+        "sentence": "[たまき「]::ふぁああっ……うんんっ……ぁあっ、いいのっ……あぁっ……」",
+        "translation": "Takami「Faaaa… Unnn… Áa, không sao đâu… Áaa…」"
+    },
+    {
+        "sentence": "[たまき「]::よ、よくなんて、あんっ、な、ないけど……あっ……ひあぁっ……みんなに、恥ずかしい、とこ、見られてるって思うと……っ」",
+        "translation": "Takami「T-tôi không hẳn là… ưn… không quen… nhưng mà… á… hihhh… nghĩ đến việc Mấy Người đang nhìn thấy chỗ đáng xấu hổ của Tôi… ưn…」"
+    },
+    {
+        "sentence": "[たまき「]::頭の中、も……あはぁっ……オマンコもぉ、あ、熱く、なっちゃって……ふあっ……っ……あああっ……！」",
+        "translation": "Takami「Trong đầu Tôi, cũng… ahaha… âm đạo cũng, a, nóng lên rồi… fuah… ừ… Aaaah…!」"
+    },
+    {
+        "sentence": "[たまき「]::くひゃあぁっ……！　あっ、んひぃっ……そ、そうなのぉ？　あたし、見られて、んんっ、か、感じちゃってるのぉっ……！？」",
+        "translation": "Takami「Kuhyahaaa…! Á, nhhiii… V-vậy sao ạ? Tôi, bị nhìn thấy, ưn, và, đang cảm thấy kích thích ạ…!?」"
+    },
+    {
+        "sentence": "[たまき「]::あ、はああんっ……！　そうなのっ、あたし、見られながら、ああっ、ふぁっ、さ、されて、気持ち良く、なっちゃってるのぉっ！」",
+        "translation": "Takami「Aaaahh…! Thế ạ, Tôi, khi bị nhìn thấy, aah, fyah, bị, làm cho, cảm thấy thích thú, rồi ạ ơiii!!」"
+    },
+    {
+        "sentence": "[たまき「]::い、いいっ……ぶっといオチンチン、き、気持ちいいよぉっ！　もっと、もっと擦ってぇっ……！」",
+        "translation": "Takami「Ư, ừm… D-dương vật bự chảng, k-khó chịu quá đi ạ! Thêm nữa, chà xát mạnh hơn nữa đi ạ…!」"
+    },
+    {
+        "sentence": "[たまき「]::ぁああっ……あんッ……カチカチで、熱いオチンチンで、オマンコ、奥までもっとズボズボしてぇっ……！」",
+        "translation": "Takami「Áaaaahh… Unn… Với dương vật cứng đơ, nóng bỏng, hãy đâm sâu vào âm đạo của Tôi, đâm sâu hơn nữa đi ạ…!」"
+    },
+    {
+        "sentence": "[たまき「]::はふぅぅっ！　んぅっ、あ、熱いのと、冷たいの、がぁ……んぅぅっ、オッパイにぃ、あふっ、うっ、つ、突き刺さって、きたぁっ……！」",
+        "translation": "Takami「::Haafuuu! Nngh, à, cái nóng và cái lạnh, ừaaa… Nnguừu, vào ngực Tôi, ặc, ực, đâm, đâm vào rồi ạaa…!」"
+    },
+    {
+        "sentence": "[たまき「]::ひゃあんっ！　やぁぁっ、あ、あっつい、オチンチンが……あっ、ああんっ……オ、オッパイ押してるぅぅっ……！」",
+        "translation": "Tamaki「Hyaaaan! Yaah, a, nóng quá, dương vật... A, aaahn... Mấy Người, Mấy Người đang ấn ngực tôi àaaan...!」"
+    },
+    {
+        "sentence": "[たまき「]::くひっ、あんうぅっ……！　ああっ……あっ……や、やだぁぁ、お、っぱい……か、感じちゃうよぉぉっ……！」",
+        "translation": "Takami「Hức, ừm…! Aah… ah… Kh, không cơ, vú… t-tớ… tớ cảm nhận được rồi…!」"
+    },
+    {
+        "sentence": "[たまき「]::ちょ、やだぁっ！　ど、どこ触ってるのよ、このド変態ーーっ！」",
+        "translation": "Takami「Ch-Chờ đã, đừng mà...! C-Cậu đang sờ soạng chỗ nào của Tôi đấy, đồ biến thái chết tiệt kiaーーっ！」"
+    },
+    {
+        "sentence": "[たまき「]::うぅ……ううう～っ……」",
+        "translation": "Takami「Ư... ư ư...」"
+    },
+    {
+        "sentence": "[たまき「]::んぁあああぁぁっ！」",
+        "translation": "Takami「Ư... á á á á!」"
+    },
+    {
+        "sentence": "[たまき「]::ああっうっ！　ひっ、あぁっ、ダメ、ダメ、ダメだよぉーっ！」",
+        "translation": "Takami「A... ư! Hức, aaaa, không, không, không được mà...！」\n"
+    },
+    {
+        "sentence": "[たまき「]::うぅ……う……な、何考えてるのよぉ……」",
+        "translation": "Takami「Ư... ư... Cậu... cậu đang nghĩ cái gì vậy hả...?」\n"
+    },
+    {
+        "sentence": "[たまき「]::い、いやぁぁっ……！？　やだっ、オチンチン押しつけないでぇ……やだぁぁ……！」",
+        "translation": "Takami「K, không... ư ư...!? Đừng mà, đừng có dí cái dương vật đó vào người tôi... đừng mà... ư ư...!」"
+    },
+    {
+        "sentence": "[たまき「]::い、いやなのにぃっ、オチンチンなんて嫌いなはずなのにぃっ、扱くの、やめられないよぉぉっ……！」",
+        "translation": "Takami「T-Tôi, tôi không muốn... đáng lẽ tôi phải ghét cái thứ dương vật đó chứ, nhưng tôi không thể ngừng... thủ dâm cho nó... ÔÔÔ...！」"
+    },
+    {
+        "sentence": "[たまき「]::えっ……ええっ……！？」",
+        "translation": "Takami「Hả... Hả...?」\n"
+    },
+    {
+        "sentence": "[たまき「]::ちょっと、やだ、ダメっ！　そんなのだめぇぇっ……！」",
+        "translation": "Takami「Khoan... đừng mà, không được! Đừng có làm thế màaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::あうっ、うっ……い、いやだよーっ、そんなのぉ……」",
+        "translation": "Takami「Ư... ư... k-không... không muốn đâu... cái đó...」"
+    },
+    {
+        "sentence": "[たまき「]::くひぅ、ひぁぁ……あぁ……ああ……」",
+        "translation": "Takami「ư...ư... a... a...」"
+    },
+    {
+        "sentence": "[たまき「]::ゆ、許してぇぇ……あうぅっ……んぁっ……んあぁぁっ……」",
+        "translation": "Takami「ゆ、xin tha cho... ư... ư... ư... a...」"
+    },
+    {
+        "sentence": "[たまき「]::やだ、やだー……！　あうっ、んぅっ、っ……うぅっ、うーーっ……」",
+        "translation": "Takami「K-không, không muốn... ! Ư... ư... ư... ư... ư...」"
+    },
+    {
+        "sentence": "[たまき「]::んくっ、うぅぅ……やめてぇ……だ、出しちゃやだよぉぉ……」",
+        "translation": "Takami「ư... ư... xin đừng mà... đ-đừng bắn vào trong...」"
+    },
+    {
+        "sentence": "[たまき「]::ひっ……！　や、やめてっ、だめっ、顔にはかけないでっ、ダメええぇぇーーーっ……！？」",
+        "translation": "Takami「Hức...! K-khoan đã, dừng lại đi, không được, đừng bắn lên mặt tôi, không muốnnn...!!」"
+    },
+    {
+        "sentence": "[たまき「]::ひあっ、きゃああああぁぁぁぁーーーーーっ！！？」",
+        "translation": "Takami「Hya... Á á á á á á á á á...!?」"
+    },
+    {
+        "sentence": "[たまき「]::あぶっ！？　んぶっ、えぐぅっ……！　やらぁっ、もうかけないでぇっ！」",
+        "translation": "Takami「Ư...!? Ư ư, ực...! Dừng lại đi mà, đừng bắn nữa!」"
+    },
+    {
+        "sentence": "[たまき「]::ひいいぃぃっ！　んぷぁぁっ、ぶぶっ、だめぇっ、もうらめぇぇっ！　め、メガネ、汚れちゃうよぉぉぉーーーっ！？」",
+        "translation": "Takami「Hiii... Ư ứ... Bụp bụp, không được, xin đừng mà... Mắt, mắt kính của tôi sẽ dơ mất...!?」"
+    },
+    {
+        "sentence": "[たまき「]::ひぶぅぅぅっ！　えぶっ、ぶぶっ……！　らめええっ、やめてっ、もうやめふぇぇぇぇーっ！！」",
+        "translation": "Takami「Hức... ! Ebư... ! Bụp bụp...! Xin đừng mà... Dừng lại đi, xin cậu đấy... Ư ư ư...!!」"
+    },
+    {
+        "sentence": "[たまき「]::んぶぇっ、えっ、く、くひゃいよぉーーっ！　やだぁぁっ、もうやらああああーーーーっ！！」",
+        "translation": "Takami「Ư... ẹc, á... kh... không nổi nữa đâu... Ôi khônggg, tôi không muốn nữa đâuuuuuuuu!!!」"
+    },
+    {
+        "sentence": "[たまき「]::んぷあぁぁっ……！　はふっ……ふああ……？　あ……？」",
+        "translation": "Takami「Ưm... aaaa...! Hộc... ha...!? A...?」"
+    },
+    {
+        "sentence": "[たまき「]::あんぐっ……む……っ……んぐ、んぐっ……」",
+        "translation": "Takami「Ư... ưm... ư... ư... ư...」"
+    },
+    {
+        "sentence": "[たまき「]::うぅ、飲んじゃった。けふっ、ぅ、オチンチンのミルク、んぇ、飲んじゃったよぉぉっ……あうぅっ、う、ううぅぅぅぅ……」",
+        "translation": "Takami「Ư... tôi lỡ uống mất rồi. Khẹc, ư, sữa của cái chim, ư ư, tôi lỡ uống mất rồi... Au... ư, ư ư ư ư...」"
+    },
+    {
+        "sentence": "[たまき「]::や、あんっ……！」",
+        "translation": "Takami「Ư... Ư...！」\n"
+    },
+    {
+        "sentence": "[たまき「]::んぅぅっ、ううーっ……！　いやぁっ、お乳、噴くの、いやなのぉぉ……くぅっ、くううぅーーっ！」",
+        "translation": "Takami「Ư… ư… không…! Ư ư…! Khônggg, sữa, phun ra, tôi không muốn đâuuu…! Khụ… khụụụ…!」"
+    },
+    {
+        "sentence": "[たまき「]::あぁ、やあぁぁっ……！　オ、オッパイ……ぬるぬるオッパイぃっ……揉まれてるよぉぉっ……！」",
+        "translation": "Takami「Aa... aaaaa... ! Ôi, ôi bầu vú... Bầu vú trơn tuột... đang được xoa bóp...！」"
+    },
+    {
+        "sentence": "[たまき「]::あぁっ、きはあああぁぁぁーっ！？　ふ、深いよぉっ！　奥突かないでえっ！　んあっ、あっ、あっ、はあぁぁーーんっ！」",
+        "translation": "Takami「Aaa... ư ư ư ư... Ôi... sâu quá... Đừng đâm sâu nữa mà... Ư ư... á á á... ư ư ư...」"
+    },
+    {
+        "sentence": "[たまき「]::あひぃっ！？　い、いやっ、いやあああーーっ！？　む、胸がっ、オッパイがまたぁっ、腫れてきたよおーーーっ！」",
+        "translation": "Takami「Ahhhh!? K-Không, không đó, không đâuuuu!? Ngực, ngực của tôi lại sưng lên nữa rồi!」"
+    },
+    {
+        "sentence": "[たまき「]::い、いいよおおっ！　ミルクが、くひっ、ち、乳首から出るのも、アソコを、突かれるのもっ、い、いいーーっ！」",
+        "translation": "Takami「Đ-Được ơi là được! Sữa, khụ... n-núm vú tiết ra sữa, với cả bị cậu thọc vào chỗ đó nữa, đ-được quá ơi là được!」"
+    },
+    {
+        "sentence": "[たまき「]::そ、そんなっ、やあっ！　ダメええっ！　も、もうこれ以上、汚さないでええぇぇーーーっ！！」",
+        "translation": "Takami「K-Không thể như vậy được! Aaaa! Không được! Đ-đừng có làm tôi bẩn thỉu thêm nữa, không được đâuuuuuuu!!」"
+    },
+    {
+        "sentence": "[たまき「]::いやああっ！　精子いやーーーっ！　出さないでっ、あたしの身体には出さないでええええーーーっ！？」",
+        "translation": "Takami「Kh-Không! Tinh dịch, không! Cậu đừng bắn vào người tôi, đừng bắn vào người tôi màaaaaa!?」"
+    },
+    {
+        "sentence": "[たまき「]::やだっ、やだっ、やだあああぁぁぁーーっ！　か、かけないでっ、汚いお汁なんてっ、かけないでええええーーーっ！！」",
+        "translation": "Takami「Không! Không! Không đời nào! Đừng có bắn lên người tôi! Đừng có bắn lên người tôi thứ dịch thể bẩn thỉu đó, không đời nào màaaaaa!!」"
+    },
+    {
+        "sentence": "[たまき「]::ふひゃああぁぁぁっ！？　や、やめてええええーっ！　いやあーっ、ダメっ、ダメっ、ダメええええぇーーーっ！！」",
+        "translation": "Takami「Á á á á á!? D-Dừng lại đi mà! Không! Đừng mà, đừng, đừng màaaaaa!!」\n"
+    },
+    {
+        "sentence": "[たまき「]::やだああぁぁぁーーーっ！？　ふあっ、きゃあああああああぁぁぁぁぁーーーっ！！」",
+        "translation": "Takami「Không đời nào màaaaaa!? Á á á, aaaaaaaa á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á"
+    },
+    {
+        "sentence": "[たまき「]::ああっ、いやあああああああぁぁーーーーーーっ！！？」",
+        "translation": "Takami「Á... Không... Không đời nào màaaaaaaaaa!!?」"
+    },
+    {
+        "sentence": "[たまき「]::やああぁぁっ！　熱いのっ、熱いのが、オッパイに飛んでくるううううぅぅぅーーっ！！」",
+        "translation": "Takami「Á á á á á! Nóng quá, nóng quá, cái thứ nóng hổi đó đang bắn vào ngực tôi ư ư ư ư ứ ứ ứ ứ ứ!!」"
+    },
+    {
+        "sentence": "[たまき「]::ふひいぃっ、い、いやなのにっ！　ああぁっ、か、かけられて　はひぃっ、あうっ、イってるっ、イっちゃってるよぉぉぉっ！」",
+        "translation": "Takami「Hức...ư...tôi, tôi không muốn mà...! Ahhh...ư...bị, bị bắn vào rồi...hức...ư...ra, ra mất...tôi ra mất thôi...!!」"
+    },
+    {
+        "sentence": "[たまき「]::ひう……っ……うぅ……ぅぅぅっ……」",
+        "translation": "Takami「Hức...ư...ư...ư ứ ứ...」"
+    },
+    {
+        "sentence": "[たまき「]::うぁ……と、溶けちゃう……あたし、白いどろどろで……溶けちゃうよぉぉっ……」",
+        "translation": "Takami「Ư...ư... Tôi, tôi tan chảy mất... Tôi... Tôi tan chảy trong thứ dịch trắng đục này mất thôi...」"
+    },
+    {
+        "sentence": "[たまき「]::あ……」たまきは俺を見て怯えを孕んだ声を漏らすも、前のように逃げ出そうとしたりはしなかった。拓也「こんな人気の無い所にいるなんて珍しいな、何をやってるんだ？」俯き加減で俺と向かい合うたまきに尋ねる。たまき「……うぅ……ぅ……」拓也「もしかして、俺から逃げてたのか？」たまき「……え…………？」拓也「ん？　なんだ、違うのか？」たまき「そ……その……」たまき「だ、誰もいない所を……探してたの……」以前の威勢が欠片も感じられない、か弱い声で呟くたまき。たまき「最近、周りの人の目が凄く気になるの……特に男の人の目が……」たまき「いつもジッと見られてるみたいで……落ち着かないし、何だか怖いのよ……」",
+        "translation": "Takami「あ……」たまきは俺を見て怯えを孕んだ声を漏らすも、前のように逃げ出そうとしたりはしなかった。拓也「こんな人気の無い所にいるなんて珍しいな、何をやってるんだ？」俯き加減で俺と向かい合うたまきに尋ねる。たまき「……うぅ……ぅ……」拓也「もしかして、俺から逃げてたのか？」たまき「……え…………？」拓也「ん？　なんだ、違うのか？」たまき「そ……その……」たまき「だ、誰もいない所を……探してたの……」以前の威勢が欠片も感じられない、か弱い声で呟くたまき。たまき「最近、周りの人の目が凄く気になるの……特に男の人の目が……」たまき「いつもジッと見られてるみたいで……落ち着かないし、何だか怖いのよ……」\n"
+    },
+    {
+        "sentence": "[たまき「]::は、はいっ……く、くらはいっ、オチンチンミルク、いっぱいぃっ、飲ませてくらさいぃっ！」",
+        "translation": "Takami「Vâng, vâng... cho, cho tôi... con chim sữa, cho tôi uống thật nhiều đi ạ...!」"
+    },
+    {
+        "sentence": "[たまき「]::あひゃぅっ！　うぅっ！　そ、そんなに突かれたらっ、また噴いちゃうっ！　んあっ、ああっ、く、来るぅっ、出ちゃうぅぅーーっ！！」",
+        "translation": "Takami「Ahyaa...! Ư ư...! Nếu cậu thúc mạnh thế... tôi lại phun mất...! Ưm a... Aaa... sắp, sắp ra... tôi sắp ra mất thôi...!!」"
+    },
+    {
+        "sentence": "[たまき「]::ひぅっ……ふぁあっ、ちょうだい、オチンチンミルクっ……んんぶっ……いっぱ、オチンチンから出してっ！　飲ませてぇっ……！」",
+        "translation": "Takami「Ư... ư... cho tôi xin... sữa con chim... ư ư... cho ra hết từ con chim đi... cho tôi uống với...!」"
+    },
+    {
+        "sentence": "[たまき「]::んぶぶっ、んぐぐぅぅぅーーっ！？　あぁ、熱いのっ、口に入ってくるぅっ！　ぶひゃあっ、あっあああああぁぁぁーーーーっ！！」",
+        "translation": "Takami「Ư... bư bứt, ư ư ớ ớ ớ...!? A... nóng quá, vào miệng tôi rồi...! Bư hyaa, a aaaaaaa...!」"
+    },
+    {
+        "sentence": "[たまき「]::あぶぅっ、ぐぅっ、ぐむむーっ！　ミ、ミルクがぁ、んぶっ！　あぷぷっ！　口に、んぐぐっ、い、いっぱい入って、来るよぉぉっ……！」",
+        "translation": "Takami「Ưm...ư... gư mư mư...! S... sữa... ưm...! Ọp ọp...! Trong, ư ư, trong miệng, vào, vào nhiều quá... !」"
+    },
+    {
+        "sentence": "[たまき「]::ふぐ、ぐむむっ……むぅぅんっ……！　んぐっ、んぐっ……！　ぷはぁぁっ、い、いっぴゃいすぎて、飲みきれないよぉぉ……」",
+        "translation": "Takami「Ư...ư...ưm... ư ư...! Ư ư... vào nhiều quá, tôi không nuốt nổi nữa rồi...」"
+    },
+    {
+        "sentence": "[たまき「]::んぅぅ、んぐ……あ、あぁぁ、に、苦い、チンチンミルク……いっぱい飲んじゃったよぉぉ……」",
+        "translation": "Takami「Ư ư, ư ư... A... aaaa, đắng, sữa chim... tôi... tôi uống nhiều quá...」"
+    },
+    {
+        "sentence": "[たまき「]::ふぁぁっ……あふ……はい……ご主人様のセーシ、い、いっぱい飲めて……んぐっ、し、幸せれすぅっ……あ、あぁぁぁ……」",
+        "translation": "Takami「Ư... ư... vâng... tinh trùng của chủ nhân, tôi, tôi uống thật nhiều... ư ư, s... hạnh phúc quá... a... aaaa...」"
+    }
+]
