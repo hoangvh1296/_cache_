@@ -22,5 +22,21 @@
     {
         "sentence": "[？？？「]::あ、はい……すみません」",
         "translation": "？？？「À, vâng… tôi xin lỗi.」\n"
+    },
+    {
+        "sentence": "[？？？「]::ほらー、ちゃんと見てなさいよー！」",
+        "translation": "？？？「Này, nhìn cho kỹ vào đấy nhé!」\n"
+    },
+    {
+        "sentence": "[？？？「]::いい？　フォアハンドの時はトップスピンを意識して、下から上に大きく振り抜くっ！」",
+        "translation": "？？？「Được chứ? Lúc đánh thuận tay thì phải chú ý xoáy bóng lên, vung vợt mạnh từ dưới lên trên!」\n"
+    },
+    {
+        "sentence": "[？？？「]::ふっ……！」",
+        "translation": "？？？「Hứ...！」\n"
+    },
+    {
+        "sentence": "[？？？「]::……ふぅ」",
+        "translation": "？？？「……Phù」\n"
     }
 ]
