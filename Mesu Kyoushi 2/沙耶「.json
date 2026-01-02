@@ -130,5 +130,89 @@
     {
         "sentence": "[沙耶「]::じゃ、今日告げた事は忘れないように復唱しておきなさいよ。これ以上私を煩わせないで、ヘドロ頭っ」",
         "translation": "Saya「Vậy thì, nhớ kỹ những gì tôi đã nói hôm nay đấy. Đừng có làm phiền tôi nữa, cái đồ đầu bùn!」\n"
+    },
+    {
+        "sentence": "[沙耶「]::……ムッ、ヘドロ……！？」",
+        "translation": "Saya「……Mya, thứ bùn nhão này…!?」\n"
+    },
+    {
+        "sentence": "[沙耶「]::……あら、遅刻常習犯のあなたが、今日は随分と早いじゃない。昨日は学園に泊まったのかしら？」",
+        "translation": "Saya「…Ara, cái cậu chuyên gia trễ giờ mà hôm nay lại đến sớm dữ vậy. Hôm qua cậu ngủ lại trường à?」\n"
+    },
+    {
+        "sentence": "[沙耶「]::ええ、問題ありよ。大ありだわ」",
+        "translation": "Saya「Ừ, có vấn đề lớn đấy. To đùng là đằng khác.」\n"
+    },
+    {
+        "sentence": "[沙耶「]::あなたが早起きするなんて、この上ない不吉な事……まさに天変地異の前触れだわ！」",
+        "translation": "Saya「Việc cậu dậy sớm đúng là điềm gở không gì sánh bằng… Đúng là điềm báo của thiên tai mà!」\n"
+    },
+    {
+        "sentence": "[沙耶「]::今日から教育実習生が来るっていうのに、なんて幸先が悪いのかしら……ああ、こればかりは私じゃどうにも出来ないわ。許してね」",
+        "translation": "Saya「Ngày đầu tiên sinh viên thực tập sư phạm đến mà đã gặp chuyện xui xẻo thế này… Ôi, việc này thì tôi chịu, không làm gì được rồi. Xin lỗi nhé.」\n"
+    },
+    {
+        "sentence": "[沙耶「]::何よ、本当の事じゃない。これらが全て事実になるかと思うと、ぞっとしないわ」",
+        "translation": "Saya「Chứ sao, chẳng phải là sự thật à. Chỉ nghĩ đến việc tất cả những điều này có thể trở thành sự thật thôi là tôi đã thấy rợn người rồi.」\n"
+    },
+    {
+        "sentence": "[沙耶「]::まぁ、ヘドロのクセに私に意見しようって言うの！？　ヘドロが市民権を得たなんて話、聞いてないわよ！」",
+        "translation": "Saya「Chà, thứ bùn nhão như cậu mà cũng dám lên tiếng với tôi đấy à!? Tôi chưa nghe chuyện bùn nhão được công nhận quyền công dân bao giờ đâu!」\n"
+    },
+    {
+        "sentence": "[沙耶「]::くう……！？」",
+        "translation": "Saya「Ư…!?」\n"
+    },
+    {
+        "sentence": "[沙耶「]::フ、フン！　こんな所であなたの相手をしている場合じゃなかったわ。実習生を迎え入れる準備をしなくちゃいけなかったわね」",
+        "translation": "Saya「Hứ, hứ! Tôi không rảnh mà đôi co với cậu ở cái chỗ này đâu. Tôi còn phải chuẩn bị đón sinh viên thực tập nữa.」\n"
+    },
+    {
+        "sentence": "[沙耶「]::じゃ、これで失礼するわ。あまり不吉な行動はしないでちょうだい、ヘドロ菌」",
+        "translation": "Saya「Vậy thì, tôi xin phép đi trước đây. Đừng có mà làm mấy trò xui xẻo đấy, đồ bùn nhão.」\n"
+    },
+    {
+        "sentence": "[沙耶「]::はい、おはよ。ホームルームを始めるわ」",
+        "translation": "Saya「Vâng, chào buổi sáng. Chúng ta bắt đầu tiết sinh hoạt lớp thôi.」\n"
+    },
+    {
+        "sentence": "[沙耶「]::……それじゃ、昨日も話したとおり、今日から教育実習生が来る事になったわ」",
+        "translation": "Saya「……Vậy thì, như hôm qua tôi đã nói, hôm nay sẽ có giáo viên thực tập đến.」\n"
+    },
+    {
+        "sentence": "[沙耶「]::このクラスにも、一人就く事になったから、温かく迎えてあげなさい」",
+        "translation": "Saya「Vì lớp chúng ta sẽ có một người đến thực tập, nên các em hãy chào đón nồng nhiệt vào nhé.」\n"
+    },
+    {
+        "sentence": "[沙耶「]::じゃあ、結城先生、いらっしゃい」",
+        "translation": "Saya「Vậy thì, mời Yuuki-sensei.」"
+    },
+    {
+        "sentence": "[沙耶「]::……ちょっとあなた、足と手が一緒に出てるわよ」",
+        "translation": "Saya「……Này cô kia, chân với tay cô đang vung lung tung kìa.」\n"
+    },
+    {
+        "sentence": "[沙耶「]::……あなた、このクラスの他にも、担当する科目があるでしょ？　それも言わなきゃダメじゃない」",
+        "translation": "Saya「……Cô à, ngoài lớp này ra, cô còn môn nào khác phải phụ trách nữa đúng không? Không nói ra thì làm sao mà được chứ.」\n"
+    },
+    {
+        "sentence": "[沙耶「]::はい、拍手はそれくらいでいいわ」",
+        "translation": "Saya「Vâng, vỗ tay thế là đủ rồi」"
+    },
+    {
+        "sentence": "[沙耶「]::今しがた言ったとおり、結城先生には音楽の授業及び、このクラスのホームルームを受け持ってもらいます」",
+        "translation": "Saya「Như tôi vừa nói lúc nãy, Yuuki-sensei sẽ phụ trách tiết học âm nhạc và cả buổi sinh hoạt lớp chúng ta」"
+    },
+    {
+        "sentence": "[沙耶「]::実習生と言えど、一応は教師と同じ扱いですので、学生として常識的な範囲で接する事」",
+        "translation": "Saya「Kể cả là thực tập sinh đi nữa, thì cũng được coi như giáo viên, nên hãy cư xử trong giới hạn của một học sinh nhé.」"
+    },
+    {
+        "sentence": "[沙耶「]::勿論、迷惑をかけるような行動は絶対に慎みなさい。分かったわね」",
+        "translation": "Saya「Tất nhiên, tuyệt đối không được có hành động nào gây phiền phức cho người khác. Rõ chưa nào?」"
+    },
+    {
+        "sentence": "[沙耶「]::それじゃ、今日のホームルームはここまで。いくわよ、結城先生」",
+        "translation": "Saya「Vậy là, buổi sinh hoạt lớp hôm nay đến đây thôi. Chúng ta đi nào, Yuuki-sensei」"
     }
 ]

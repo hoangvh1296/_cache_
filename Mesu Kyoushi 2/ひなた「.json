@@ -106,5 +106,97 @@
     {
         "sentence": "[ひなた「]::クスッ。じゃあ、バイバイ」",
         "translation": "Hinata「Khì. Vậy thì, tạm biệt cậu nhé.」\n"
+    },
+    {
+        "sentence": "[ひなた「]::おはよう。今日は随分早いね」",
+        "translation": "Hinata「Chào buổi sáng. Hôm nay cậu đến sớm thế?」\n"
+    },
+    {
+        "sentence": "[ひなた「]::慎吾くんが遅刻しないでくるなんて、珍しいよね。今日はどうしたの？」",
+        "translation": "Hinata「Shingo mà cũng đến lớp không muộn, lạ à nha. Hôm nay cậu làm sao thế?」\n"
+    },
+    {
+        "sentence": "[ひなた「]::そうなんだぁ。でも、きっと高峰先生も、こんな時間に慎吾くんが来るなんて思ってなかったから、ビックリしたんだよ」",
+        "translation": "Hinata「Ra là vậy à. Nhưng chắc Takamine-sensei cũng không ngờ cậu lại đến vào giờ này nên mới ngạc nhiên đó.」"
+    },
+    {
+        "sentence": "[ひなた「]::ふふふ、災難だったね」",
+        "translation": "Hinata「Fufufu, đúng là tai bay vạ gió mà.」\n"
+    },
+    {
+        "sentence": "[ひなた「]::……あ、そうだ。実習生って言えばね」",
+        "translation": "Hinata「À, đúng rồi. Nói đến thực tập sinh...」\n"
+    },
+    {
+        "sentence": "[ひなた「]::あのね、昨日話した教育実習生の人だけど、なんでもうちのクラスを担当するみたいだよ」",
+        "translation": "Hinata「À này, cái cô giáo viên thực tập hôm qua tớ kể ấy, hình như sẽ phụ trách lớp mình đó.」\n"
+    },
+    {
+        "sentence": "[ひなた「]::そ、そこまで言ってないけど……そうみたいだよ」",
+        "translation": "Hinata「Tớ, tớ không nói đến mức đó đâu…… nhưng hình như là vậy đó.」\n"
+    },
+    {
+        "sentence": "[ひなた「]::あ、それでね、昨日話しそびれちゃった事があるんだけど……」",
+        "translation": "Hinata「À, còn nữa, có chuyện hôm qua tớ quên chưa kể cho cậu nghe...」\n"
+    },
+    {
+        "sentence": "[ひなた「]::うん。ほら、昨日別れ際に言いかけた事があったでしょ？」",
+        "translation": "Hinata「Ừ. Thì, cái chuyện hôm qua tớ định nói với cậu lúc chia tay ấy?」\n"
+    },
+    {
+        "sentence": "[ひなた「]::うん。今日はね、実習生の人とは別に、保健医さんも新しい人が来るみたいなんだよ」",
+        "translation": "Hinata「Ừm. Hôm nay, ngoài mấy giáo viên thực tập, hình như còn có một bác sĩ mới đến nữa đó cậu.」"
+    },
+    {
+        "sentence": "[ひなた「]::ううん、それがね、結構若い人だったよ」",
+        "translation": "Hinata「Không hề, người đó khá trẻ đấy cậu ạ.」"
+    },
+    {
+        "sentence": "[ひなた「]::う、うん……今朝、教室に来る前に、保健室へ入っていくのを見かけたの」",
+        "translation": "Hinata「Ừ, ừm... Sáng nay, trước khi đến lớp, tớ thấy cô ấy đi vào phòng y tế.」\n"
+    },
+    {
+        "sentence": "[ひなた「]::ちらっとしか見てないけど、ちゃんと白衣もきてたし、間違いないよ。すっごく綺麗で、若い人だったよ」",
+        "translation": "Hinata「Tớ chỉ thoáng thấy thôi, nhưng mà cô ấy mặc áo blouse trắng chỉnh tề, chắc chắn luôn đó. Cực kỳ xinh đẹp, lại còn trẻ nữa.」\n"
+    },
+    {
+        "sentence": "[ひなた「]::あ、チャイムだ……」",
+        "translation": "Hinata「A, chuông reo rồi kìa...」"
+    },
+    {
+        "sentence": "[ひなた「]::じゃ、私戻るね。せっかく遅刻しないで来たんだから、寝ちゃダメだよ」",
+        "translation": "Hinata「Vậy tớ về đây. Cậu đã cố gắng không đến muộn rồi, đừng có ngủ gật đó nha.」\n"
+    },
+    {
+        "sentence": "[ひなた「]::ねえ、慎吾くん」",
+        "translation": "Hinata「Này, Shingo-kun」"
+    },
+    {
+        "sentence": "[ひなた「]::あの結城……先生？　聞いたとおりに可愛い人だったね」",
+        "translation": "Hinata「Cô Yuuki... thật đúng như lời đồn, là một người đáng yêu thật đấy」"
+    },
+    {
+        "sentence": "[ひなた「]::明るくて、面白くて、いい人そうだったし、私、結城先生と仲良くなりたいなぁ」",
+        "translation": "Hinata「Cô Yuuki trông có vẻ vui vẻ, thú vị và là một người tốt, tớ muốn thân với cô Yuuki quá đi thôi」"
+    },
+    {
+        "sentence": "[ひなた「]::……その言い方は先生に悪いよ、慎吾くん」",
+        "translation": "Hinata「……Cách nói đó không hay với giáo viên đâu, Shingo-kun.」"
+    },
+    {
+        "sentence": "[ひなた「]::えっ……？」",
+        "translation": "Hinata「Eh... ?」"
+    },
+    {
+        "sentence": "[ひなた「]::う、ううん、そうじゃなくて……慎吾くんが人を褒めるなんて、珍しいから」",
+        "translation": "Hinata「U-uhm, không phải vậy... Chỉ là, việc Shingo-kun khen ai đó là lạ lắm mà」"
+    },
+    {
+        "sentence": "[ひなた「]::……ふうん、慎吾くん、結城先生の事が気に入っちゃったの？」",
+        "translation": "Hinata「……Hừm, Shingo-kun thích Yuuki-sensei rồi à?」\n"
+    },
+    {
+        "sentence": "[ひなた「]::そう……先生と仲良くなれるといいね。じゃ、私、戻るから」",
+        "translation": "Hinata「Vậy à... Tớ mong cậu và cô ấy sẽ thân nhau. Thôi, tớ về đây.」"
     }
 ]

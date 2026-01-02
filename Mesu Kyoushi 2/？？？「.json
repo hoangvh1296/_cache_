@@ -38,5 +38,69 @@
     {
         "sentence": "[？？？「]::……ふぅ」",
         "translation": "？？？「……Phù」\n"
+    },
+    {
+        "sentence": "[？？？「]::……あっ、慎吾くん」",
+        "translation": "？？？「……A, Shingo.」\n"
+    },
+    {
+        "sentence": "[？？？「]::はいっ……失礼します」",
+        "translation": "？？？「Vâng… xin phép ạ.」\n"
+    },
+    {
+        "sentence": "[？？？「]::えっ……あ、す、すみませんっ！」",
+        "translation": "？？？「Á… dạ, dạ, xin lỗi ạ!」\n"
+    },
+    {
+        "sentence": "[？？？「]::あっ……！？」",
+        "translation": "？？？「A…!？」\n"
+    },
+    {
+        "sentence": "[？？？「]::あっと……えへへ、すみません」",
+        "translation": "？？？「Á… ơ… hì hì, xin lỗi ạ.」\n"
+    },
+    {
+        "sentence": "[？？？「]::……きゃっ！？　あぶないっ！」",
+        "translation": "？？？「……Á!? Nguy hiểm!」\n"
+    },
+    {
+        "sentence": "[？？？「]::……あら、やっとお目覚め？」",
+        "translation": "？？？「……Ara, cuối cùng cũng chịu tỉnh rồi à?」\n"
+    },
+    {
+        "sentence": "[？？？「]::んふふ～。随分と長い間気を失ってたけど、大丈夫～？」",
+        "translation": "？？？「Ể hể hể… Ngủ say một giấc dài ghê cơ, cậu không sao chứ~?」\n"
+    },
+    {
+        "sentence": "[？？？「]::どう、ちゃんと意識はある？　ほら、この指、何本か分かるぅ～？」",
+        "translation": "？？？「Sao, cậu còn tỉnh táo chứ? Này, ngón tay đây, đếm được mấy ngón không~?」\n"
+    },
+    {
+        "sentence": "[？？？「]::ふふっ、正解よ～ん！　じゃ、次は私の顔、ハッキリ見えるかしら？」",
+        "translation": "？？？「Fufufu, đúng rồi đó nha~! Vậy thì, tiếp theo, có thấy rõ mặt tôi không nào?」\n"
+    },
+    {
+        "sentence": "[？？？「]::そっ。どう、美人でしょ？」",
+        "translation": "？？？「Thấy sao, xinh đẹp chứ?」\n"
+    },
+    {
+        "sentence": "[？？？「]::……う～ん、ダメね。まだ意識が正常に戻ってないみたいね」",
+        "translation": "？？？「……Ưm~ không được rồi. Hình như ý thức vẫn chưa hồi phục lại bình thường thì phải.」\n"
+    },
+    {
+        "sentence": "[？？？「]::なによぅ～、だったらしっかり答えなさいよ～。『美人のお姉さんです』ってさぁ」",
+        "translation": "？？？「Gì chứ~, nếu thế thì trả lời cho đàng hoàng vào~. Phải bảo là \"Chị đẹp gái\" chứ bộ.」\n"
+    },
+    {
+        "sentence": "[？？？「]::……けど、まさか勤務初日に、いきなり怪我人が運び込まれるなんてねぇ」",
+        "translation": "？？？「……Nhưng mà, không ngờ ngày đầu tiên đi làm, lại có người bị thương được đưa đến ngay nhỉ.」\n"
+    },
+    {
+        "sentence": "[？？？「]::そうよ……ま、それが私の仕事なんだし、別にいいんだけどねぇ……はぁぁ」",
+        "translation": "？？？「Ừ…… Thì, đó là công việc của tôi mà, cũng chẳng sao cả…… haaa」\n"
+    },
+    {
+        "sentence": "[？？？「]::……あぁ、そうそう。そういえば自己紹介がまだだったわね」",
+        "translation": "？？？「……À à, đúng rồi. Nếu nói vậy thì vẫn chưa tự giới thiệu nhỉ.」\n"
     }
 ]
