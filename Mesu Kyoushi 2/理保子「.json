@@ -346,5 +346,249 @@
     {
         "sentence": "[理保子「]::バイバ～イ☆　約束、破っちゃや～よ☆」",
         "translation": "Rihoko「Bye bye～☆ Nhớ giữ lời đấy nhá～☆」\n"
+    },
+    {
+        "sentence": "[理保子「]::あらあら？　そんなに驚く事ないじゃな～い♪」",
+        "translation": "Rihoko「Ơ kìa? Có gì mà phải ngạc nhiên dữ vậy chời ~♪」\n"
+    },
+    {
+        "sentence": "[理保子「]::フフッ、なによぉ、そんな警戒心剥き出しの顔しちゃってぇ～。ひどいわぁ～」",
+        "translation": "Rihoko「Ufufu, cái gì chứ, mặt mày cậu căng thẳng thấy ớn à nha ~. Quá đáng à ~」\n"
+    },
+    {
+        "sentence": "[理保子「]::まぁ、それはそれとしてぇ……なぁに、さっきの教育実習生のコに興味があるの～？」",
+        "translation": "Rihoko「Mà thôi bỏ đi ha… Sao, bộ cậu tăm tia con bé giáo viên thực tập kia hả ~?」\n"
+    },
+    {
+        "sentence": "[理保子「]::あら、図星だったかしら？」",
+        "translation": "Rihoko「Ara, trúng phóc rồi hả?」\n"
+    },
+    {
+        "sentence": "[理保子「]::それじゃ、覗き魔さんとしては、あの子も覗いちゃうのかしら？」",
+        "translation": "Rihoko「Vậy, cái kiểu nhìn trộm của cậu, có khi nào nhắm tới cả cô ấy không đó?」\n"
+    },
+    {
+        "sentence": "[理保子「]::フフフッ、慌てなくても大丈夫よ。周りには誰もいないんだし、聞かれはしないわ」",
+        "translation": "Rihoko「Ufufu, không cần cuống lên thế đâu. Xung quanh đây có ai đâu mà lo, có ai nghe thấy đâu.」\n"
+    },
+    {
+        "sentence": "[理保子「]::決まってるじゃない。昨日担がれてきた怪我人の様子を見に来たのよ」",
+        "translation": "Rihoko「Còn phải hỏi à. Đến xem cái thằng bị thương hôm qua được khiêng tới giờ sao rồi chứ sao.」\n"
+    },
+    {
+        "sentence": "[理保子「]::そう？　それは良かったわ」",
+        "translation": "Rihoko「Vậy hả? Thế thì tốt.」\n"
+    },
+    {
+        "sentence": "[理保子「]::じゃあ、本当に異常が無いか試してみましょうか？」",
+        "translation": "Rihoko「Vậy thì, để tôi thử xem cậu có thật sự không có gì bất thường không nhé?」\n"
+    },
+    {
+        "sentence": "[理保子「]::それじゃ、いくわよ？　昨日、私とした約束、ちゃんと憶えている？」",
+        "translation": "Rihoko「Vậy thì, vào việc thôi chứ gì? Nhớ cái kèo hôm qua giữa tôi với cậu chứ hả?」\n"
+    },
+    {
+        "sentence": "[理保子「]::ウフフフ、ご名答♪　どうやら本当に何ともないみたいね」",
+        "translation": "Rihoko「Ư hư hư, cậu trả lời đúng rồi đấy nhé ♪ Xem ra đúng là chẳng làm sao thật rồi.」\n"
+    },
+    {
+        "sentence": "[理保子「]::さてと。それじゃ、私はもう行くわ。忘れないで来てちょうだいね」",
+        "translation": "Rihoko「Được rồi. Vậy thì, tôi đi đây. Nhớ mà đến đó đấy nhé.」\n"
+    },
+    {
+        "sentence": "[理保子「]::じゃ、また下校時刻にね～。バイバーイ☆」",
+        "translation": "Rihoko「Vậy hẹn gặp lại giờ tan học nha. Bai bai ☆」\n"
+    },
+    {
+        "sentence": "[理保子「]::……あら、小橋君じゃない。廊下では騒ぐなって、習ったでしょぉ～？」",
+        "translation": "Rihoko「……Ara, không phải là Kobashi-kun đó sao. Chẳng phải đã học là không được làm ồn ở hành lang rồi hả~?」"
+    },
+    {
+        "sentence": "[理保子「]::あら、高峰先生も一緒だったの。ははぁ～ん、なるほどねぇ」",
+        "translation": "Rihoko「Ara, Takamine-sensei cũng ở đây nữa à. Haa... ra là vậy ha」\n"
+    },
+    {
+        "sentence": "[理保子「]::いやぁ、何だか聞き覚えのある声とやり取りだなーって思ってたからさぁ。そっか、やっぱり高峰先生だったのね。納得納得♪」",
+        "translation": "Rihoko「À há, cứ thắc mắc mãi giọng nói này quen quen, hóa ra là nói chuyện với Takamine-sensei nãy giờ. Ra thế, ra thế hen ♪」\n"
+    },
+    {
+        "sentence": "[理保子「]::フフフフッ、ちっとも変わってないわねぇ。何だか懐かしいわぁ」",
+        "translation": "Rihoko「Ufufu, chẳng thay đổi gì cả nhỉ. Tự nhiên thấy nhớ quá à」\n"
+    },
+    {
+        "sentence": "[理保子「]::ウフフフ、相変わらず面白いわね、高峰先生って。本当、見てて飽きないわ」",
+        "translation": "Rihoko「Ufufufu, lúc nào Takamine-sensei cũng thú vị hết sức. Thiệt tình, nhìn mãi không chán」"
+    },
+    {
+        "sentence": "[理保子「]::そうねぇ……それじゃ、そろそろ時間だし、話は保健室でしましょうか」",
+        "translation": "Rihoko「Vậy thì… chắc cũng đến giờ rồi, mình ra phòng y tế nói chuyện thôi ha」\n"
+    },
+    {
+        "sentence": "[理保子「]::フフフッ、せっかちねぇ。そんなんじゃ、女の子にモテないわよ？」",
+        "translation": "Rihoko「Ufufuff, nôn nóng nhỉ. Cứ thế này thì chẳng cô nào thèm đâu đấy?」"
+    },
+    {
+        "sentence": "[理保子「]::別に大した間柄じゃないわ。ただ、前の学園で一緒だったってだけよ」",
+        "translation": "Rihoko「Chả thân thiết gì cho cam. Chỉ là học chung trường cũ thôi mà」"
+    },
+    {
+        "sentence": "[理保子「]::そこでも、キミのような子がいてね、同じようにやり取りしてたからそれを言ったまで。特に深い関係は無いわ」",
+        "translation": "Rihoko「Ở chỗ đó cũng có đứa như cậu, tôi cũng từng qua lại y như vậy nên mới nói thế thôi. Chẳng có quan hệ sâu sắc gì đâu」"
+    },
+    {
+        "sentence": "[理保子「]::さてと……高峰先生の事はこれくらいにして、そろそろ本題に入りましょうか？」",
+        "translation": "Rihoko「Được rồi... Chuyện về Takamine-sensei đến đây thôi, giờ vào chủ đề chính nhé?」"
+    },
+    {
+        "sentence": "[理保子「]::フフッ、ズバリ聞きたいんだけど……」",
+        "translation": "Rihoko「Ufufu, muốn biết thẳng luôn hả……」"
+    },
+    {
+        "sentence": "[理保子「]::キミ、女性に母乳を噴かせる事に、興味はないかしら？」",
+        "translation": "Rihoko「Cậu, không có hứng thú với việc làm cho phụ nữ phun sữa sao?」"
+    },
+    {
+        "sentence": "[理保子「]::それで、どうなの？　ないの、それとも……あるのかしら？」",
+        "translation": "Rihoko「Thế nào rồi? Không có, hay là… có nhỉ?」"
+    },
+    {
+        "sentence": "[理保子「]::フフッ、そうよね。やっぱり、私の見立ては間違い無かったわ」",
+        "translation": "Rihoko「Ufufu, đúng vậy mà. Đúng như tôi đã đoán, không sai chút nào.」"
+    },
+    {
+        "sentence": "[理保子「]::ウフフフ……昨日、キミの目を見て、どういう人間か分かるって、言ったわよね？」",
+        "translation": "Rihoko「Khụ khụ khụ... Hôm qua, tôi đã nhìn vào mắt cậu và nói rằng tôi biết cậu là người như thế nào, đúng không?」"
+    },
+    {
+        "sentence": "[理保子「]::以前ね、キミと同じ目をしたコを見た事があるの」",
+        "translation": "Rihoko「Lần trước, tôi đã từng thấy một người có đôi mắt giống hệt cậu đó.」"
+    },
+    {
+        "sentence": "[理保子「]::フフッ……誰の事だか分かる？　昨日、貴方に話した、私を母乳噴射の体質にした、男の子よ」",
+        "translation": "Rihoko「Khụ khụ... Cậu đoán xem là ai nào? Là cái cậu nhóc đã khiến tôi có cái thể chất phun sữa đó, mà hôm qua tôi đã kể cho cậu nghe đấy.」"
+    },
+    {
+        "sentence": "[理保子「]::その子の精液の中に、女性の体質を変化させる成分……つまり、母乳を噴きやすくさせる成分が入ってる事は話したわよね？」",
+        "translation": "Rihoko「Tôi đã nói với cậu là trong tinh dịch của nhóc đó có chứa thành phần làm thay đổi thể chất phụ nữ... ý tôi là, thành phần giúp sữa mẹ dễ dàng phun ra, phải không?」"
+    },
+    {
+        "sentence": "[理保子「]::彼ね、その特殊な精液を使って、ある一人の女教師を支配したの」",
+        "translation": "Rihoko「Cậu ta ấy hả, dùng cái loại tinh dịch đặc biệt đó, để khống chế một nữ giáo viên đó.」"
+    },
+    {
+        "sentence": "[理保子「]::女教師を犯して精液を注ぎ込み、母乳を噴かせる体質にして、精神的にも肉体的にも不安定になった相手を調教した……」",
+        "translation": "Rihoko「cưỡng hiếp nữ giáo viên, bắn tinh dịch vào người cô ấy, biến cô ấy thành cái loại thể chất phun sữa, khiến cho cả tinh thần lẫn thể xác đều bất ổn rồi thao túng...」"
+    },
+    {
+        "sentence": "[理保子「]::そして、最後には、その女性を従順な牝奴隷へと屈服させ、堕としたのよ」",
+        "translation": "Rihoko「Và cuối cùng, cậu ta khuất phục và đọa đày cô ấy thành một con dâm nô ngoan ngoãn.」"
+    },
+    {
+        "sentence": "[理保子「]::なぁに？　そんな鳩が豆鉄砲を食らっちゃったような顔をして」",
+        "translation": "Rihoko「Sao hả? Mặt cậu ngơ ngác như trời trồng thế?」"
+    },
+    {
+        "sentence": "[理保子「]::言っておくけど、これは全て事実なのよ。嘘偽りはない、紛れもない真実」",
+        "translation": "Rihoko「Nói trước cho cậu biết, tất cả những điều này đều là sự thật đấy. Không hề có chút xíu xạo nào, sự thật rành rành.」"
+    },
+    {
+        "sentence": "[理保子「]::そして……キミもその子と同じ目をしてる」",
+        "translation": "Rihoko「Và... cậu cũng có ánh mắt giống như nhóc đó.」\n"
+    },
+    {
+        "sentence": "[理保子「]::相手の女性に母乳を噴かせて、相手の身も心も完全に掌握し、支配しなければ気が済まない……」",
+        "translation": "Rihoko「Phải làm cho con đàn bà đó phun cả sữa mẹ ra, phải nắm giữ và chi phối hoàn toàn cả thể xác lẫn tâm hồn cô ta, có thế tôi mới hả dạ...」"
+    },
+    {
+        "sentence": "[理保子「]::そういう、普通の男女の関係に満足できない人種の目を……ね」",
+        "translation": "Rihoko「Ánh mắt của cái loại người không bao giờ thỏa mãn với quan hệ nam nữ bình thường ấy mà...」"
+    },
+    {
+        "sentence": "[理保子「]::フフッ、少しは自分の事が分かってきたかしら？　そう、本当のキミは支配者なのよ。他の人達とは異なる価値観を持った人間なの」",
+        "translation": "Rihoko「Ufufu, cậu đã hiểu ra chút gì về bản thân mình chưa? Phải, cậu đích thực là kẻ thống trị đấy. Một con người có những giá trị khác biệt so với những người khác.」\n"
+    },
+    {
+        "sentence": "[理保子「]::ウフフフ、別に私は強要はしないわ。どうしたいのか、どうするのかは、キミ次第よ」",
+        "translation": "Rihoko「Ufufufu, tôi không có ý ép buộc cậu đâu. Muốn thế nào, làm gì là tùy cậu thôi.」\n"
+    },
+    {
+        "sentence": "[理保子「]::ただ……本当に彼のように女を服従させたいというのなら、協力してあげるってだけよ」",
+        "translation": "Rihoko「Chỉ là... nếu cậu thật sự muốn sai khiến phụ nữ như hắn ta, thì tôi sẽ hợp tác thôi.」"
+    },
+    {
+        "sentence": "[理保子「]::そう？　フフフッ、女はいつもズルいものだからね」",
+        "translation": "Rihoko「Vậy à? Ufufu, con gái lúc nào mà chẳng ranh ma.」\n"
+    },
+    {
+        "sentence": "[理保子「]::フフフ、心配はいらないわ。私が何の考えも無しに、キミを煽ったりしたと思う？」",
+        "translation": "Rihoko「Ufufu, đừng lo lắng. Cậu nghĩ tôi lại đi khích đểu cậu mà không có tính toán gì chắc?」"
+    },
+    {
+        "sentence": "[理保子「]::はい、これ♪　この薬を使えばバッチリよ♪」",
+        "translation": "Rihoko「Đây, cái này nhé♪ Dùng cái thuốc này là ngon lành ngay♪」\n"
+    },
+    {
+        "sentence": "[理保子「]::これはね、例の女性の体質を変える成分を凝縮・精製した、私オリジナルのクスリなの」",
+        "translation": "Rihoko「Cái này á, là thuốc tôi tự chế, cô đặc và tinh chế từ thành phần thay đổi thể chất đấy.」"
+    },
+    {
+        "sentence": "[理保子「]::これを摂取すれば、キミの精液もその成分を含有する事になり、犯した相手に、母乳を噴かせる事ができるわ」",
+        "translation": "Rihoko「Nếu cậu hấp thụ cái này, tinh dịch của cậu cũng sẽ chứa thành phần đó, khiến đối phương khi bị cậu làm thịt phun cả sữa mẹ ra đấy.」"
+    },
+    {
+        "sentence": "[理保子「]::フフフ、大丈夫……と言いたいところだけど、残念ながらまだ臨床実験は済ませてないのよねぇ」",
+        "translation": "Rihoko「Fufufu, muốn nói là không sao đâu...nhưng tiếc là tôi vẫn chưa thử nghiệm lâm sàng cái này đó nha.」"
+    },
+    {
+        "sentence": "[理保子「]::だから、これをキミに渡すのは、その実験台……いえいえ、実験に協力して欲しいからなの」",
+        "translation": "Rihoko「Nên là, tôi đưa cái này cho cậu, là để cậu làm chuột bạch... à không, để cậu hợp tác thí nghiệm với tôi.」"
+    },
+    {
+        "sentence": "[理保子「]::まぁ、副作用は無いはずだし、精液も絶対に変化すると思うわ。どう？　試してもらえないかしら？」",
+        "translation": "Rihoko「Mà, chắc là không có tác dụng phụ đâu, với cả tinh dịch của cậu chắc chắn sẽ thay đổi đấy. Sao? Thử cho tôi xem được không?」\n"
+    },
+    {
+        "sentence": "[理保子「]::そんな気負わなくても平気よ。私が飲んでみた時は、何も問題が無かったから身体に害はないわ」",
+        "translation": "Rihoko「Không cần phải lo lắng thế đâu. Khi tôi uống thử thì có vấn đề gì đâu, nên chắc không có hại cho cơ thể đâu.」"
+    },
+    {
+        "sentence": "[理保子「]::ただ、女の私じゃ、薬の効果が確かめられなかったけどね」",
+        "translation": "Rihoko「Chỉ là, con gái như tôi thì không thể kiểm chứng được tác dụng của thuốc thôi.」"
+    },
+    {
+        "sentence": "[理保子「]::でもぉ、キミが飲むなら、今キミが思い描いている事が現実になるわよ」",
+        "translation": "Rihoko「Nhưng mà, nếu cậu uống, những gì cậu đang tưởng tượng sẽ thành sự thật đó.」"
+    },
+    {
+        "sentence": "[理保子「]::ふぅん、仕方ないわね……それじゃ、とっておきの情報を教えてあげるから、それでどう？」",
+        "translation": "Rihoko「Hừ, hết cách rồi nhỉ... Thôi được, tôi cho cậu biết một thông tin tuyệt mật, thế thì sao?」"
+    },
+    {
+        "sentence": "[理保子「]::あのね……今、結城先生が職員室に残ってるわよ。報告書を書く為にね」",
+        "translation": "Rihoko「Này nhé... Yuuki-sensei giờ vẫn còn ở phòng giáo viên đấy. Để viết báo cáo ấy mà.」\n"
+    },
+    {
+        "sentence": "[理保子「]::ええ。しかも、当直で残る男性教師が監督に就くはずだったけど、用事があるからって１９時まで席を外しているの」",
+        "translation": "Rihoko「Ừ. Mà này, lẽ ra thầy giáo trực ban sẽ giám sát, nhưng thầy ấy bảo có việc bận nên đi khỏi chỗ làm đến tận 7 giờ tối cơ.」"
+    },
+    {
+        "sentence": "[理保子「]::だから、この時間だと、おそらく彼女は一人きりになってるわよ……絶好の機会だと思わない？」",
+        "translation": "Rihoko「Vậy nên, giờ này, chắc cô ấy đang có một mình đấy... Không phải cơ hội tuyệt vời sao?」"
+    },
+    {
+        "sentence": "[理保子「]::即効性のあるクスリだからね。すぐに効果が現れたんだわ」",
+        "translation": "Rihoko「Thuốc này có tác dụng nhanh lắm. Hiệu quả xuất hiện ngay tức thì đó.」"
+    },
+    {
+        "sentence": "[理保子「]::フフッ、早く結城先生を犯したくてムズムズしてるようね。いいわよ、キミの好きになさい」",
+        "translation": "Rihoko「Ufufu, trông cậu có vẻ nôn nao muốn phạm tội với Yuuki-sensei nhỉ. Được thôi, tùy cậu muốn làm gì thì làm.」"
+    },
+    {
+        "sentence": "[理保子「]::ええ、いいわよ。何かしら？」",
+        "translation": "Rihoko「Ừ, được thôi. Có chuyện gì thế ạ?」"
+    },
+    {
+        "sentence": "[理保子「]::……ええ、いいわよ。それくらい、お安いご用よ」",
+        "translation": "Rihoko「Ừ, được thôi. Chuyện đó, có gì to tát đâu.」"
     }
 ]

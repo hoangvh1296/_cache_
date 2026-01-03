@@ -106,5 +106,33 @@
     {
         "sentence": "[？？？「]::……んはぁ、あっ、ふわぁああああんんっ！！」",
         "translation": "？？？「……ưm ha, ah, fuwaaaaaannn!!」\n"
+    },
+    {
+        "sentence": "[？？？「]::……どうしたのぉ？　こんな所で突っ立ってちゃ邪魔よ～ん☆」",
+        "translation": "？？？「……Sao thế? Đứng đực ra đây chắn đường người khác đấy ~☆」\n"
+    },
+    {
+        "sentence": "[？？？「]::……んはぁ、あぁ、ご主人様ぁあ……はぁ、あっ、はぁん！　ふぁ、あ、あぁぁ……」",
+        "translation": "？？？「……ưm ha, a, chủ nhân… ha, á, haaa! Pha, a, aaaa…」\n"
+    },
+    {
+        "sentence": "[？？？「]::……慎吾くん」",
+        "translation": "？？？「……Shingo-kun.」\n"
+    },
+    {
+        "sentence": "[？？？「]::……ちょっと、そこのウスラヘドロ！」",
+        "translation": "？？？「Này, cái tên đần độn kia!」\n"
+    },
+    {
+        "sentence": "[？？？「]::呼ばれてるのが聞こえないの？　この学園でヘドロと言えば、あなたしかいないでしょ、小橋慎吾！」",
+        "translation": "？？？「Không nghe thấy ai gọi cậu à? Ở cái trường này mà nói đến cặn bã thì chỉ có Shingo cậu thôi đấy!」"
+    },
+    {
+        "sentence": "[？？？「]::……んふぁあ、あぁ、ご主人様ぁ……もう、わ、私……んはぁああぁっ！」",
+        "translation": "？？？「……Ưm… aaa, chủ nhân… em… em không… aaaaahh!」"
+    },
+    {
+        "sentence": "[？？？「]::……ちょっとぉ～、こんな所で何を騒いでいるの～？」",
+        "translation": "？？？「……Chottooo~, mọi người làm ồn ào cái gì ở đây thế~?」"
     }
 ]

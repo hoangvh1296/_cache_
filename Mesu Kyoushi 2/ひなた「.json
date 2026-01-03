@@ -198,5 +198,53 @@
     {
         "sentence": "[ひなた「]::そう……先生と仲良くなれるといいね。じゃ、私、戻るから」",
         "translation": "Hinata「Vậy à... Tớ mong cậu và cô ấy sẽ thân nhau. Thôi, tớ về đây.」"
+    },
+    {
+        "sentence": "[ひなた「]::あ、はいっ……！」",
+        "translation": "Hinata「A, vâng… ạ!」\n"
+    },
+    {
+        "sentence": "[ひなた「]::どうしたの？　何か元気無いよ？」",
+        "translation": "Hinata「Sao thế? Trông cậu không được khỏe à?」\n"
+    },
+    {
+        "sentence": "[ひなた「]::ねぇ、何だか朝からずっと難しい顔してるし……何か、あったのかな？」",
+        "translation": "Hinata「Này, từ sáng đến giờ tớ thấy cậu cứ cau có mãi…… Có chuyện gì à?」\n"
+    },
+    {
+        "sentence": "[ひなた「]::何でもないようには、見えないんだけど……」",
+        "translation": "Hinata「Tớ không thấy là \"không có gì\" đâu...」\n"
+    },
+    {
+        "sentence": "[ひなた「]::そうかな……？　慎吾くんがそう言うなら……」",
+        "translation": "Hinata「Vậy… Nếu Shingo nói thế thì…」\n"
+    },
+    {
+        "sentence": "[ひなた「]::ね、ねぇ、どうしたの？　わ、私に何かおかしいところ、ある？」",
+        "translation": "Hinata「Nè, nè, cậu sao thế? Tớ… trên người tớ có gì lạ lắm hả?」\n"
+    },
+    {
+        "sentence": "[ひなた「]::あっ、酷いよぉ！　わ、私、そんなおかしな人じゃないもん！」",
+        "translation": "Hinata「Á… Tớ không có tệ đến thế đâu! Tớ, tớ không phải là người kỳ quặc như vậy mà!」\n"
+    },
+    {
+        "sentence": "[ひなた「]::あ、それがね……今日は、顧問の先生が用事があるから、部活は休みなんだよ」",
+        "translation": "Hinata「À, là vầy nè… hôm nay, thầy cố vấn bận việc nên câu lạc bộ được nghỉ đó.」\n"
+    },
+    {
+        "sentence": "[ひなた「]::だ、だから……あの、一緒に帰れないかな？」",
+        "translation": "Hinata「Tớ, tại… tại tớ… có thể… cùng cậu về được không?」\n"
+    },
+    {
+        "sentence": "[ひなた「]::うん。またこの間みたいに……どうかな？」",
+        "translation": "Hinata「Ừm... lại giống như hôm nọ... thì sao ạ?」\n"
+    },
+    {
+        "sentence": "[ひなた「]::えっ、そうなの……？　そっかぁ、残念だな……」",
+        "translation": "Hinata「Ế, vậy ạ…? Ra là vậy, tiếc thật…」\n"
+    },
+    {
+        "sentence": "[ひなた「]::……でも、用があるなら仕方ないよね。じゃ、今日は一人で帰るから。また明日ね」",
+        "translation": "Hinata「……Nhưng, nếu cậu có việc bận thì tớ cũng chịu thôi. Vậy, hôm nay tớ về một mình vậy. Hẹn cậu ngày mai nha.」\n"
     }
 ]
