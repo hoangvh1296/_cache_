@@ -417,7 +417,7 @@
     },
     {
         "sentence": "[早苗「]::ひぅんんっ、やっ、ダメッ！　あぁ、そんな、揉むのっ……弄るの、やめてっ！　お願い、んぁ、はああぁっ！」",
-        "translation": "Yuuki「Hư... ư... đừng mà! A... đừng, đừng có xoa... đừng có nắn nữa mà! cô xin  em ư... ha... aaaa!」"
+        "translation": "Yuuki「Hư... ư... đừng mà! A... đừng, đừng có xoa... đừng có nắn nữa mà! cô xin em ư... ha... aaaa!」"
     },
     {
         "sentence": "[早苗「]::やぁ、そんなのっ、ある訳ないぃ！　あぁ、もうっ、本当に、お願いだからぁ……やっ、ひぃいんっ！」",
@@ -425,7 +425,7 @@
     },
     {
         "sentence": "[早苗「]::ああぁぁ、いやぁああっ……！　いやぁ、お願いっ、き、キミは、学生なのにっ……あぁ、こんなの、間違ってるっ！」",
-        "translation": "Ư... ư... không... không được mà...! Đừng mà, cô xin em... em là... em còn là học sinh mà...! A... chuyện này... sai trái quá...!"
+        "translation": "Yuuki「Aa... a... không... ư... ư! Đừng mà, cô xin em, em... em còn là học sinh... A, chuyện này... sai trái quá!」\n"
     },
     {
         "sentence": "[早苗「]::ち、違うっ、間違ってるわ、そんなのっ……！　ひ、人としてっ、キミは、間違ってるぅ！」",
@@ -433,7 +433,7 @@
     },
     {
         "sentence": "[早苗「]::だ、だから……もう、やめてぇっ！　んっ、んはぁ……お願い、話っ、聞いてっ……んっ……んっ、くぅんんっ……！」",
-        "translation": "Yuuki「Đ-đừng mà... Cô xin em... dừng lại đi... Ư... ư ư... Cô xin em, nghe cô nói... ư... ư... khốn... khốn nạn...!」\n"
+        "translation": "Yuuki「Đ-đừng mà... xin em... dừng lại đi! Ư... ư ư... Cô xin em, nghe... nghe cô nói... ư... ư... khư ư ư...!」\n"
     },
     {
         "sentence": "[早苗「]::んはぁああっ！？　あぁああぁああんんっ……！！」",
@@ -445,11 +445,11 @@
     },
     {
         "sentence": "[早苗「]::ひゃぁああっ……？！」",
-        "translation": "ひゃぁああっ……？！\n"
+        "translation": "Yuuki「Hyaaa...!?」\n"
     },
     {
         "sentence": "[早苗「]::あっ……あぁ、だ、ダメっ、そこぉ！　はあぁっ……あっ、あぁっ……はっ、はぁああんっ！」",
-        "translation": "Ư... ư... đ-đừng mà, chỗ đó...!!! Ư... á... ư... á... hộc... hộc...ư ư...!!!\n"
+        "translation": "Yuuki「A... A a, không, không được, chỗ đó...! Ư... a... A a...! Hộc... hộc... a a a...!」\n"
     },
     {
         "sentence": "[早苗「]::あぁ、んっ、ひぃんっ！　やぁ、そこっ、ダメェ……！　やぁ、触るの、あっ、ふぅうんんっ！」",
@@ -462,5 +462,33 @@
     {
         "sentence": "[早苗「]::お願いっ……ひぃん、もう、しないでぇ……！　許してっ、やめてぇ……あぁ、お願いだからぁあっ……！」",
         "translation": "Yuuki「Làm ơn đi... hức, đã đủ rồi... dừng lại đi... Tha cho cô , dừng lại đi... à, làm ơn mà... a...!»"
+    },
+    {
+        "sentence": "[早苗「]::やぁ、酷いっ……！　いやっ、どうしてやめて、くれないのっ……？！　やぁ、本当に、いやなのっ！　やめてぇえっ！」",
+        "translation": "Yuuki「Ư... đừng mà...! Không... sao em không dừng lại, không chịu dừng lại vậy...? Ư... thật sự...  cô không muốn mà...! Dừng lại đi mà...!」"
+    },
+    {
+        "sentence": "[早苗「]::あぁあっ……！？　いやぁ、そんな乱暴しないでっ！　いやぁ、ダメッ、脱がしちゃ……あぁああっ！！」",
+        "translation": "Yuuki「A... á...!? K-không, đừng có thô bạo như vậy chứ...! Không... đừng mà, đừng cởi... a... á...!」"
+    },
+    {
+        "sentence": "[早苗「]::いやぁあああっ、あぁ、ダメッ、だめぇえええっ！！」",
+        "translation": "Yuuki「Kh-không... á... ư... đừng mà...! Đừng mà...!」\n"
+    },
+    {
+        "sentence": "[早苗「]::いやぁああ、見ないでっ……！　やぁ、ひどいぃ、こんな、あうぅ、うぅううぅ……！」",
+        "translation": "Yuuki「Kh-không... á... đừng nhìn...! Ôi... tồi tệ quá... thế này thì... au... ư... ư...!」"
+    },
+    {
+        "sentence": "[早苗「]::うぅぅ、だってっ……あう、今まで男の人にっ、見られた事なんて、なかったのに……好きな人にしか、見せたくなかったのにぃ……！」",
+        "translation": "Yuuki「Ư... tại... au... trước giờ cô... chưa từng bị người đàn ông nào thấy cả... chỉ muốn cho người mình yêu thấy thôi mà...!」"
+    },
+    {
+        "sentence": "[早苗「]::うぅぅ……あぅ、もう、いやあぁ……もう、許してぇ……なんで、こんな事っ、ぁん、するのよぉ……！」",
+        "translation": "Yuuki「Ư... á... thôi mà... đừng mà... xin em... tha cho cô đi... sao... sao em lại làm thế này... á... vậy chứ...!」"
+    },
+    {
+        "sentence": "[早苗「]::あうぅ、そんなぁ……んふぅ、あ、やだぁ、もう酷い事、しないでぇ……お願いぃ、お願いですぅ……！」",
+        "translation": "Yuuki「A... ưm... đừng mà... ư... á... đừng mà, xin em... đừng làm chuyện tồi tệ nữa mà... xin em... xin em đó...!」\n"
     }
 ]
