@@ -386,5 +386,81 @@
     {
         "sentence": "[早苗「]::そんなっ……やぁ、ば、バカな真似はやめてっ！　放してっ、放しなさいっ！！」",
         "translation": "Yuuki「Đừng mà... Yah, đừng có làm trò ngu ngốc! Thả cô ra, thả cô ra mau!!」\n"
+    },
+    {
+        "sentence": "[早苗「]::くぅううっ……！　あうぅ、き、キミっ……どうして、どうして私にこんな事をっ……！？」",
+        "translation": "Yuuki「Ư... ư... !? Au... Cô... Cô... Sao... Sao em lại làm chuyện này với cô...?」\n"
+    },
+    {
+        "sentence": "[早苗「]::ぼ、ボールがぶつかった事を恨んでるなら、謝るわ……治療費も、ちゃんと払うからっ、だからこんな事は、もうっ……！」",
+        "translation": "Yuuki「Nè... Nếu... Nếu em hận cô vì chuyện cái bóng đập trúng... thì cô xin lỗi... Tiền viện phí, cô cũng sẽ trả đầy đủ... Nên... nên làm ơn đừng như vậy nữa... !」\n"
+    },
+    {
+        "sentence": "[早苗「]::そ、そんなっ……！？　やぁ、冗談はやめてっ！　やぁあああっ！！」",
+        "translation": "Yuuki「K-Không thể nào...!? Yah, làm ơn đừng đùa nữa! Yahhhhhh!!」"
+    },
+    {
+        "sentence": "[早苗「]::やぁっ、お、お願いっ、許してっ……！　こんなの、ゆ、許されないっ！　ダメ、ダメよぉ！」",
+        "translation": "Yuuki「K-Khoan đã, ư... xin em... xin em tha cho cô... ! Cái này... k-không thể chấp nhận được...! Đ-Đừng mà, đừng mà...!」\n"
+    },
+    {
+        "sentence": "[早苗「]::ほ、本当なの……？　あぁ、どうしよう……私、どうしたら……」慎吾「いや、先生のせいじゃ……あうっ、つつっ！？」",
+        "translation": "Yuuki「H、thật... thật hả...? Aaa, phải làm sao đây... Cô... cô phải làm gì đây...?」Shingo「Không, không phải tại cô mà... á đau!?」\n"
+    },
+    {
+        "sentence": "[早苗「]::きゃぁあっ！？　やぁあああぁあっ！！」",
+        "translation": "Yuuki「Á á!? Aaaaaaa!」"
+    },
+    {
+        "sentence": "[早苗「]::あぁっ、やっ、くぅうんんっ！　やぁ、胸っ……んんっ、あぁ、さ、触らないでぇ……！」",
+        "translation": "Yuuki「Ah, ư... không, ư ư...! Ư ử, ngực... ư ư... a, đ-đừng chạm vào mà...!」\n"
+    },
+    {
+        "sentence": "[早苗「]::ひぅんんっ、やっ、ダメッ！　あぁ、そんな、揉むのっ……弄るの、やめてっ！　お願い、んぁ、はああぁっ！」",
+        "translation": "Yuuki「Hư... ư... đừng mà! A... đừng, đừng có xoa... đừng có nắn nữa mà! cô xin  em ư... ha... aaaa!」"
+    },
+    {
+        "sentence": "[早苗「]::やぁ、そんなのっ、ある訳ないぃ！　あぁ、もうっ、本当に、お願いだからぁ……やっ、ひぃいんっ！」",
+        "translation": "Yuuki「Không... không có đâu mà! A... thật mà, cô xin em đó... ư... hức... ư ư!」\n"
+    },
+    {
+        "sentence": "[早苗「]::ああぁぁ、いやぁああっ……！　いやぁ、お願いっ、き、キミは、学生なのにっ……あぁ、こんなの、間違ってるっ！」",
+        "translation": "Ư... ư... không... không được mà...! Đừng mà, cô xin em... em là... em còn là học sinh mà...! A... chuyện này... sai trái quá...!"
+    },
+    {
+        "sentence": "[早苗「]::ち、違うっ、間違ってるわ、そんなのっ……！　ひ、人としてっ、キミは、間違ってるぅ！」",
+        "translation": "Yuuki「K-không phải, không phải vậy, sai rồi, cái này... là sai trái...! Về mặt... nhân phẩm, em... em sai rồi!」"
+    },
+    {
+        "sentence": "[早苗「]::だ、だから……もう、やめてぇっ！　んっ、んはぁ……お願い、話っ、聞いてっ……んっ……んっ、くぅんんっ……！」",
+        "translation": "Yuuki「Đ-đừng mà... Cô xin em... dừng lại đi... Ư... ư ư... Cô xin em, nghe cô nói... ư... ư... khốn... khốn nạn...!」\n"
+    },
+    {
+        "sentence": "[早苗「]::んはぁああっ！？　あぁああぁああんんっ……！！」",
+        "translation": "Yuuki「Ư... Ư... Á...!? A... á a a a... ư ư...!!」\n"
+    },
+    {
+        "sentence": "[早苗「]::あくぅ……し、知らないっ！　もう、本当にやめてぇっ！　ほ、本当に、怒るん、だからぁ……！」",
+        "translation": "Yuuki「A... ừm... Cô, cô không biết! Thật đấy, mau dừng lại đi mà! T-thật sự, cô sẽ giận đấy nhé...！」"
+    },
+    {
+        "sentence": "[早苗「]::ひゃぁああっ……？！」",
+        "translation": "ひゃぁああっ……？！\n"
+    },
+    {
+        "sentence": "[早苗「]::あっ……あぁ、だ、ダメっ、そこぉ！　はあぁっ……あっ、あぁっ……はっ、はぁああんっ！」",
+        "translation": "Ư... ư... đ-đừng mà, chỗ đó...!!! Ư... á... ư... á... hộc... hộc...ư ư...!!!\n"
+    },
+    {
+        "sentence": "[早苗「]::あぁ、んっ、ひぃんっ！　やぁ、そこっ、ダメェ……！　やぁ、触るの、あっ、ふぅうんんっ！」",
+        "translation": "Yuuki「A... ưm... hức...ư! K-không... chỗ đó... đừng mà...! A... chạm vào... a... ư ư ư...!」"
+    },
+    {
+        "sentence": "[早苗「]::んはぁ、あっ、ダッ、ダメェ！　本当にっ……あぁ、やだぁ、乳首、ダメなのっ……やぁ、あぁああんっ！」",
+        "translation": "Yuuki「Ư... á... đ-đừng... không được...! Thật... thật sự mà... a... không... núm vú... đừng mà...! Ư... á... á á á...!」\n"
+    },
+    {
+        "sentence": "[早苗「]::お願いっ……ひぃん、もう、しないでぇ……！　許してっ、やめてぇ……あぁ、お願いだからぁあっ……！」",
+        "translation": "Yuuki「Làm ơn đi... hức, đã đủ rồi... dừng lại đi... Tha cho cô , dừng lại đi... à, làm ơn mà... a...!»"
     }
 ]
