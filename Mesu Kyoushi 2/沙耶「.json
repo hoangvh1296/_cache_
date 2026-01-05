@@ -446,5 +446,97 @@
     {
         "sentence": "[沙耶「]::まぁ、せいぜい残飯漁りに精を出すといいわ。私は用事を残しているから、これでね。フンッ！」",
         "translation": "Saya「Vậy thì cứ cố mà bới móc đồ thừa đi nhé. Tôi còn có việc, xin phép. Hừ!」\n"
+    },
+    {
+        "sentence": "[沙耶「]::ヘドロ。どうしてあなたがこんな所にいる訳？」",
+        "translation": "Saya「Đồ cặn bã. Sao cậu lại ở cái chỗ này?」\n"
+    },
+    {
+        "sentence": "[沙耶「]::当たり前でしょ。いったいいつになったら森に帰るの？」",
+        "translation": "Saya「Đương nhiên rồi. Rốt cuộc đến bao giờ cậu mới chịu về rừng hả?」\n"
+    },
+    {
+        "sentence": "[沙耶「]::ええ、できれば作りたいくらいよ。あなたにだけはね。通行証か……でなければ、リード」",
+        "translation": "Saya「Ừ, nếu được thì tôi còn muốn tự tay làm cho cậu ấy. Giấy thông hành ư… Nếu không thì, dây xích vậy.」\n"
+    },
+    {
+        "sentence": "[沙耶「]::今体育館では、新体操部の部員達が練習中なの。だからそっちには行かせられないわ。あなたみたいに卑しい男子は、特にね」",
+        "translation": "Saya「Bây giờ, đám thành viên câu lạc bộ thể dục dụng cụ đang tập luyện ở nhà thi đấu. Thế nên không thể để cậu đi về hướng đó được. Nhất là những tên con trai đê tiện như cậu.」\n"
+    },
+    {
+        "sentence": "[沙耶「]::フンッ！　自分の胸に手を当てて考えてみればいいでしょ！」",
+        "translation": "Saya「Hừ! Tự đặt tay lên ngực mà ngẫm lại đi chứ!」\n"
+    },
+    {
+        "sentence": "[沙耶「]::な、何よ……？」",
+        "translation": "Saya「C… Cái gì chứ…?」\n"
+    },
+    {
+        "sentence": "[沙耶「]::ち、違うわよ！　失礼ね！　まぁ、し、しいて言うなら……そういう破廉恥な目で私の身体を見た事に対しては怒りを覚えるけれど……」",
+        "translation": "Saya「Đâ… Đâu có! Thật là thất lễ! À thì, n… nếu phải nói… thì tôi giận vì cậu dám nhìn cơ thể tôi bằng con mắt dâm dục đó thôi…」\n"
+    },
+    {
+        "sentence": "[沙耶「]::決まってるでしょ、この単細胞っ！」",
+        "translation": "Saya「Đương nhiên rồi, đồ đơn bào！」\n"
+    },
+    {
+        "sentence": "[沙耶「]::とにかくそんないやらしい目でしか女性を見ないあなたみたいな男には、新体操部の練習なんてとてもじゃないけど見せられないわ！」",
+        "translation": "Saya「Nói thật, với cái kiểu đàn ông chỉ biết nhìn phụ nữ bằng ánh mắt dâm đãng như cậu, thì đừng hòng tôi cho xem buổi tập của câu lạc bộ thể dục dụng cụ!」\n"
+    },
+    {
+        "sentence": "[沙耶「]::そうよ！　そ、それに…だ、だいたい、ペッタンコだなんて言われるほど、私、胸小さくないから…結城先生とかのが大きすぎるだけじゃない……」",
+        "translation": "Saya「Đúng vậy! Hơn nữa… tôi, tôi không hề ngực lép đến mức bị chê đâu nhé… Chỉ là ngực của Yuuki-sensei kia quá cỡ thôi, chứ gì nữa…」"
+    },
+    {
+        "sentence": "[沙耶「]::と、とにかく、あなたには新体操部が活動している時間帯の第二体育館への出入りはいっさい禁止にするからそのつもりで。いいわね！」",
+        "translation": "Saya「Tóm lại, tôi cấm tiệt cậu bén mảng đến nhà thi đấu số hai vào giờ câu lạc bộ thể dục dụng cụ hoạt động, liệu hồn đấy! Nghe rõ chưa hả?!」\n"
+    },
+    {
+        "sentence": "[沙耶「]::自業自得でしょ！　恨むんなら、ゾウリムシになんか生まれた自分の不幸を恨むのね」",
+        "translation": "Saya「Đáng đời cậu thôi! Nếu có trách thì trách số cậu sao lại đầu thai thành con trùng đế đi!」\n"
+    },
+    {
+        "sentence": "[沙耶「]::あら、やっぱり『ヘドロ』のほうがぴったり来る？」",
+        "translation": "Saya「À, hóa ra \"đồ cặn bã\" hợp với cậu hơn à?」\n"
+    },
+    {
+        "sentence": "[沙耶「]::あぁ、もういちいちうるさいわね！　あなたと喋ってると、うすら馬鹿菌が飛んできて、身体中痒くなってくるわ！」",
+        "translation": "Saya「Aaa, ồn ào chết đi được! Nói chuyện với cậu chỉ tổ rước cái thứ vi trùng ngu ngốc vào người, ngứa ngáy hết cả lên!」\n"
+    },
+    {
+        "sentence": "[沙耶「]::あっ！！」",
+        "translation": "Saya「Á!!」\n"
+    },
+    {
+        "sentence": "[沙耶「]::よく考えたら、あなたなんかに構ってる暇ないんだったわ。そろそろ部活を切り上げさせないと！」",
+        "translation": "Saya「Nghĩ kỹ lại thì, tôi đâu có thời gian rảnh mà dây dưa với cậu! Đến giờ phải cho bọn nhóc kết thúc hoạt động câu lạc bộ rồi!」\n"
+    },
+    {
+        "sentence": "[沙耶「]::……………………」",
+        "translation": "Saya「……………………」\n"
+    },
+    {
+        "sentence": "[沙耶「]::くれぐれもこっちには近付かないように……分かったわね……返事は！」",
+        "translation": "Saya「Tuyệt đối đừng có bén mảng lại gần đây… Cậu nghe rõ chưa hả… Trả lời đi!」\n"
+    },
+    {
+        "sentence": "[沙耶「]::わんっ、でしょ？」",
+        "translation": "Saya「Ẳng ẳng, phải thế chứ?」\n"
+    },
+    {
+        "sentence": "[沙耶「]::ゾウリムシよりマシでしょ」",
+        "translation": "Saya「Còn hơn cả con trùng đế, đúng không?」\n"
+    },
+    {
+        "sentence": "[沙耶「]::わかる？　着地しても気を抜いちゃダメ！　演技はまだ続いているの！　ほら、私の動きから目を離さないで！！」",
+        "translation": "Saya「Hiểu không hả? Tiếp đất rồi cũng không được lơ là đâu đấy! Diễn vẫn còn tiếp tục! Này, mắt không rời tôi nửa bước cho tôi nhờ!!」\n"
+    },
+    {
+        "sentence": "[沙耶「]::そしてもう一度ジャンプ！　リボンの先にまで自分の神経を行き届かせてなくちゃだめよ！」",
+        "translation": "Saya「Và thêm một lần nhảy nữa! Phải dồn hết tâm trí vào từng đầu ngón tay trên dải lụa kia, em hiểu không!」\n"
+    },
+    {
+        "sentence": "[沙耶「]::ほら、ここで胸を反らして！　両足を思いきり開いて！！」",
+        "translation": "Saya「Này, ưỡn ngực ở đây ra! Banh hai chân hết cỡ ra cho tôi!!」\n"
     }
 ]

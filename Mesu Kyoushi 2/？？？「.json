@@ -142,5 +142,21 @@
     {
         "sentence": "[？？？「]::……大丈夫、か？」",
         "translation": "？？？「……Ổn chứ, em ổn chứ?」"
+    },
+    {
+        "sentence": "[？？？「]::ちょっと、そこの不審人物！　それ以上そっちに行かないでちょうだい！」",
+        "translation": "？？？「Này, cái người khả nghi kia! Đừng có mà đi về phía này nữa!」"
+    },
+    {
+        "sentence": "[？？？「]::…………」",
+        "translation": "？？？「…………」\n"
+    },
+    {
+        "sentence": "[？？？「]::……それで、ブレーキパッドを、交換したいの？」",
+        "translation": "？？？「……Vậy, em muốn thay má phanh à?」"
+    },
+    {
+        "sentence": "[？？？「]::ポイントはここよ。さあ、よく見て！」",
+        "translation": "？？？「Điểm mấu chốt là ở chỗ này này. Nào, nhìn cho kỹ vào!」"
     }
 ]

@@ -130,5 +130,121 @@
     {
         "sentence": "[直美「]::…………」",
         "translation": "Naomi「…………」\n"
+    },
+    {
+        "sentence": "[直美「]::……ん？」",
+        "translation": "Naomi「……Hử?」\n"
+    },
+    {
+        "sentence": "[直美「]::ん……小橋、か」",
+        "translation": "Naomi「Ưm... Kobashi, hả?」\n"
+    },
+    {
+        "sentence": "[直美「]::……いや、そうじゃない」",
+        "translation": "Naomi「......Không, không phải vậy.」\n"
+    },
+    {
+        "sentence": "[直美「]::部活の様子を、見に来たの。そこの小屋、モーターサイクル部の、部室だから」",
+        "translation": "Naomi「Tôi đến xem các cậu sinh hoạt câu lạc bộ thế nào thôi. Cái lán đằng kia là phòng của câu lạc bộ mô tô đấy.」\n"
+    },
+    {
+        "sentence": "[直美「]::ん……そう」",
+        "translation": "Naomi「Ừm... vậy à.」\n"
+    },
+    {
+        "sentence": "[直美「]::……バイクに乗ったり、整備したり、色々」",
+        "translation": "Naomi「......Đi xe, sửa xe, đủ thứ.」\n"
+    },
+    {
+        "sentence": "[直美「]::……あぁ……小橋、ちょっと待って……」",
+        "translation": "Naomi「……A... Kobashi, đợi một chút...」\n"
+    },
+    {
+        "sentence": "[直美「]::小橋は……確か、バイクに興味、あるって言ってたわね」",
+        "translation": "Naomi「Kobashi... hình như là, có hứng thú với xe máy thì phải.」\n"
+    },
+    {
+        "sentence": "[直美「]::前に、ここで会った時、そう言ってた。朝、私が登校してくる時に……」",
+        "translation": "Naomi「Hôm trước, lúc gặp em ở đây, em đã nói thế. Sáng nào tôi đi làm, em cũng...」\n"
+    },
+    {
+        "sentence": "[直美「]::そう……ねぇ、小橋」",
+        "translation": "Naomi「Ừm... Kobashi này」\n"
+    },
+    {
+        "sentence": "[直美「]::小橋……前にも誘ったけど、モーターサイクル部に入る、つもりはない？」",
+        "translation": "Naomi「Kobashi... tôi cũng từng rủ em rồi, em không có ý định vào câu lạc bộ mô tô à?」\n"
+    },
+    {
+        "sentence": "[直美「]::どう？　モーターサイクル部、入らない？」",
+        "translation": "Naomi「Sao? Vào câu lạc bộ mô tô không?」"
+    },
+    {
+        "sentence": "[直美「]::……そう、分かった」",
+        "translation": "Naomi「......Vậy... tôi hiểu rồi.」\n"
+    },
+    {
+        "sentence": "[直美「]::……そう、なの」",
+        "translation": "Naomi「haiz...... đúng vậy.」"
+    },
+    {
+        "sentence": "[直美「]::今、部員が一人しかいない……去年の部員のほとんどが卒業生、だったから……」",
+        "translation": "Naomi「Giờ, câu lạc bộ chỉ có mỗi một thành viên... Hầu hết thành viên năm ngoái đều tốt nghiệp hết rồi...」\n"
+    },
+    {
+        "sentence": "[直美「]::……そう。今年度が終わるまでに、部員が集まらないと、休部扱いになる」",
+        "translation": "Naomi「......Ừ. Hết năm nay mà không kiếm đủ người, thì câu lạc bộ sẽ bị đình chỉ hoạt động.」\n"
+    },
+    {
+        "sentence": "[直美「]::今年は、誰も入部しなくて……マイナーな部活だから、仕方ないかもしれないけど」",
+        "translation": "Naomi「Năm nay, không ai tham gia câu lạc bộ cả... Tại câu lạc bộ mình ít người biết đến quá, chắc cũng không còn cách nào khác.」\n"
+    },
+    {
+        "sentence": "[直美「]::……それじゃ、私はもう行くわ」",
+        "translation": "Naomi「......Vậy, tôi đi đây.」\n"
+    },
+    {
+        "sentence": "[直美「]::もし良かったら、入部の件、考えておいて。じゃあ」",
+        "translation": "Naomi「Nếu em thấy hứng thú, cứ cân nhắc việc tham gia câu lạc bộ nhé. Vậy nha.」\n"
+    },
+    {
+        "sentence": "[直美「]::……そんなに、パッドが減ってるの？」",
+        "translation": "Naomi「……Nó mòn đi nhiều vậy sao?」\n"
+    },
+    {
+        "sentence": "[直美「]::……けど、川崎、このリストのパッドじゃ、ちょっと高い」",
+        "translation": "Naomi「……nhưng mà, Kawasaki, dùng loại pad trong danh sách này thì hơi đắt đó.」\n"
+    },
+    {
+        "sentence": "[直美「]::……でも、オイルも必要だし、予算的に無理。今までと、同じので、充分よ」",
+        "translation": "Naomi「……nhưng mà, dầu cũng cần nữa, mà ngân sách không đủ. Dùng loại như mọi khi là được rồi.」\n"
+    },
+    {
+        "sentence": "[直美「]::……川崎、このステアリングの、ベアリングって？」",
+        "translation": "Naomi「……Kawasaki, cái vòng bi của vô lăng này là sao?」\n"
+    },
+    {
+        "sentence": "[直美「]::ん、んん……川崎、傷って……どこ？」",
+        "translation": "Naomi「Ư, ưm… Kawasaki, vết xước… ở đâu cơ?」\n"
+    },
+    {
+        "sentence": "[直美「]::別に、いいわ……ん、これくらいなら、まだ大丈夫。替える必要は、ないわ」",
+        "translation": "Naomi「Không… không sao đâu… Ưm, thế này… tôi vẫn chịu được. Không cần thay đâu.」\n"
+    },
+    {
+        "sentence": "[直美「]::ん……これで、終わり？　じゃ、必要な物は、私が注文、しておくから」",
+        "translation": "Naomi「Ư… vậy là… hết rồi hả? Vậy để tôi đặt mấy thứ cần thiết cho em nhé」\n"
+    },
+    {
+        "sentence": "[直美「]::ん、ご苦労様」",
+        "translation": "Naomi「Ừ, vất vả rồi.」\n"
+    },
+    {
+        "sentence": "[直美「]::ん……んんっ…………」",
+        "translation": "Naomi「Ư… ưm… ư…」\n"
+    },
+    {
+        "sentence": "[直美「]::ん、んんっ……！」",
+        "translation": "Naomi「」Ư, ư ư…!」\n"
     }
 ]

@@ -2066,5 +2066,513 @@
     {
         "sentence": "[慎吾「]::んんっ……朝、か…………」",
         "translation": "Shingo「Ưm… Trời sáng rồi… à?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::おっ……ククッ、今日も立派にエレクチオンしてるな、相棒め」",
+        "translation": "Shingo「Chà… khà khà, hôm nay em nó cũng sung mãn quá ha, bạn già」\n"
+    },
+    {
+        "sentence": "[慎吾「]::何事もなく教室に到着、っと……」",
+        "translation": "Shingo「Đến lớp rồi mà không có chuyện gì xảy ra… tốt.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::さて、今日も楽しい１日になるといいな」",
+        "translation": "Shingo「Hy vọng hôm nay cũng là một ngày vui vẻ.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::ここには何かあるかな……？」",
+        "translation": "Shingo「Không biết có gì ở đây không nhỉ…?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::慎吾センサーに引っかかるような、面白いネタがあるといいんだけど……ん？」",
+        "translation": "Shingo「Giá mà có mẩu chuyện thú vị nào lọt vào tầm ngắm của radar Shingo này thì hay… ơ?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::そういやここは家庭科室の近くだもんな。料理研究部のひなたがいるのは当然か……」",
+        "translation": "Shingo「Ra là gần phòng thực hành nữ công gia tránh. Hinata của câu lạc bộ nấu ăn ở đây cũng phải thôi…」\n"
+    },
+    {
+        "sentence": "[慎吾「]::俺の目的は、ターゲットの女教師を奴隷にしてやる事なんだからな……」",
+        "translation": "Shingo「Mục đích của mình là biến ả giáo viên kia thành nô lệ mà……」\n"
+    },
+    {
+        "sentence": "[慎吾「]::さてと……ここには何も無いみたいだな。別の場所を探すとするか」",
+        "translation": "Shingo「Được rồi… Có vẻ ở đây chẳng có gì cả. Đi tìm chỗ khác thôi.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::ふむ……いつ来ても、ここの部員達は無駄に元気が有り余っているな」",
+        "translation": "Shingo「Lúc nào đến đây đám thành viên câu lạc bộ này cũng tràn trề năng lượng vô ích nhỉ…」\n"
+    },
+    {
+        "sentence": "[慎吾「]::で、そういう時に限って、あっさり見つけちまうもんなんだよな、まったく……」",
+        "translation": "Shingo「Ấy thế mà, cứ đúng lúc như vậy thì lại vớ được ngay mới đau chứ……」\n"
+    },
+    {
+        "sentence": "[慎吾「]::……うーん、腹立たしいな」",
+        "translation": "Shingo「……Ừm, bực thật.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::まぁ、愚痴を言ってても始まらないな」",
+        "translation": "Shingo「Mà thôi, có than vãn cũng chẳng giải quyết được gì.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::また会いに来るぜ、梓先生……」",
+        "translation": "Shingo「Em sẽ còn quay lại tìm cô, Azusa-sensei……」\n"
+    },
+    {
+        "sentence": "[慎吾「]::ここは、放送室か…………ていうか、何でこんな所になんか来たんだろ？」",
+        "translation": "Shingo「Đây là phòng phát thanh sao…………Mà khoan, em đến cái chỗ này làm gì nhỉ?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::さて、こんな所にまで来てみたけど……」",
+        "translation": "Shingo「Chà, đến tận chỗ này rồi cơ đấy……」\n"
+    },
+    {
+        "sentence": "[慎吾「]::フン、この俺だって、たまにはハズレを引く事くらいあるさ……」",
+        "translation": "Shingo「Hừ, mình đây cũng có lúc vớ phải hàng dởm chứ bộ…」\n"
+    },
+    {
+        "sentence": "[慎吾「]::むっ……？」",
+        "translation": "Shingo「Mmm……?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::お、おのれー……！　タイミングの悪いっ……！」",
+        "translation": "Shingo「Khốn… khốn kiếp……! Sao lại đúng cái lúc này……!」\n"
+    },
+    {
+        "sentence": "[慎吾「]::って、直美のヤツまでいなくなっちまったぞ！？」",
+        "translation": "Shingo「Cái quái gì thế, đến cả ả đàn bà Naomi cũng biến mất tiêu rồi!?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::チッ、結局ハズレじゃないかよ……」",
+        "translation": "Shingo「Tch, đúng là toàn hàng dỏm…」\n"
+    },
+    {
+        "sentence": "[慎吾「]::んん？　あいつは……」",
+        "translation": "Shingo「Hả? Cô ta là……」\n"
+    },
+    {
+        "sentence": "[慎吾「]::早苗じゃないか……」",
+        "translation": "Shingo「Không phải Sanae sao……」\n"
+    },
+    {
+        "sentence": "[慎吾「]::まぁ、それはともかくとして、だ……」",
+        "translation": "Shingo「Mà thôi, bỏ chuyện đó sang một bên đi đã……」\n"
+    },
+    {
+        "sentence": "[慎吾「]::んっ……？」",
+        "translation": "Shingo「Ư…？」"
+    },
+    {
+        "sentence": "[慎吾「]::吹奏楽部の連中か……？　チッ、邪魔なヤツらだ」",
+        "translation": "Shingo「Lũ người của câu lạc bộ kèn đây mà…… Tch, phiền phức thật.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::フン、命拾いしたな、早苗……」",
+        "translation": "Shingo「Hừ, Sanae cô ta đúng là gặp may rồi……」\n"
+    },
+    {
+        "sentence": "[慎吾「]::虎穴に入らずんば何とやら、って事で職員室に来てみたけど……」",
+        "translation": "Shingo「Đúng là \"không vào hang cọp sao bắt được cọp con\"... nên mình mới mò tới phòng giáo viên đây……」\n"
+    },
+    {
+        "sentence": "[慎吾「]::げっ！？　あ、あいつはっ……」",
+        "translation": "Shingo「Hả!? Cái, cái con nhỏ đó……」\n"
+    },
+    {
+        "sentence": "[慎吾「]::うーん……ここは撤退すべきだな」",
+        "translation": "Shingo「Ừm…… Chắc mình nên chuồn thôi.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::くそっ……この屈辱、忘れないからなっ」",
+        "translation": "Shingo「Chết tiệt… mối nhục này, mình nhất định không quên đâu!」\n"
+    },
+    {
+        "sentence": "[慎吾「]::……どれっ、ここには誰かいないかな……？」",
+        "translation": "Shingo「Để xem nào… Chỗ này có ai không nhỉ…?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::んん～～～…………なんだ、誰もいないじゃないか」",
+        "translation": "Shingo「Ư… ưm… Ra là không có ai cả.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::……チッ、がっかりさせやがって。それじゃ、こんな所で身を隠す必要も無いな」",
+        "translation": "Shingo「……Tch, làm mình thất vọng rồi. Vậy thì, không cần trốn chui trốn lủi ở đây nữa.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::まったく、とんだ時間の無駄だったぜ……」",
+        "translation": "Shingo「Chậc, phí thời gian chết đi được…」\n"
+    },
+    {
+        "sentence": "[慎吾「]::なんだ、栄養剤か？　いや……これは…………」",
+        "translation": "Shingo「Cái gì đây, thuốc bổ à? Không… Cái này là…」\n"
+    },
+    {
+        "sentence": "[慎吾「]::これは……強精剤か」",
+        "translation": "Shingo「Đây là… thuốc cường dương à?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::教師ごときがそんなに精力が必要なのか？　何か、やましい事でもしてるんじゃなかろうか……？」",
+        "translation": "Shingo「Giáo viên quèn mà cần gì lắm sức thế? Hay là… đang làm chuyện ám muội gì sau lưng hả...?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::ふむっ！　したがって、コイツは俺がいただいておく！」",
+        "translation": "Shingo「Hừm! Vậy thì… mình xin phép lấy ả này nhé!」\n"
+    },
+    {
+        "sentence": "[慎吾「]::さて……それじゃ、後で飲んでみる事にしようかな？」",
+        "translation": "Shingo「Để xem nào… Vậy thì, lát nữa mình thử uống xem sao nhỉ?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::……そうだな。それじゃ、持っていくとするか」",
+        "translation": "Shingo「……Ừm, đúng vậy. Vậy thì, mình mang đi vậy.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::……ん？　理保子先生はいないのか」",
+        "translation": "Shingo「……Hả? Rihoko-sensei không có ở đây à.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::なんだろ、トイレにでも行ったのかな……？」",
+        "translation": "Shingo「Gì vậy nhỉ, hay là cô ta đi toilet rồi…？」\n"
+    },
+    {
+        "sentence": "[慎吾「]::まぁ、いないならしょうがないか。それじゃ、メモでも残しておこう」",
+        "translation": "Shingo「Chà, không có thì chịu thôi. Vậy thì, mình để lại lời nhắn vậy.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::……うん、バッチリだ。これで面白い物を造ってくれよ、理保子先生」",
+        "translation": "Shingo「……Ừ, ngon lành rồi đấy. Nhờ cô tạo ra thứ gì đó thú vị nhé, Rihoko-sensei.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::じゃ、俺も奴隷達の後を追う事にするか」",
+        "translation": "Shingo「Vậy thì, mình cũng đi theo lũ nô lệ kia thôi vậy.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::さてと、こっちの方まで来てはみたものの……」",
+        "translation": "Shingo「Được rồi, đã lặn lội đến tận đây rồi cơ mà...」\n"
+    },
+    {
+        "sentence": "[慎吾「]::……ん？　バイクか……」",
+        "translation": "Shingo「……Hử? Tiếng xe máy à...」\n"
+    },
+    {
+        "sentence": "[慎吾「]::そうか、まだ直美は学園に残ってるのか……」",
+        "translation": "Shingo「Ra là Naomi vẫn còn ở trường...」\n"
+    },
+    {
+        "sentence": "[慎吾「]::本当に、悩ましすぎるボディだぜ。早くあのデカパイから母乳を噴かせてやりたいな……」",
+        "translation": "Shingo「Thật là, thân hình quyến rũ quá đi mất. Muốn nhanh nhanh cho cặp vú bự đó phun sữa ra quá đi……」\n"
+    },
+    {
+        "sentence": "[慎吾「]::あれは……」",
+        "translation": "Shingo「Kia là...」\n"
+    },
+    {
+        "sentence": "[慎吾「]::あ……」",
+        "translation": "Shingo「A...」\n"
+    },
+    {
+        "sentence": "[慎吾「]::ちぃーッス、風間先生」",
+        "translation": "Shingo「Chào cô Kazama.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::あ、と……先生、もしかして、帰るところですか？」",
+        "translation": "Shingo「À... À, cô... Hay là cô định về rồi ạ?」"
+    },
+    {
+        "sentence": "[慎吾「]::えっ？　じゃ、何しにガレージへ……？」",
+        "translation": "Shingo「Ể? Vậy... cô ra gara làm gì ạ?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::あぁ、そういえば風間先生は、モーターサイクル部の顧問でしたっけ？」",
+        "translation": "Shingo「À, nhắc mới nhớ, Kazama-sensei là cố vấn của câu lạc bộ mô tô, phải không ạ?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::モーターサイクル部って、どんな活動をしてるんですか？」",
+        "translation": "Shingo「Câu lạc bộ mô tô thì... hoạt động thế nào ạ?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::あぁ、そうですか……」",
+        "translation": "Shingo「À, ra vậy...」\n"
+    },
+    {
+        "sentence": "[慎吾「]::えっ……」",
+        "translation": "Shingo「Hả...?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::えっ、俺が……？」",
+        "translation": "Shingo「Hả, em...?」"
+    },
+    {
+        "sentence": "[慎吾「]::……あぁ、あの時の！」",
+        "translation": "Shingo「……À, cái lúc đó...!」"
+    },
+    {
+        "sentence": "[慎吾「]::まぁ、興味というか……先生のバイクは、格好いいとは思って見てたけど」",
+        "translation": "Shingo「Thì... cũng có chút hứng thú... Tại xe của cô, em thấy ngầu thật mà.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::はい？」",
+        "translation": "Shingo「Dạ?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::……いや、もう少し考えさせてもらっていいですか？　何分、急な話なんで……」",
+        "translation": "Shingo「……À, cho em xin phép suy nghĩ thêm một chút được không ạ? Chuyện này... hơi đột ngột quá...」\n"
+    },
+    {
+        "sentence": "[慎吾「]::先生……もしかして、部員が足りない、とか？」",
+        "translation": "Shingo「Cô... chẳng lẽ là do thiếu người hay sao ạ?」"
+    },
+    {
+        "sentence": "[慎吾「]::一人って……確か、規定だと部活動として認められるには、五人は必要だったはずじゃ……」",
+        "translation": "Shingo「Một người thì... theo quy định, để được công nhận là câu lạc bộ, cần tới năm người mới phải chứ...?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::あ、そうですか……」",
+        "translation": "Shingo「À, vậy ạ...」"
+    },
+    {
+        "sentence": "[慎吾「]::あの最高の身体を弄んでやる為にも、もっと使えそうな情報を集めないとな」",
+        "translation": "Shingo「あの最高の身体を弄んでやる為にも、もっと使えそうな情報を集めないとな」\nShingo「Để còn được chà đạp cái thân hình tuyệt vời đó, mình phải thu thập thêm thông tin có ích mới được.」"
+    },
+    {
+        "sentence": "[慎吾「]::このまま行くと、第二体育館に着くな。よし、ついでだ。ちょっとそっちも覗いていくとするか」",
+        "translation": "Shingo「Cứ thế này thì đến nhà thi đấu số hai mất. Được rồi, tiện đường, mình ghé qua đó xem sao」\n"
+    },
+    {
+        "sentence": "[慎吾「]::何だ、俺がここにいちゃいけないみたいな言い方だな」",
+        "translation": "Shingo「Sao thế, tôi ở đây thì có vẻ không được à?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::どうしてこっちに行っちゃいけないんだ？　もしかして通行証でも必要なのか？」",
+        "translation": "Shingo「Sao lại không được đi lối này? Hay là cần phải có giấy thông hành gì à?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::ううっ……！？」",
+        "translation": "Shingo「Ư…!?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::なっ！？」",
+        "translation": "Shingo「Hả!?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::おい、俺が特に卑しい男子ってのはどういう意味だよ！」",
+        "translation": "Shingo「Này, ý cô là sao khi bảo tôi đặc biệt là một thằng con trai đê tiện hả!?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::胸に手を当てて……って……胸……？」",
+        "translation": "Shingo「Ngực… bảo đặt tay lên ngực… ý là… ngực á…?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::そうか。分かったぞ。あんた、自分の胸が男みたいにペッタンコって言われた事を根に持ってるんだな？」",
+        "translation": "Shingo「Ra thế. Tôi hiểu rồi. Cô vẫn còn để bụng chuyện bị chê ngực lép kẹp như đàn ông hả?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::フフ、本当に違うのか？」",
+        "translation": "Shingo「Fufu, thật sự không phải sao?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::おい！　いくら何でも、そりゃ横暴だろ！」",
+        "translation": "Shingo「Này! Quá đáng vừa thôi chứ!」\n"
+    },
+    {
+        "sentence": "[慎吾「]::ぞ、ゾウリムシ、ゾウリムシ言うなよ！」",
+        "translation": "Shingo「Đừng, đừng có mà gọi tôi là trùng đế!」\n"
+    },
+    {
+        "sentence": "[慎吾「]::どっちもゴメンだって言ってるだろっ！」",
+        "translation": "Shingo「Đã bảo là không nhận cả hai rồi!」"
+    },
+    {
+        "sentence": "[慎吾「]::シラミじゃないぞ！　というか、うすら馬鹿菌なんか飛ばしてないだろう！！」",
+        "translation": "Shingo「Đâu phải rận đâu! Với lại, tôi có rải ba cái thứ vi khuẩn ngu ngốc đó ra đâu chớ!!」\n"
+    },
+    {
+        "sentence": "[慎吾「]::な、何だよ……！？」",
+        "translation": "Shingo「C… cái gì…!？」\n"
+    },
+    {
+        "sentence": "[慎吾「]::お、おいっ！？」",
+        "translation": "Shingo「Này… Này…!?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::ちぇっ……いったい……何だって言うんだ……」",
+        "translation": "Shingo「Tch… Rốt cuộc… cô muốn nói cái quái gì đây…」\n"
+    },
+    {
+        "sentence": "[慎吾「]::うっ！？」",
+        "translation": "Shingo「Ư!?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::な、何だよ……？」",
+        "translation": "Shingo「Cái… Cái gì chứ…?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::……ああっ」",
+        "translation": "Shingo「……Ư…」\n"
+    },
+    {
+        "sentence": "[慎吾「]::犬か、俺はっ！」",
+        "translation": "Shingo「Tôi là chó chắc!?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::……ふうっ……煮ても焼いても食えないヤツってのは、あの女の事だな」",
+        "translation": "Shingo「……Phù… Đúng là ả đàn bà đó, đúng là chẳng làm gì được với cô ta cả.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::でも、あそこまで言われたら、逆に是が非でも新体操部の練習を覗きたくなってくるぜ」",
+        "translation": "Shingo「Nhưng mà, bị nói đến nước này rồi, ngược lại mình càng muốn nhìn trộm xem cái đám ở câu lạc bộ thể dục dụng cụ đó luyện tập thế nào.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::よし、今度機会を窺って、一度覗きに行ってみるとするか……」",
+        "translation": "Shingo「Được thôi, để mình tìm cơ hội, thử lén đi nhìn trộm một lần xem sao…」\n"
+    },
+    {
+        "sentence": "[慎吾「]::……うーむ、いくら考えても分かんないぞ。こうなったらもう一度様子を見てみるか」",
+        "translation": "Shingo「……Uầy, nghĩ mãi mà không ra. Đã vậy thì mình xem xét tình hình thêm lần nữa vậy.」"
+    },
+    {
+        "sentence": "[慎吾「]::……って、あれ？」",
+        "translation": "Shingo「……Ủa, kia là…?」"
+    },
+    {
+        "sentence": "[慎吾「]::……しまった！　見逃したかっ！？」",
+        "translation": "Shingo「……Chết tiệt! Lỡ mất rồi!?」"
+    },
+    {
+        "sentence": "[慎吾「]::しかし……本当になんだっていうんだ？」",
+        "translation": "Shingo「Nhưng mà… rốt cuộc là chuyện gì mới được chứ?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::……ハハッ、そんな馬鹿な。そんな事、万が一にも、まかり間違っても、これっぽっちも、ありえないぜ」",
+        "translation": "Shingo「……Ha ha… Vớ vẩn! Chuyện đó, dù chỉ một phần vạn, có lỡ xảy ra, dù chỉ một chút xíu thôi, cũng không thể nào!」\n"
+    },
+    {
+        "sentence": "[慎吾「]::……チッ、考えたって分かるものじゃないか」",
+        "translation": "Shingo「……Tch, nghĩ cũng có hiểu được đâu.」"
+    },
+    {
+        "sentence": "[慎吾「]::…………ムッ、今だっ！」",
+        "translation": "Shingo「……Tch, giờ đây!」\n"
+    },
+    {
+        "sentence": "[慎吾「]::フフフッ、いつまでも起こす立場だと思うなよ。この程度、いつでも逆転できるぜ」",
+        "translation": "Shingo「Hahaha, đừng tưởng lúc nào cũng là người có thế thượng phong nhé. Mấy trò này, mình lật kèo lúc nào chả được.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::さてと……こんな所へ来てはみたものの……」",
+        "translation": "Shingo「Thôi được rồi... Đến tận chỗ này rồi mà...」\n"
+    },
+    {
+        "sentence": "[慎吾「]::……まぁ、別にいいか。誰かいた方が、色々と面倒だからな」",
+        "translation": "Shingo「……Mà thôi, kệ đi. Có ai đó ở đây thì phiền phức lắm.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::しかし……そういや、ウチの音楽室って、どうして音楽家の写真が飾ってないんだろう？」",
+        "translation": "Shingo「Mà khoan... Sao phòng âm nhạc của trường mình lại không treo ảnh nhạc sĩ nhỉ?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::……その肝心な物がないとは、何ともつまらんな。まったくオカルトに手厳しい学園だ」",
+        "translation": "Shingo「......Không có cái thứ quan trọng đó thì chán thật. Trường này quả là quá khắt khe với mấy chuyện huyền bí.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::……さ、それよりも、せっかく来たんだし、何か面白そうな物が無いか探してみるか」",
+        "translation": "Shingo「……À, mà thôi, nhân lúc đến đây rồi, hay là mình tìm xem có gì hay ho không nhỉ.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::……おっ、あそこに何かあるぞ。アレは……」",
+        "translation": "Shingo「……Ồ, hình như có gì đó ở đằng kia kìa. Cái kia là...?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::これは……マイクだな。カラオケ屋なんかで見かける定番のヤツだ」",
+        "translation": "Shingo「Đây là... cái micro à. Loại hay thấy ở mấy quán karaoke nhỉ.」"
+    },
+    {
+        "sentence": "[慎吾「]::ふむ……これはなかなか面白そうだ。よし、いただいていこう」",
+        "translation": "Shingo「Hmm... cái này có vẻ thú vị đấy. Được rồi, xin phép lấy nhé.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::さてと……他には何もなさそうだな」",
+        "translation": "Shingo「::Được rồi... Có vẻ không còn gì khác nữa nhỉ.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::理保子せんせぇ～！　おーい、俺だよ！　慎吾だよぉ！」",
+        "translation": "Shingo「Cô Rihoko ơi ~! Ơi này, em đây ! Shingo đâyyy!」"
+    },
+    {
+        "sentence": "[慎吾「]::……って、誰もいないじゃん。なんだ、テンションを上げて損したぜ」",
+        "translation": "Shingo「......Vậy mà, chả có ma nào. Haizz, phí công mình hưng phấn.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::……まぁ、こんな場所を物色しようだなんて物好きは、俺くらいなモンだけどな」",
+        "translation": "Shingo「......Mà thôi, chắc chỉ có mình mới rảnh hơi đi lùng sục cái chỗ này thôi.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::それより……理保子先生がいないなら、勝手にアイテムを置いていくか」",
+        "translation": "Shingo「Mà thôi... Nếu cô Rihoko-sensei không có ở đây, mình cứ tự tiện để lại đồ vậy.」"
+    },
+    {
+        "sentence": "[慎吾「]::……よし、と。こうしておけば、理保子先生も分かるだろ」",
+        "translation": "Shingo「......Rồi, xong. Để thế này thì cô Rihoko-sensei cũng hiểu thôi.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::それじゃあ、俺はターゲットの探索を続けるとするかな」",
+        "translation": "Shingo「Vậy thì, mình tiếp tục tìm kiếm mục tiêu thôi.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::第二体育館という事は……新体操部の連中だな」",
+        "translation": "Shingo「Nhà thi đấu số hai... vậy là đám con gái CLB Thể dục dụng cụ rồi.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::くそぉ……思い出すたびに、はらわたが煮えくり返るような思いがするぞ。お前の言うとおりになんか、絶対にしてやるものか」",
+        "translation": "Shingo「Chết tiệt... Cứ mỗi lần nhớ lại là ruột gan mình lại sôi lên sùng sục. Nhất định mình sẽ không bao giờ làm theo lời cô ta đâu.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::よし、思い立ったが吉日と言うし、早速覗きに行ってみるか」",
+        "translation": "Shingo「Được thôi, đã quyết là làm ngay, mình đi nhìn trộm thử xem sao.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::正面から覗けば、すぐに見つかってしまうのは目に見えているからな。一度外に回って、と……」",
+        "translation": "Shingo「Nhìn thẳng từ phía trước thì rõ mười mươi là bị phát hiện ngay còn gì. Phải vòng ra ngoài xem sao...」\n"
+    },
+    {
+        "sentence": "[慎吾「]::おっ、見える見える……クククククッ……」",
+        "translation": "Shingo「Ồ, thấy rồi, thấy rồi... khà khà khà...」\n"
+    },
+    {
+        "sentence": "[慎吾「]::ふむっ……こうして見ると、みんななかなか達者なものだな」",
+        "translation": "Shingo「Hừm... nhìn kỹ thì, ai nấy cũng khá là điêu luyện đấy chứ.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::新体操なんてお遊びみたいなものだろうと馬鹿にしていたけれど、これは結構レベルが高そうだぞ」",
+        "translation": "Shingo「Mình cứ tưởng mấy môn thể dục nhịp điệu này chỉ là trò trẻ con thôi, ai dè trình độ cao phết đấy chứ.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::おっ……！　なんだあの女子……メチャメチャいい動きしてるじゃないか！」",
+        "translation": "Shingo「Ố…! Cái em kia… động tác ngon nghẻ hết sẩy luôn!」\n"
+    },
+    {
+        "sentence": "[慎吾「]::―――って、げっ！　よく見たら、あいつ……沙耶じゃないか！？」",
+        "translation": "Shingo「―――Ủa, khoan... Nhìn kỹ thì, cô ta... chẳng phải là Saya sao!?」"
+    },
+    {
+        "sentence": "[慎吾「]::……ふむっ……ああやって他の学生と同じ格好をしていると、学生なんだか教師なんだか分からないな」",
+        "translation": "Shingo「......Hừm...... Cứ ăn mặc giống mấy học sinh khác thế này, không biết đâu là học sinh đâu là giáo viên nữa.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::アイツが演技をしている所なんて見た事無かったから、どれほどの腕前なのかと思っていたが……案外やるもんだな」",
+        "translation": "Shingo「Trước giờ mình chưa từng thấy cô ta diễn bao giờ, cứ tưởng trình độ thế nào... Ai dè cũng ra gì phết đấy chứ.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::うーむ……こうなってくると、つくづくあの高慢で小憎たらしい性格がもったいなく思えてくるな」",
+        "translation": "Shingo「Uầy... Đến nước này rồi, mình lại thấy tiếc cho cái tính cách kiêu căng hống hách đáng ghét của cô ta ghê.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::それに、いつもカッチリとしたスーツ姿だからあまり意識した事は無かったけれど……」",
+        "translation": "Shingo「Với lại, vì lúc nào cô ta cũng mặc bộ vest chỉnh tề, mình cũng chẳng để ý lắm, nhưng mà...」\n"
+    },
+    {
+        "sentence": "[慎吾「]::思っていたよりも……スタイルが良いんだな……」",
+        "translation": "Shingo「So với mình nghĩ thì... dáng ngon phết...」\n"
     }
 ]
