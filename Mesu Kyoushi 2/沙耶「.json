@@ -326,5 +326,125 @@
     {
         "sentence": "[沙耶「]::うぅっ……フ、フン！　いい事、用が無いならさっさと帰りなさい！　分かったわねっ！」",
         "translation": "Saya「Ư... Hừ! Nghe đây, nếu không có việc gì thì mau về cho khuất mắt tôi! Rõ chưa!」"
+    },
+    {
+        "sentence": "[沙耶「]::日直、号令を掛けなさい」",
+        "translation": "Saya「Lớp trưởng, hô khẩu lệnh đi.」"
+    },
+    {
+        "sentence": "[沙耶「]::ちょっとヘドロ。こんな所に何の用があるわけ？　野良犬みたいにフラフラ校内をうろつかないでくれる？」",
+        "translation": "Saya「Này đồ cặn bã. Cậu lảng vảng ở đây làm gì thế? Đừng có mà la cà trong trường như chó hoang nữa đi.」\n"
+    },
+    {
+        "sentence": "[沙耶「]::あるわよ。馬鹿みたいな顔して歩いてるから、頭からヘドロが湯気になって出てるじゃない。その匂いが迷惑なのよ」",
+        "translation": "Saya「Có chứ. Vì cậu đi lơ ngơ với cái mặt đần thối kia kìa, mồ hôi cặn bã bốc hơi nghi ngút trên đầu rồi kìa. Cái mùi đó làm phiền người khác đấy.」\n"
+    },
+    {
+        "sentence": "[沙耶「]::いいに決まってるじゃない」",
+        "translation": "Saya「Đương nhiên là tốt rồi.」\n"
+    },
+    {
+        "sentence": "[沙耶「]::馬鹿は馬鹿。利口は利口。教師は学生にこの世の真実を突きつけるのが使命なの。つまり侮辱ではなく真実。アンダスタン？」",
+        "translation": "Saya「Kẻ ngốc vẫn là kẻ ngốc. Người khôn vẫn là người khôn. Giáo viên có nhiệm vụ vạch trần sự thật trần trụi của thế giới này cho học sinh thấy. Nên đây không phải là sỉ nhục, mà là sự thật. Cậu hiểu không?」\n"
+    },
+    {
+        "sentence": "[沙耶「]::あら、私としたことが……『アンダスタン』なんて高等な英語使っても、意味分からないわよね」",
+        "translation": "Saya「Ôi chà, tôi lỡ lời rồi…… Dùng mấy từ tiếng Anh cao siêu như \"アンダスタン - andasutan\" thế này, chắc gì cậu đã hiểu chứ.」\n"
+    },
+    {
+        "sentence": "[沙耶「]::アフガニスタンじゃないわよ？」",
+        "translation": "Saya「Không phải là Afghanistan đâu đấy?」\n"
+    },
+    {
+        "sentence": "[沙耶「]::白雪姫書いた人でもないわよ？」",
+        "translation": "Saya「Tôi không phải người viết Bạch Tuyết đâu đấy?」\n"
+    },
+    {
+        "sentence": "[沙耶「]::アハハッ！　引っかかった！　白雪姫はグリムよ、あぁ、やっぱり馬鹿ねぇ～～～」",
+        "translation": "Saya「A ha ha! Bắt được rồi nhé! Bạch Tuyết là của anh em nhà Grimm cơ, à, đúng là đồ ngốc mà~~~」\n"
+    },
+    {
+        "sentence": "[沙耶「]::もう、ほれぼれするほど馬鹿。いっそ、しゃべれるのが不思議なぐらい」",
+        "translation": "Saya「Thật là, ngốc đến mức khiến người ta phải xuýt xoa. Thậm chí, tôi còn thấy lạ là cậu có thể nói được đấy.」"
+    },
+    {
+        "sentence": "[沙耶「]::ていうより……ゾウリムシ？　それともミジンコかしら？」",
+        "translation": "Saya「Hay là…… con trùng đế giày? Hay là con bọ chét nước nhỉ?」\n"
+    },
+    {
+        "sentence": "[沙耶「]::アハハッ！　アハハハハハッ！！」",
+        "translation": "Saya「A ha ha! A ha ha ha ha ha!!」\n"
+    },
+    {
+        "sentence": "[沙耶「]::……あら。と言うと……？」",
+        "translation": "Saya「……Ồ. Ý cậu là……？」\n"
+    },
+    {
+        "sentence": "[沙耶「]::ハッ！　そんな訳ないじゃない。馬鹿も休み休み言えっていうのは、あなたのためにあるような言葉ね。口から出てくる言葉、全部馬鹿」",
+        "translation": "Saya「Hả! Đâu có chuyện đó! Cái câu \"đồ ngốc cũng phải nghỉ ngơi\" ấy, hình như là dành riêng cho cậu đấy. Mấy lời cậu nói ra, toàn là ngốc nghếch!」\n"
+    },
+    {
+        "sentence": "[沙耶「]::物欲しそうな馬鹿面して、ヨダレをダッラ～って垂らしながら浮浪者みたいに家庭科室を覗いてたあなたと一緒にしないで。それだけで鳥肌が立つわ」",
+        "translation": "Saya「Đừng có đánh đồng tôi với cái bộ dạng thèm thuồng ngu ngốc, chảy cả nước dãi ròng ròng như dân vô gia cư dòm ngó phòng thực hành nữ công gia tránh của cậu. Chỉ nghĩ đến thôi là tôi đã nổi da gà rồi.」\n"
+    },
+    {
+        "sentence": "[沙耶「]::そう言われてみれば確かにそうね。浮浪者に失礼だったかも」",
+        "translation": "Saya「Nghe cậu nói vậy thì đúng là thế thật. Tôi có hơi thất lễ với người vô gia cư rồi.」\n"
+    },
+    {
+        "sentence": "[沙耶「]::何でもいいけど、あなたさっきから何回『何だと』って言えば気が済むわけ？　もう少しバリエーションに富んだ反応できないのかしら」",
+        "translation": "Saya「Sao cũng được, nhưng mà cậu định \"cái gì\" bao nhiêu lần nữa thì mới vừa lòng hả? Cậu không có phản ứng nào khác đa dạng hơn sao?」\n"
+    },
+    {
+        "sentence": "[沙耶「]::だいたい私の事、卑しいみたいな言い方してくれるけど、実はあなたの方が、姫森さんあたりに食べ物を恵んでもらおうとでも思ってたんじゃないの？」",
+        "translation": "Saya「Nói như thể tôi là người hèn hạ lắm ấy, nhưng thật ra có khi chính cậu mới là kẻ định xin xỏ đồ ăn của tiểu thư Himemori, phải không?」\n"
+    },
+    {
+        "sentence": "[沙耶「]::ほら、やっぱり図星だったのね。呆れてモノも言えないわ」",
+        "translation": "Saya「Thấy chưa, đúng là trúng tim đen rồi còn gì. Tôi cạn lời với cậu luôn đó.」\n"
+    },
+    {
+        "sentence": "[沙耶「]::あなた、お子チャマ？　『言ってるじゃないか！』なんて唇尖らせちゃって…『言ってるじゃないか！』『先生が僕を虐めるぅ』『３＋３は３３！』」",
+        "translation": "Saya「Cậu là trẻ con chắc? Hở một tí là bĩu môi \"tôi nói rồi còn gì!\" ra... \"Tôi nói rồi còn gì!\", \"Cô giáo ăn hiếp em!\", \"3 cộng 3 bằng 33!\"」\n"
+    },
+    {
+        "sentence": "[沙耶「]::何だったら、私から顧問の先生に頼んであげましょうか？　欠食少年に残飯を恵んで下さい、って……ンフフフッ……」",
+        "translation": "Saya「Hay là, để tôi xin thầy giáo chủ nhiệm giúp cậu nhé? Xin thầy thương tình bố thí chút cơm thừa cho cậu bé đói ăn này, ểnh ểnh ểnh...」\n"
+    },
+    {
+        "sentence": "[沙耶「]::まぁ、すごい！　怒りのあまり頭から出てくる湯気が黒くなってるわ！」",
+        "translation": "Saya「Ôi chao, ghê vậy! Tức đến bốc khói đen cả đầu kìa!」\n"
+    },
+    {
+        "sentence": "[沙耶「]::湯気が出てる事は認めた訳ね」",
+        "translation": "Saya「Vậy là cậu thừa nhận là có bốc hơi rồi nhé.」\n"
+    },
+    {
+        "sentence": "[沙耶「]::だいたい、私みたいな淑女をつかまえて『野郎』呼ばわりするんだから、やっぱり馬鹿は馬鹿よね」",
+        "translation": "Saya「Đã thế, cậu lại còn dám gọi một quý cô như tôi là \"thứ chết tiệt\", đúng là đồ ngốc vẫn hoàn ngốc mà.」"
+    },
+    {
+        "sentence": "[沙耶「]::あなた、もしかして服着てるのもつらいんじゃない？　無理しないで、全部脱いで森に帰ってもいいわよ？　野生にお戻りなさい」",
+        "translation": "Saya「Cậu... chẳng lẽ mặc quần áo cũng khó chịu lắm hả? Đừng gượng ép bản thân, cởi hết ra rồi về rừng cũng được đó? Trở về với tự nhiên đi.」\n"
+    },
+    {
+        "sentence": "[沙耶「]::な、何よ……！？」",
+        "translation": "Saya「C... cái gì chứ...?！」\n"
+    },
+    {
+        "sentence": "[沙耶「]::なっ……！？」",
+        "translation": "Saya「Á...!?」\n"
+    },
+    {
+        "sentence": "[沙耶「]::な、な、な……なっ……！？　な、な、な……っ！？」",
+        "translation": "Saya「K... k... k... khốn...!? K... k... k...!？」\n"
+    },
+    {
+        "sentence": "[沙耶「]::―――ハッ！？　フ、フンッ……」",
+        "translation": "Saya「―――Hự!? Hừ, hừ...!」\n"
+    },
+    {
+        "sentence": "[沙耶「]::まぁ、せいぜい残飯漁りに精を出すといいわ。私は用事を残しているから、これでね。フンッ！」",
+        "translation": "Saya「Vậy thì cứ cố mà bới móc đồ thừa đi nhé. Tôi còn có việc, xin phép. Hừ!」\n"
     }
 ]

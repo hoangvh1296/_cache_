@@ -82,5 +82,53 @@
     {
         "sentence": "[直美「]::座っていいわ。じゃ、代わりに……姫森、答えて」",
         "translation": "Naomi「Ngồi đi. Vậy thì, thay vào đó…… Himemori, trả lời đi.」\n"
+    },
+    {
+        "sentence": "[直美「]::小橋……ごめん、気が付かなかった」",
+        "translation": "Naomi「Kobashi... tôi xin lỗi, tôi không để ý.」\n"
+    },
+    {
+        "sentence": "[直美「]::……立てる？」",
+        "translation": "Naomi「Đứng lên… được không?」\n"
+    },
+    {
+        "sentence": "[直美「]::小橋、本当に、ごめん。私の不注意だったわ」",
+        "translation": "Naomi「Kobashi, thật sự xin lỗi em. Do tôi bất cẩn quá.」\n"
+    },
+    {
+        "sentence": "[直美「]::……そう？」",
+        "translation": "Naomi「……Vậy sao?」\n"
+    },
+    {
+        "sentence": "[直美「]::ん……分かった」",
+        "translation": "Naomi「::Ừm…… Tôi hiểu rồi.」\n"
+    },
+    {
+        "sentence": "[直美「]::ん……？　そうだけど、それが、どうかしたの？」",
+        "translation": "Naomi「Ừm...? Đúng vậy, nhưng... có chuyện gì sao?」"
+    },
+    {
+        "sentence": "[直美「]::……？　そうなの？」",
+        "translation": "Naomi「……Vậy à?」"
+    },
+    {
+        "sentence": "[直美「]::……ところで、君は、ここで何をしているの？」",
+        "translation": "Naomi「……Nhân tiện, em đang làm gì ở đây vậy?」\n"
+    },
+    {
+        "sentence": "[直美「]::……そう。君は、３年でしょ」",
+        "translation": "Naomi「……Vậy à. Em học năm ba rồi nhỉ.」\n"
+    },
+    {
+        "sentence": "[直美「]::ここは、２年の教室が並んでる所。用も無く、下級生の教室の近くを歩くのは、感心しない」",
+        "translation": "Naomi「Đây là khu vực các lớp năm hai. Không có việc gì thì đừng nên lảng vảng gần lớp của đàn em.」\n"
+    },
+    {
+        "sentence": "[直美「]::まだ、教室の中には、学生が残ってる。上級生が廊下を歩いていたら、みんな緊張して、廊下に出づらくなるわ」",
+        "translation": "Naomi「Vẫn còn học sinh trong lớp. Nếu học sinh lớn đi ngoài hành lang, mọi người sẽ căng thẳng, khó mà ra ngoài được.」\n"
+    },
+    {
+        "sentence": "[直美「]::…………」",
+        "translation": "Naomi「…………」\n"
     }
 ]

@@ -134,5 +134,13 @@
     {
         "sentence": "[？？？「]::……ちょっとぉ～、こんな所で何を騒いでいるの～？」",
         "translation": "？？？「……Chottooo~, mọi người làm ồn ào cái gì ở đây thế~?」"
+    },
+    {
+        "sentence": "[？？？「]::ちょっと……ヘドロ！　ヘドロってば」",
+        "translation": "？？？「Chờ đã... Đồ cặn bã! Đồ cặn bã kia!」"
+    },
+    {
+        "sentence": "[？？？「]::……大丈夫、か？」",
+        "translation": "？？？「……Ổn chứ, em ổn chứ?」"
     }
 ]
