@@ -2574,5 +2574,177 @@
     {
         "sentence": "[慎吾「]::思っていたよりも……スタイルが良いんだな……」",
         "translation": "Shingo「So với mình nghĩ thì... dáng ngon phết...」\n"
+    },
+    {
+        "sentence": "[慎吾「]::おっ！　おおっ……！」",
+        "translation": "Shingo「Ồ! Ô... Ô...！」\n"
+    },
+    {
+        "sentence": "[慎吾「]::うーむ……あの股間の膨らみには堪らんものがあるな！」",
+        "translation": "Shingo「Uầy... Cái chỗ phồng lên ở giữa háng cô ta đúng là có sức hút chết người mà!」\n"
+    },
+    {
+        "sentence": "[慎吾「]::クソッ……だんだん、見てるだけじゃ物足りなくなってきたぞ……」",
+        "translation": "Shingo「Chết tiệt... Càng ngày mình càng thấy chỉ ngắm thôi là không đủ nữa rồi...」\n"
+    },
+    {
+        "sentence": "[慎吾「]::まぁ、あれだけの演技が出来るなら、自分に自信が付いても当然だろう。天狗になるのも頷けるわな」",
+        "translation": "Shingo「Chà, với khả năng diễn xuất cỡ đó thì tự tin vào bản thân cũng là điều đương nhiên thôi. Kiêu ngạo cũng phải, nhỉ.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::……さて、沙耶の演技も終わった事だし、他に見るべき物も無さそうだ。見つかったら面倒だし、そろそろここから立ち去るとするか」",
+        "translation": "Shingo「……Mà thôi, diễn xuất của Saya cũng xong rồi, chắc cũng chẳng còn gì đáng xem nữa. Lỡ bị phát hiện thì phiền phức, mình chuồn khỏi đây thôi.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::どれっと……最後に、沙耶のレオタード姿をもう一度目に焼き付けておこうかな……」",
+        "translation": "Shingo「Được rồi…… Cuối cùng, mình phải khắc thật sâu hình ảnh Saya trong bộ đồ leotard vào mắt mới được……」\n"
+    },
+    {
+        "sentence": "[慎吾「]::ヤベ……」",
+        "translation": "Shingo「Tiêu rồi……」\n"
+    },
+    {
+        "sentence": "[慎吾「]::うわっ……！？　こっちに来た……！？」",
+        "translation": "Shingo「Ư……!? Đến đây rồi……!?」"
+    },
+    {
+        "sentence": "[慎吾「]::いや……あの……」",
+        "translation": "Shingo「Không... ờ...」\n"
+    },
+    {
+        "sentence": "[慎吾「]::うっ……いや、だから……」",
+        "translation": "Shingo「Ư... Không, thì...」"
+    },
+    {
+        "sentence": "[慎吾「]::……っ！？　何だよ……！？」",
+        "translation": "Shingo「……!? Cái…… gì thế……!?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::な、何の話だ……？」",
+        "translation": "Shingo「Nói... nói cái gì vậy......?」"
+    },
+    {
+        "sentence": "[慎吾「]::うっ！　何だと、この……！」",
+        "translation": "Shingo「Ư! Cái... cái quái gì thế này......!」"
+    },
+    {
+        "sentence": "[慎吾「]::ちょっ……！？　おい、それはいくら何でも横暴じゃないか！」",
+        "translation": "Shingo「Này... Chờ đã!? Này, như thế này là quá đáng rồi đấy!」\n"
+    },
+    {
+        "sentence": "[慎吾「]::そんな馬鹿な！？」",
+        "translation": "Shingo「Làm gì có chuyện vô lý như vậy!?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::読めるに決まってるだろう！」",
+        "translation": "Shingo「Đọc được chứ còn gì!」\n"
+    },
+    {
+        "sentence": "[慎吾「]::クッ……犬じゃないぞ！」",
+        "translation": "Shingo「Khốn... Tôi không phải chó!」\n"
+    },
+    {
+        "sentence": "[慎吾「]::くぅっ……！？」",
+        "translation": "Shingo「Ư...!?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::クソッ！　忌々しいヤツめ！！」",
+        "translation": "Shingo「Chết tiệt! Cái ả đàn bà đáng nguyền rủa đó!!」\n"
+    },
+    {
+        "sentence": "[慎吾「]::第二体育館への立ち入りを禁止するだと？　ふざけるなっ！」",
+        "translation": "Shingo「Cấm mình bén mảng tới nhà thi đấu số hai á? Đừng có giỡn mặt!」\n"
+    },
+    {
+        "sentence": "[慎吾「]::あんまりナメた態度をとっているとどうなるか……そろそろ思い知らせてやらなければならないな」",
+        "translation": "Shingo「Nếu cứ giữ cái thái độ nhờn nhỡn đó thì sẽ ra sao... có lẽ mình nên cho cô ta biết sớm thôi.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::よし、こうなったらアイツをモノにする為に、こちらも本腰を入れて動くとするか」",
+        "translation": "Shingo「Được thôi, nếu đã vậy, để chiếm được cô ta, mình cũng phải nghiêm túc hành động mới được.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::この匂いは……ケーキ、それともクッキーか？」",
+        "translation": "Shingo「Mùi này là... bánh ngọt, hay bánh quy nhỉ?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::ずいぶん美味そうな匂いだな……食欲がそそられるぜ」",
+        "translation": "Shingo「Chà chà, mùi ngon quá… kích thích vị giác thật đấy.」"
+    },
+    {
+        "sentence": "[慎吾「]::これは、長居なんか出来そうもないな」",
+        "translation": "Shingo「Chỗ này chắc không tiện nán lại lâu đâu.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::別に……何してたっていいだろ。どこぞのお嬢様先生みたいな事を聞くな」",
+        "translation": "Shingo「Kệ tôi…… Tôi làm gì thì liên quan gì đến cậu. Đừng có mà lên mặt dạy đời như mấy cô giáo trẻ ranh.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::わざわざアイツの名前まで出すな。それより、お前、部活中じゃないのか？」",
+        "translation": "Shingo「Đừng có lôi cả tên cô ta ra làm gì. Mà thôi, không phải cậu đang trong giờ sinh hoạt câu lạc bộ à?」"
+    },
+    {
+        "sentence": "[慎吾「]::こんなところで俺と話してたらまずいんじゃないのか？」",
+        "translation": "Shingo「Cậu mà đứng nói chuyện với tôi ở chỗ này thì không hay đâu nhỉ?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::それでわざわざ出てきたっていうのか」",
+        "translation": "Shingo「Thế nên cậu mới lặn lội ra đây à?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::うっ……こ、これはだな……」",
+        "translation": "Shingo「Ư...cái, cái này là...」\n"
+    },
+    {
+        "sentence": "[慎吾「]::……あぁ、この匂いのせいでな」",
+        "translation": "Shingo「……À, tại cái mùi này đấy.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::どうかしたのか？　菓子が心配なら戻った方がいいぞ」",
+        "translation": "Shingo「Có chuyện gì sao? Nếu cậu lo cho mấy món bánh kẹo thì nên quay lại đi.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::なんだ、食い物の心配をしていたのか」",
+        "translation": "Shingo「Này, cậu lo lắng về đồ ăn à?」"
+    },
+    {
+        "sentence": "[慎吾「]::お、何かいいアイデアでも浮かんだか？」",
+        "translation": "Shingo「Ồ, hay là cậu vừa nảy ra ý tưởng gì hay ho đấy?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::……えっ！？」",
+        "translation": "Shingo「...Cái gì!?」"
+    },
+    {
+        "sentence": "[慎吾「]::……あぁ、結城、先生だな」",
+        "translation": "Shingo「……À, Yuuki, là cô giáo à.」"
+    },
+    {
+        "sentence": "[慎吾「]::クッ……早苗のヤツ……」",
+        "translation": "Shingo「Khốn kiếp... ả Sanae đó...」\n"
+    },
+    {
+        "sentence": "[慎吾「]::なんだ？　菓子の話なら、別に無理して気を遣う必要はないぞ」",
+        "translation": "Shingo「Sao thế? Nếu là chuyện bánh kẹo thì không cần phải khách khí với tôi đâu.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::いや、別に……どうもしないって」",
+        "translation": "Shingo「Không, không có gì... Tôi sẽ không làm gì cả.」"
+    },
+    {
+        "sentence": "[慎吾「]::俺と結城先生！？　何もある訳ないだろ！　なんでそんな事聞くんだよ！」",
+        "translation": "Shingo「Tôi và cô Yuuki-sensei á!? Làm gì có chuyện gì! Sao cậu lại hỏi thế hả!?」\n"
+    },
+    {
+        "sentence": "[慎吾「]::そうか？　お前の見間違いだと思うぞ。おっちょこちょいだから忘れ物でもしたんだろ」",
+        "translation": "Shingo「Thế á? Chắc cậu nhìn nhầm thôi. Cô ta hay đãng trí nên chắc lại quên đồ gì đó rồi.」"
+    },
+    {
+        "sentence": "[慎吾「]::大した事じゃないって。お前には関係ない事なんだから、話はこれでおしまいな」",
+        "translation": "Shingo「Chuyện bé xé ra to thôi mà. Có liên quan gì đến cậu đâu, bỏ qua chuyện này đi là xong.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::あのなぁ……お前のお人好しも、程ほどにしておかないと痛い目を見るぞ」",
+        "translation": "Shingo「Này... cậu tốt bụng quá cũng không tốt đâu, coi chừng có ngày rước họa vào thân đấy.」\n"
     }
 ]

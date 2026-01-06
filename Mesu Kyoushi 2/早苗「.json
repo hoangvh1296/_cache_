@@ -862,5 +862,9 @@
     {
         "sentence": "[早苗「]::……だから、だからもう二度と私に近付かないでっ！」",
         "translation": "Yuuki「......Vậy nên, nên em đừng bao giờ đến gần cô nữa!」"
+    },
+    {
+        "sentence": "[早苗「]::……！？」",
+        "translation": "Yuuki「……！？」\n"
     }
 ]

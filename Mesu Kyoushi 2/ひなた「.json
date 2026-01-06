@@ -246,5 +246,125 @@
     {
         "sentence": "[ひなた「]::……でも、用があるなら仕方ないよね。じゃ、今日は一人で帰るから。また明日ね」",
         "translation": "Hinata「……Nhưng, nếu cậu có việc bận thì tớ cũng chịu thôi. Vậy, hôm nay tớ về một mình vậy. Hẹn cậu ngày mai nha.」\n"
+    },
+    {
+        "sentence": "[ひなた「]::うふふっ、やっぱりそうだぁ！」",
+        "translation": "Hinata「Ufu... đúng là thế thật!」\n"
+    },
+    {
+        "sentence": "[ひなた「]::慎吾くん、こんな時間にこんな所で何してるの？」",
+        "translation": "Hinata「Shingo này, giờ này cậu làm gì ở đây thế?」\n"
+    },
+    {
+        "sentence": "[ひなた「]::お嬢様先生、って……高峰先生の事だよね？」",
+        "translation": "Hinata「\"Cô giáo tiểu thư,\" ý cậu là Takamine-sensei hả?」\n"
+    },
+    {
+        "sentence": "[ひなた「]::うん、部活中。今はお菓子を作ってる最中なの」",
+        "translation": "Hinata「Ừ, tớ đang trong giờ sinh hoạt câu lạc bộ. Giờ tớ đang làm bánh.」\n"
+    },
+    {
+        "sentence": "[ひなた「]::ううん、大丈夫。友達に任せてきたから。何してるのかな～って思って」",
+        "translation": "Hinata「Ừm, không sao đâu. Tớ nhờ bạn làm giúp rồi. Tớ chỉ là hơi tò mò cậu đang làm gì thôi mà.」\n"
+    },
+    {
+        "sentence": "[ひなた「]::うん、そうだよ」",
+        "translation": "Hinata「Ừ, đúng vậy đó.」\n"
+    },
+    {
+        "sentence": "[ひなた「]::で、慎吾くんは何してたか教えてくれないの？」",
+        "translation": "Hinata「Vậy, cậu không chịu nói cho tớ biết Shingo đang làm gì à?」\n"
+    },
+    {
+        "sentence": "[ひなた「]::ふふふっ、お腹空いてるの？　慎吾くん」",
+        "translation": "Hinata「Fufufu, bụng cậu đói rồi hả, Shingo?」\n"
+    },
+    {
+        "sentence": "[ひなた「]::うんうん、すごく良い匂いしてるもんね。私もお腹空いちゃった」",
+        "translation": "Hinata「Ừ ừ, thơm thật đấy. Tớ cũng thấy đói bụng rồi.」"
+    },
+    {
+        "sentence": "[ひなた「]::…………」",
+        "translation": "Hinata「…………」\n"
+    },
+    {
+        "sentence": "[ひなた「]::ううん、そうじゃなくて……」",
+        "translation": "Hinata「Không phải, không phải vậy đâu...」"
+    },
+    {
+        "sentence": "[ひなた「]::私のお菓子はまだ出来てないし、他の子は自分の分だけだったみたいだし……」",
+        "translation": "Hinata「Bánh của tớ vẫn chưa làm xong, mà hình như mấy bạn khác chỉ làm cho phần của riêng mình thôi thì phải...」\n"
+    },
+    {
+        "sentence": "[ひなた「]::ん～、慎吾くん、お腹すいてるみたいだから、分けてあげられる分があったかなって思って……」",
+        "translation": "Hinata「Ừm... Shingo, hình như cậu đói bụng rồi, tớ nghĩ không biết có còn phần nào để chia cho cậu không nữa...」\n"
+    },
+    {
+        "sentence": "[ひなた「]::うぅ～ん……私のも、焼き上がってから、まだまだクリームを塗って盛りつけもしなくちゃいけないし……」",
+        "translation": "Hinata「Ưm... Bánh của tớ, sau khi nướng xong, còn phải phết kem với trang trí các kiểu nữa chứ...」\n"
+    },
+    {
+        "sentence": "[ひなた「]::あっ……！！」",
+        "translation": "Hinata「A...!!」\n"
+    },
+    {
+        "sentence": "[ひなた「]::あれ……結城先生だよね？」",
+        "translation": "Hinata「Ủa... kia là Yuuki-sensei phải không?」"
+    },
+    {
+        "sentence": "[ひなた「]::あっ、あの……？」",
+        "translation": "Hinata「À, ờ... cái đó...?」"
+    },
+    {
+        "sentence": "[ひなた「]::えっ、あれっ？　結城先生、どうしたんだろ……？」",
+        "translation": "Hinata「Ể, kì lạ vậy? Yuuki-sensei, sao thế nhỉ...?」\n"
+    },
+    {
+        "sentence": "[ひなた「]::ねぇ、慎吾くん、結城先生……なんか変じゃない？」",
+        "translation": "Hinata「Này, Shingo, Yuuki-sensei... hình như có gì đó lạ lạ thì phải?」\n"
+    },
+    {
+        "sentence": "[ひなた「]::ね、ねぇ……！　あの……慎吾、くん？」",
+        "translation": "Hinata「Này, này...! Ừm... Shingo...?」\n"
+    },
+    {
+        "sentence": "[ひなた「]::あ……あのね……慎吾、くん……？」",
+        "translation": "Hinata「À...ừm... Shingo, cậu...?」\n"
+    },
+    {
+        "sentence": "[ひなた「]::ううん、そういう事じゃなくて……その、ね……」",
+        "translation": "Hinata「Không, không phải chuyện đó... mà là, cái... đó...」\n"
+    },
+    {
+        "sentence": "[ひなた「]::何か恐い顔してるけど……どうしたの？」",
+        "translation": "Hinata「Sao mặt cậu trông đáng sợ thế...? Có chuyện gì vậy?」\n"
+    },
+    {
+        "sentence": "[ひなた「]::……ねぇ、もしかして……」",
+        "translation": "Hinata「......Nè, có khi nào là......」\n"
+    },
+    {
+        "sentence": "[ひなた「]::慎吾くん、結城先生と何かあったの？」",
+        "translation": "Hinata「Shingo, giữa cậu và cô Yuuki có chuyện gì à?」"
+    },
+    {
+        "sentence": "[ひなた「]::でも結城先生……こっちを見て引き返していったように見えたよ」",
+        "translation": "Hinata「Nhưng mà, Yuuki-sensei... tớ thấy hình như cô ấy nhìn bên này rồi quay lại thì phải.」\n"
+    },
+    {
+        "sentence": "[ひなた「]::それに結城先生、なんだかおかしな顔してたし……何もないって事ないよ」",
+        "translation": "Hinata「Với lại, Yuuki-sensei, trông mặt cô ấy lúc đó kì lắm... Chắc chắn là có gì đó rồi.」\n"
+    },
+    {
+        "sentence": "[ひなた「]::それに、それに……慎吾くん、嘘つく時の顔してるよ……ねぇ、私に何を隠してるの？」",
+        "translation": "Hinata「Với lại, với lại... Shingo, cậu đang nói dối đó... Này, cậu đang giấu tớ chuyện gì vậy?」\n"
+    },
+    {
+        "sentence": "[ひなた「]::でも、慎吾くんに関係あるなら、私にだって他人事じゃないんだから……」",
+        "translation": "Hinata「Nhưng mà, nếu chuyện đó có liên quan đến Shingo, thì với tớ cũng đâu phải là chuyện của người ngoài...」\n"
+    },
+    {
+        "sentence": "[ひなた「]::何があったのか、ちゃんと教えてよ……ねぇ！」",
+        "translation": "Hinata「Có chuyện gì xảy ra, nói cho tớ biết đi mà... Nha?」\n"
     }
 ]
