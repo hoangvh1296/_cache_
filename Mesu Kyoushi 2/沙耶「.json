@@ -614,5 +614,57 @@
     {
         "sentence": "[沙耶「]::犬の方がまだマシかもね」",
         "translation": "Saya「Đến chó còn hơn ấy chứ.」\n"
+    },
+    {
+        "sentence": "[沙耶「]::私のクラスに何かご用ですか、お母様」",
+        "translation": "Saya「Mẹ có việc gì ở lớp con sao ạ?」"
+    },
+    {
+        "sentence": "[沙耶「]::あ、す、すみません……」",
+        "translation": "Saya「À, x-xin lỗi ạ……」"
+    },
+    {
+        "sentence": "[沙耶「]::……って、何だ……あなただったの」",
+        "translation": "Saya「……Ra là cậu à……」"
+    },
+    {
+        "sentence": "[沙耶「]::学園長、この学生と一体何を話してらしたのです？　彼がまた何か悪さでも働いたのですか？」",
+        "translation": "Saya「Thưa hiệu trưởng, ngài đang nói chuyện gì với học sinh này vậy ạ? Cậu ta lại gây ra chuyện gì nữa sao?」"
+    },
+    {
+        "sentence": "[沙耶「]::この男子は、私がいつもお話ししている劣等生、例のヘドロ頭です。とうとう学園長にまで危害を加えてしまったのですか？」",
+        "translation": "Saya「Cái cậu nam sinh này là tên học sinh kém mà tôi vẫn hay kể, cái đồ cặn bã đó. Đến mức gây sự với cả hiệu trưởng rồi sao?」"
+    },
+    {
+        "sentence": "[沙耶「]::学園長、『ヘドロ頭』ですわ。まぁ、確かに顔もヘドロ並ですけれど……フフフッ……」",
+        "translation": "Saya「Thưa hiệu trưởng, đúng là đồ cặn bã. Chà, dù mặt mũi cũng tầm cỡ đồ cặn bã thật…… Hứ hứ hứ……」"
+    },
+    {
+        "sentence": "[沙耶「]::ちょっと怒るとすぐに脳味噌が焦げ付き出すんです。何しろ脳味噌がふんころがし並なのに、一生懸命人間のふりをするから……」",
+        "translation": "Saya「Chỉ cần hơi nổi nóng một chút là não cậu ta y như rằng bị cháy khét ngay. Tại não cậu ta bé tí teo như hòn bi ve ấy mà, còn phải cố gắng hết sức để giả vờ làm người nữa chứ……」"
+    },
+    {
+        "sentence": "[沙耶「]::ねぇ、あなた……ヘドロって言われるのとふんころがしって言われるのとではどっちがいい？」",
+        "translation": "Saya「Này, cậu…… cậu thấy bị gọi là đồ cặn bã với cả bị gọi là đồ con bọ hung thì cái nào tốt hơn?」"
+    },
+    {
+        "sentence": "[沙耶「]::こういう子なんですよ、お母様」",
+        "translation": "Saya「Đây là một đứa trẻ như thế này đấy, thưa mẹ.」"
+    },
+    {
+        "sentence": "[沙耶「]::オブツくん」",
+        "translation": "Saya「Obutsu-kun」"
+    },
+    {
+        "sentence": "[沙耶「]::まぁ、お母様！　タン壺小僧って素敵！　ナイスネーミングだわ」",
+        "translation": "Saya「Ôi, mẹ yêu! \"Thằng nhãi lọ đựng đờm\" nghe hay đấy chứ! Đặt tên đỉnh thật!」"
+    },
+    {
+        "sentence": "[沙耶「]::あっ……ところで、学園長は私に何か用事がおありだったのでは？」",
+        "translation": "Saya「À… Nhân tiện, chẳng phải hiệu trưởng có việc gì đó muốn nói với tôi sao?」"
+    },
+    {
+        "sentence": "[沙耶「]::わかりました、それじゃお供します」",
+        "translation": "Saya「Tôi hiểu rồi, vậy thì tôi xin phép đi cùng ạ.」"
     }
 ]

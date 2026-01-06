@@ -3437,7 +3437,7 @@
     },
     {
         "sentence": "[慎吾「]::ハハッ、じゃあ俺はこれで帰らせてもらうぜ。またな、先生」",
-        "translation": "Shingo「Haha, vậy tôi xin phép về đây. Gặp lại cô sau, thưa cô.」"
+        "translation": "Shingo「Haha, vậy em xin phép về đây. Gặp lại cô sau, thưa cô.」"
     },
     {
         "sentence": "[慎吾「]::……今の感じだと、本当にまだ変化が起こってなさそうだな」",
@@ -3450,5 +3450,113 @@
     {
         "sentence": "[慎吾「]::さてと、テニスコートにやって来たけど……梓はいるかな？」",
         "translation": "Shingo「Được rồi, mình đến sân tennis rồi đây... không biết Azusa có ở đây không nhỉ?」"
+    },
+    {
+        "sentence": "[慎吾「]::ふむ、ここに何かあるかな……？」",
+        "translation": "Shingo「Hmm, ở đây có gì không nhỉ...?」"
+    },
+    {
+        "sentence": "[慎吾「]::おっ……直美先生じゃないか」",
+        "translation": "Shingo「Ồ… chẳng phải là Naomi-sensei sao」"
+    },
+    {
+        "sentence": "[慎吾「]::ううむ、見てたらムラムラしてきたぞ」",
+        "translation": "Shingo「Uầy, nhìn thôi mà mình thấy rạo rực cả người rồi」"
+    },
+    {
+        "sentence": "[慎吾「]::……どうも、場所とタイミングが悪いな」",
+        "translation": "Shingo「……Xem ra mình chọn sai thời điểm và địa điểm rồi」"
+    },
+    {
+        "sentence": "[慎吾「]::今回は見逃してやるよ、直美……」",
+        "translation": "Shingo「Lần này mình sẽ bỏ qua cho cô ta đấy, Naomi……」"
+    },
+    {
+        "sentence": "[慎吾「]::さてと……何か手がかりは無いかな……」",
+        "translation": "Shingo「Được rồi... Không biết có manh mối nào không nhỉ...?」"
+    },
+    {
+        "sentence": "[慎吾「]::ふむっ……念のため、教室の中も調べてみるか」",
+        "translation": "Shingo「Hmm... Để chắc ăn, mình xem xét cả bên trong lớp học nữa xem sao.」"
+    },
+    {
+        "sentence": "[慎吾「]::むうっ……やっぱり誰もいないか」",
+        "translation": "Shingo「Mmm... Quả nhiên là không có ai cả.」"
+    },
+    {
+        "sentence": "[慎吾「]::たまには、机の中でも漁ってみるかな……」",
+        "translation": "Shingo「Thỉnh thoảng, mình lục thử trong ngăn bàn xem sao......」"
+    },
+    {
+        "sentence": "[慎吾「]::ちぇっ、収穫無しか。これ以上長居しても時間の無駄だ。もう出るとする……んっ？」",
+        "translation": "Shingo「Tch, không có thu hoạch gì sao. Ở đây thêm nữa chỉ tốn thời gian. Mình đi thôi...... Hả?」"
+    },
+    {
+        "sentence": "[慎吾「]::……っ！？　誰だ……？」",
+        "translation": "Shingo「……っ!? Ai đó……?」"
+    },
+    {
+        "sentence": "[慎吾「]::……あっ」",
+        "translation": "Shingo「……A!」"
+    },
+    {
+        "sentence": "[慎吾「]::……………………っ」",
+        "translation": "Shingo「……………………っ」"
+    },
+    {
+        "sentence": "[慎吾「]::いえ、知らないです」",
+        "translation": "Shingo「Không, em không biết.」"
+    },
+    {
+        "sentence": "[慎吾「]::そうですか。そっちにもいなかったとなると、俺も心当たりは無いですね」",
+        "translation": "Shingo「Vậy ạ. Nếu bên đó cũng không có thì em cũng chịu, không biết gì luôn.」"
+    },
+    {
+        "sentence": "[慎吾「]::ちょっ……！？　おい……！？」",
+        "translation": "Shingo「Khoan……!? Này……!?」"
+    },
+    {
+        "sentence": "[慎吾「]::が、学園長！　いくら相手が学生でも、そんな言い方失礼なんじゃないですか……！」",
+        "translation": "Shingo「Nhưng, thưa hiệu trưởng! Dù đối phương có là học sinh đi nữa, cách nói đó có hơi thất lễ không ạ……!」"
+    },
+    {
+        "sentence": "[慎吾「]::誰の脳味噌がふんころがし並だよ！　俺は人間だっ！」",
+        "translation": "Shingo「Não ai của ai mà bé như hòn bi lăn vậy hả! Tôi là con người đấy!」"
+    },
+    {
+        "sentence": "[慎吾「]::ど、どっちも嫌に決まってるだろう！」",
+        "translation": "Shingo「Đồ, đồ nào tôi cũng ghét bỏ xừ đi được!」"
+    },
+    {
+        "sentence": "[慎吾「]::い、いやだ！」",
+        "translation": "Shingo「K-Không đời nào!」"
+    },
+    {
+        "sentence": "[慎吾「]::ふざけるな！」",
+        "translation": "Shingo「Đừng có giỡn mặt!」"
+    },
+    {
+        "sentence": "[慎吾「]::全然ナイスじゃないだろう！　ふざけるのもいい加減にしろ！」",
+        "translation": "Shingo「Chẳng có gì hay ho cả! Bớt giỡn đi!」"
+    },
+    {
+        "sentence": "[慎吾「]::……何なんだ、あの親子は……」",
+        "translation": "Shingo「……Rốt cuộc thì cái đám người kia là cái quái gì vậy chứ……」"
+    },
+    {
+        "sentence": "[慎吾「]::クソっ、胸糞悪い！　親子揃ってムカつく女どもめ……何がタン壺小僧だ！」",
+        "translation": "Shingo「Khốn kiếp, bực cả mình! Mẹ con nhà đó đúng là lũ đàn bà đáng ghét…… Cái thứ nhãi ranh bẩn thỉu gì chứ!」"
+    },
+    {
+        "sentence": "[慎吾「]::……しかし、親子だけあって、母親の方もなかなかの美人だったな」",
+        "translation": "Shingo「……Nhưng mà, đúng là mẹ con có khác, bà mẹ kia cũng thuộc hàng mỹ nhân đấy.」"
+    },
+    {
+        "sentence": "[慎吾「]::クソッ……こうなったら、あの美人親子に揃って母乳を噴かせてやるのも手だぞ……！」",
+        "translation": "Shingo「Chết tiệt… Nếu đã vậy, mình sẽ khiến mẹ con nhà mỹ nhân đó phải phun sữa mẹ ra cho xem…!」"
+    },
+    {
+        "sentence": "[慎吾「]::そろそろ攻め手に回りたいところだが、何か良い方法は無いものかな……」",
+        "translation": "Shingo「Đã đến lúc mình phản công rồi, nhưng mà không biết có cách nào hay không đây……」"
     }
 ]
