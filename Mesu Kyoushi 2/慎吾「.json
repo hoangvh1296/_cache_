@@ -2746,5 +2746,109 @@
     {
         "sentence": "[慎吾「]::あのなぁ……お前のお人好しも、程ほどにしておかないと痛い目を見るぞ」",
         "translation": "Shingo「Này... cậu tốt bụng quá cũng không tốt đâu, coi chừng có ngày rước họa vào thân đấy.」\n"
+    },
+    {
+        "sentence": "[慎吾「]::……お、なんだ？」",
+        "translation": "Shingo「……Ơ, gì vậy?」"
+    },
+    {
+        "sentence": "[慎吾「]::おい、ポケットの携帯が鳴ってるぞ。出なくていいのか？」",
+        "translation": "Shingo「Này, điện thoại trong túi cậu rung kìa. Không bắt máy à?」"
+    },
+    {
+        "sentence": "[慎吾「]::わざわざアラームをセットするぐらいなんだから、何かする事があるんじゃないのか？」",
+        "translation": "Shingo「Đã cất công cài báo thức thì chắc là có việc gì đó phải làm chứ?」"
+    },
+    {
+        "sentence": "[慎吾「]::だったら早く取り出さないと、焦げちまわないのか？」",
+        "translation": "Shingo「Vậy thì phải lấy ra nhanh đi chứ, không thì cháy mất đấy?」"
+    },
+    {
+        "sentence": "[慎吾「]::ほら、友達が教えてくれたんだ。せっかくのケーキを無駄にする事もないだろ」",
+        "translation": "Shingo「Đấy, bạn cậu vừa mách tôi rồi. Việc gì phải để phí cái bánh ngon thế này, đúng chứ?」"
+    },
+    {
+        "sentence": "[慎吾「]::……チッ」ひなた「あ……あのね……慎吾、くん……？」慎吾「……ん？」腹立たしさが一方的に募り、思わず舌打ちをしたところで、俺はようやくひなたに呼ばれていた事に気が付いて、意識をこの場に戻した。慎吾「なんだ？　菓子の話なら、別に無理して気を遣う必要はないぞ」ひなた「ううん、そういう事じゃなくて……その、ね……」俺のおざなりな返事に、ひなたが不安げな表情でこもりがちな言葉を返してくる。ひなた「何か恐い顔してるけど……どうしたの？」慎吾「いや、別に……どうもしないって」……チッ、表情に出ていたのか。マズったな。まさか、そこまで感情が表に出ていたとは気が付かなかった。ひなた「……ねぇ、もしかして……」何か言い辛い事を口にしようとしているのか、ひなたは言葉を選ぶように間を置いて、話を続ける。ひなた「慎吾くん、結城先生と何かあったの？」慎吾「俺と結城先生！？　何もある訳ないだろ！　なんでそんな事聞くんだよ！」核心を突いているとも言えるひなたの一言に、俺は身を硬くする。ひなた「でも結城先生……こっちを見て引き返していったように見えたよ」慎吾「そうか？　お前の見間違いだと思うぞ。おっちょこちょいだから忘れ物でもしたんだろ」",
+        "translation": "Shingo「Tôi và Yuuki-sensei á!? Làm gì có chuyện gì! Sao cậu lại hỏi thế!?」"
+    },
+    {
+        "sentence": "[慎吾「]::ふぅ……何とか逃げられたって感じだな」",
+        "translation": "Shingo「Phù... Có vẻ như mình đã trốn được rồi nhỉ.」"
+    },
+    {
+        "sentence": "[慎吾「]::あの様子なら、本当の事を話してやるまで納得はしないだろうな……」",
+        "translation": "Shingo「Với tình hình này, cậu ta sẽ không chịu hiểu nếu mình không nói thật cho nghe đâu...」"
+    },
+    {
+        "sentence": "[慎吾「]::……なら、出来るだけ会わないようにするのが一番か」",
+        "translation": "Shingo「......Vậy thì, tốt nhất là nên cố gắng tránh mặt cậu ta hết mức có thể.」"
+    },
+    {
+        "sentence": "[慎吾「]::あ～あ、面倒事が一つ増えちまったな……」",
+        "translation": "Shingo「Haizz, lại thêm một chuyện phiền phức nữa rồi...」"
+    },
+    {
+        "sentence": "[慎吾「]::はぁ～、素直にひなたのケーキをねだっていれば腹も膨れただろうが……今から食わせてくれって訳にもいかないよなぁ」",
+        "translation": "Shingo「Hầy, giá mà lúc đó mình ngoan ngoãn đòi bánh Hinata thì giờ này no bụng rồi... Giờ mà bảo cậu ta cho mình ăn thì hơi khó mở miệng...」"
+    },
+    {
+        "sentence": "[慎吾「]::まぁ、良い子チャン達はさっさと帰る時間帯だからな」",
+        "translation": "Shingo「Ừm, giờ này mấy đứa ngoan ngoãn nên về nhà rồi.」"
+    },
+    {
+        "sentence": "[慎吾「]::いや、そんな事などありえない！　デタラメだ、フィクションだっ……！」",
+        "translation": "Shingo「Không, chuyện đó không thể nào xảy ra được! Vớ vẩn, chỉ là hư cấu thôi……!」"
+    },
+    {
+        "sentence": "[慎吾「]::……まぁ、こうして音を聞いてるだけじゃ、分からないか。実際に見てみない事にはな」",
+        "translation": "Shingo「……Ừm, chỉ nghe tiếng thôi thì không biết được đâu. Phải tận mắt chứng kiến mới được.」"
+    },
+    {
+        "sentence": "[慎吾「]::――ッ！？」",
+        "translation": "Shingo「――Hả!?」"
+    },
+    {
+        "sentence": "[慎吾「]::……何を考えてるのかは分からないが、まさかこんな所でオナニーとはな……」",
+        "translation": "Shingo「Mình không biết cô ta đang nghĩ gì, nhưng không ngờ lại thủ dâm ở cái nơi này...」"
+    },
+    {
+        "sentence": "[慎吾「]::フフッ、せっかくのお堅い直美先生のオナニーショーだ。ここはじっくりと見させてもらうぜ」",
+        "translation": "Shingo「Heehee, khó có được màn trình diễn thủ dâm nghiêm túc của Naomi-sensei. Mình sẽ từ từ thưởng thức nó.」"
+    },
+    {
+        "sentence": "[慎吾「]::……くうっ、すごい乱れようだな、直美のヤツ。それに、あのデカパイも、生で見ると全然迫力が違うぞ」",
+        "translation": "Shingo「……Khụ, ả đàn bà Naomi đó sung sức thật. Với lại, cái cặp vú bự đó, nhìn tận mắt mới thấy nó khác biệt cỡ nào.」"
+    },
+    {
+        "sentence": "[慎吾「]::……ククククッ、こりゃド変態な姿だぜ、直美」",
+        "translation": "Shingo「......Khư khư khư, đúng là dáng vẻ siêu biến thái đấy, Naomi.」"
+    },
+    {
+        "sentence": "[慎吾「]::……おっ！？　と、ととっ……！？」",
+        "translation": "Shingo「……Hả!? C, c, cái…!?」"
+    },
+    {
+        "sentence": "[慎吾「]::うおっ……！？」",
+        "translation": "Shingo「Ư…!?」"
+    },
+    {
+        "sentence": "[慎吾「]::……はぁ、はぁっ……くっ、はぁ、はぁ…………」",
+        "translation": "Shingo「……Hộc, hộc… Khốn kiếp, hộc, hộc…」"
+    },
+    {
+        "sentence": "[慎吾「]::……けど、待てよ？　慌てて逃げてきたけど、今になって考えたら、別にその必要は無かったんじゃ……？」",
+        "translation": "Shingo「……Nhưng, khoan đã? Vội vàng bỏ chạy, giờ nghĩ lại, có cần thiết phải làm vậy không nhỉ……?」"
+    },
+    {
+        "sentence": "[慎吾「]::……チッ、こりゃマズッたかな」",
+        "translation": "Shingo「……Tch, có lẽ mình chơi dại rồi.」"
+    },
+    {
+        "sentence": "[慎吾「]::……けど、まぁ、いいか。今回は直美の弱みを握ったってだけで充分だ」",
+        "translation": "Shingo「……Nhưng, thôi kệ đi. Lần này chỉ cần nắm được điểm yếu của Naomi là đủ rồi.」"
+    },
+    {
+        "sentence": "[慎吾「]::ハハハッ、今度様子を見て、呼び出してやるからなっ！　俺のチンポを夢想しながら待ってろよ、直美！」",
+        "translation": "Shingo「Ha ha ha, đợi đấy, lần tới tôi xem tình hình rồi gọi cô ra! Mơ về con chim của tôi rồi chờ đi, Naomi!」"
     }
 ]

@@ -6262,5 +6262,481 @@
     {
         "sentence": "……こいつのお節介な性格は昨日の今日に始まった訳じゃないが、なんでよりにもよって、こんな時に発動するかなぁ……",
         "translation": "「……Cái tính hay lo chuyện bao đồng của cậu ta đâu phải mới ngày một ngày hai, nhưng sao tự nhiên lại nổi hứng đúng cái lúc này chứ……」"
+    },
+    {
+        "sentence": "目的も無く居残っていた学生が次々と下校していく姿を尻目に、俺は教科棟の１階へとやって来た。",
+        "translation": "「Mặc kệ đám học sinh lũ lượt kéo nhau xuống trường, tôi một mình tìm đến tầng một của khu giảng đường.」"
+    },
+    {
+        "sentence": "……こうなったら力ずくで……いや、こんな人目のある場所でそんな事をしたら、ますます問題が大きくなるだけだ。",
+        "translation": "「……Đến nước này thì chỉ còn cách dùng vũ lực thôi…… Không, làm chuyện đó ở nơi công cộng thế này thì chỉ càng làm lớn chuyện thôi.」"
+    },
+    {
+        "sentence": "俺がどう対処しようか困っていた、その時、ひなたの制服から携帯の呼び出し音が流れ始めた。",
+        "translation": "「Tôi còn đang không biết phải giải quyết thế nào, thì lúc đó, tiếng chuông điện thoại vang lên từ bộ đồng phục của Hinata.」"
+    },
+    {
+        "sentence": "ひなたは、アラームの音などお構いなしに少しも俺から顔を逸らさず、答えを返してくる。",
+        "translation": "「Hinata chẳng thèm để ý đến tiếng báo thức, không hề rời mắt khỏi tôi mà đáp lời.」"
+    },
+    {
+        "sentence": "俺はこのチャンスに逃げ出そうと考えて、話を引き伸ばそうと質問を重ねた。",
+        "translation": "「Tôi định nhân cơ hội này trốn thoát, nên cứ hỏi hết câu này đến câu khác để kéo dài thời gian.」"
+    },
+    {
+        "sentence": "ようやく付け入る隙が見つかったかと思えば、それでもひなたは諦める事がなく、執拗に食い下がってくる。",
+        "translation": "「Vừa mới thấy có khe hở để lợi dụng, vậy mà Hinata vẫn không chịu từ bỏ, cứ dai dẳng bám riết lấy tôi.」"
+    },
+    {
+        "sentence": "……こうなったら、走って逃げるしかないな。",
+        "translation": "「……Đến nước này thì, chỉ còn cách chạy trốn thôi.」"
+    },
+    {
+        "sentence": "女子学生Ａ「姫森さーん！」",
+        "translation": "「Himenori-san!」→「Himenori ơi!」\n「Himenori ơi!」"
+    },
+    {
+        "sentence": "家庭科室の入り口から、恐らくはひなたの友達らしき女子が俺を恐れるように戸の陰に隠れながら、ひなたに向かって声をかけてきた。",
+        "translation": "「Từ cửa phòng thực hành nữ công gia tránh, một nữ sinh có vẻ là bạn của Hinata, sợ sệt tôi mà trốn sau cánh cửa, hướng về phía Hinata gọi.」"
+    },
+    {
+        "sentence": "仲間に急かさせて、ひなたはすっかり困ったように、おろおろと俺と部員の間に視線を往復させ始める。",
+        "translation": "「Bị mọi người trong nhóm thúc giục, Hinata có vẻ bối rối, bắt đầu bồn chồn đưa mắt qua lại giữa tôi và các thành viên câu lạc bộ.」"
+    },
+    {
+        "sentence": "俺は、ここぞとばかりに、追い討ちをかけてやる。",
+        "translation": "「Tôi sẽ thừa cơ hội này mà dồn ép cậu ta đến cùng.」"
+    },
+    {
+        "sentence": "すると、ひなたは俺をじっと見つめて、未練がましい声で呟き、何度も振り返りながら家庭科室の中へ消えていった。",
+        "translation": "「Thế rồi, Hinata nhìn chằm chằm vào tôi, lẩm bẩm bằng giọng đầy tiếc nuối, vừa ngoái đầu lại nhiều lần vừa biến mất vào trong phòng thực hành nữ công gia tránh.」"
+    },
+    {
+        "sentence": "俺は、ひなたの姿が完全に見えなくなってから、ほっと溜め息を吐いた。",
+        "translation": "「Khi bóng dáng Hinata hoàn toàn khuất dạng, tôi mới thở phào nhẹ nhõm.」"
+    },
+    {
+        "sentence": "しかし、これでひなたにははっきりとした不信感を与えてしまった事だろう。",
+        "translation": "「Nhưng mà, chắc chuyện này đã gây ra sự mất lòng tin rõ ràng từ Hinata rồi.」"
+    },
+    {
+        "sentence": "だが、まさか事実を話してやる訳にもいかない。",
+        "translation": "「Nhưng mà, tôi cũng không thể nào nói thật cho cậu ta biết được.」"
+    },
+    {
+        "sentence": "どうせ嘘を言っても、ひなたなら幼なじみならではの眼力で見破るだろう。",
+        "translation": "「Đằng nào thì dù tôi có nói dối, Hinata cũng sẽ dùng con mắt tinh tường của bạn thuở nhỏ để nhìn thấu thôi.」"
+    },
+    {
+        "sentence": "クラスにいる間は仕方がないにしても、休み時間や放課後などは、なるべく顔を合わせないようにするしか手はないだろう。",
+        "translation": "「Trong giờ học thì không còn cách nào, nhưng giờ giải lao hay sau giờ học thì chỉ còn cách cố gắng tránh mặt cậu ta thôi.」"
+    },
+    {
+        "sentence": "溜め息混じりにぼやくと、思い出したように腹が鳴った。",
+        "translation": "「Tôi thở dài lẩm bẩm, rồi chợt nhớ ra bụng mình réo lên.」"
+    },
+    {
+        "sentence": "俺は空きっ腹を抱えたまま、ケーキへの未練を断ち切るように、足早に別の場所へと歩き出した。",
+        "translation": "「Tôi bụng đói meo, cố gắng dứt bỏ tơ tưởng về cái bánh, vội vã bước nhanh sang chỗ khác.」"
+    },
+    {
+        "sentence": "下校時刻も目前に迫る時間帯、俺はフラフラと学園の敷地内を歩き、ガレージ付近までやって来た。",
+        "translation": "「Giờ tan học sắp đến, tôi lững thững bước đi trong khuôn viên trường và đến gần khu nhà để xe.」"
+    },
+    {
+        "sentence": "既にほとんどの部活は活動を切り上げ、先ほどまで聞こえていた活気ある声は、今はもう無くなっている。",
+        "translation": "「Hầu hết các câu lạc bộ đã kết thúc hoạt động, và những giọng nói sôi nổi tôi nghe thấy trước đó giờ đã im bặt.」"
+    },
+    {
+        "sentence": "そしてこれから始まるのは、先生達と俺が繰り広げる大人の時間……",
+        "translation": "「Và giờ đây, khoảng thời gian người lớn giữa tôi và các cô giáo sắp bắt đầu……」"
+    },
+    {
+        "sentence": "インモラルでコケティッシュな、めくるめく官能の世界……ククッ、たまらないぜ。",
+        "translation": "「Một thế giới vô luân, lẳng lơ và đầy những khoái cảm chóng mặt…… Khà khà, thật không thể cưỡng lại được.」"
+    },
+    {
+        "sentence": "とりとめのない事を考えていると、ガレージの方からドアを閉める音が聞こえてきた。",
+        "translation": "「Đang mải nghĩ vẩn vơ, tôi nghe thấy tiếng cửa đóng từ phía nhà để xe.」"
+    },
+    {
+        "sentence": "慌てて物陰に隠れた俺は、そっと頭を出し、そこから現れた人物を確認する。",
+        "translation": "「Tôi vội vã trốn vào chỗ khuất, khẽ ló đầu ra, xác nhận người vừa xuất hiện.」"
+    },
+    {
+        "sentence": "おっ、あれは直美……と、あのむさ苦しい男子学生だ。",
+        "translation": "「Ồ, đó là Naomi…… với lại, thằng học sinh thô kệch kia nữa.」"
+    },
+    {
+        "sentence": "ガレージから現れたのは、レーシングスーツを身にまとった直美と、モーターサイクル部唯一の部員だった。",
+        "translation": "「Từ trong garage xuất hiện Naomi mặc bộ đồ đua xe, và thành viên duy nhất của câu lạc bộ mô tô.」"
+    },
+    {
+        "sentence": "またも穏やかそうな笑顔を浮かべる直美に、必要以上に鬱陶しい男子学生は深々と頭を下げ、プレハブへと入っていく。",
+        "translation": "「Vẫn là nụ cười có vẻ hiền hòa ấy của Naomi, gã học sinh nam phiền phức quá mức cần thiết cúi đầu thật sâu rồi đi vào nhà tiền chế.」"
+    },
+    {
+        "sentence": "どうやら、モーターサイクル部の部活として、直美のバイクを整備していたようだ。",
+        "translation": "「Có vẻ như, câu lạc bộ mô tô đang bảo dưỡng chiếc xe của Naomi.」"
+    },
+    {
+        "sentence": "だが、それもここで終わったって事は……ククッ、本当にこれから俺と直美の時間になりそうだぜ。",
+        "translation": "「Nhưng, nếu chuyện đó kết thúc ở đây… khà khà, có vẻ như thời gian của tôi và Naomi sắp bắt đầu thật rồi.」"
+    },
+    {
+        "sentence": "部員が去った後、直美は表情から笑みを消して、じっとプレハブに目を向けている。",
+        "translation": "「Sau khi thằng nhóc thành viên câu lạc bộ rời đi, Naomi tắt hẳn nụ cười trên mặt, chăm chú nhìn chằm chằm vào nhà tiền chế.」"
+    },
+    {
+        "sentence": "何を考えているのか、プレハブを見つめたまま、どこか落ち着きなくモジモジと身体を揺すっている。",
+        "translation": "「Cô ta đang nghĩ gì vậy, cứ nhìn chằm chằm vào nhà tiền chế, bồn chồn lắc lư người một cách bất an.」"
+    },
+    {
+        "sentence": "あの様子は、前にも見た事があるぞ。２年の廊下で、同じように部員と話した後、あんな風に妙な素振りを見せていた。",
+        "translation": "「Tôi đã từng thấy dáng vẻ đó rồi. Ở hành lang năm hai, sau khi nói chuyện với thành viên câu lạc bộ cũng có bộ dạng kỳ lạ như vậy.」"
+    },
+    {
+        "sentence": "……本当に、何なんだ？　まさか、本気であの不快指数の高いムサ男に思いを馳せている、なんて言わないよな？",
+        "translation": "「……Thật sự là, cái gì vậy trời? Chẳng lẽ, đừng nói là cô ta thật sự đang tơ tưởng đến cái gã cơ bắp khó ưa đó đấy nhé?」"
+    },
+    {
+        "sentence": "そう思いながら直美を眺めていると、プレハブから帰り支度を済ませたムサ男が出てきた。",
+        "translation": "「Vừa nghĩ vậy, tôi vừa ngắm nhìn Naomi thì thấy thằng cha cơ bắp từ nhà tiền chế đi ra, chuẩn bị về.」"
+    },
+    {
+        "sentence": "最後に別れの言葉を掛け、部員は直美と離れ駐輪場の方へ歩き出す。",
+        "translation": "「Cuối cùng nói lời tạm biệt, thằng nhóc thành viên câu lạc bộ rời khỏi Naomi và bước về phía bãi giữ xe.」"
+    },
+    {
+        "sentence": "直美はその後ろ姿を完全に消えるまで見送り、いよいよ一人きりになってしまった。",
+        "translation": "「Naomi tiễn theo bóng lưng người kia cho đến khi khuất hẳn, cuối cùng cũng chỉ còn lại một mình.」"
+    },
+    {
+        "sentence": "すると、直美は唐突に全身を大きくくねらせ、キョロキョロと周囲を窺い始めた。",
+        "translation": "「Thế rồi, Naomi đột ngột vặn vẹo cả người một cách kỳ lạ, bắt đầu ngó nghiêng xung quanh.」"
+    },
+    {
+        "sentence": "以前見た時とまったく同じ行動をする直美を、俺は不審がりながらも、細心の注意を払って眺め続ける。",
+        "translation": "「Tôi vừa cảnh giác, vừa tiếp tục quan sát Naomi, người đang hành động y hệt như lần trước tôi thấy.」"
+    },
+    {
+        "sentence": "周りには誰もいないと判断したのか、直美は高ぶったような声を上げ、そのまま踵を返してガレージの中へと入っていった。",
+        "translation": "「Có lẽ cô ta cho rằng xung quanh không có ai, Naomi cất giọng hưng phấn rồi quay gót đi vào trong gara.」"
+    },
+    {
+        "sentence": "……直美の身に何が起こったのか皆目見当が付かないが、とにかく今回はその目的地だけは分かっている。",
+        "translation": "「……Tôi hoàn toàn không thể hiểu được chuyện gì đã xảy ra với Naomi, nhưng dù sao thì lần này tôi cũng biết được điểm đến của cô ta.」"
+    },
+    {
+        "sentence": "それじゃ、例の覗き穴から中の様子を探ってやるとするか。",
+        "translation": "「Vậy thì, để tôi thử nhìn trộm tình hình bên trong qua cái lỗ nhìn trộm đó xem sao.」"
+    },
+    {
+        "sentence": "俺はにやりと微笑みながら、興味を引かれるがままにガレージに近寄る。",
+        "translation": "「Tôi nhếch mép cười và tiến lại gần gara, hoàn toàn bị sự tò mò dẫn dắt.」"
+    },
+    {
+        "sentence": "ガレージの外壁に忍び寄ると、中からけたたましいバイクのエンジン音が響いてきた。",
+        "translation": "「Khi tôi lén lút đến bức tường ngoài của gara, từ bên trong vọng ra tiếng động cơ xe máy inh ỏi.」"
+    },
+    {
+        "sentence": "なんだ？　急にバイクなんかふかしたりして……もしかして、もう帰るからバイクを慣らしてるのか？",
+        "translation": "「Gì thế? Tự nhiên nẹt pô xe làm gì...... Chẳng lẽ, chuẩn bị về nên khởi động xe trước à?」"
+    },
+    {
+        "sentence": "だが、そのエンジン音に混じって、直美のものと思われる荒々しい息遣いが聞こえ、俺の頭はますます混乱する。",
+        "translation": "「Nhưng, lẫn trong tiếng động cơ đó, tôi còn nghe thấy tiếng thở dốc đầy vẻ khó nhọc, có lẽ là của Naomi, đầu óc tôi càng thêm rối bời.」"
+    },
+    {
+        "sentence": "……バイクを慣らしているだけっぽいのに、何か妙に息が荒いぞ？　まだ何か調整でもしてるのか？",
+        "translation": "「……Rõ ràng chỉ là đang khởi động xe thôi, mà sao thở dốc dữ vậy? Còn đang chỉnh sửa gì nữa à?」"
+    },
+    {
+        "sentence": "胸の中にいっそうの不審を募らせつつ、俺は気配を完全に消して覗き穴の前へ移り、静かに中を覗き込んだ。",
+        "translation": "「Trong lòng tôi càng thêm nghi hoặc, tôi hoàn toàn nín thở, tiến đến trước lỗ nhìn trộm, lặng lẽ nhìn vào bên trong.」"
+    },
+    {
+        "sentence": "薄暗いガレージの中を覗いた途端、逆向きでバイクにまたがっている直美の悩ましい姿を直視し、俺は思わず声を漏らしそうになる。",
+        "translation": "「Vừa hé mắt nhìn vào bên trong garage tối om, tôi đã bắt gặp ngay hình ảnh Naomi đang ngồi ngược trên chiếc xe máy đầy gợi cảm, khiến tôi suýt chút nữa thì bật thành tiếng.」"
+    },
+    {
+        "sentence": "直美は、レーシングスーツのファスナーをへその辺りまで下げ、今にもこぼれそうになっている巨乳を両手で掴み、揉みしだいていた。",
+        "translation": "「Naomi kéo khóa bộ đồ đua xuống đến rốn, dùng hai tay ôm lấy bộ ngực khủng như muốn trào ra rồi ra sức xoa nắn.」"
+    },
+    {
+        "sentence": "駆動するエンジンによって振動しているリアカウルに、盛り上がる恥丘を押し付け、まるでその震え具合を味わうように腰をくねらせている。",
+        "translation": "「Cô ta ép chặt gò mu đang rạo rực của mình vào cái đuôi xe đang rung lên bần bật vì động cơ, vặn vẹo eo như thể đang tận hưởng sự rung động ấy.」"
+    },
+    {
+        "sentence": "こ、これは……間違いない、直美のヤツ、オナニーをしているぞ！　いったい何でそんな事をやってるんだ、アイツはっ！？",
+        "translation": "「Cái, cái này...... Không thể sai được, ả đàn bà đó, đang thủ dâm! Rốt cuộc thì ả ta làm cái trò quái quỷ gì vậy hả!?」"
+    },
+    {
+        "sentence": "俺の視線に気付く様子もなく、直美は熱い吐息をこぼして、ゆっさゆっさと揺れる乳房を自ら嬲っていく。",
+        "translation": "「Naomi chẳng hề nhận ra ánh mắt của tôi, cô ta rên rỉ đầy khoái cảm, tự mình mân mê cặp vú đang lắc lư.」"
+    },
+    {
+        "sentence": "弾力が良さそうな肉実に指を沈ませながら激しく捏ね回し、直美は下半身をバウンドさせて快感に身悶え喘いでいる。",
+        "translation": "「Naomi vừa ấn ngón tay vào bầu ngực căng tròn có độ đàn hồi tốt, vừa điên cuồng nhào nặn, đồng thời phần thân dưới nảy lên bần bật, rên rỉ, quằn quại trong khoái cảm.」"
+    },
+    {
+        "sentence": "淫猥な腰の動きにより、股間の布が切れ長の肉裂に食い込み、秘部の形を艶めかしく浮き彫りにする。",
+        "translation": "「Do chuyển động dâm đãng của eo, miếng vải ở háng cắm sâu vào khe thịt dài, gợi cảm làm nổi bật hình dạng của vùng kín.」"
+    },
+    {
+        "sentence": "切なげに首を振りながら、直美はレーシングスーツの上からでも分かるほど肉房を歪ませ、振動に合わせて腰を前後に揺さ振っていく。",
+        "translation": "「Naomi vừa lắc đầu vẻ khổ sở, vừa oằn mình đến mức bộ đồ đua bó sát cũng làm lộ rõ cặp mông căng tròn, lắc hông theo nhịp điệu.」"
+    },
+    {
+        "sentence": "ごつい車体の激しいバイブレーションを陰部で貪り、荒々しく息をつきながら快楽に酔いしれていく。",
+        "translation": "「Cô ta dùng âm hộ ngấu nghiến sự rung động dữ dội của thân xe thô kệch, thở dốc thô bạo và say sưa trong khoái lạc.」"
+    },
+    {
+        "sentence": "肢体をくねらせる内に、今まで押し殺していたような喘ぎが、はっきりとしたものになっていく。",
+        "translation": "「Trong lúc uốn éo thân thể, tiếng rên rỉ mà nãy giờ cố kìm nén, dần trở nên rõ ràng hơn.」"
+    },
+    {
+        "sentence": "その顔も、快楽に没頭している様を表すように甘くほころび、官能の疼きに身を焦がしているようだ。",
+        "translation": "「Gương mặt đó cũng nở một nụ cười ngọt ngào như thể đang đắm chìm trong khoái lạc, và dường như đang bừng cháy trong cơn đau đớn nhục dục.」"
+    },
+    {
+        "sentence": "エンジンが焼ける匂いに負けないくらい、直美の生々しい汗の香りが室内に充満し、覗く俺の鼻孔をくすぐってくる。",
+        "translation": "「Hương mồ hôi nồng nàn của Naomi tràn ngập căn phòng, lấn át cả mùi động cơ cháy khét, kích thích lỗ mũi đang dòm ngó của tôi.」"
+    },
+    {
+        "sentence": "しかも、あんないやらしそうに顔を蕩けさせて……あれが、あの寡黙で無表情な直美とは信じられない。",
+        "translation": "「Hơn nữa, còn để lộ ra vẻ mặt dâm đãng đến vậy... Thật không thể tin được đó là Naomi, người luôn ít nói và vô cảm.」"
+    },
+    {
+        "sentence": "だが、こうして俺の目の前でオナニーをしてるのは、紛れもない事実だ。",
+        "translation": "「Nhưng, việc cô ta đang thủ dâm ngay trước mắt tôi thế này, là một sự thật không thể chối cãi.」"
+    },
+    {
+        "sentence": "クールビューティーとうたわれている女が、俺の前で痴態を晒しているんだ……こんなラッキーな状況などそうそうないぞ。",
+        "translation": "「Một người phụ nữ được ca tụng là cool beauty lại đang phơi bày bộ dạng dâm đãng trước mặt tôi... Cơ hội may mắn thế này đâu phải lúc nào cũng có.」"
+    },
+    {
+        "sentence": "もはや細かい事など気にしてる余裕もなく、俺は目を皿のようにしながら、直美の大胆な自慰を眺め続ける。",
+        "translation": "「Tôi chẳng còn tâm trí đâu mà bận tâm đến những chuyện nhỏ nhặt, mắt tôi dán chặt vào màn thủ dâm táo bạo của Naomi.」"
+    },
+    {
+        "sentence": "情熱的とも取れる指遣いで乳房を弄びつつ、直美はどこか不満げに声を漏らし、細めた目を自分の胸に向ける。",
+        "translation": "「Vừa mân mê cặp vú bằng những ngón tay có thể xem là đầy đam mê, Naomi vừa rên rỉ có vẻ không thỏa mãn, đôi mắt híp lại nhìn xuống ngực mình.」"
+    },
+    {
+        "sentence": "興奮を抑えきれない、甲高い声で喘ぎ、直美はもどかしそうな手付きでレーシングスーツを大きく広げていった。",
+        "translation": "「Không kiềm chế được sự hưng phấn, Naomi rên rỉ với giọng the thé, bồn chồn dùng tay kéo rộng bộ đồ đua xe.」"
+    },
+    {
+        "sentence": "ブルンと弾けるように飛び出した生乳房を強く鷲掴みにし、直美は鼻に掛かった甘い嬌声を張り上げる。",
+        "translation": "「mạnh bạo túm lấy cặp vú căng tròn vừa nảy lên như muốn nổ tung, Naomi rướn cổ lên, cất tiếng rên ngọt ngào nghẹn ngào.」"
+    },
+    {
+        "sentence": "そのまま張りのある乳肉を力いっぱいに捏ね回し、込み上げる快感に打ち震えながら、愛撫に身悶えする。",
+        "translation": "「Cứ thế ra sức nhào nặn bầu vú căng đầy, vừa run rẩy vì khoái cảm dâng trào, vừa quằn quại trong những vuốt ve.」"
+    },
+    {
+        "sentence": "じかに乳房を虐める心地に直美は再び妖艶な顔になり、夢中になって揉み上げる。",
+        "translation": "「Cảm giác đích thân dày vò cặp vú khiến Naomi lại trở nên quyến rũ, ngây ngất xoa bóp.」"
+    },
+    {
+        "sentence": "天井に向かって屹立した乳首を指先で弾きつつ、つきたての餅を弄るように肉実の形をひしゃげさせて、性感を高めていく。",
+        "translation": "「Vừa dùng ngón tay búng những núm vú dựng đứng hướng lên trần nhà, vừa nắn bóp cặp vú như nhào nặn bánh dày mới giã, kích thích cảm giác dục vọng.」"
+    },
+    {
+        "sentence": "乳肉を嬲る刺激に恍惚となりながら、腰もひっきりなしに揺らめかせ、全身に受ける官能の心地に直美は卑猥に乱れる。",
+        "translation": "「Trong cơn hoan lạc tột độ vì những kích thích trêu đùa bầu vú, Naomi không ngừng lắc lư hông, toàn thân đắm chìm trong cảm giác khoái cảm, trở nên dâm loạn.」"
+    },
+    {
+        "sentence": "今まで押さえ付けていた衣服から解放された事によって、ボリュームが前にも増し、暗い室内に豊かな肉房がほんのりと白く浮かび上がる。",
+        "translation": "「Nhờ được giải phóng khỏi lớp vải bó chặt, cặp vú càng thêm đầy đặn, nổi lên một màu trắng sữa mờ ảo trong căn phòng tối.」"
+    },
+    {
+        "sentence": "その先端で、真っ赤な果実のような乳首が悩ましく隆起し、直美の興奮をありありと見せつけている。",
+        "translation": "「Trên đầu vú, những nhũ hoa đỏ tươi như quả anh đào trồi lên đầy gợi tình, phơi bày sự hưng phấn tột độ của Naomi.」"
+    },
+    {
+        "sentence": "それらが直美自身の乱暴な手付きによって卑猥に変形し、更にバイクの振動に同調して小刻みに波を打って跳ね回る。",
+        "translation": "「Chúng bị biến dạng dâm tục bởi chính những động chạm thô bạo của Naomi, hơn nữa còn nhấp nhô, nảy lên từng hồi theo nhịp rung của xe máy.」"
+    },
+    {
+        "sentence": "想像以上の淫猥な光景を目の当たりにし、俺は直美同様だんだんと高揚し、股間を膨張させる。",
+        "translation": "「Chứng kiến cảnh tượng dâm đãng vượt quá sức tưởng tượng, tôi cũng dần hưng phấn như Naomi, và thứ giữa háng bắt đầu trướng lên.」"
+    },
+    {
+        "sentence": "リアカウルの角に肉裂が当たるように腰の位置を調節しながら、直美はいっそう顔を緩めて、高まる性欲に身をよじる。",
+        "translation": "「Điều chỉnh vị trí eo sao cho khe lồn cọ xát vào góc cạnh của đuôi xe, Naomi càng thả lỏng khuôn mặt, uốn éo thân thể theo dục vọng đang trào dâng.」"
+    },
+    {
+        "sentence": "乳房を揉み込む手に一段と力が入り、乳輪を盛り上げるほど柔肉を潰し、揉み倒している。",
+        "translation": "「Bàn tay cô ta càng siết chặt cặp vú, nghiền nát đám thịt mềm đến mức nhũ hoa trồi lên, ra sức mà xoa nắn.」"
+    },
+    {
+        "sentence": "直美は、込み上げてくる絶頂感を表すように喘ぎを大きくしながら、何度も愛車に股間を擦り付けていく。",
+        "translation": "「Naomi rên rỉ lớn hơn để biểu lộ khoái cảm đang dâng trào, liên tục cọ xát hạ bộ vào chiếc xe yêu quý.」"
+    },
+    {
+        "sentence": "スーツの間からチラチラと見える股間を覆う布は、既に愛液で濡れており、耳を澄ませばヌチュヌチュと粘つく音が聞こえそうなほどだ。",
+        "translation": "「Vải che hạ bộ lấp ló giữa bộ suit, đã ướt đẫm dâm thủy, chỉ cần lắng tai nghe thôi cũng có thể nghe thấy âm thanh dính nhớp nháp.」"
+    },
+    {
+        "sentence": "浅ましく淫汁をこぼし、執拗に乳房を捏ねては淫らな表情を見せて悶える姿は、まるで一流のＡＶ女優の演技を見ているようで卑猥極まりなかった。",
+        "translation": "「Cô ta hèn hạ mà không ngừng tuôn dâm dịch, ra sức nhào nặn cặp vú, lộ vẻ mặt dâm đãng mà rên rỉ, trông chẳng khác nào đang xem diễn xuất của một diễn viên AV hạng nhất, thật vô cùng dâm ô.」"
+    },
+    {
+        "sentence": "すっかり勃起を果たした乳首を指先で弄りつつ、なおも強い快楽を求め、直美は周囲に視線を向け始めた。",
+        "translation": "「Vừa mân mê đầu ngón tay lên núm vú đã cương cứng, Naomi vừa tìm kiếm khoái cảm mãnh liệt hơn, vừa bắt đầu đảo mắt nhìn xung quanh.」"
+    },
+    {
+        "sentence": "すると、何かを見つけたのか、直美は乳房を揉み上げながら軽く身をかがめ、手にした物を掴み上げる。",
+        "translation": "「Rồi, như thể tìm thấy gì đó, Naomi khẽ khom người, xoa nắn cặp vú và chộp lấy thứ gì đó trong tay.」"
+    },
+    {
+        "sentence": "……何だ、アレ？　なんかチューブ状の物らしいけど？",
+        "translation": "「......Cái gì thế kia? Có vẻ như là một vật hình ống?」"
+    },
+    {
+        "sentence": "不思議に思いつつ見つめる中、直美はそのチューブを無造作に搾り、飛び出した中身を自らの乳房に塗りつけた。",
+        "translation": "「Tôi vừa ngạc nhiên vừa nhìn, Naomi tùy tiện bóp tuýp kem, rồi bôi thứ bên trong lên cặp vú của mình.」"
+    },
+    {
+        "sentence": "どうやら直美が手にしたのは工業用のグリスらしく、それを乳房中になすり付けては、更に感極まる喘ぎをほとばしらせている。",
+        "translation": "「Có vẻ như Naomi đang bôi thứ chất nhờn công nghiệp vừa lấy được lên khắp cặp vú, và rên rỉ đầy khoái cảm.」"
+    },
+    {
+        "sentence": "ぬめりのある潤滑油により、直美の乳房はヌラヌラと妖しく艶を帯びながら、激しい愛撫から逃れるように跳ね踊る。",
+        "translation": "「Nhờ có lớp dầu bôi trơn nhớt dính, cặp vú của Naomi bóng nhẫy một cách yêu mị và nảy lên như muốn thoát khỏi những vuốt ve mãnh liệt.」"
+    },
+    {
+        "sentence": "それを押さえ込むように、直美はますますきつく乳房に指を埋め、新たに加わったぬめる感触に身震いしながら高ぶっていく。",
+        "translation": "「Như để kìm nén điều đó, Naomi càng lúc càng ấn mạnh các ngón tay vào cặp vú, run rẩy trước cảm giác nhớt dính mới mẻ và hưng phấn hơn.」"
+    },
+    {
+        "sentence": "艶やかな乳肌を扱くように、根元から肉房を持ち上げながら揉みしだき、ミルクを搾る要領で苛烈に責め嬲る。",
+        "translation": "「Vuốt ve làn da ngực mượt mà, cô ta vừa nâng niu, nhào nặn bầu vú từ gốc, vừa giày vò, vắt sữa một cách tàn nhẫn.」"
+    },
+    {
+        "sentence": "張りのあった乳肉が蕩けるように柔らかくほぐれ、直美の手に吸い付くように弛んでくる。",
+        "translation": "「Bầu vú căng tròn mềm nhũn ra như tan chảy, nhũn nhão bám lấy tay Naomi.」"
+    },
+    {
+        "sentence": "こなれてきた肉の果実を直美はいっそう激しく捏ね回し、強烈な刺激に背中を弓なりにしながら悶え狂う。",
+        "translation": "「Naomi càng lúc càng điêu luyện nhào nặn trái thịt, lưng uốn cong như cánh cung, rên rỉ cuồng loạn trong những kích thích mãnh liệt.」"
+    },
+    {
+        "sentence": "今にも涎を垂らしそうになるほど口元を淫猥に緩め、直美は絶頂に向けて、乳房を揉み上げる動きを速めていく。",
+        "translation": "「Naomi há miệng dâm đãng đến mức nước miếng như chực trào ra, hướng tới khoái cảm tột đỉnh, cô ta tăng tốc độ xoa nắn cặp vú.」"
+    },
+    {
+        "sentence": "何度もリアカウルに腰をぶつけ、痺れるような振動をくねり動く肉溝で受け止め続ける。",
+        "translation": "「Hông liên tục va vào tấm chắn phía sau, tiếp tục hứng chịu những rung động tê dại bằng khe thịt ngọ nguậy.」"
+    },
+    {
+        "sentence": "……おおぉっ！？　何て声だ、これがあの無口な直美と同一人物だなんて、とても信じられないな。直美ファンのヤツらに見せてやりたいところだぜ。",
+        "translation": "「……Ô ồ!? Cái giọng gì thế này, khó mà tin được đây là Naomi ít nói đó. Muốn cho mấy thằng fan Naomi thấy cảnh này quá đi.」"
+    },
+    {
+        "sentence": "――ハッ！？",
+        "translation": "「――Hả!?」"
+    },
+    {
+        "sentence": "扇情的な直美の痴態を食い入るように見つめていた俺は、そこでふと我に返った。",
+        "translation": "「Tôi cứ dán mắt vào dáng vẻ dâm đãng của Naomi, đến khi chợt bừng tỉnh.」"
+    },
+    {
+        "sentence": "……そうだ！　黙って見ている場合じゃない！　この状況を利用しない手はないじゃないかっ！",
+        "translation": "「……Đúng rồi! Không thể khoanh tay đứng nhìn được! Không tận dụng tình huống này thì còn gì là cơ hội nữa!」"
+    },
+    {
+        "sentence": "……あの、直美先生がド変態な本性を現してるオナニーシーンだ。これを脅迫のネタにしてやらない手はないぞっ！",
+        "translation": "「……À, cái cảnh Naomi-sensei lộ bản chất dâm đãng, tự sướng kìa. Không dùng cái này để uy hiếp cô ta thì còn gì là cơ hội nữa!」"
+    },
+    {
+        "sentence": "俺は慌ててポケットの中から携帯電話を取り出し、レンズを直美に向け、照準を合わせる。",
+        "translation": "「Tôi vội vàng lấy điện thoại từ trong túi ra, hướng ống kính về phía Naomi, rồi căn chỉnh.」"
+    },
+    {
+        "sentence": "汗とグリスにまみれながら、淫らな嬌態を披露する直美の艶姿を次々とケータイに収めていく。",
+        "translation": "「Tôi liên tục chụp lại những khoảnh khắc Naomi phơi bày dáng vẻ dâm đãng, đẫm mồ hôi và dầu mỡ.」"
+    },
+    {
+        "sentence": "大きく揺れながらひしゃげていく魅惑の生乳房や、本気汁でぬめりきった股間の様子を余すところなく押さえ、俺はにんまりとほくそ笑む。",
+        "translation": "「Tôi quay phim lại không sót một chút nào cảnh cặp vú mê hoặc đang rung lắc mạnh rồi méo mó đi, cả cái nơi giữa háng ướt đẫm dâm dịch, rồi tôi cười nham hiểm một mình.」"
+    },
+    {
+        "sentence": "撮影した画像を呼び出し、麗しの女教師の自慰シーンがバッチリ写っているのを確認し、俺は満足げに微笑む。",
+        "translation": "「Tôi mở tấm ảnh vừa chụp, xác nhận cảnh tự sướng của cô giáo xinh đẹp được ghi lại hoàn hảo, và tôi mỉm cười mãn nguyện.」"
+    },
+    {
+        "sentence": "よし、これを使って、早速直美を嬲り者にしてやるぜ。あのデカいパイオツを、俺がもっと歪ませて……",
+        "translation": "「Được rồi, dùng cái này, mình sẽ biến Naomi thành trò tiêu khiển ngay lập tức. Đôi gò bồng đảo to tướng kia, mình sẽ làm cho nó biến dạng hơn nữa...」"
+    },
+    {
+        "sentence": "直美の肉体を弄ぶ想像をしている内に、ふと手元が緩み、俺は携帯電話を落としてしまう。",
+        "translation": "「Trong lúc tưởng tượng mình đang đùa giỡn với thân thể của Naomi, tôi bất chợt lỏng tay và làm rơi điện thoại.」"
+    },
+    {
+        "sentence": "やばいっ、データがっ……！？",
+        "translation": "「Chết tiệt, dữ liệu…!?」"
+    },
+    {
+        "sentence": "そう思い、慌てて身をかがめ、携帯を拾い上げようとした時だった。",
+        "translation": "「Tôi nghĩ vậy, vội vàng cúi người xuống định nhặt điện thoại lên, thì...」"
+    },
+    {
+        "sentence": "気が動転しすぎたのか、俺はしゃがみ込むと同時に、ガレージの壁に頭をぶつけてしまった。",
+        "translation": "「Có lẽ do quá hoảng loạn, tôi ngồi thụp xuống đồng thời đập đầu vào tường гараж.」"
+    },
+    {
+        "sentence": "うわっ、しまったっ！　直美のヤツに気付かれちまったっ！？",
+        "translation": "「Á, chết tiệt! Bị ả đàn bà Naomi đó phát hiện rồi à!?」"
+    },
+    {
+        "sentence": "息を詰まらせて不安げに上がる直美の声を聞き、俺の背筋に氷のような冷たい感覚が走る。",
+        "translation": "「Nghe thấy giọng Naomi nghẹn lại, đầy lo lắng, một cảm giác lạnh lẽo như băng chạy dọc sống lưng tôi.」"
+    },
+    {
+        "sentence": "そして、次の瞬間、悔やむより先に身体が反応し、気が付けば俺は猛ダッシュで駆け出していた。",
+        "translation": "「Và rồi, ngay khoảnh khắc tiếp theo, cơ thể tôi phản ứng trước cả khi tôi kịp hối hận, nhận ra thì tôi đã lao ra ngoài, chạy thục mạng rồi.」"
+    },
+    {
+        "sentence": "無我夢中で逃げ、勢い余って校舎の中に入り込んだ俺は、そこでようやく足を止める。",
+        "translation": "「Tôi mải miết chạy trốn, vì quá đà mà xông vào bên trong trường, ở đó tôi mới dừng chân được.」"
+    },
+    {
+        "sentence": "直美に気付かれた事と全速力で走ってきた事により、俺の呼吸は乱れに乱れ、心臓も締め付けられるように痛い。",
+        "translation": "「Việc bị Naomi phát hiện và chạy hết tốc lực khiến cho hơi thở của tôi hỗn loạn, tim cũng đau thắt lại.」"
+    },
+    {
+        "sentence": "だが、直美は追いかけてはこなかったようで、ちらっと背後を振り返った俺は、わずかな安堵感に包まれる。",
+        "translation": "「Nhưng, có vẻ như Naomi không đuổi theo, tôi thoáng nhìn lại phía sau, cảm thấy nhẹ nhõm đôi chút.」"
+    },
+    {
+        "sentence": "確かにあの状況じゃ、直美に咎められる事間違いなしだったが……",
+        "translation": "「Chắc chắn là với tình huống đó, mình sẽ bị Naomi trách móc không trượt phát nào rồi……」"
+    },
+    {
+        "sentence": "けど、俺は脅しのネタを掴んだんだし、こちらの方が優位に立っていたはずだ。",
+        "translation": "「Nhưng, tôi đã nắm được điểm yếu để uy hiếp, đáng lẽ ra bên tôi phải chiếm thế thượng phong chứ.」"
+    },
+    {
+        "sentence": "それに、なんならあの場でそれを使って、すぐさま脅してやる事もできたような気が……",
+        "translation": "「Thêm nữa, nếu muốn, tôi đã có thể dùng nó ngay tại chỗ, uy hiếp cô ta ngay lập tức rồi ấy chứ……」"
+    },
+    {
+        "sentence": "俺は再び携帯電話を取り出し、改めて直美のはしたない痴態が写る画像を眺めて、不敵に笑う。",
+        "translation": "「Tôi lại lấy điện thoại ra, ngắm nghía tấm ảnh chụp lại khoảnh khắc hớ hênh đáng xấu hổ của Naomi, rồi cười đểu.」"
+    },
+    {
+        "sentence": "この画像がある限り、もはや直美は俺の手中にあるも同然だ。",
+        "translation": "「Có tấm ảnh này rồi, chẳng khác nào Naomi đã nằm trong tay tôi.」"
+    },
+    {
+        "sentence": "後はコイツを使って、いつ、あのスケベ教師のマンコを犯してやるかだけだぜ。",
+        "translation": "「Giờ thì, chỉ cần dùng thứ này để quyết định khi nào sẽ địt con mẹ cô giáo dâm đãng kia thôi.」"
+    },
+    {
+        "sentence": "遂にあの悩ましい肉体を犯せる条件が揃った事に、俺は夕映えで燃えるように赤々とした廊下で、一人高笑いを響かせて、その場を立ち去った。",
+        "translation": "「Cuối cùng thì điều kiện để tôi có thể chà đạp lên thân thể đầy cám dỗ kia đã đến, tôi cất tiếng cười lớn vang vọng khắp hành lang đỏ rực như ánh chiều tà, rồi rời khỏi chỗ đó.」"
     }
 ]

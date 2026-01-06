@@ -345,7 +345,7 @@
     },
     {
         "sentence": "[ひなた「]::慎吾くん、結城先生と何かあったの？」",
-        "translation": "Hinata「Shingo, giữa cậu và cô Yuuki có chuyện gì à?」"
+        "translation": "Hinata「Shingo này, giữa cậu và cô Yuuki đã xảy ra chuyện gì à?」"
     },
     {
         "sentence": "[ひなた「]::でも結城先生……こっちを見て引き返していったように見えたよ」",
@@ -366,5 +366,29 @@
     {
         "sentence": "[ひなた「]::何があったのか、ちゃんと教えてよ……ねぇ！」",
         "translation": "Hinata「Có chuyện gì xảy ra, nói cho tớ biết đi mà... Nha?」\n"
+    },
+    {
+        "sentence": "[ひなた「]::セットしてたアラームだから、出なくても大丈夫だよ」",
+        "translation": "Hinata「Tớ đặt báo thức thôi, không cần phải nghe đâu.」"
+    },
+    {
+        "sentence": "[ひなた「]::……別に、何もないよ。ケーキを作ってた時、スポンジが焼ける時間にアラームをセットしていただけ」",
+        "translation": "Hinata「……Không có gì đâu. Lúc tớ làm bánh, tớ cài báo thức để canh giờ nướng bánh thôi mà.」"
+    },
+    {
+        "sentence": "[ひなた「]::うっ、うぅ……で、でも……今はこっちの……うん、こっちの話の方が大事だもん」",
+        "translation": "Hinata「Ư… ư… nhưng… nhưng mà… giờ chuyện bên này… ừm, chuyện bên này quan trọng hơn mà.」"
+    },
+    {
+        "sentence": "[ひなた「]::あっ……ちょっと待って、あとちょっとで行くから……」",
+        "translation": "Hinata「À... Chờ tớ một chút, sắp xong rồi...」"
+    },
+    {
+        "sentence": "[ひなた「]::あっ！　あ、うぅ……あうぅぅぅ……」",
+        "translation": "Hinata「Á! A, ư... auuuuu...」"
+    },
+    {
+        "sentence": "[ひなた「]::うぅぅ……私、戻るね……」",
+        "translation": "Hinata「Ư... tớ về đây...」"
     }
 ]

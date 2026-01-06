@@ -34,5 +34,17 @@
     {
         "sentence": "[川崎「]::はわっ、はわわ……あ、あの、それじゃ、自分は行くッス！　お疲れッス！」",
         "translation": "Kawashaki「」Hả… hả… dạ, dạ… vậy, vậy em đi đây ạ! Chào cô ạ!」\n"
+    },
+    {
+        "sentence": "[川崎「]::いえ、これも部活の一環ッス。先生に礼を言われるいわれはないッス！」",
+        "translation": "Kawashaki「Không, việc này cũng là một phần của câu lạc bộ mà thôi. Em không có lý do gì để được cô khen cả!」"
+    },
+    {
+        "sentence": "[川崎「]::はいッス！　じゃ、お疲れッス！」",
+        "translation": "Kawashaki「Vâng! Vậy em xin phép về trước ạ!」"
+    },
+    {
+        "sentence": "[川崎「]::じゃ、お先に失礼しまッス！　お疲れッス！」",
+        "translation": "Kawashaki「Vậy, em xin phép đi trước ạ! Cô vất vả rồi!」"
     }
 ]
