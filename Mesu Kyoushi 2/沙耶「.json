@@ -666,5 +666,37 @@
     {
         "sentence": "[沙耶「]::わかりました、それじゃお供します」",
         "translation": "Saya「Tôi hiểu rồi, vậy thì tôi xin phép đi cùng ạ.」"
+    },
+    {
+        "sentence": "[沙耶「]::アハハッ！　不様ね。何も、そこまで驚かなくてもいいじゃない」",
+        "translation": "Saya「Ahaha! Thật thảm hại. Không cần phải ngạc nhiên đến thế chứ.」"
+    },
+    {
+        "sentence": "[沙耶「]::それで……クソ生意気な女っていうのは、いったい誰の事なのかしら？」",
+        "translation": "Saya「Vậy thì… cái ả đàn bà hỗn xược đó là ai vậy?」"
+    },
+    {
+        "sentence": "[沙耶「]::ふんっ。どうせまた、ろくでもない事を考えていたんでしょう？」",
+        "translation": "Saya「Hừ. Chắc chắn là cậu lại đang nghĩ cái chuyện vớ vẩn gì đó phải không?」"
+    },
+    {
+        "sentence": "[沙耶「]::………………ふんっ」",
+        "translation": "Saya「………………Hừ.」"
+    },
+    {
+        "sentence": "[沙耶「]::まぁいいわ。あなたと違って私は忙しいの。いつまでも、あなたなんかの相手していられないわ」",
+        "translation": "Saya「Được thôi. Tôi bận, khác hẳn cậu. Tôi không rảnh mà cứ phải phí thời gian với hạng người như cậu mãi đâu.」"
+    },
+    {
+        "sentence": "[沙耶「]::あら、何言ってるの？　不審人物がいたら注意するのが教師の務めじゃない」",
+        "translation": "Saya「Ara, cậu đang nói gì vậy? Chú ý đến người khả nghi chẳng phải là nhiệm vụ của giáo viên sao?」"
+    },
+    {
+        "sentence": "[沙耶「]::あなた以外に誰がいるっていうのよ」",
+        "translation": "Saya「Ngoài cậu ra thì còn ai vào đây nữa?」"
+    },
+    {
+        "sentence": "[沙耶「]::いつまでも校内をうろついてないで、周りに害を及ぼす前にさっさと帰りなさい。いいわね？」",
+        "translation": "Saya「Đừng có mà lảng vảng trong trường mãi thế, mau về nhà trước khi gây hại cho người khác đi. Nghe rõ chưa?」"
     }
 ]

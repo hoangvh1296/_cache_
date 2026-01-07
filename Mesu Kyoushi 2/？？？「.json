@@ -170,5 +170,25 @@
     {
         "sentence": "[？？？「]::……あら、お母様？」",
         "translation": "？？？「……Ara, mẹ ạ?」"
+    },
+    {
+        "sentence": "[？？？「]::……あっ、いたッス！　風間先生ーーー！」",
+        "translation": "？？？「À… em thấy thầy Kazama rồi!」"
+    },
+    {
+        "sentence": "[？？？「]::バウワウッ……！」",
+        "translation": "？？？「Gâu gâu…!」"
+    },
+    {
+        "sentence": "[？？？「]::……こんな所で、何を唸り声上げてるのよ」",
+        "translation": "？？？「……Cậu làm cái gì mà đứng ở chỗ này rên rỉ vậy hả?」"
+    },
+    {
+        "sentence": "[？？？「]::フフフッ、珍しく悩んでいるようね。ヘドロ頭で何を考えているの？」",
+        "translation": "？？？「Fufufu, hiếm khi thấy cậu phải khổ sở vậy đấy. Cái đầu đồ cặn bã của cậu đang nghĩ gì thế?」"
+    },
+    {
+        "sentence": "[？？？「]::なら、貸してあげましょうか～♪」",
+        "translation": "？？？「Vậy thì, tôi cho mượn nhé～♪」"
     }
 ]

@@ -46,5 +46,21 @@
     {
         "sentence": "[川崎「]::じゃ、お先に失礼しまッス！　お疲れッス！」",
         "translation": "Kawashaki「Vậy, em xin phép đi trước ạ! Cô vất vả rồi!」"
+    },
+    {
+        "sentence": "[川崎「]::先生、今来たところッスか……あれ？　何かあったんスか？」",
+        "translation": "Kawashaki「Thầy ơi, em vừa mới đến thôi ạ... Ủa? Có chuyện gì vậy ạ?」"
+    },
+    {
+        "sentence": "[川崎「]::そうッスか。ならいいんスけど」",
+        "translation": "Kawashaki「Vậy ạ. Nếu vậy thì tốt quá rồi.」"
+    },
+    {
+        "sentence": "[川崎「]::あの、クーラントの換えがどこにあるのか聞きにきたッス……けど」",
+        "translation": "Kawashaki「À, em đến hỏi chỗ thay nước làm mát ở đâu ạ... nhưng mà」"
+    },
+    {
+        "sentence": "[川崎「]::ところで、その人は誰ッスか？　もしかして、お取り込み中だったッス？」",
+        "translation": "Kawashaki「À mà, người kia là ai thế ạ? Hay là em làm phiền cô rồi ạ?」"
     }
 ]

@@ -866,5 +866,221 @@
     {
         "sentence": "[直美「]::そ、そんなの……んくっ、で、出る訳、ないっ……んっ、ふぅんっ…………！」",
         "translation": "Naomi「K-Không đời nào... ư... khụ... k-không thể nào... ư... phù ư... !」"
+    },
+    {
+        "sentence": "[直美「]::……っ……んっ…………」",
+        "translation": "Naomi「……ư……ưm……」"
+    },
+    {
+        "sentence": "[直美「]::くっ…………んっ、っ…………！」",
+        "translation": "Naomi「Khụ…… ư……ư…………!」"
+    },
+    {
+        "sentence": "[直美「]::っ……！　ふざけ、ないで。貴方となんて……顔も、合わせたく、ない」",
+        "translation": "Naomi「Kh…! Đừng có giỡn mặt. Tôi… không muốn nhìn mặt cậu nữa.」"
+    },
+    {
+        "sentence": "[直美「]::うぅっ……！？　し、知らない、どうもしてない」",
+        "translation": "Naomi「Ư…!? Tôi… tôi không biết gì hết, không có gì xảy ra cả.」"
+    },
+    {
+        "sentence": "[直美「]::き、気のせい……そんな、声、出してない」",
+        "translation": "Naomi「K…chắc là do tưởng tượng thôi…không, tôi không hề phát ra tiếng.」"
+    },
+    {
+        "sentence": "[直美「]::えっ……！？」",
+        "translation": "Naomi「Hả…!?」"
+    },
+    {
+        "sentence": "[直美「]::うっ、うぅぅ…………！？」",
+        "translation": "Naomi「Ư… ư…!?」"
+    },
+    {
+        "sentence": "[直美「]::あぅ……や、やめてっ……！　い、今は、ダメ……ダメ、なの」",
+        "translation": "Naomi「Ư… ư… đừng, đừng mà…! Ư, bây giờ, không được… không được mà…」"
+    },
+    {
+        "sentence": "[直美「]::それは…………うぅぅ……！」",
+        "translation": "Naomi「Cái đó thì… ư… ư…!」"
+    },
+    {
+        "sentence": "[直美「]::うぅぅ……っ…………ぁう、んっ……」",
+        "translation": "Naomi「Ư… ư… ừ…」"
+    },
+    {
+        "sentence": "[直美「]::あっ……か、川崎！」",
+        "translation": "Naomi「Á… Ka… Kawasaki!」"
+    },
+    {
+        "sentence": "[直美「]::い、いや……何でもない」",
+        "translation": "Naomi「K… Không, không có gì đâu.」"
+    },
+    {
+        "sentence": "[直美「]::そ、それで川崎……私に、何か、用でも？」",
+        "translation": "Naomi「V… Vậy thì, Kawasaki… em, có việc gì, cần tôi sao?」"
+    },
+    {
+        "sentence": "[直美「]::えっ……そ、それは…………」",
+        "translation": "Naomi「E… ơ, cái đó thì…」"
+    },
+    {
+        "sentence": "[直美「]::……別に。授業に使う資料を、返しに来ただけ」",
+        "translation": "Naomi「……Không có gì. Tôi đến trả tài liệu dùng cho tiết học thôi.」"
+    },
+    {
+        "sentence": "[直美「]::……話がないなら、もう行くわよ」",
+        "translation": "Naomi「……Nếu không có gì để nói thì tôi đi đây.」"
+    },
+    {
+        "sentence": "[直美「]::場所を、変える……？」",
+        "translation": "Naomi「Đổi... chỗ khác sao...?」"
+    },
+    {
+        "sentence": "[直美「]::……いや、話なら、ここでいい」",
+        "translation": "Naomi「……Không, nói chuyện ở đây là được rồi.」"
+    },
+    {
+        "sentence": "[直美「]::うぅぅ……んっ…………」",
+        "translation": "Naomi「Ư... ưm...」"
+    },
+    {
+        "sentence": "[直美「]::で、でも……ここは、男子の……」",
+        "translation": "Naomi「N-Nhưng mà... đây là chỗ của con trai mà...」"
+    },
+    {
+        "sentence": "[直美「]::あぅ……んっ、くぅぅ…………！」",
+        "translation": "Naomi「A... ưm... kh... ư ư... !」"
+    },
+    {
+        "sentence": "[直美「]::んぅ……っ……あぅっ…………！」",
+        "translation": "Naomi「Ư... ư... á... ư... !」"
+    },
+    {
+        "sentence": "[直美「]::ううぅ……こ、こんな所に、連れてきて……何をする、つもりなの？」",
+        "translation": "Naomi「Ư... ư... Đưa tôi đến cái nơi... nơi như thế này... để làm gì...?」"
+    },
+    {
+        "sentence": "[直美「]::確かめたい、事……？」",
+        "translation": "Naomi「Chuyện... chuyện cần xác nhận...?」"
+    },
+    {
+        "sentence": "[直美「]::そ、それはっ……」",
+        "translation": "Naomi「C... chuyện đó thì...」"
+    },
+    {
+        "sentence": "[直美「]::あぁぁ……い、いやっ……そんな事、しないで…………！」",
+        "translation": "Naomi「Aaa... K-không... Đừng, đừng làm vậy mà...!」"
+    },
+    {
+        "sentence": "[直美「]::やっ……あぁあああっ！？」",
+        "translation": "Naomi「Ư... Á á á á!?」"
+    },
+    {
+        "sentence": "[直美「]::はうっ……？！」",
+        "translation": "Naomi「Hức...?！」"
+    },
+    {
+        "sentence": "[直美「]::い、いやっ、やめてっ……！　胸なんて、何ともない！　だから、変な事、しないでっ！」",
+        "translation": "Naomi「K-không, dừng lại đi...! Ngực... ngực tôi không có gì cả! Nên... nên đừng làm chuyện kỳ quái gì hết!」"
+    },
+    {
+        "sentence": "[直美「]::やぁあああぁっ……！？」",
+        "translation": "Naomi「Á á á á...!?」"
+    },
+    {
+        "sentence": "[直美「]::んくぅうぅうぅっ……！？」",
+        "translation": "Naomi「Ư... ư... ư...!?」"
+    },
+    {
+        "sentence": "[直美「]::あぁ、やっ、んひっ、ぃいいんっ……！　いやっ、離れてっ……吸わないでっ！」",
+        "translation": "Naomi「Aa...ư...ư...ư...ư... ư... ! Không... tránh ra... đừng... đừng mút!」"
+    },
+    {
+        "sentence": "[直美「]::いやぁっ！　ダメッ、口、離してっ……ひゃうぅ、んぁ、や、やぁああっ！！」",
+        "translation": "Naomi「Không... Ư ư... bỏ ra... đừng... ư... a... aaaaaaa!!」"
+    },
+    {
+        "sentence": "[直美「]::あひぃんっ……んくっ、んぁ、ダメェ……！　こんなっ、舐めるのっ、んぁあっ、あふぅ、んふぅうっ！」",
+        "translation": "Naomi「Ah... ư... đừng mà...! Như thế này... liếm... ư... ah...ư ư...!」"
+    },
+    {
+        "sentence": "[直美「]::はんっ……やっ、はぅうっ……！　あぁ、やっ、やめてっ……もうっ、ふあっ、あひぃいんっ！！」",
+        "translation": "Naomi「Hức... ư... á... á... ! Ah... đừng mà... thôi... ư... á... ahhhhh!!」"
+    },
+    {
+        "sentence": "[直美「]::ひうぅううっ……！　んぁ、ダメッ、こんなっ……トイレで、こんな事っ……んひっ、はぅううんっ！」",
+        "translation": "Naomi「Ư... ư... không... ! Không được, ở đây... trong toilet, làm cái chuyện này... ư... hức...ư... ư...!」"
+    },
+    {
+        "sentence": "[直美「]::やぁ、違うっ……！　んくっ、も、もう、やめてっ！　あうっ、胸、はぅんっ、ダ、ダメェエ！！」",
+        "translation": "Naomi「Không... không phải... ! Ư... ư... thôi... dừng lại đi... ! A... ngực... ư... không... không mà!!!」"
+    },
+    {
+        "sentence": "[直美「]::ふぅううんんっ！？　ひぃ、あ、あぅ、それ、それダメっ……！　やぁ、胸、強く、しないでぇ……！」",
+        "translation": "Naomi「Ư... ư ư...!? Đừng, đừng mà... ! A... a... không, chỗ đó, chỗ đó không được...! A... ngực, mạnh quá, đừng mà...!」"
+    },
+    {
+        "sentence": "[直美「]::んぁああっ……そんなっ……やっ、うっ、んくうぅぅ！　はぅ、だ、だめぇえ、やぅううん！！」",
+        "translation": "Naomi「Ư... ư... không thể nào... ư... ư... đừng mà, ư... ư... ư... ! Hức... k-không, không được mà... ư... ư... ư...!!」"
+    },
+    {
+        "sentence": "[直美「]::んはぁあ、あぁ、ダメェェ……！　んはぁ、あうっ……んはっ、はあぁぁ……！！」",
+        "translation": "Naomi「Ư... a... ư... không... không được ơ... ơ...! Ư... a... ư... ư... ư...!!」"
+    },
+    {
+        "sentence": "[直美「]::んふぅうっ……やっ、そんな、事ぉ…………あはぁっ、ぁ、ひんんんっ！」",
+        "translation": "Naomi「Ưm... ư... đừng mà, chuyện đó... ah... a... ư ư ư...!」"
+    },
+    {
+        "sentence": "[直美「]::んふぅうっ……な、何をっ…………ひゃんっ、あぁ、な、何っ、言ってるの……？」",
+        "translation": "Naomi「Ư...ư... k-cậu... đang làm cái gì vậy...? Hức... á... c-cậu... đang nói cái gì vậy...?」"
+    },
+    {
+        "sentence": "[直美「]::なっ……？！　んぁ、はっ……んんんっ！？」",
+        "translation": "Naomi「Cái...?! Ứ... hộc... ư ư ư!?」"
+    },
+    {
+        "sentence": "[直美「]::あんっ……あぁ、そ、それは……やめて、ゆる、して……！　そんなの、触るのはっ……くっ、ううぅ……！」",
+        "translation": "Naomi「ư...á... k-không, đừng... xin, xin cậu... đừng mà...! Cái đó, đừng có chạm vào... ư... khục... ư... ư...!」"
+    },
+    {
+        "sentence": "[直美「]::んふぅ……で、でもっ……そ、そんなの、した事……ないからっ……！　あうっ、んっ、んふぅんんっ！」",
+        "translation": "Naomi「ưm... ư... n-nhưng... t-tôi... tôi chưa từng... làm chuyện đó bao giờ...! A... ư... ư... ư ư...!」"
+    },
+    {
+        "sentence": "[直美「]::あうぅぅ……んっ、んくっ……うぅぅぅ…………！」",
+        "translation": "Naomi「A... ư... ư ư... !」"
+    },
+    {
+        "sentence": "[直美「]::はうぅっ……！？　あっ、やぁぁ……んふぅうぅ……！」",
+        "translation": "Naomi「ư... ư... a... ư ư... !」"
+    },
+    {
+        "sentence": "[直美「]::んぅぅ……んっ、ぁ、やぁっ……！　ううぅっ、んっ……ふぅ…………！」",
+        "translation": "Naomi「Ư... ư... a... a... ! Ư... ư... !」"
+    },
+    {
+        "sentence": "[直美「]::ふあぁ、あっ、やぁああっ……！？　大きく、なってっ……んくっ、んっ、うぅぅ……！」",
+        "translation": "Naomi「Hức... á... á... to... to quá... ư... ư... ư...!」"
+    },
+    {
+        "sentence": "[直美「]::うぅぅ……そんなっ、そんなのじゃ、ないっ……！　あうっ、んっ……ふぅうんっ！」",
+        "translation": "Naomi「Không... không phải... không phải vậy đâu...! Ư... ư...!」"
+    },
+    {
+        "sentence": "[直美「]::……いっ、やっ……あぁっ……ぅうっ……っ……うぅっ…………」",
+        "translation": "Naomi「... ư... á... ư... ư...」"
+    },
+    {
+        "sentence": "[直美「]::んひぃいぃっ！？　んぁあ、あ、ダメェ！　やっ、あっ……ふぃいいぃんっ！！」",
+        "translation": "Naomi「Ư ư... Không... A... Không được...! Ah... ư...」"
+    },
+    {
+        "sentence": "[直美「]::んひぃいんっ、んぁ、そんなっ……ふぁああっ！　ダメ、胸、強くてっ……あぅ、んっ、くぅうんっ！」",
+        "translation": "Naomi「Ư... ư... Ah... Không, ngực... mạnh quá... Ư... ư... Khư...ư...ư...」"
+    },
+    {
+        "sentence": "[直美「]::やっ、そんなぁっ……！　んうぅっ、あっ、ひぃんっ……あぁ、あっ、はぅうぅぅっ……！」",
+        "translation": "Naomi「K-Không... Ư... Ah... Hức... Ah... Ah... Ư...ư...ư...!」"
     }
 ]
