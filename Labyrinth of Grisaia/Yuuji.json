@@ -406,5 +406,233 @@
     {
         "sentence": "[Yuuji]::...Sorry. I`ll hear you out seriously now.",
         "translation": "Yuuji「...Xin lỗi. Giờ tôi sẽ nghe cô nói nghiêm túc.」"
+    },
+    {
+        "sentence": "[Yuuji]::Sorry, Chizuru. Whenever I see your face, I can`t help wanting to tease you.",
+        "translation": "Yuuji「Xin lỗi cô, Chizuru. Mỗi khi tôi nhìn thấy mặt cô, tôi không thể không trêu chọc cô được.」"
+    },
+    {
+        "sentence": "[Yuuji]::Wait, are they reconsidering the decision to close this place?",
+        "translation": "Yuuji「Chờ đã, chẳng lẽ họ đang xem xét lại quyết định đóng cửa nơi này sao?」"
+    },
+    {
+        "sentence": "[Yuuji]::I see...",
+        "translation": "Yuuji「Tôi hiểu rồi...」"
+    },
+    {
+        "sentence": "[Yuuji]::What do you mean? Everyone`s pretty much decided on their future plans, haven`t they?",
+        "translation": "Yuuji「Ý cô là sao? Chẳng phải mọi người gần như đã quyết định xong kế hoạch tương lai rồi sao?」"
+    },
+    {
+        "sentence": "[Yuuji]::Then what are the \"problems\" you`re talking about?",
+        "translation": "Yuuji「Vậy thì \"vấn đề\" mà cô đang nói đến là gì?」"
+    },
+    {
+        "sentence": "[Yuuji]::Money...?",
+        "translation": "Yuuji「Tiền...?」"
+    },
+    {
+        "sentence": "[Yuuji]::Completely separate from the school`s operational funds, huh? I`m assuming that means it`s off the books?",
+        "translation": "Yuuji「Hoàn toàn tách biệt với quỹ hoạt động của trường, huh? Tôi cho rằng nó nằm ngoài sổ sách?」"
+    },
+    {
+        "sentence": "[Yuuji]::Well, it`s not like a slush fund is anything that out of the ordinary. Why don`t you just keep it? You`ve worked your butt off for this place, after all.",
+        "translation": "Yuuji「Chà, quỹ đen thì cũng đâu có gì lạ. Sao cô không giữ lại đi? Dù sao thì cô cũng đã làm việc vất vả vì nơi này mà.」"
+    },
+    {
+        "sentence": "[Yuuji]::I see what you mean. You`d have to be pretty gutsy to pocket this much cash...",
+        "translation": "Yuuji「Tôi hiểu ý cô rồi. Phải gan dạ lắm mới dám bỏ túi nhiều tiền thế này...」"
+    },
+    {
+        "sentence": "[Yuuji]::In that case, I think you`re asking the wrong person for advice.",
+        "translation": "Yuuji「Trong trường hợp đó, tôi nghĩ cô đang hỏi nhầm người để xin lời khuyên đấy.」"
+    },
+    {
+        "sentence": "[Yuuji]::The company provides me with everything I need for my work, and my current lifestyle suits me fine. I can`t even think of anything I`d want.",
+        "translation": "Yuuji「Công ty cung cấp cho tôi mọi thứ tôi cần cho công việc, và lối sống hiện tại rất phù hợp với tôi. Tôi thậm chí không thể nghĩ ra thứ gì mình muốn.」"
+    },
+    {
+        "sentence": "[Yuuji]::Still, none of that applies to anyone else in this place.",
+        "translation": "Yuuji「Tuy nhiên, điều đó không áp dụng cho bất kỳ ai khác ở nơi này.」"
+    },
+    {
+        "sentence": "[Yuuji]::Yeah. They`re modern kids, you know? I`m sure they can think of a few ways to blow some money.",
+        "translation": "Yuuji「Ừ. Bọn họ là những đứa trẻ hiện đại mà, biết đâu lại nghĩ ra vài cách để tiêu tiền ấy chứ.」"
+    },
+    {
+        "sentence": "[Yuuji]::I see. I suppose I was a fool to expect anything of you people...",
+        "translation": "Yuuji「Ra là vậy. Tớ đúng là thằng ngốc khi trông đợi điều gì từ các người...」"
+    },
+    {
+        "sentence": "[Yuuji]::Look, Makina... however scrawny you might be, you`re still technically a \"girl.\"",
+        "translation": "Yuuji「Nghe này, Makina... dù cậu có gầy gò thế nào đi nữa, về mặt kỹ thuật cậu vẫn là \"con gái\" đấy.」"
+    },
+    {
+        "sentence": "[Yuuji]::How about you, Michiru? I was kind of expecting you to start shouting out ideas right away.",
+        "translation": "Yuuji「Còn cậu thì sao, Michiru? Tớ cứ tưởng cậu phải nhao nhao lên đưa ra ý tưởng ngay từ đầu rồi chứ.」"
+    },
+    {
+        "sentence": "[Yuuji]::Hear that, Yumiko? It`s the number one red flag that someone`s terrible with money. Remember it well.",
+        "translation": "Yuuji「Nghe thấy không, Yumiko? Đó là dấu hiệu đỏ số một cho thấy ai đó quản lý tiền tệ tệ hại đấy. Nhớ kỹ đó.」"
+    },
+    {
+        "sentence": "[Yuuji]::Anyway, what about you, Yumiko? Any good ideas come to mind?",
+        "translation": "Yuuji「Dù sao thì, còn cậu thì sao, Yumiko? Cậu có ý tưởng hay nào không?」"
+    },
+    {
+        "sentence": "[Yuuji]::I`d say so. I mean, she dressed up like a bunny girl for me.",
+        "translation": "Yuuji「Tớ cũng nghĩ vậy. Ý tớ là, cậu ấy đã mặc đồ bunny girl cho tớ xem mà.」"
+    },
+    {
+        "sentence": "[Yuuji]::Graduation, huh...?",
+        "translation": "Yuuji「Tốt nghiệp rồi, huh...?」"
+    },
+    {
+        "sentence": "[Yuuji]::Well, in any case... it`s not like we have to decide on how to spend that \"stash\" immediately, right?",
+        "translation": "Yuuji「Dù sao thì... cũng đâu phải chúng ta phải quyết định cách tiêu cái \"mớ\" đó ngay lập tức đâu, phải không?」"
+    },
+    {
+        "sentence": "[Yuuji]::Whatever your reasons, I really don`t think you should be weeping in front of your students.",
+        "translation": "Yuuji「Dù lý do của cô là gì, tôi thật sự không nghĩ là cô nên khóc trước mặt học sinh đâu.」"
+    },
+    {
+        "sentence": "[Yuuji]::...Thanks for the food.",
+        "translation": "Yuuji「...Cảm ơn vì bữa ăn.」"
+    },
+    {
+        "sentence": "[Yuuji]::Impressive, Yumiko. You`ve learned to read my mind now?",
+        "translation": "Yuuji「Ấn tượng đấy, Yumiko. Cậu học được cách đọc suy nghĩ của tớ rồi à?」"
+    },
+    {
+        "sentence": "[Yuuji]::It pains me deeply to see that look on your face, but... surely you haven`t forgotten what happened last time?",
+        "translation": "Yuuji「Tớ rất đau lòng khi thấy vẻ mặt đó của cậu, nhưng... chắc cậu không quên chuyện lần trước chứ?」"
+    },
+    {
+        "sentence": "[Yuuji]::All right. If you`re that confident, I`ll give it a try.",
+        "translation": "Yuuji「Được thôi. Nếu cậu tự tin đến vậy, tớ sẽ thử xem.」"
+    },
+    {
+        "sentence": "[Yuuji]::I see. This is definitely a distinct improvement. ",
+        "translation": "Yuuji「Ra, rõ ràng là có cải thiện rồi.」"
+    },
+    {
+        "sentence": "[Yuuji]::Yeah. I couldn`t even tell what I was tasting with that pork soup... but this time, the only issue is that it`s mostly flavorless.",
+        "translation": "Yuuji「Ừ. Lúc nếm món súp thịt heo kia tớ còn chẳng biết mình đang ăn cái gì... nhưng lần này, vấn đề duy nhất là nó gần như chẳng có vị gì cả.」"
+    },
+    {
+        "sentence": "[Yuuji]::Maybe, but there`s no need to be ashamed. At this rate, you`ll be making delicious miso soup soon enough.",
+        "translation": "Yuuji「Có lẽ vậy, nhưng không cần phải xấu hổ đâu. Với đà này, chẳng mấy chốc cậu sẽ nấu được món súp miso ngon lành thôi.」"
+    },
+    {
+        "sentence": "[Yuuji]::Right. You did good, Yumiko.",
+        "translation": "Yuuji「Ừ. Cậu làm tốt lắm, Yumiko.」"
+    },
+    {
+        "sentence": "[Yuuji]::I just felt like showing you a little affection the way I do with Sachi and Makina... Hope I didn`t upset you?",
+        "translation": "Yuuji「Tớ chỉ muốn thể hiện một chút tình cảm như tớ vẫn làm với Sachi và Makina thôi... Mong là tớ không làm cậu khó chịu?」"
+    },
+    {
+        "sentence": "[Yuuji]::Hrm. That isn`t the reaction I was expecting, to be honest.",
+        "translation": "Yuuji「Hừm. Thật lòng mà nói, tớ không ngờ cậu lại phản ứng như vậy.」"
+    },
+    {
+        "sentence": "[Yuuji]::Should have said something. It`s not like I would have turned you down.",
+        "translation": "Yuuji「Đáng lẽ cậu nên nói gì đó. Đâu phải tớ sẽ từ chối đâu.」"
+    },
+    {
+        "sentence": "[Yuuji]::Hmm, good point. If you`d demanded head pats a year ago, I probably would have suspected it was some kind of trap.",
+        "translation": "Yuuji「Ừm, nói cũng có lý. Nếu một năm trước cậu đòi tớ xoa đầu, tớ có lẽ đã nghi ngờ đó là một cái bẫy rồi.」"
+    },
+    {
+        "sentence": "[Yuuji]::It`s almost time, huh...?",
+        "translation": "Yuuji「Sắp đến lúc rồi, nhỉ...?」"
+    },
+    {
+        "sentence": "[Yuuji]::Amane`s the morning lecturer today, right?",
+        "translation": "Yuuji「Hôm nay Amane là giảng viên buổi sáng, đúng không?」"
+    },
+    {
+        "sentence": "[Yuuji]::Amane`s skills in the kitchen are the real deal. Go soak up as much of her knowledge as you can.",
+        "translation": "Yuuji「Kỹ năng bếp núc của Amane là hàng thật đấy. Cố gắng học hỏi cậu ấy càng nhiều càng tốt.」"
+    },
+    {
+        "sentence": "[Yuuji]::What`s wrong? Are you still hungry?",
+        "translation": "Yuuji「Sao thế? Cậu vẫn còn đói à?」"
+    },
+    {
+        "sentence": "[Yuuji]::Yeah, I know. You`re way too obvious, Yumiko... Just couldn`t help teasing you a little.",
+        "translation": "Yuuji「Ừ, tớ biết. Cậu lộ liễu quá đi, Yumiko... Chỉ là không nhịn được trêu cậu một chút thôi.」"
+    },
+    {
+        "sentence": "[Yuuji]::Well, I love you too.",
+        "translation": "Yuuji「Tớ cũng yêu cậu.」"
+    },
+    {
+        "sentence": "[Yuuji]::Try not to space out during the lecture thinking about that kiss, all right?",
+        "translation": "Yuuji「Đừng có mà mơ màng về nụ hôn đó trong giờ học đấy, nhớ chưa?」"
+    },
+    {
+        "sentence": "[Yuuji]::Hah... hah... hah...",
+        "translation": "Yuuji「Hộc... hộc... hộc...」"
+    },
+    {
+        "sentence": "[Yuuji]::Appreciated, as always...",
+        "translation": "Yuuji「Lúc nào cũng được cậu giúp đỡ, cảm ơn...」"
+    },
+    {
+        "sentence": "[Yuuji]::Lychee flavor today, huh...?",
+        "translation": "Yuuji「Hương vải thiều à...?」"
+    },
+    {
+        "sentence": "[Yuuji]::I really do appreciate your thoughtfulness, but... I`m starting to feel a little guilty about the way you give me something after every run...",
+        "translation": "Yuuji「Tớ thực sự rất cảm kích sự chu đáo của cậu, nhưng mà... tớ bắt đầu cảm thấy hơi áy náy vì lần nào chạy về cậu cũng cho tớ cái gì đó...」"
+    },
+    {
+        "sentence": "[Yuuji]::...Right, almost forgot.",
+        "translation": "Yuuji「Ừ, suýt thì quên mất.」"
+    },
+    {
+        "sentence": "[Yuuji]::So anyway, is Yumiko still in the middle of her lesson?",
+        "translation": "Yuuji「Vậy thì, Yumiko vẫn đang trong giờ học à?」"
+    },
+    {
+        "sentence": "[Yuuji]::Were you expecting something more?",
+        "translation": "Yuuji「Cậu mong đợi điều gì hơn thế à?」"
+    },
+    {
+        "sentence": "[Yuuji]::Well, Yumiko always tells me about her lessons after the fact, you know?",
+        "translation": "Yuuji「Thì, Yumiko luôn kể cho tớ nghe về những bài học của cậu ấy sau đó mà, cậu biết đấy?」"
+    },
+    {
+        "sentence": "[Yuuji]::...What was that...?",
+        "translation": "Yuuji「...Cái gì thế...?」"
+    },
+    {
+        "sentence": "[Yuuji]::It is?",
+        "translation": "Yuuji「Vậy hả?」"
+    },
+    {
+        "sentence": "[Yuuji]::Yeah, I guess it is a little odd...",
+        "translation": "Yuuji「Ừ, tớ đoán là hơi kỳ lạ thật...」"
+    },
+    {
+        "sentence": "[Yuuji]::What exactly are you getting at, Sachi?",
+        "translation": "Yuuji「Rốt cuộc cậu đang muốn nói gì vậy, Sachi?」"
+    },
+    {
+        "sentence": "[Yuuji]::I see. You just want a get-out-of-jail-free card in case they catch you peeping, right?",
+        "translation": "Yuuji「Ra là, cậu chỉ muốn một tấm vé miễn tội nếu bị bắt gặp đang nhìn trộm thôi đúng không?」"
+    },
+    {
+        "sentence": "[Yuuji]::Well, I guess you do have a point.",
+        "translation": "Yuuji「Ừm, tớ nghĩ cậu nói cũng có lý.」"
+    },
+    {
+        "sentence": "[Yuuji]::Yeah. If you`re that determined, I`ll be your accomplice.",
+        "translation": "Yuuji「Ừ, nếu cậu quyết tâm như vậy, tớ sẽ là đồng phạm của cậu.」"
+    },
+    {
+        "sentence": "[Yuuji]::Right...",
+        "translation": "Yuuji「Được rồi...」"
     }
 ]

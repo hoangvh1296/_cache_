@@ -18,5 +18,117 @@
     {
         "sentence": "[Principal]::Wait, never mind that! Just come along!!",
         "translation": "Hiệu trưởng「Khoan đã, bỏ chuyện đó đi! Cứ đi theo tôi!!」"
+    },
+    {
+        "sentence": "[Principal]::Well, look at that. It`s not like you don`t know how to be a gentleman... Just wish you`d act that way a little more often.",
+        "translation": "Hiệu trưởng「Chà, xem kìa. Cậu đâu phải là không biết cách cư xử như một quý ông... Chỉ ước gì cậu hành xử như vậy thường xuyên hơn một chút.」"
+    },
+    {
+        "sentence": "[Principal]::N-Nice try... you`re not going to fool me with that nonsense!",
+        "translation": "Hiệu trưởng「C-Cũng khá đấy... nhưng cậu sẽ không lừa được tôi bằng mấy trò vớ vẩn đó đâu!」"
+    },
+    {
+        "sentence": "[Principal]::Anyway, the matter I wanted to discuss concerns the administration of Mihama Academy...",
+        "translation": "Hiệu trưởng「Dù sao thì, vấn đề tôi muốn thảo luận liên quan đến việc quản lý Học viện Mihama...」"
+    },
+    {
+        "sentence": "[Principal]::...No. The decision to close this school has already been finalized.",
+        "translation": "Hiệu trưởng「...Không. Quyết định đóng cửa trường này đã được thông qua rồi.」"
+    },
+    {
+        "sentence": "[Principal]::It`s just... shutting down a school comes with its own set of problems to solve, you know?",
+        "translation": "Hiệu trưởng「Chỉ là... việc đóng cửa một trường học đi kèm với những vấn đề riêng cần giải quyết, cậu biết đấy?」"
+    },
+    {
+        "sentence": "[Principal]::That`s true. Apart from you and Sakaki-san, our students more or less have things sorted out.",
+        "translation": "Hiệu trưởng「Đúng vậy. Ngoài cậu và Sakaki-san, các học sinh khác ít nhiều gì cũng đã ổn định rồi.」"
+    },
+    {
+        "sentence": "[Principal]::Suou-san will be returning home to help at her family`s restaurant, with Irisu-san in tow...",
+        "translation": "Hiệu trưởng「Suou-san sẽ về nhà giúp việc ở nhà hàng của gia đình, cùng với Irisu-san...」"
+    },
+    {
+        "sentence": "[Principal]::And Matsushima-san and Komine-san will be enrolling in a boarding school I recommended them to.",
+        "translation": "Hiệu trưởng「Còn Matsushima-san và Komine-san sẽ nhập học một trường nội trú mà tôi đã giới thiệu cho họ.」"
+    },
+    {
+        "sentence": "[Principal]::Well... not to be blunt, but this is about money.",
+        "translation": "Hiệu trưởng「À thì... không phải tôi muốn nói thẳng đâu, nhưng chuyện này là về tiền bạc.」"
+    },
+    {
+        "sentence": "[Principal]::Indeed. This school has a \"secret stash\" that was kept completely separate from its ordinary operational funds... to be used at the discretion of its principal. And there`s a great deal of it left over.",
+        "translation": "Hiệu trưởng「Thật vậy. Trường này có một \"kho dự trữ bí mật\" được giữ hoàn toàn tách biệt với các quỹ hoạt động thông thường... để sử dụng theo quyết định của hiệu trưởng. Và còn lại rất nhiều trong đó.」"
+    },
+    {
+        "sentence": "[Principal]::I`m not proud to admit it, but... that`s right...",
+        "translation": "Hiệu trưởng「Tôi không tự hào khi phải thừa nhận điều này, nhưng... đúng vậy...」"
+    },
+    {
+        "sentence": "[Principal]::Originally, it was intended to \"resolve\" any problems our students might cause. But in the end, there was never any need to use it for that purpose.",
+        "translation": "Hiệu trưởng「Ban đầu, nó được dự định để \"giải quyết\" bất kỳ vấn đề nào mà học sinh của chúng ta có thể gây ra. Nhưng cuối cùng, chưa bao giờ cần phải sử dụng nó cho mục đích đó.」"
+    },
+    {
+        "sentence": "[Principal]::I think you should take a look at the actual figures before you say that...",
+        "translation": "Hiệu trưởng「Tôi nghĩ cậu nên xem xét số liệu thực tế trước khi nói điều đó...」"
+    },
+    {
+        "sentence": "[Principal]::Right. I`d like to use it for the good of our students, since that was its intended purpose... but I was wondering if you had any good ideas.",
+        "translation": "Hiệu trưởng「Được rồi. Tôi muốn sử dụng nó cho lợi ích của học sinh, vì đó là mục đích ban đầu của nó... nhưng tôi tự hỏi cậu có ý tưởng hay nào không.」"
+    },
+    {
+        "sentence": "[Principal]::Ooh... I really am, aren`t I?",
+        "translation": "Hiệu trưởng「Ooh... đúng là như vậy thật sao?」"
+    },
+    {
+        "sentence": "[Principal]::Right... it must have slipped my mind, but you`re the sort of person who`d willingly trudge from Yamanashi to Mishima Cape on foot...",
+        "translation": "Hiệu trưởng「Phải rồi... tôi quên mất, nhưng cậu đúng là cái kiểu người sẵn sàng lặn lội từ Yamanashi đến mũi Mishima bằng chân mà...」"
+    },
+    {
+        "sentence": "[Principal]::In other words, you`d like to solicit suggestions from the others?",
+        "translation": "Hiệu trưởng「Nói cách khác, cậu muốn thu thập ý kiến từ những người khác?」"
+    },
+    {
+        "sentence": "[Principal]::From the looks of things, it might be rather difficult to use up all that money...",
+        "translation": "Hiệu trưởng「Có vẻ như sẽ khá khó để tiêu hết số tiền đó...」"
+    },
+    {
+        "sentence": "[Principal]::I`d say so. Even if I was to buy you all 100 of the things you just mentioned, there`d probably be plenty of change left over.",
+        "translation": "Hiệu trưởng「Cô nghĩ vậy. Ngay cả khi cô mua cho tất cả các em một trăm thứ mà các em vừa kể, thì chắc vẫn còn dư rất nhiều tiền.」"
+    },
+    {
+        "sentence": "[Principal]::Don`t make me into some kind of villain! This money was given to me at the very start!",
+        "translation": "Hiệu trưởng「Đừng có biến cô thành một loại nhân vật phản diện nào đó! Số tiền này đã được đưa cho cô ngay từ đầu rồi!」"
+    },
+    {
+        "sentence": "[Principal]::...A graduation?",
+        "translation": "Hiệu trưởng「...Lễ tốt nghiệp ư?」"
+    },
+    {
+        "sentence": "[Principal]::Oh, yes... I do remember that. I think we decided to buy a new curtain for the school stage.",
+        "translation": "Hiệu trưởng「À ừ... Cô nhớ ra rồi. Hình như lúc đó bọn cô quyết định mua một cái màn mới cho sân khấu của trường.」"
+    },
+    {
+        "sentence": "[Principal]::That`s true. We do have another three months until the school will actually be closing.",
+        "translation": "Hiệu trưởng「Đúng vậy. Chúng ta vẫn còn ba tháng nữa trước khi trường thực sự đóng cửa.」"
+    },
+    {
+        "sentence": "[Principal]::What...? Is it all right for me to join you?",
+        "translation": "Hiệu trưởng「...Cô tham gia cùng mọi người có được không?」"
+    },
+    {
+        "sentence": "[Principal]::Oh goodness... I... I think I might cry...",
+        "translation": "Hiệu trưởng「Ôi trời... Cô... Cô nghĩ là cô sắp khóc mất...」"
+    },
+    {
+        "sentence": "[Principal]::It most certainly is not. Right now... I feel like all my educational policies have been vindicated...",
+        "translation": "Hiệu trưởng「Tuyệt đối không phải vậy. Ngay lúc này... Cô cảm thấy như tất cả những chính sách giáo dục của cô đều đã được chứng minh...」"
+    },
+    {
+        "sentence": "[Principal]::Irisu-san!!",
+        "translation": "Hiệu trưởng「Irisu-san!!」"
+    },
+    {
+        "sentence": "[Principal]::Uhm... since when was I \"Chizu-chan\"...?",
+        "translation": "Hiệu trưởng「Ừm... từ khi nào mà cô lại bị gọi là \"Chizu-chan\" vậy...?」"
     }
 ]
