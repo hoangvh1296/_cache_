@@ -1,0 +1,22 @@
+[
+    {
+        "sentence": "[Principal]::I couldn`t find you in your room. So this is where you were?",
+        "translation": "Hiệu trưởng「Tôi không tìm thấy cậu trong phòng. Ra là cậu ở đây à?」"
+    },
+    {
+        "sentence": "[Principal]::I wouldn`t say that, but... there`s something I want to discuss with you. Would you mind accompanying me to my office?",
+        "translation": "Hiệu trưởng「Tôi không nói vậy, nhưng... tôi có chuyện muốn nói với cậu. Cậu có phiền đi theo tôi đến văn phòng chứ?」"
+    },
+    {
+        "sentence": "[Principal]::Who said anything about that? Please don`t treat me like a lonely old lady.",
+        "translation": "Hiệu trưởng「Ai nói gì về chuyện đó đâu? Xin cậu đừng đối xử với tôi như một bà già cô đơn.」"
+    },
+    {
+        "sentence": "[Principal]::What!? U-Uhm, I... well, you know... same old same old, I guess...",
+        "translation": "Hiệu trưởng「Hả!? Ờ... thì, cậu biết đấy... mọi thứ vẫn như cũ thôi...」"
+    },
+    {
+        "sentence": "[Principal]::Wait, never mind that! Just come along!!",
+        "translation": "Hiệu trưởng「Khoan đã, bỏ chuyện đó đi! Cứ đi theo tôi!!」"
+    }
+]
