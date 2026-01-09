@@ -866,5 +866,33 @@
     {
         "sentence": "[早苗「]::……！？」",
         "translation": "Yuuki「……！？」\n"
+    },
+    {
+        "sentence": "[早苗「]::……………………」",
+        "translation": "Yuuki「……………………」"
+    },
+    {
+        "sentence": "[早苗「]::お早うございます」",
+        "translation": "Yuuki「Chào buổi sáng.」"
+    },
+    {
+        "sentence": "[早苗「]::えーっと、高峰先生は事情があって、少し遅れるそうなので、私が代わりにホームルームを担当します」",
+        "translation": "Yuuki「À, Takamine-sensei có chút việc nên sẽ đến muộn, cô sẽ thay mặt đảm nhiệm giờ sinh hoạt lớp.」"
+    },
+    {
+        "sentence": "[早苗「]::それじゃ、始めますね……」",
+        "translation": "Yuuki「Vậy thì, cô bắt đầu nhé……」"
+    },
+    {
+        "sentence": "[早苗「]::た、高峰先生っ！？　大丈夫ですか！？」",
+        "translation": "Yuuki「T、Takamine-sensei!? Cô không sao chứ!?」"
+    },
+    {
+        "sentence": "[早苗「]::で、でも……！？　その……かなり調子が悪いご様子ですし……今から、保健室に行かれた方が……いいのではないですか？」",
+        "translation": "Yuuki「V、vậy nhưng……!? Trông、trông cô có vẻ không khỏe…… Hay là, cô nên đến phòng y tế thì…… tốt hơn ạ?」"
+    },
+    {
+        "sentence": "[早苗「]::は、はい……」",
+        "translation": "Yuuki「V、vâng……」"
     }
 ]

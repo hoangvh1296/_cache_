@@ -1030,5 +1030,93 @@
     {
         "sentence": "[沙耶「]::やっ……！？　あぁあっ、くっ……いたいっ、いやぁっ……やめてっ！　痛いっ！　やぁっ、やだっ、いやっいやあっ！　いやああっ！！」",
         "translation": "Saya「Á… á… Không… ư… đau… ư… đừng mà…! Đau quá! Ư… đừng mà… đừng mà…! Ư… á…!!」"
+    },
+    {
+        "sentence": "[沙耶「]::ひいいぃっ！　いや、いやああっ！　だめだめだめええっ！　あぁ、痛いっ！　やめてよおっ！　お母さま！　お母さまああーーーっ！！」",
+        "translation": "Saya「Hiii…! Không, không mà! Xin đừng, xin đừng mà! A… đau quá! Xin đừng mà! Mẹ ơi! Mẹ ơiiiiii!!」"
+    },
+    {
+        "sentence": "[沙耶「]::あはあああっ！　いやあっ！　いやああっ！　抜いて！　抜いて、抜いてええっ！　だめえええええええっ！」",
+        "translation": "Saya「A… á… á! Không…! Đừng mà…! Rút ra! Rút ra, rút ra đi mà! Không…!」"
+    },
+    {
+        "sentence": "[沙耶「]::えぇえっ！？　いっ……やあぁっ、なっ、なかってっ……中ってぇっ！？」",
+        "translation": "Saya「Hể…!? Đ-đừng… á… không, không được… bên trong… bên trong ư!?」"
+    },
+    {
+        "sentence": "[沙耶「]::いっ、いやぁあっ！　だめぇえっ！　中でっ、中で出すなんてっ……だめだめっ、だめぇえええっ！　ぜったいだめぇええええっ！」",
+        "translation": "Saya「Kh-không…! Dừng…! Không được…! Bên trong…! Không được bắn bên trong…! Không, không được…! Tuyệt đối không được…!」"
+    },
+    {
+        "sentence": "[沙耶「]::いやあっ！　いやあああっ！　やめて、やめて、やめてええっ！　いやあああああああああああっ！！」",
+        "translation": "Saya「Không…! Không…! Dừng lại, dừng lại, dừng lại đi mà…! Khôngggggggggggggg!!」"
+    },
+    {
+        "sentence": "[沙耶「]::きゃあああああああああああぁぁぁぁっ！！」",
+        "translation": "Saya「Áaaaaaaaaaaaaaaaaaaaaaaa!!」"
+    },
+    {
+        "sentence": "[沙耶「]::あぁああっ！　やあぁ、だめええええっ！！」",
+        "translation": "Saya「Aaa…! Không…! Dừng lại đi mà…!!」"
+    },
+    {
+        "sentence": "[沙耶「]::いっ、やぁああっ！　あぁああっ、やぁああっ！　だめぇえっ！　出しちゃっだめえぇえっ！　やぁあっ、いやぁあああっ！」",
+        "translation": "Saya「Ư… Ư á…! Aaa… Ư á…! Không…! Đừng…! Ư… Không…!」"
+    },
+    {
+        "sentence": "[沙耶「]::あぁあっ！　やぁああっ……うあぁあっ、やぁああっ！　お母さまぁあああっ！　お母さまぁあぁーーーっ！」",
+        "translation": "Saya「Aaa…! Ya…! Ư… aaa…! Ya…! Mẹ…! Mẹ…!」"
+    },
+    {
+        "sentence": "[沙耶「]::……っ……ぅっ……ぁぁ……っ……っ…………ぅっ……ぁっ……」",
+        "translation": "Saya「……Kh… kh… Aaa… kh… kh… Ư… kh… a…」"
+    },
+    {
+        "sentence": "[沙耶「]::あっ……あぁあっ……っ……あっ……っ……あぁ…………」",
+        "translation": "Saya「Á… Aaa… ư… á… ư… Aaa…」"
+    },
+    {
+        "sentence": "[沙耶「]::……ぅっ……ぅぅっ……ひっく……ひっく……えっ、えっ……えっ、えっ、えっ……」",
+        "translation": "Saya「……Ư… ư… Hic… hic… Hả, hả… Hả, hả, hả…」"
+    },
+    {
+        "sentence": "[沙耶「]::……っ………………っ…………」",
+        "translation": "Saya「……ư……ư……」"
+    },
+    {
+        "sentence": "[沙耶「]::……うっ…………っ……うっ…………」",
+        "translation": "Saya「……ưm…ư…………ưm…ư……」"
+    },
+    {
+        "sentence": "[沙耶「]::……うっ、うえっ……うえっ、うえっ……えぐっ、えぐっ、えぐっ……っ………………っ……………………っ…………………………」",
+        "translation": "Saya「……hức… khục… hức, khục… hức… ẹc, ẹc, ẹc… … … … … … … … … … … … … … … … … …」"
+    },
+    {
+        "sentence": "[沙耶「]::………っ………ぅっ………………」",
+        "translation": "Saya「………っ………ưっ………………」"
+    },
+    {
+        "sentence": "[沙耶「]::……ちょっと身体の調子が悪くて、ち、遅刻しただけよ……大丈夫。ホームルームを続けて」",
+        "translation": "Saya「……Chỉ là, tôi thấy hơi khó ở trong người, c、có chút đến muộn thôi mà…… Không sao đâu. Tiếp tục buổi sinh hoạt lớp đi.」"
+    },
+    {
+        "sentence": "[沙耶「]::大丈夫よ。ほら、続けなさい」",
+        "translation": "Saya「Ổn cả thôi. Nào, tiếp tục đi.」"
+    },
+    {
+        "sentence": "[沙耶「]::…………っ………………っ………………」",
+        "translation": "Saya「…………っ………………っ………………」"
+    },
+    {
+        "sentence": "[沙耶「]::………ぅっ………………っ………………」",
+        "translation": "Saya「………ư………………ư………………」"
+    },
+    {
+        "sentence": "[沙耶「]::………ぅっ……っ……ぅ………………」",
+        "translation": "Saya「………ư……ư……ư………………」"
+    },
+    {
+        "sentence": "[沙耶「]::…………っ………………っ………………」俺はホームルームそっちのけで、じっと沙耶の様子を観察する。",
+        "translation": "Saya「…………っ………………っ………………」"
     }
 ]
