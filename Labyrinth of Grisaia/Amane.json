@@ -170,5 +170,33 @@
     {
         "sentence": "[Amane]::Okay then. Let`s move on to learning how to use the knife!",
         "translation": "Amane「Được rồi. Vậy thì, chúng ta chuyển sang học cách sử dụng dao nhé!」"
+    },
+    {
+        "sentence": "[Amane]::Guess you`re excited to finally get a little hands-on knife practice, huh?",
+        "translation": "Amane「Đoán xem cậu háo hức muốn được thực hành dao kéo lắm rồi, hả?」"
+    },
+    {
+        "sentence": "[Amane]::Ah, right... that`s just a kind of \"image training,\" you know? When you get a bit more practice, you`ll know what to do with an ingredient the instant you pick it up... that`s what my Dad always says, at least.",
+        "translation": "Amane「À, phải rồi... đó chỉ là một kiểu \"luyện tập hình ảnh\" thôi, cậu biết mà? Khi cậu luyện tập nhiều hơn một chút, cậu sẽ biết phải làm gì với một nguyên liệu ngay khi cậu nhặt nó lên... ít nhất thì bố tớ luôn nói thế.」"
+    },
+    {
+        "sentence": "[Amane]::Oh, that? Guess I was thinking it might make you broaden your horizons a little...",
+        "translation": "Amane「À, cái đó hả? Tớ chỉ nghĩ là nó có thể giúp cậu mở mang tầm mắt một chút thôi mà...」"
+    },
+    {
+        "sentence": "[Amane]::From what you`ve told me, it`s not like you`re completely useless with a knife... so why don`t we start off by seeing if you can peel that daikon into a long, thin sheet?",
+        "translation": "Amane「Theo những gì cậu kể thì đâu phải cậu hoàn toàn vô dụng với dao... vậy sao chúng ta không bắt đầu bằng việc xem cậu có thể gọt củ cải thành một lát mỏng và dài không?」"
+    },
+    {
+        "sentence": "[Amane]::That`s right. Also, we`ll be using a normal kitchen knife this time, not a double-edged one. Fair warning... it takes some finesse to use these properly. ",
+        "translation": "Amane「Đúng vậy. Với lại, lần này chúng ta sẽ dùng dao phay bình thường, không phải loại hai lưỡi đâu. Tớ cảnh báo trước... cần có chút khéo léo để dùng chúng đúng cách đấy.」"
+    },
+    {
+        "sentence": "[Amane]::Hmm... you sorta want to hold the knife closer to your stomach, usually...",
+        "translation": "Amane「Hmm... thường thì cậu nên để dao gần bụng hơn...」"
+    },
+    {
+        "sentence": "[Amane]::But getting familiar with the basic process is more important for now. Try to find a grip that lets you move the daikon around easily.",
+        "translation": "Amane「Nhưng làm quen với quy trình cơ bản quan trọng hơn lúc này. Cố tìm cách cầm sao cho dễ di chuyển củ cải nhé.」"
     }
 ]

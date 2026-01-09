@@ -634,5 +634,17 @@
     {
         "sentence": "[Yuuji]::Right...",
         "translation": "Yuuji「Được rồi...」"
+    },
+    {
+        "sentence": "[Yuuji]::Doesn`t sound like they`re up to anything particularly indecent in there. I guess we`ve got overly-active imaginations.",
+        "translation": "Yuuji「Nghe có vẻ trong đó không có chuyện gì mờ ám cả. Tớ đoán chúng ta đã tưởng tượng hơi thái quá rồi.」"
+    },
+    {
+        "sentence": "[Yuuji]::Well done. At this point, we need only peek inside... Are you ready, PFC Komine?",
+        "translation": "Yuuji「Làm tốt lắm. Đến nước này, chúng ta chỉ cần liếc nhìn vào bên trong thôi... Cậu sẵn sàng chưa, binh nhì Komine?」"
+    },
+    {
+        "sentence": "[Yuuji]::All right. Here goes...",
+        "translation": "Yuuji「Được rồi. làm thôi...」"
     }
 ]

@@ -774,5 +774,41 @@
     {
         "sentence": "[理保子「]::しっかりね」",
         "translation": "Rihoko「Cố gắng lên nhé.」"
+    },
+    {
+        "sentence": "[理保子「]::ンフフッ。おやすいご用だわ」",
+        "translation": "Rihoko「Ufufu. Chuyện nhỏ thôi mà.」"
+    },
+    {
+        "sentence": "[理保子「]::……で、どうすればいいのかしら？」",
+        "translation": "Rihoko「......Vậy, tôi phải làm gì đây?」"
+    },
+    {
+        "sentence": "[理保子「]::ええ。問題ないけど？」",
+        "translation": "Rihoko「Ừ. Không vấn đề gì chứ?」"
+    },
+    {
+        "sentence": "[理保子「]::で、私が高峰先生をここへ連れてきたら、あなたが登場して彼女に襲いかかるという寸法ね？」",
+        "translation": "Rihoko「Vậy, ý cậu là nếu tôi dẫn Takamine-sensei đến đây, thì cậu sẽ xuất hiện và tấn công cô ấy, đúng không?」"
+    },
+    {
+        "sentence": "[理保子「]::ンフフッ……了解。こんな事もあろうかと……実は用意していたものがあるのよ」",
+        "translation": "Rihoko「Ufufu... Rõ rồi. Tôi đã lường trước việc này... Thật ra tôi đã chuẩn bị sẵn một thứ.」"
+    },
+    {
+        "sentence": "[理保子「]::フフッ……はい、これよ♪」",
+        "translation": "Rihoko「Ufufu... Vâng, đây này♪」"
+    },
+    {
+        "sentence": "[理保子「]::フフッ……このガーゼにはね、麻酔薬が染み込ませてあるの」",
+        "translation": "Rihoko「Fufu... Cái gạc này... đã được tẩm thuốc mê.」"
+    },
+    {
+        "sentence": "[理保子「]::そう……空気に触れると薬剤が揮発し始めるから、使う少し前に、パックを開けてね。いい？」",
+        "translation": "Rihoko「Ừm... Vì thuốc sẽ bắt đầu bay hơi khi tiếp xúc với không khí, nên hãy mở gói ngay trước khi dùng nhé. Được chứ?」"
+    },
+    {
+        "sentence": "[理保子「]::ＯＫ。それじゃ、行ってくるわね」",
+        "translation": "Rihoko「OK. Vậy, tôi đi đây.」"
     }
 ]
