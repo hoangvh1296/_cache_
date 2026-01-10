@@ -814,5 +814,33 @@
     {
         "sentence": "[理保子「]::そう？　つまらないわねぇ……」",
         "translation": "Rihoko「Vậy à? Chán thật đấy……」"
+    },
+    {
+        "sentence": "[理保子「]::……あら、今日は誰を責めるのか、決めたの？」",
+        "translation": "Rihoko「……Ồ, hôm nay cậu đã quyết định huấn luyện cho ai rồi hả?」"
+    },
+    {
+        "sentence": "[理保子「]::なぁに？　お姉さんでよかったら、何でも相談に乗るわよ♪」",
+        "translation": "Rihoko「Sao thế? Nếu cậu thấy chị đây được việc thì cứ việc tâm sự thoải mái nhé ♪」"
+    },
+    {
+        "sentence": "[理保子「]::……なるほどね。ええ、その衣装ならあるわよ。貸してあげる☆」",
+        "translation": "Rihoko「……Ra là vậy. Ừm, tôi có trang phục đó đấy. Cho cậu mượn nhé ☆」"
+    },
+    {
+        "sentence": "[理保子「]::けど、あれを風間先生に着せるなんて、キミも意地悪ねぇ」",
+        "translation": "Rihoko「Nhưng mà, bắt Kazama-sensei mặc cái đó, cậu cũng xấu tính thật!」"
+    },
+    {
+        "sentence": "[理保子「]::……はい、これでしょ？　何だったら、私が届けてあげましょうか？」",
+        "translation": "Rihoko「……Vâng, cái này phải không? Nếu cậu cần, tôi mang đi giúp cho nhé?」"
+    },
+    {
+        "sentence": "[理保子「]::いいわよ。どうせ職員室に業務日誌を届けに行くから、そのついでにね」",
+        "translation": "Rihoko「Được thôi. Dù sao tôi cũng phải mang nhật ký công việc đến phòng giáo viên, tiện đường ấy mà.」"
+    },
+    {
+        "sentence": "[理保子「]::ンフフ♪　じゃ、しっかりね、小橋君」",
+        "translation": "Rihoko「Ể hể ~ Vậy thì, cố gắng lên nhé, Kobashi-kun.」"
     }
 ]
