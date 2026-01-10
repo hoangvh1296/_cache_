@@ -933,15 +933,15 @@
     },
     {
         "sentence": "[Yumiko]::Of course I am. I was more than a little disturbed when you started off by telling me to \"stare at that daikon radish like you`re a sexually-frustrated housewife\"...",
-        "translation": "Yumiko「Tớ đương nhiên là thế rồi. Tớ đã hơi bị khó chịu khi cậu bắt đầu bằng việc bảo tớ \"nhìn củ cải trắng kia như thể cậu là một bà nội trợ đang thiếu thốn tình dục\"...」"
+        "translation": "Yumiko「Tớ đương nhiên là thế rồi. Tớ đã thấy hơi bị khó chịu khi cậu vừa bắt đầu đã bảo tớ \"nhìn củ cải trắng kia như thể cậu là một bà nội trợ phát cuồng vì thiếu tình dục\"...」"
     },
     {
         "sentence": "[Yumiko]::I do understand the general idea... but the \"frustrated housewife\" part doesn`t seem particularly relevant.",
-        "translation": "Yumiko「Tớ hiểu ý chính... nhưng cái đoạn \"bà nội trợ bực bội\" hình như không liên quan lắm thì phải.」"
+        "translation": "Yumiko「Tớ hiểu ý chính... nhưng cái đoạn \"bà nội trợ bực bội\" có vẻ không liên quan lắm.」"
     },
     {
         "sentence": "[Yumiko]::My horizons are fine as they are, thank you...",
-        "translation": "Yumiko「Tớ thấy thế giới của tớ vẫn ổn như bây giờ, cảm ơn...」"
+        "translation": "Yumiko「Tớ thấy những gì tớ đang có là đủ rồi, cảm ơn...」"
     },
     {
         "sentence": "[Yumiko]::So... how exactly will I be practicing?",
@@ -958,5 +958,177 @@
     {
         "sentence": "[Yumiko]::A grip... that allows me to move it easily...",
         "translation": "Yumiko「Một cách cầm... giúp tớ di chuyển nó dễ dàng...」"
+    },
+    {
+        "sentence": "[Yumiko]::We`ve finally made it this far...",
+        "translation": "Yumiko「Cuối cùng tớ cũng đi được đến nước này...」"
+    },
+    {
+        "sentence": "[Yumiko]::Yes. I think this feels about right.",
+        "translation": "Yumiko「Ừ. Tớ nghĩ thế này là ổn rồi.」"
+    },
+    {
+        "sentence": "[Yumiko]::All right then...",
+        "translation": "Yumiko「Được rồi...」"
+    },
+    {
+        "sentence": "[Yumiko]::Ah...!",
+        "translation": "Yumiko「A...!」"
+    },
+    {
+        "sentence": "[Yumiko]::I`d been expecting some trouble... but it really is difficult to find the right amount of force...",
+        "translation": "Yumiko「Tớ đã đoán trước là sẽ có chút khó khăn... nhưng thật sự rất khó để tìm được lực vừa đủ...」"
+    },
+    {
+        "sentence": "[Yumiko]::Well, that would certainly be nice...",
+        "translation": "Yumiko「Chà, điều đó chắc chắn sẽ rất tuyệt...」"
+    },
+    {
+        "sentence": "[Yumiko]::R-Right...",
+        "translation": "Yumiko「Ừ-ừm...」"
+    },
+    {
+        "sentence": "[Yumiko]::Have to keep... my knife under control...",
+        "translation": "Yumiko「Phải... kiềm chế con dao của mình mới được...」"
+    },
+    {
+        "sentence": "[Yumiko]::Oh no... I cut through it again...",
+        "translation": "Yumiko「Ôi không... mình lại cắt trúng nữa rồi...」"
+    },
+    {
+        "sentence": "[Yumiko]::All right...",
+        "translation": "Yumiko「Được rồi...」"
+    },
+    {
+        "sentence": "[Yumiko]::Ooh, it`s going pretty well this ti... whoops...",
+        "translation": "Yumiko「Ồ, lần này có vẻ khá ổn... á...」"
+    },
+    {
+        "sentence": "[Yumiko]::I`m sorry... I really am trying to keep your advice in mind, Suou-san...",
+        "translation": "Yumiko「Tớ xin lỗi... Tớ thật sự đang cố gắng ghi nhớ lời khuyên của Suou-san...」"
+    },
+    {
+        "sentence": "[Yumiko]::...This daikon... is Yuuji?",
+        "translation": "Yumiko「...Củ cải này... là Yuuji sao?」"
+    },
+    {
+        "sentence": "[Yumiko]::Y-You mean, his\\・",
+        "translation": "Yumiko「Y-Ý cậu là, của...」"
+    },
+    {
+        "sentence": "[Yumiko]::I-I don`t think that`s going to help matters, but... I suppose you`re the instructor here. I`ll give it a try...",
+        "translation": "Yumiko「T-Tớ không nghĩ điều đó sẽ giúp ích gì đâu, nhưng... tớ cho là cậu là người hướng dẫn ở đây. Tớ sẽ thử xem...」"
+    },
+    {
+        "sentence": "[Yumiko]::...Ah!",
+        "translation": "Yumiko「...A!」"
+    },
+    {
+        "sentence": "[Yumiko]::I`m sorry... I think that only made the problem worse...",
+        "translation": "Yumiko「Tớ xin lỗi... Tớ nghĩ điều đó chỉ làm vấn đề tệ hơn thôi...」"
+    },
+    {
+        "sentence": "[Yumiko]::Well, pardon me for being a perv, then!!",
+        "translation": "Yumiko「Chậc, xin lỗi vì tớ là đồ biến thái, được chưa!!」"
+    },
+    {
+        "sentence": "[Yumiko]::...Not yet...",
+        "translation": "Yumiko「...Vẫn chưa...」"
+    },
+    {
+        "sentence": "[Yumiko]::Perhaps you`re right, Suou-san... but please, would you allow me a little more time? Just a little?",
+        "translation": "Yumiko「Có lẽ cậu nói đúng, Suou-san... nhưng xin cậu, cho tớ thêm một chút thời gian nữa được không? Chỉ một chút thôi?」"
+    },
+    {
+        "sentence": "[Yumiko]::Please, Suou-san.",
+        "translation": "Yumiko「Xin cậu, Suou-san.」"
+    },
+    {
+        "sentence": "[Yumiko]::...Thank you.",
+        "translation": "Yumiko「...Cảm ơn cậu.」"
+    },
+    {
+        "sentence": "[Yumiko]::\\・Kuh!",
+        "translation": "Yumiko「Khụ!」"
+    },
+    {
+        "sentence": "[Yumiko]::...Nh...",
+        "translation": "Yumiko「...Nh...」"
+    },
+    {
+        "sentence": "[Yumiko]::I did it!!",
+        "translation": "Yumiko「Tớ làm được rồi!!」"
+    },
+    {
+        "sentence": "[Yumiko]::Look, look... I did it, right? Right, Amane!?!",
+        "translation": "Yumiko「Nhìn, nhìn này... Tớ làm được rồi, phải không? Phải không, Amane!?」"
+    },
+    {
+        "sentence": "[Yumiko]::Right... right. I finally did it...",
+        "translation": "Yumiko「Đúng... đúng rồi. Cuối cùng tớ cũng làm được...」"
+    },
+    {
+        "sentence": "[Yumiko]::I-I`m sorry! I was really happy, so I just...",
+        "translation": "Yumiko「T-Tớ xin lỗi! Tại tớ vui quá nên mới...」"
+    },
+    {
+        "sentence": "[Yumiko]::Well, I`m human like anyone else... of course I do... every once in awhile...",
+        "translation": "Yumiko「Tớ cũng là con người như bao người khác thôi mà... tất nhiên là tớ cũng có chứ... thỉnh thoảng...」"
+    },
+    {
+        "sentence": "[Yumiko]::Huh...? Did I really?",
+        "translation": "Yumiko「Hả...? Tớ thật sự đã làm vậy sao?」"
+    },
+    {
+        "sentence": "[Yumiko]::Guh... I`m sorry, in that case. I didn`t, uhm... mean to be so familiar...",
+        "translation": "Yumiko「Ưm... Tớ xin lỗi, nếu là vậy. Tớ không, ờm... có ý thân thiết quá...」"
+    },
+    {
+        "sentence": "[Yumiko]::But...",
+        "translation": "Yumiko「Nhưng mà...」"
+    },
+    {
+        "sentence": "[Yumiko]::Suou-san...",
+        "translation": "Yumiko「Suou-san...」"
+    },
+    {
+        "sentence": "[Yumiko]::...I-I`m not sure I understand, but... if you say so...",
+        "translation": "Yumiko「...T-Tớ không chắc mình hiểu, nhưng... nếu cậu nói vậy...」"
+    },
+    {
+        "sentence": "[Yumiko]::...True enough. Before I left this place a year ago, I was an absurdly contrary person.",
+        "translation": "Yumiko「...Đúng vậy thật. Trước khi tớ rời khỏi nơi này một năm trước, tớ là một người hoàn toàn trái ngược.」"
+    },
+    {
+        "sentence": "[Yumiko]::No, it wasn`t.",
+        "translation": "Yumiko「Không phải đâu.」"
+    },
+    {
+        "sentence": "[Yumiko]::A proposal?",
+        "translation": "Yumiko「Một lời đề nghị sao?」"
+    },
+    {
+        "sentence": "[Yumiko]::Wha...?",
+        "translation": "Yumiko「Hả...?」"
+    },
+    {
+        "sentence": "[Yumiko]::Perhaps, but... this is so sudden... Wouldn`t it seem a little over-familiar...?",
+        "translation": "Yumiko「Có lẽ, nhưng... chuyện này đột ngột quá... Chẳng phải có vẻ hơi quá thân mật sao...?」"
+    },
+    {
+        "sentence": "[Yumiko]::All right... I`ll address you that way from now on.",
+        "translation": "Yumiko「Được rồi... Tớ sẽ gọi cậu như vậy kể từ bây giờ.」"
+    },
+    {
+        "sentence": "[Yumiko]::I mean, I suppose so, but...",
+        "translation": "Yumiko「Ý tớ là, chắc vậy, nhưng mà...」"
+    },
+    {
+        "sentence": "[Yumiko]::Well, all right... A-Amane.",
+        "translation": "Yumiko「Được rồi... A-Amane.」"
+    },
+    {
+        "sentence": "[Yumiko]::...Yes, let`s.",
+        "translation": "Yumiko「Ừ, vậy đi.」"
     }
 ]

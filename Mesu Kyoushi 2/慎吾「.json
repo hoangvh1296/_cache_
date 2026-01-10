@@ -3725,7 +3725,7 @@
     },
     {
         "sentence": "[慎吾「]::理保子先生、アイテムを見に来たけど……？」",
-        "translation": "Shingo「Rihoko-sensei, mình đến xem món đồ đó, nhưng mà...?」"
+        "translation": "Shingo「Rihoko-sensei, em đến xem món đồ, nhưng mà...?」"
     },
     {
         "sentence": "[慎吾「]::……なんだよ、いないのか……んっ？」",
@@ -4890,5 +4890,253 @@
     {
         "sentence": "[慎吾「]::とりあえずはひなたをやり過ごせたし、気を取り直して別の場所へ獲物を探しに行くか」",
         "translation": "Shingo「Tạm thời qua mặt được Hinata rồi, mình đổi gió đi kiếm con mồi chỗ khác thôi.」"
+    },
+    {
+        "sentence": "[慎吾「]::……意外と、誰もいないもんだな……」",
+        "translation": "Shingo「……Ngoài dự kiến, không có ai cả……」"
+    },
+    {
+        "sentence": "[慎吾「]::さっきから、誰の姿も見ないぞ……」",
+        "translation": "Shingo「Từ nãy đến giờ, mình không thấy bóng dáng ai cả……」"
+    },
+    {
+        "sentence": "[慎吾「]::……仕方ない。こうなったら、適当に教室の中でも漁るか」",
+        "translation": "Shingo「……Hết cách rồi. Đã vậy thì, mình đành lục lọi trong mấy lớp học xem sao vậy.」"
+    },
+    {
+        "sentence": "[慎吾「]::何か目ぼしい物は……」",
+        "translation": "Shingo「Có gì đáng giá không nhỉ……」"
+    },
+    {
+        "sentence": "[慎吾「]::入るクラスを間違えたな、これは……」",
+        "translation": "Shingo「Mình nhầm lớp rồi thì phải……」"
+    },
+    {
+        "sentence": "[慎吾「]::なんだ、これ……」",
+        "translation": "Shingo「Cái gì đây……」"
+    },
+    {
+        "sentence": "[慎吾「]::このままここで腐らせておくのはもったいないな」",
+        "translation": "Shingo「Cứ để nó mục ở đây thì phí quá.」"
+    },
+    {
+        "sentence": "[慎吾「]::さて、これをどうするか……」",
+        "translation": "Shingo「Giờ thì, phải làm gì với cái này đây……」"
+    },
+    {
+        "sentence": "[慎吾「]::新鮮搾りたての牛乳、か……これが搾りたてのミルクだったら、迷わず持ち帰ったのにな」",
+        "translation": "Shingo「Sữa tươi mới vắt à… Nếu mà là sữa mới vắt thật thì mình đã không ngần ngại mang về rồi.」"
+    },
+    {
+        "sentence": "[慎吾「]::まぁ、使い道はあるだろ、きっと……」",
+        "translation": "Shingo「Chắc là, kiểu gì cũng có cách dùng mà……」"
+    },
+    {
+        "sentence": "[慎吾「]::それじゃ、早い内に保健室へ届けておくか」",
+        "translation": "Shingo「Vậy thì, mình mang nó đến phòng y tế sớm thôi.」"
+    },
+    {
+        "sentence": "[慎吾「]::おーい、理保子先生……いないのか……？」",
+        "translation": "Shingo「Ê, Rihoko-sensei…… không có ai ở đây sao……？」"
+    },
+    {
+        "sentence": "[慎吾「]::これは……戸棚になんかしまったら、悪くなっちまいそうだな」",
+        "translation": "Shingo「Cái này mà cất vào tủ thì hỏng mất.」"
+    },
+    {
+        "sentence": "[慎吾「]::……よし、後は理保子先生がいいようにしてくれるだろう」",
+        "translation": "Shingo「……Ừm, mọi chuyện còn lại cứ để Rihoko-sensei lo liệu vậy.」"
+    },
+    {
+        "sentence": "[慎吾「]::こんな時間じゃ、さすがに人もいないか……」",
+        "translation": "Shingo「Giờ này chắc không còn ai ở đây nữa rồi……」"
+    },
+    {
+        "sentence": "[慎吾「]::そもそも、こんな下校間際に食堂がやってる訳ないんだよな」",
+        "translation": "Shingo「Nói gì thì nói, giờ tan học thế này thì làm gì có chuyện nhà ăn còn mở cửa chứ.」"
+    },
+    {
+        "sentence": "[慎吾「]::せめて、何か漁らせてもらうか……」",
+        "translation": "Shingo「Ít nhất thì, mình cũng lục lọi tìm gì đó xem sao……」"
+    },
+    {
+        "sentence": "[慎吾「]::おぉっ、これは……！」",
+        "translation": "Shingo「Ồ, cái này là……!」"
+    },
+    {
+        "sentence": "[慎吾「]::これは、間違いない……知る人ぞ知ると言われる幻の牡蠣じゃないか……」",
+        "translation": "Shingo「Cái này, chắc chắn rồi…… Chẳng phải là loại hàu ảo diệu mà người sành ăn nào cũng biết đến hay sao……」"
+    },
+    {
+        "sentence": "[慎吾「]::有名なブランド品の牡蠣を水揚げする漁港の近辺でも、ごく僅かしか獲れない為、あえて無名ブランドとして売り出されている、幻の一品……」",
+        "translation": "Shingo「Thứ đặc sản ảo diệu được bán ra dưới cái tên vô danh, dù chỉ có số lượng cực kỳ ít ỏi được đánh bắt ở vùng biển gần cảng cá nổi tiếng với thương hiệu hàu trứ danh……」"
+    },
+    {
+        "sentence": "[慎吾「]::い、いや、落ち着け……驚きのあまり、口が勝手に動いちまったぜ……」",
+        "translation": "Shingo「K-Không, bình tĩnh nào…… Vì quá ngạc nhiên mà miệng mình tự động thốt ra thôi……」"
+    },
+    {
+        "sentence": "[慎吾「]::ふぅ……それにしても、恐ろしい物が置いてあるな。こんな物が学食にあるとバレたら血を見るぞ……」",
+        "translation": "Shingo「Phù…… Dù sao thì, ở đây lại có thứ đáng sợ như vậy. Nếu chuyện này mà bị phát hiện ở căn-tin trường thì có đổ máu đấy……」"
+    },
+    {
+        "sentence": "[慎吾「]::後は、そうだな……保健室の冷蔵庫にでも移しておくか」",
+        "translation": "Shingo「Sau đó thì, ừm…… Hay là mình cứ chuyển nó vào tủ lạnh ở phòng y tế nhỉ」"
+    },
+    {
+        "sentence": "[慎吾「]::理保子先生……は、いないようだな」",
+        "translation": "Shingo「Hình như Rihoko-sensei…… không có ở đây rồi.」"
+    },
+    {
+        "sentence": "[慎吾「]::よし……これで一安心だな」",
+        "translation": "Shingo「Tuyệt…… Giờ thì có thể yên tâm rồi.」"
+    },
+    {
+        "sentence": "[慎吾「]::フフフッ……どうやって食おうか悩んでしまうな」",
+        "translation": "Shingo「Fufufu…… Không biết nên ăn kiểu gì đây.」"
+    },
+    {
+        "sentence": "[慎吾「]::うおっ、涎が垂れてるっ！」",
+        "translation": "Shingo「Ối trời, chảy cả dãi kìa!」"
+    },
+    {
+        "sentence": "[慎吾「]::いや、落ち着け。たしか俺は獲物を探している最中だったはずだ」",
+        "translation": "Shingo「Không, bình tĩnh nào. Hình như mình đang trong lúc tìm con mồi mà.」"
+    },
+    {
+        "sentence": "[慎吾「]::……よし、気を取り直して獲物を探しに戻るか」",
+        "translation": "Shingo「......Được rồi, mình phải lấy lại tinh thần và quay lại tìm con mồi thôi.」"
+    },
+    {
+        "sentence": "[慎吾「]::うーん、どうも気分が乗らないな……」",
+        "translation": "Shingo「Ừm, sao mà mình không có hứng thú gì hết vậy nè……」"
+    },
+    {
+        "sentence": "[慎吾「]::急いては事をし損じる、っていうし、今日行動を起こすのはやめておく事にするよ」",
+        "translation": "Shingo「Mình nghĩ \"dục tốc bất đạt\", thôi hôm nay mình không hành động gì hết vậy.」"
+    },
+    {
+        "sentence": "[慎吾「]::まぁ、また次の機会にな。それじゃ、俺は帰るよ」",
+        "translation": "Shingo「Thôi, để dịp khác vậy. Vậy em về đây」"
+    },
+    {
+        "sentence": "[慎吾「]::今日で一週間が終わりか……」",
+        "translation": "Shingo「Vậy là hết một tuần rồi sao……」"
+    },
+    {
+        "sentence": "[慎吾「]::来週はもっと頑張るぞ……」",
+        "translation": "Shingo「Tuần sau mình sẽ cố gắng hơn nữa……」"
+    },
+    {
+        "sentence": "[慎吾「]::…………むぅっ…うぅ……朝、だな……」",
+        "translation": "Shingo「…………Ưm… ư… Sáng rồi à……」"
+    },
+    {
+        "sentence": "[慎吾「]::今日は日曜日だもんな。何なら１日中寝て過ごしてもいいくらいだ」",
+        "translation": "Shingo「Hôm nay là chủ nhật mà. Nếu thích thì mình có thể ngủ cả ngày cũng được」"
+    },
+    {
+        "sentence": "[慎吾「]::……奴隷を手に入れる為の行動を開始してから１週間が経ったな」",
+        "translation": "Shingo「……Đã một tuần kể từ khi mình bắt đầu hành động để có được nô lệ rồi nhỉ」"
+    },
+    {
+        "sentence": "[慎吾「]::とはいっても、今日は休日だから一回休みってところなんだけどな」",
+        "translation": "Shingo「Nói vậy thôi, dù sao hôm nay cũng là ngày nghỉ, nên mình cho phép bản thân được nghỉ xả hơi một bữa đã」"
+    },
+    {
+        "sentence": "[慎吾「]::さて、この休日はどうやって過ごしたものか……」",
+        "translation": "Shingo「Chà, kỳ nghỉ này mình nên làm gì để giết thời gian đây nhỉ……」"
+    },
+    {
+        "sentence": "[慎吾「]::……うーん、特にする事も無いんだよなぁ」",
+        "translation": "Shingo「……Ừm, mình cũng chẳng có gì để làm cả.」"
+    },
+    {
+        "sentence": "[慎吾「]::ふぅ……もう、こんな時間か……」",
+        "translation": "Shingo「Phù…… ôi, đã giờ này rồi cơ à……」"
+    },
+    {
+        "sentence": "[慎吾「]::結局、１日中ゴロゴロしちまったな」",
+        "translation": "Shingo「Cuối cùng thì mình đã lười biếng cả ngày rồi.」"
+    },
+    {
+        "sentence": "[慎吾「]::さてと、後は風呂に入って、メシを食って、寝るだけだ」",
+        "translation": "Shingo「Vậy thì, sau đó mình đi tắm, ăn cơm rồi đi ngủ thôi.」"
+    },
+    {
+        "sentence": "[慎吾「]::それじゃ、まずは風呂だ。サクッと済ませちまうか」",
+        "translation": "Shingo「Vậy thì, trước hết là đi tắm thôi. Mình làm nhanh gọn luôn nhé.」"
+    },
+    {
+        "sentence": "[慎吾「]::……う～～ん、うっさいなぁ……もう、朝か？」",
+        "translation": "Shingo「……Ư～～m, ồn ào quá…… Haizz, sáng rồi sao?」"
+    },
+    {
+        "sentence": "[慎吾「]::何事も始めが肝心だし、気合いを入れて臨むとするか」",
+        "translation": "Shingo「Dù sao thì khởi đầu lúc nào cũng quan trọng, mình phải thật sự dốc toàn lực mới được.」"
+    },
+    {
+        "sentence": "[慎吾「]::……なんだ、これ？　錠剤……？」",
+        "translation": "Shingo「……Cái gì đây? Viên thuốc……?」"
+    },
+    {
+        "sentence": "[慎吾「]::理保子先生の発明したクスリか……？　いったい、どんな効果があるんだ？」",
+        "translation": "Shingo「Thuốc do Rihoko-sensei phát minh ra sao...? Rốt cuộc thì nó có tác dụng gì chứ?」"
+    },
+    {
+        "sentence": "[慎吾「]::『アイテム名：チチフエール　効果：母乳を大量に、連続で噴出するようになる』……」",
+        "translation": "Shingo「『Tên vật phẩm: Chi Chi Fuel. Công dụng: Giúp phun ra một lượng lớn sữa mẹ liên tục』……」"
+    },
+    {
+        "sentence": "[慎吾「]::『なお、服用する時は、錠剤を牛乳に溶かして飲用する事』……」",
+        "translation": "Shingo「『À, khi dùng thì hòa tan viên thuốc vào sữa rồi uống nhé』……」"
+    },
+    {
+        "sentence": "[慎吾「]::おぉっ、効果はなかなか素晴らしいじゃないかっ！」",
+        "translation": "Shingo「Ồ ồ, hiệu quả tuyệt vời thật chứ!」"
+    },
+    {
+        "sentence": "[慎吾「]::で、結局材料は何なんだ？　えーと……『牛乳』と『牡蠣』か……」",
+        "translation": "Shingo「Vậy, rốt cuộc nguyên liệu là gì? Để xem nào……『Sữa』 và 『Hàu』 à……」"
+    },
+    {
+        "sentence": "[慎吾「]::……って、牡蠣だとぉっ！！？」",
+        "translation": "Shingo「……Cái gì, hàu hả!？」"
+    },
+    {
+        "sentence": "[慎吾「]::まぁ、いいさ……忘れてた俺も悪かったんだよな……うん、いや、良いアイテムだよ、ハハッ、ハハハ……」",
+        "translation": "Shingo「Thôi, chẳng sao cả... Mình quên béng mất thì cũng là lỗi của mình rồi... Ừm, không, nói gì thì nói, nó cũng là một món đồ giá trị mà, ha ha, ha ha ha...」"
+    },
+    {
+        "sentence": "[慎吾「]::ん？　まだ何かあるのか……」",
+        "translation": "Shingo「Hả? Vẫn còn gì nữa sao……」"
+    },
+    {
+        "sentence": "[慎吾「]::どれどれ……？」",
+        "translation": "Shingo「Để xem nào……？」"
+    },
+    {
+        "sentence": "[慎吾「]::…………何だこれ？　マイクにヘッドフォンがくっついて……」",
+        "translation": "Shingo「......Cái gì thế này? Micro với headphone dính vào nhau......」"
+    },
+    {
+        "sentence": "[慎吾「]::くうぅ……！　まさか、理保子先生がアイテム合成なんかに使うとは……しかも、こんな変な物に…………」",
+        "translation": "Shingo「Ư... ư...！Không ngờ Rihoko-sensei lại dùng nó để hợp thành item... Hơn nữa, lại còn là thứ kỳ quái này nữa chứ...」"
+    },
+    {
+        "sentence": "[慎吾「]::なになに……『アイテム名：キコエール　効果：マイクで拾った音をヘッドフォンで聴ける』…………」",
+        "translation": "Shingo「Cái gì đây......『Tên item: Kikoeru, công dụng: Có thể nghe âm thanh thu được từ micro bằng headphone』............」"
+    },
+    {
+        "sentence": "[慎吾「]::ははぁ、だから『キコエール』ね……って、そのまんまじゃんっ！」",
+        "translation": "Shingo「Hahaha, ra là vì thế nên mới gọi là『Kikoeru』...... Mà, tên gì mà đơn giản vậy trời!」"
+    },
+    {
+        "sentence": "[慎吾「]::……………………はぁぁ」",
+        "translation": "Shingo「……………………Hà......」"
+    },
+    {
+        "sentence": "[慎吾「]::……なんか、いずれにしても、マニアックな使い道しかないな」",
+        "translation": "Shingo「……Kiểu gì thì kiểu, chắc chỉ có cách dùng quái đản thôi.」"
     }
 ]

@@ -173,7 +173,7 @@
     },
     {
         "sentence": "[Amane]::Guess you`re excited to finally get a little hands-on knife practice, huh?",
-        "translation": "Amane「Đoán xem cậu háo hức muốn được thực hành dao kéo lắm rồi, hả?」"
+        "translation": "Amane「Đoán xem cậu nóng lòng muốn được thực hành dao kéo lắm rồi, hả?」"
     },
     {
         "sentence": "[Amane]::Ah, right... that`s just a kind of \"image training,\" you know? When you get a bit more practice, you`ll know what to do with an ingredient the instant you pick it up... that`s what my Dad always says, at least.",
@@ -198,5 +198,181 @@
     {
         "sentence": "[Amane]::But getting familiar with the basic process is more important for now. Try to find a grip that lets you move the daikon around easily.",
         "translation": "Amane「Nhưng làm quen với quy trình cơ bản quan trọng hơn lúc này. Cố tìm cách cầm sao cho dễ di chuyển củ cải nhé.」"
+    },
+    {
+        "sentence": "[Amane]::How`s it going? Found a good position for your thumb yet?",
+        "translation": "Amane「Sao rồi? Tìm được vị trí đặt ngón tay cái tốt chưa?」"
+    },
+    {
+        "sentence": "[Amane]::Okay then, let`s start peeling that sucker! Just make sure you hold your knife still as you turn the daikon.",
+        "translation": "Amane「Được rồi, bắt đầu gọt củ cải thôi! Nhớ giữ dao cho vững khi cậu xoay củ cải đó.」"
+    },
+    {
+        "sentence": "[Amane]::Looks like you peeled about three centimeters there, huh? Guess that`s your first score to beat.",
+        "translation": "Amane「Có vẻ cậu gọt đi khoảng ba phân rồi nhỉ? Chắc đó là số điểm đầu tiên để cậu vượt qua đấy.」"
+    },
+    {
+        "sentence": "[Amane]::Your left hand was moving pretty nicely, though. If you can control your knife a little better, I think you`ll be peeling away in no time.",
+        "translation": "Amane「Dù sao thì tay trái của cậu di chuyển khá ổn đấy. Nếu cậu có thể điều khiển dao tốt hơn một chút, tớ nghĩ cậu sẽ gọt vỏ được ngay thôi.」"
+    },
+    {
+        "sentence": "[Amane]::Either way, there`s only one way to improve. Peel, girl! Peel that sucker! Peel it reeeal good!",
+        "translation": "Amane「Dù sao thì, chỉ có một cách để cải thiện thôi. Gọt đi, cô gái! Gọt cái thứ đó đi! Gọt cho thật ngon vào!」"
+    },
+    {
+        "sentence": "[Amane]::From what I`m seeing, your right hand`s definitely the problem. Try to pretend it`s a robot, okay? All it has to do is move the blade up and down, up and down.",
+        "translation": "Amane「Theo tớ thấy thì, tay phải của cậu chắc chắn là có vấn đề rồi. Cứ coi nó như một con robot đi, được không? Việc duy nhất nó phải làm là di chuyển lưỡi dao lên và xuống thôi.」"
+    },
+    {
+        "sentence": "[Amane]::Hmm... you really can`t help using too much force with that knife, can you...?",
+        "translation": "Amane「Hmm... cậu đúng là không thể không dùng quá nhiều sức với con dao này nhỉ...?」"
+    },
+    {
+        "sentence": "[Amane]::Okay then, how about a new plan? Think of that daikon as Yuuji!",
+        "translation": "Amane「Vậy thì, hay là thử một kế hoạch mới nhé? Cứ tưởng củ cải đó là Yuuji đi!」"
+    },
+    {
+        "sentence": "[Amane]::Yep. What you`re holding right now isn`t a radish... it`s your beloved Yuuji`s precious... well...",
+        "translation": "Amane「Ừ. Thứ mà cậu đang cầm không phải là củ cải đâu... mà là \"của quý\" của Yuuji yêu dấu... à thì...」"
+    },
+    {
+        "sentence": "[Amane]::...Yep. And with that image in your mind... move your fingers gently... carefully...",
+        "translation": "Amane「...Ừ. Và với hình ảnh đó trong đầu... di chuyển các ngón tay nhẹ nhàng thôi... cẩn thận...」"
+    },
+    {
+        "sentence": "[Amane]::That`s the spirit, Sakaki-san. Let`s get a full rotation this time!",
+        "translation": "Amane「Giữ vững tinh thần nha, Sakaki-san. Lần này hãy xoay vòng đầy đủ nhé!」"
+    },
+    {
+        "sentence": "[Amane]::Nah, it`s my bad... I forgot how much of a perv you are, Sakaki-san...",
+        "translation": "Amane「À, lỗi tại tớ... Tớ quên mất cậu là đồ biến thái cỡ nào, Sakaki-san...」"
+    },
+    {
+        "sentence": "[Amane]::At this point... maybe we should back up a little and get you some more practice with just handling the knife...",
+        "translation": "Amane「Đến nước này... có lẽ chúng ta nên lùi lại một chút và để tớ luyện tập thêm cho cậu cách dùng dao thôi...」"
+    },
+    {
+        "sentence": "[Amane]::Well, uh... learning by repetition isn`t always...",
+        "translation": "Amane「Ờ thì, ừm... học bằng cách lặp lại không phải lúc nào cũng...」"
+    },
+    {
+        "sentence": "[Amane]::Okay. Since you`re that determined, let`s keep going for a little while longer.",
+        "translation": "Amane「Được rồi. Vì cậu đã quyết tâm như vậy, chúng ta cứ tiếp tục thêm một lúc nữa vậy.」"
+    },
+    {
+        "sentence": "[Amane]::One more time...",
+        "translation": "Amane「Thêm một lần nữa nhé...」"
+    },
+    {
+        "sentence": "[Amane]::Just a little more...",
+        "translation": "Amane「Thêm một chút nữa thôi...」"
+    },
+    {
+        "sentence": "[Amane]::Right... keeping moving your hands at a good tempo...",
+        "translation": "Amane「Đúng rồi... cứ giữ nhịp tay đều đặn như vậy nhé...」"
+    },
+    {
+        "sentence": "[Amane]::Ablmph!?",
+        "translation": "Amane「Ớ!?」"
+    },
+    {
+        "sentence": "[Amane]::Y-Yeah... the peel was only about a centimeter wide by the end, there... but you got all the way around the radish...",
+        "translation": "Amane「Ừ... lớp vỏ chỉ mỏng khoảng một centimet thôi... nhưng mà cậu gọt được hết cả củ cải rồi...」"
+    },
+    {
+        "sentence": "[Amane]::...Sorry. I get that you`re happy and all, but... could you ease up on that bear hug a little?",
+        "translation": "Amane「...Tớ xin lỗi. Tớ biết là cậu đang vui, nhưng... cậu có thể nới lỏng cái ôm gấu đó ra một chút được không?」"
+    },
+    {
+        "sentence": "[Amane]::Ahaha... guess even you act on impulse sometimes, huh?",
+        "translation": "Amane「Ahaha... hóa ra đôi khi cậu cũng bốc đồng nhỉ?」"
+    },
+    {
+        "sentence": "[Amane]::And you called me \"Amane,\" too.",
+        "translation": "Amane「Cậu cũng gọi tớ là \"Amane\" nữa.」"
+    },
+    {
+        "sentence": "[Amane]::Yep... I know what I heard.",
+        "translation": "Amane「Ừ... Tớ biết tớ đã nghe thấy gì mà.」"
+    },
+    {
+        "sentence": "[Amane]::Uh, you don`t need to apologize, okay?",
+        "translation": "Amane「Ừm, cậu không cần phải xin lỗi đâu mà, được chứ?」"
+    },
+    {
+        "sentence": "[Amane]::I mean, it made me pretty happy.",
+        "translation": "Amane「Ý tớ là, điều đó làm tớ khá vui.」"
+    },
+    {
+        "sentence": "[Amane]::To tell you the truth, I was on the verge of giving you a big hug myself.",
+        "translation": "Amane「Thật ra mà nói, tớ cũng suýt ôm chầm lấy cậu rồi đấy.」"
+    },
+    {
+        "sentence": "[Amane]::You tried so hard to peel that daikon, Sakaki-san... it made me really happy to see you finally succeed.",
+        "translation": "Amane「Cậu đã cố gắng gọt củ cải trắng đó rất nhiều, Sakaki-san... tớ thật sự rất vui khi thấy cuối cùng cậu cũng thành công.」"
+    },
+    {
+        "sentence": "[Amane]::But you know what...? I was even happier that you jumped into my arms before I got the chance.",
+        "translation": "Amane「Nhưng cậu biết gì không...? Tớ còn vui hơn nữa khi cậu nhảy vào vòng tay tớ trước cả khi tớ kịp làm gì đó.」"
+    },
+    {
+        "sentence": "[Amane]::I mean... it`s not like you could really have called us the closest of friends before, you know?",
+        "translation": "Amane「Ý tớ là... không phải trước đây cậu với tớ thân thiết gì cho cam, cậu biết mà?」"
+    },
+    {
+        "sentence": "[Amane]::But when you hugged me like that... it made me realize how much more comfortable you are around me now.",
+        "translation": "Amane「Nhưng khi cậu ôm tớ như thế... nó khiến tớ nhận ra cậu thoải mái hơn khi ở cạnh tớ nhiều đến thế nào.」"
+    },
+    {
+        "sentence": "[Amane]::That... wasn`t a misunderstanding on my part, right?",
+        "translation": "Amane「Cái đó... không phải là do tớ hiểu lầm, đúng không?」"
+    },
+    {
+        "sentence": "[Amane]::Great. Thanks.",
+        "translation": "Amane「Tuyệt. Cảm ơn cậu.」"
+    },
+    {
+        "sentence": "[Amane]::That being the case, Sakaki-san... I`ve got a little proposal for you.",
+        "translation": "Amane「Nếu đã vậy, Sakaki... tớ có một đề nghị nhỏ cho cậu.」"
+    },
+    {
+        "sentence": "[Amane]::Yep. From now on, I want you to call me \"Amane,\" just like you did a minute ago.",
+        "translation": "Amane「Ừ. Từ giờ, tớ muốn cậu gọi tớ là \"Amane,\" giống như lúc nãy ấy.」"
+    },
+    {
+        "sentence": "[Amane]::We`re talking all the time, and now you`re learning cooking from me... I don`t think it`s so weird to drop the honorific, right?",
+        "translation": "Amane「Lúc nào bọn mình cũng nói chuyện với nhau, giờ cậu còn học nấu ăn từ tớ nữa... Tớ nghĩ bỏ kính ngữ cũng không có gì lạ đâu, đúng không?」"
+    },
+    {
+        "sentence": "[Amane]::Aw, it`s fine. I`m asking you to do it, right?",
+        "translation": "Amane「Ấy, có sao đâu. Tớ nhờ cậu làm mà, đúng không?」"
+    },
+    {
+        "sentence": "[Amane]::Great. On that note, I`ll be calling you \"Yumiko\" as well.",
+        "translation": "Amane「Tuyệt. Nhân tiện, tớ cũng sẽ gọi cậu là \"Yumiko\" nhé.」"
+    },
+    {
+        "sentence": "[Amane]::It`d be pretty silly if you started calling me \"Amane\" while I`m still calling you \"Sakaki-san,\" right?",
+        "translation": "Amane「Nếu tớ vẫn gọi cậu là \"Sakaki-san\" mà cậu lại gọi tớ là \"Amane\" thì kì lắm, đúng không?」"
+    },
+    {
+        "sentence": "[Amane]::Makes sense, right? Yumiko.",
+        "translation": "Amane「Hợp lý mà, phải không? Yumiko.」"
+    },
+    {
+        "sentence": "[Amane]::...Great.",
+        "translation": "Amane「Tuyệt vời.」"
+    },
+    {
+        "sentence": "[Amane]::Okay then, why don`t we squeeze in a little more practice before our time`s up?",
+        "translation": "Amane「Vậy thì, mình tranh thủ luyện tập thêm chút nữa trước khi hết giờ nhé?」"
+    },
+    {
+        "sentence": "[Amane]::Hey there, Yuuji. I hear the afternoon lesson`s gonna be in the classroom!",
+        "translation": "Amane「Này Yuuji, tớ nghe nói tiết học chiều nay sẽ ở trong lớp đó!」"
+    },
+    {
+        "sentence": "[Amane]::Bingo. I mean, Michiru`s teaching her about the art of \"tsundere,\" you know? Aren`t you kinda curious what exactly that involves?",
+        "translation": "Amane「Bingo. Ý tớ là, Michiru đang dạy cậu ấy về nghệ thuật \"tsundere,\" đó. Cậu không tò mò muốn biết nó bao gồm những gì sao?」"
     }
 ]
