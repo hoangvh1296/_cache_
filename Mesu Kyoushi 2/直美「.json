@@ -1241,7 +1241,7 @@
     },
     {
         "sentence": "[直美「]::それに……うぅ、ここの、匂いっ……！　こんな、汗臭い部屋で、何を……」",
-        "translation": "Naomi「Hơn nữa… ư… cái, mùi ở đây nữa…! Ở cái phòng hôi hám này, cậu đã làm gì…?」"
+        "translation": "Naomi「Thêm nữa… ư… cái, mùi này…! Ở cái phòng đầy mồ hôi này, cậu định làm cái gì…?」"
     },
     {
         "sentence": "[直美「]::あうぅっ……！」",
@@ -1262,5 +1262,89 @@
     {
         "sentence": "[直美「]::うっ……」",
         "translation": "Naomi「Ư...」"
+    },
+    {
+        "sentence": "[直美「]::あうっ……やっ、な、何をするのっ！？」",
+        "translation": "Naomi「Ư... á... Cậu, cậu định làm gì!?」"
+    },
+    {
+        "sentence": "[直美「]::うっ、くぅうっ！？　これっ……くっ、あうぅぅうっ！？」",
+        "translation": "Naomi「Ư... khụ... á!? Cái này... khụ, á á á!?」"
+    },
+    {
+        "sentence": "[直美「]::こ、こんなのっ……んくっ、わ、私をこんな風に、してっ……何が愉しいのっ？」",
+        "translation": "Naomi「C-cái, cái kiểu này... ư... w-Tôi bị đối xử như thế này... Có gì vui chứ hả!?」"
+    },
+    {
+        "sentence": "[直美「]::ううぅ……！？」",
+        "translation": "Naomi「Ư...!?」"
+    },
+    {
+        "sentence": "[直美「]::ふ、ふざけ、ないでっ……いやっ、見ないでって、言ってるのにっ……！」",
+        "translation": "Naomi「Đ-đừng có giỡn mặt... Ư... Đã bảo đừng nhìn mà...!」"
+    },
+    {
+        "sentence": "[直美「]::んくぅうっ……！　やっ、そ、そこっ……！？」",
+        "translation": "Naomi「Ư... ư... Không, ở, ở đó...!」"
+    },
+    {
+        "sentence": "[直美「]::い、いやっ……やめて、見ないでっ！　そんなところっ……あうぅ、はんんっ…………！」",
+        "translation": "Naomi「K-không... Dừng lại, đừng nhìn...! Chỗ đó thì... A... Ưm...!」"
+    },
+    {
+        "sentence": "[直美「]::いやっ、ダメっ……んふぅぅ、やぁ……あぅ、ぅ、んくぅううっ……！」",
+        "translation": "Naomi「Kh-không, đừng mà... Ư... Ư ư, á... Ư, ư, ư ứ ứ...!」"
+    },
+    {
+        "sentence": "[直美「]::うっ、うぅぅ……いやっ、こんなのっ……んんっ、くぅ、ふぅんっ……！」",
+        "translation": "Naomi「Ư... ư ư... Không, cái này... ư ư... khụ, phù...！」"
+    },
+    {
+        "sentence": "[直美「]::ち、違うっ……！　んぅぅ、は、外してっ……縄っ……んくっ、ふうぅんんっ！」",
+        "translation": "Naomi「K-không phải...!... Ư ư, bỏ ra... dây thừng... ư khụ, phù ư ư...!」"
+    },
+    {
+        "sentence": "[直美「]::やっ、やぁああっ……？！　んひっ、冷たっ……あっ、ぁひぃいいっ！？　やっ……！？　こ、これは……？」",
+        "translation": "Naomi「Á, á á……?! Ư hức, lạnh…… á, á híiiii!? Á……!? C-cái này là……?」"
+    },
+    {
+        "sentence": "[直美「]::ぁああっ！　やぁ、ヌルヌルっ……んんっ、ヌルヌルがぁっ、たっ……たれてぇ……ひゃぁああっ……やぁああっ！」",
+        "translation": "Naomi「Aaa! Ư, trơn quá…… ư ư…… trơn quá, chảy…… chảy ra rồi…… hyaaa…… aaaa!」"
+    },
+    {
+        "sentence": "[直美「]::あぁんぅっ……！　いやぁあ、だめぇ……はぁあっ、うぅうぅんっ、ああぁっ、ぃやぁああぁぁっ……！！」",
+        "translation": "Naomi「Aaa… ư…! Không… đừng mà… ha… ư ư… aaaa… đ… đừng mà…!」"
+    },
+    {
+        "sentence": "[直美「]::はぁああっ！　いやぁ、ヌルヌルしたのっ……んひぃっ、身体、中にっ……ひっぁああっ！」",
+        "translation": "Naomi「Haaa! Ôi trời, trơn quá…… ư hức, bên trong cơ thể…… hic, aaaa!」"
+    },
+    {
+        "sentence": "[直美「]::んふぅうっ……！　うぅ、ヌルヌルッ、いやぁあ……あうぅ、あひっ、ひぃいぃっ……！！」",
+        "translation": "Naomi「Ưm...ư…! Ư… trơn quá, không… au… a… hic… hiii…!!」"
+    },
+    {
+        "sentence": "[直美「]::んはぁああっ、あっ、ひぅぅうっ！　やぁ、もう、かけないで……！　あぅう、もう、ぬめるの、いやあぁぁっ！」",
+        "translation": "Naomi「Ư... ư... á, đừng mà... ! Ư... thôi, đừng đổ nữa mà...! Ư... ghê quá, tôi không chịu đâu... !」"
+    },
+    {
+        "sentence": "[直美「]::んふぅぅっ……あうっ、んくぅ……いやぁぁ……あっ、んっ、ふぅうんっ…………！」",
+        "translation": "Naomi「Ư... ư... á... ư... không... ah...!」"
+    },
+    {
+        "sentence": "[直美「]::んくぅっ……そん、なっ……いやっ、こんなの、気持ち、悪いっ…………！」",
+        "translation": "Naomi「Ư... không... đừng mà... không, cái thứ này, thật kinh tởm...!」"
+    },
+    {
+        "sentence": "[直美「]::ううぅっ……こ、これはっ……んっ、違うっ、違うわっ……！」",
+        "translation": "Naomi「Ư… ư… Cái, cái này… ư… không, không phải…!」"
+    },
+    {
+        "sentence": "[直美「]::こ、この、ヌルヌルしたのがっ……あんっ、つ、冷たいからっ……だから、反応、しただけっ、なの……！！」",
+        "translation": "Naomi「Cái, cái thứ nhớp nháp này… ư… t, tại lạnh quá… nên, nên tôi mới, phản ứng lại thôi…!!」"
+    },
+    {
+        "sentence": "[直美「]::んはぁああぁあっ……？！　やっ、あぁあああんんっ！」",
+        "translation": "Naomi「Ư… a… á…?! Kh-không, a… á… ư…!」"
     }
 ]
